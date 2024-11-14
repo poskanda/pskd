@@ -3272,8 +3272,8 @@
 <p><br></p>
 <p><br></p>
 <ul>
-<li>1. Login <a href="https://vega37.vn/" style="text-align: inherit;">Slot ASIA</a></li>
-<li>2. Login <a href="https://vega37.vn/" style="text-align: inherit;">Slot ASIA</a></li>
+<li>1. Login <a href="https://vin777.giving/" style="text-align: inherit;">Slot ASIA</a></li>
+<li>2. Login <a href="https://vin777.giving/" style="text-align: inherit;">Slot ASIA</a></li>
 </ul>
 <p><br></p>
 <p><br></p>
