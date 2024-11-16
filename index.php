@@ -1,65 +1,52 @@
 
-<!-- Script Landing Page -->
+
+
+
 <!DOCTYPE HTML>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
 <head>
-
   <meta charset="utf-8" />
-  <title>Slot Asia - Login Maxwin dengan Winrate Tertinggi Slot, Slot Tergacor & Terpopuler di ASIA</title>
-  <meta name="description" content="Slot Asia adalah situs utama bagi penggemar slot yang mencari peluang Maxwin dengan winrate tertinggi di kawasan Asia." />
-  	
+  <title>SLOT ASIA ™ Pragmatic Play X5000 Link Slot Asia Online Maxwin Gacor Parah Anti Kalah</title>
+  <meta name="description" content="SLOT ASIA hadir buat lo yang suka nge-spin game dari Pragmatic Play dengan peluang maxwin gila-gilaan hingga X5000." />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
   <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
   <meta name="data-spm" content="a2o4j" />
   <meta name="robots" content="index, follow" />
-  <meta name="og:url" content="https://vin777.giving/" />
-  <meta name="og:title" content="Slot Asia - Login Maxwin dengan Winrate Tertinggi Slot, Slot Tergacor & Terpopuler di ASIA" />
+  <meta name="og:url" content="https://www.novaluz.pt/" />
+  <meta name="og:title" content="SLOT ASIA ™ Pragmatic Play X5000 Link Slot Asia Online Maxwin Gacor Parah Anti Kalah" />
   <meta name="og:type" content="product" />
-  <meta name="og:description" content="Slot Asia adalah situs utama bagi penggemar slot yang mencari peluang Maxwin dengan winrate tertinggi di kawasan Asia." />
-  <meta name="og:image" content="https://i.imgur.com/kOHBXfD.png" />
-  <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
-  <link rel="shortcut icon" href="https://i.imgur.com/sZ2gADn.png" />
-  <link rel="canonical" href="https://vin777.giving/" />
-  <link rel="amphtml" href="https://sengsemesta.sgp1.digitaloceanspaces.com/index.html" />
-<meta name="google-site-verification" content="AV64YvUvKbgsDmTezzREa4Quy3lT5NXU_vwCF-sReso" />
-<meta name="google-site-verification" content="Hght5fC29zWdP5OElh9i_hlDxnQ3AAp-NIu1CpqBTVo" />
-<meta name="google-site-verification" content="K2J3aHTdwCLk9ODPC-PX69kLlseQJE7bwGu8AODx2aw" />
-<meta name="google-site-verification" content="mrRZNz5mY_dbo_UwdmJU4Bl_cDlxCy5BkWGpj1k7Vhk" />
-<meta name="google-site-verification" content="2gzBw51qC-C2WrvT4fWvkAZqs7EuAWIWwHK6U_51D3w" />
-<meta name="google-site-verification" content="EHe3eVh3dClwXG_I9SBChiMi4r8rTY5wd-d5_S3cpQo" />
-<meta name="google-site-verification" content="uG4ryChUpP1C7bnTMxi0KlHs345roYtVBBGtHL0UJ5I" />
-<meta name="google-site-verification" content="Yb-kSFBFHkmboRIFib77fw3vSxDdtqcy60_eI-TH6As" />
-<meta name="google-site-verification" content="Jyt7cdDb2ghqo10e8JJIN6oaXdxby63PKj9eOIyTTdY" />
-
+  <meta name="og:description" content="SLOT ASIA hadir buat lo yang suka nge-spin game dari Pragmatic Play dengan peluang maxwin gila-gilaan hingga X5000." />
+  <meta name="og:image" content="https://i.imgur.com/HSXU0HP.png" />
+  <link rel="manifest" href="https:https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
+  <link rel="shortcut icon" href="https://i.imgur.com/PklEqOi.png" />
+  <link rel="canonical" href="https://www.novaluz.pt/" />
+  <link rel="amphtml" href="https://sengsemesta.sgp1.digitaloceanspaces.com/index.html">
   <!-- start preload -->
-  <link rel="preload" href="https://i.imgur.com/kOHBXfD.png" as="image" />
-  <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
-  <link rel="preconnect dns-prefetch" href="//acs-m.lazada.co.id" />
-  <link rel="preconnect dns-prefetch" href="//laz-g-cdn.alicdn.com" />
-  <link rel="preconnect dns-prefetch" href="//laz-img-cdn.alicdn.com" />
-  <link rel="preconnect dns-prefetch" href="//assets.alicdn.com" />
-  <link rel="preconnect dns-prefetch" href="//aeis.alicdn.com" />
-  <link rel="preconnect dns-prefetch" href="//aeu.alicdn.com" />
-  <link rel="preconnect dns-prefetch" href="//g.alicdn.com" />
-  <link rel="preconnect dns-prefetch" href="//arms-retcode-sg.aliyuncs.com" />
-  <link rel="preconnect dns-prefetch" href="//px-intl.ucweb.com" />
-  <link rel="preconnect dns-prefetch" href="//sg.mmstat.com" />
-  <link rel="preconnect dns-prefetch" href="//img.lazcdn.comt" />
-  <link rel="preconnect dns-prefetch" href="//g.lazcdn.com" />
-  <link rel="preload" href="https://g.lazcdn.com/g/??mtb/lib-promise/3.1.3/polyfillB.js,mtb/lib-mtop/2.5.1/mtop.js,lazada-decorate/lazada-mod-lib/0.0.20/LazadaModLib.min.js" as="script" />
+  <link rel="preload" href="https://i.imgur.com/HSXU0HP.png" as="image" />
+  <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
+  <link rel="preconnect dns-prefetch" href="https://acs-m.lazada.co.id" />
+  <link rel="preconnect dns-prefetch" href="https://laz-g-cdn.alicdn.com" />
+  <link rel="preconnect dns-prefetch" href="https://laz-img-cdn.alicdn.com" />
+  <link rel="preconnect dns-prefetch" href="https://assets.alicdn.com" />
+  <link rel="preconnect dns-prefetch" href="https://aeis.alicdn.com" />
+  <link rel="preconnect dns-prefetch" href="https://aeu.alicdn.com" />
+  <link rel="preconnect dns-prefetch" href="https://g.alicdn.com" />
+  <link rel="preconnect dns-prefetch" href="https://arms-retcode-sg.aliyuncs.com" />
+  <link rel="preconnect dns-prefetch" href="https://px-intl.ucweb.com" />
+  <link rel="preconnect dns-prefetch" href="https://sg.mmstat.com" />
+  <link rel="preconnect dns-prefetch" href="https://img.lazcdn.comt" />
+  <link rel="preconnect dns-prefetch" href="https://g.lazcdn.com" />
   <link rel="preload" href="https://g.lazcdn.com/g/woodpeckerx/jssdk??wpkReporter.js,plugins/flow.js,plugins/interface.js,plugins/blank.js" as="script" />
-  <link rel="preload" href="https://g.lazcdn.com/g/??code/npm/@ali/lzd-h5-utils-qs/0.1.11/index.js,code/npm/@ali/lzd-h5-utils-cookie/1.2.10/index.js,code/npm/@ali/lzd-h5-utils-sites/1.1.11/index.js,code/npm/@ali/lzd-h5-utils-env/1.5.12/index.js,code/npm/@ali/lzd-h5-utils-logger/1.1.52/index.js,code/npm/@ali/lzd-h5-utils-jsonp/1.1.11/index.js,code/npm/@ali/lzd-h5-utils-mtop/1.2.56/index.js,code/npm/@ali/lzd-h5-utils-icon/1.0.8/index.js,lzd/assets/1.1.18/require/2.3.6/require.js" as="script"/>
   <link rel="preload" href="https://g.lazcdn.com/g/lzdfe/pdp-platform/0.1.22/pc.css" as="style" />
   <link rel="preload" href="https://g.lazcdn.com/g/lzdfe/pdp-platform/0.1.22/pc.js" as="script" crossorigin />
   <link rel="preload" href="https://g.lazcdn.com/g/lzdfe/pdp-modules/1.4.4/pc-mod.css" as="style" />
   <link rel="preload" href="https://g.lazcdn.com/g/lzdfe/pdp-modules/1.4.4/pc-mod.js" as="script" crossorigin />
-  <link rel="preload" href="//aeis.alicdn.com/sd/ncpc/nc.js?t=18507" as="script" />
+  <link rel="preload" href="https://aeis.alicdn.com/sd/ncpc/nc.js?t=18507" as="script" />
   <link rel="preload" href="https://g.lazcdn.com/g/alilog/mlog/aplus_int.js" as="script" />
   <link rel="preload" href="https://g.lazcdn.com/g/retcode/cloud-sdk/bl.js" as="script" crossorigin />
   <link rel="preload" href="https://g.lazcdn.com/g/lzd/assets/1.1.37/web-vitals/2.1.0/index.js" as="script" />
   <!-- end preload -->
   <link rel="stylesheet" href="https://g.lazcdn.com/g/??lzd/assets/0.0.7/dpl-buyeruikit/2.0.1/next-noreset-1.css,lzd/assets/0.0.7/dpl-buyeruikit/2.0.1/next-noreset-2.css,lazada/lazada-product-detail/1.7.4/index/index.css">
-  <!--[if lte IE 9]><link rel="stylesheet" href="https://g.lazcdn.com/g/lzd/assets/1.2.13/dpl-buyeruikit/1.7.0/next-noreset-2.css" /><![endif]-->
   <link rel="stylesheet" href="https://g.lazcdn.com/g/lzdfe/pdp-platform/0.1.22/pc.css" />
   <link rel="stylesheet" href="https://g.lazcdn.com/g/lzdfe/pdp-modules/1.4.4/pc-mod.css" />
   <script>
@@ -85,7 +72,7 @@
       };
       var getRand = function () {
         var page_id = get_cookie('cna') || '001';
-        page_id = page_id.toLowerCase().replace(/[^a-z\d]/g, '');
+        page_id = page_id.toLowerCase().replace(/[^a-zd]/g, '');
         page_id = page_id.substring(0, 16);
         var d = (new Date()).getTime();
         var randend = [
@@ -110,7 +97,7 @@
         'action':'aplus.appendMetaInfo',
         'arguments':['aplus-exdata',{"st_page_id":pageid}]
       });
-      // 兼容老版本aplus
+      // &#20860;&#23481;&#32769;&#29256;&#26412;aplus
       var gq = (window.goldlog_queue || (window.goldlog_queue = []));
       gq.push({
         'action':'goldlog.appendMetaInfo',
@@ -132,7 +119,7 @@
       start: Date.now(),
     };
     var dataLayer = window.dataLayer || [];
-    var pdpTrackingData = "{\"pdt_category\":[\"Televisi & Video\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"\",\"pdt_photo\":\"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg\",\"v_voya\":1,\"brand_name\":\"Slot ASIA\",\"brand_id\":\"842\",\"pdt_sku\":3642465498,\"core\":{\"country\":\"ID\",\"layoutType\":\"desktop\",\"language\":\"in\",\"currencyCode\":\"IDR\"},\"seller_name\":\"\",\"pdt_simplesku\":6108584955,\"pdt_name\":\"Slot Asia - Login Maxwin dengan Winrate Tertinggi Slot, Slot Tergacor & Terpopuler di ASIA\",\"page\":{\"regCategoryId\":\"300300002584\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=3642465498_ID-6108584955&_p_prod=3642465498&_p_sku=6108584955&_p_slr=\"},\"supplier_id\":\"\",\"pdt_price\":\"Rp2.699.000\"}";
+    var pdpTrackingData = "{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg","v_voya":1,"brand_name":"Slot ASIA","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"SLOT ASIA ™ Pragmatic Play X5000 Link Slot Asia Online Maxwin Gacor Parah Anti Kalah","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}";
     try {
       pdpTrackingData = JSON.parse(pdpTrackingData);
       pdpTrackingData.v_voya = false;
@@ -147,7 +134,7 @@
       }
     }
     /**
-     * 支持beacon aplus script
+     * &#25903;&#25345;beacon aplus script
      */
     var siteNameForApluPluginLoader = "Lazada";
 
@@ -166,26 +153,7 @@
     fill: currentColor;
     font-size: 1em;
   }
-
-  #container, body {
-    background: #ffff;
-
-  .lzd-header .lzd-links-bar {
-    background: linear-gradient(356deg, #ffffff 35.41%, #000000 121.72%);
-  }
-
-  .lzd-header .lzd-links-bar .top-links-item .orange, .lzd-header .lzd-links-bar .top-links-item.orange {
-    color: #ffb916;
-  }
-
-  .lzd-header .lzd-links-bar .top-links-item .cyan, .lzd-header .lzd-links-bar .top-links-item.cyan {
-    color: #ffb916;
-  }
-  
-}
-
 </style>
-
 <svg aria-hidden="true" style="position: absolute; width: 0px; height: 0px; overflow: hidden;">
   <symbol id="lazadaicon_success" viewBox="0 0 1024 1024">
     <path
@@ -621,7 +589,7 @@
   <symbol id="lazadaicon_star_half" viewBox="0 0 1024 1024">
     <path
       d="M512 797.866667l260.266667 166.4c8.533333 4.266667 21.333333 4.266667 29.866666-8.533334 4.266667-4.266667 4.266667-8.533333 4.266667-17.066666l-68.266667-315.733334 234.666667-213.333333c8.533333-8.533333 8.533333-21.333333 0-29.866667-4.266667-4.266667-8.533333-4.266667-12.8-8.533333l-307.2-25.6-119.466667-294.4c-4.266667-12.8-17.066667-17.066667-29.866666-12.8l-12.8 12.8-115.2 294.4-307.2 29.866667c-12.8 0-21.333333 8.533333-21.333334 21.333333 0 4.266667 4.266667 8.533333 8.533334 12.8l234.666666 213.333333L217.6 938.666667c-4.266667 12.8 4.266667 21.333333 17.066667 25.6 4.266667 0 12.8 0 17.066666-4.266667l260.266667-162.133333z"
-      fill="#EFF0F5"></path>
+      fill="#8188ad"></path>
     <path
       d="M512 797.866667V51.2c0-4.266667-4.266667-8.533333-8.533333-8.533333s-8.533333 4.266667-8.533334 4.266666l-119.466666 298.666667-307.2 29.866667c-12.8 0-21.333333 8.533333-21.333334 21.333333 0 4.266667 4.266667 8.533333 8.533334 12.8l234.666666 213.333333L217.6 938.666667c-4.266667 12.8 4.266667 21.333333 17.066667 25.6 4.266667 0 12.8 0 17.066666-4.266667l260.266667-162.133333z">
     </path>
@@ -669,117 +637,53 @@
 
 </div>
 
-<script type="application/ld+json">
-{
-  "@type": "Product",
-  "@context": "https://schema.org",
-  "name": "Slot Asia - Login Maxwin dengan Winrate Tertinggi Slot, Slot Tergacor & Terpopuler di ASIA",
-  "image": "https://i.imgur.com/kOHBXfD.png",
-  "category": "SLOT ASIA",
-  "brand": {
-    "@type": "Brand",
-    "name": "SLOT ASIA",
-    "url": "https://vin777.giving/"
-  },
-  "sku": "85165616549_ID-6108584955",
-  "mpn": "85165616549",
-  "description": "Slot Asia adalah situs utama bagi penggemar slot yang mencari peluang Maxwin dengan winrate tertinggi di kawasan Asia.",
-  "url": "https://vin777.giving/",
-  "offers": {
-    "@type": "Offer",
-    "url": "https://vin777.giving/",
-    "seller": {
-      "@type": "Organization",
-      "name": "SLOT ASIA"
-    },
-    "priceCurrency": "IDR",
-    "price": "10000",
-    "availability": "https://schema.org/InStock",
-    "itemCondition": "https://schema.org/NewCondition",
-    "priceValidUntil": "2024-12-31",
-    "hasMerchantReturnPolicy": {
-      "@type": "MerchantReturnPolicy",
-      "returnPolicyCategory": "https://schema.org/RefundExchangeReturnPolicy",
-      "applicableCountry": "ID",
-      "merchantReturnDays": 30,
-      "returnPolicyInStore": false
-    },
-    "shippingDetails": {
-      "@type": "OfferShippingDetails",
-      "shippingRate": {
-        "@type": "MonetaryAmount",
-        "value": "50000",
-        "currency": "IDR"
-      },
-      "shippingDestination": {
-        "@type": "DefinedRegion",
-        "addressCountry": "ID"
-      },
-      "deliveryTime": {
-        "@type": "DeliveryTime",
-        "minValue": 2,
-        "maxValue": 5,
-        "unitCode": "DAY"
+  <script type="application/ld+json">
+    {"@type":"Product","@context":"https://schema.org","name":"SLOT ASIA ™ Pragmatic Play X5000 Link Slot Asia Online Maxwin Gacor Parah Anti Kalah","image":"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg","category":"Televisi & Video","brand":{"@type":"Brand","Name":"Slot Asia","url":""},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"SLOT ASIA hadir buat lo yang suka nge-spin game dari Pragmatic Play dengan peluang maxwin gila-gilaan hingga X5000.","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","offers":{"@type":"Offer","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
+  </script>
+  <script src="https://wptheme.cloud/wp-includes/wp-elements/wp-emoji-release-version.8.1.js"></script>
+  <script type="application/ld+json" data-rh="true">
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [{
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@id": "",
+            "name": "SLOT ASIA"
+          }
+        }, {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@id": "",
+            "name": "SLOT ASIA ANTI KALAH"
+          }
+        }, {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@id": "",
+            "name": "SLOT ASIA GAMPANG MENANG"
+          }
+        }, {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@id": "",
+            "name": "SLOT88"
+          }
+        }, {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@id": "",
+            "name": "SLOT ASIA ™ Pragmatic Play X5000 Link Slot Asia Online Maxwin Gacor Parah Anti Kalah"
+          }
+        }]
       }
-    }
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "5",
-    "reviewCount": "3216549"
-  },
-  "review": [
-    {
-      "@type": "Review",
-      "author": {
-        "@type": "Person",
-        "name": "Tono"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "5"
-      },
-      "reviewBody": "Slot asia sih udah mulai tenar sekarang, gw sih dari awal main di sini ya lebih enak daripada server indo. Kagak menang menang di server indo najis"
-    }
-  ]
-}
-</script>
-
-<script type="application/ld+json" data-rh="true">
-{
-  "@context": "http://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "item": {
-        "@id": "https://vin777.giving/",
-        "name": "Beranda"
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "item": {
-        "@id": "https://vin777.giving/",
-        "name": "Slot ASIA"
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "item": {
-        "@id": "https://vin777.giving/",
-        "name": "SLOT ASIA"
-      }
-    }
-    
-  ]
-}
-</script>
-
-
+    </script>
+  
   
     <script>
     window.__bl ={};
@@ -817,7 +721,7 @@
     };
     var getRand = function () {
       var page_id = get_cookie('cna') || '001';
-      page_id = page_id.toLowerCase().replace(/[^a-z\d]/g, '');
+      page_id = page_id.toLowerCase().replace(/[^a-zd]/g, '');
       page_id = page_id.substring(0, 16);
       var d = (new Date()).getTime();
       var randend = [
@@ -841,7 +745,7 @@
       'action':'aplus.appendMetaInfo',
       'arguments':['aplus-exdata',{"st_page_id":pageid}]
     });
-    // 兼容老版本aplus
+    // &#20860;&#23481;&#32769;&#29256;&#26412;aplus
     var gq = (window.goldlog_queue || (window.goldlog_queue = []));
     gq.push({
       'action':'goldlog.appendMetaInfo',
@@ -873,13 +777,13 @@
         <div class="lzd-links-bar" id="topActionLinks">
             <div class="links-list header-content ID id">
                 <div class="top-links-item" id="topActionInternalFeedback" style="display:none;">
-                    <a class="highlight" target="_blank" href="https://vin777.giving/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">INTERNAL FEEDBACK</a>
+                    <a class="highlight" target="_blank" href="https://yida.alibaba-inc.com/alibaba/web/APP_NZEYXSPGPBMKO7Z1LCE5/inst/homepage/?spm=a2o42.home.header.d0.654346b5QeptXc#/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">INTERNAL FEEDBACK</a>
                 </div>
                   <div class="top-links-item" id="topActionFeedback">
-                      <a class="highlight" target="_blank" href="https://vin777.giving/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">Slot ASIA</a>
+                      <a class="highlight" target="_blank" href="https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/trade/feedback" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">SLOT ASIA</a>
                   </div>
                     <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
-                        <span><a href="https://vin777.giving/">Slot Gacor</a></span>
+                        <span>SLOT ASIA MAXWIN</span>
                         <div class="lzd-download-popup top-popup-wrap" id="lzdDownloadPopup">
   <div class="top-popup-content lzd-download-content">
     <div class="get-the-app-scope">
@@ -890,7 +794,7 @@
               <img class="get-the-app-lazada-qr" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1b43RtrvpK1RjSZFqXXcXUVXa.png" alt="">
             </div>
           <div class="promotion-text">
-            <a href="//pages.lazada.co.id/wow/i/id/IDCampaign/Download-App?hybrid=1">
+            <a href="https://pages.lazada.co.id/wow/i/id/IDCampaign/Download-App?hybrid=1">
               <div class="get-the-app-download-text">
                 <p>Belanja di App banyak untungnya:</p>
 <ul>
@@ -914,10 +818,10 @@
 <div class="success-message" id="topActionDownloadSuccessMsg"><span class="alert alert-success">Success! Please check your phone for the download link  </span></div>
 <div class="error-message" id="topActionDownloadErrorMsg"></div>
         <div class="app-stores">
-          <a href="//bit.ly/lazada-ios-app?scm=1003.4.icms-zebra-5001424-2599675.OTHER_5198190608_2274300" class="store-link">
+          <a href="" class="store-link">
             <i class="app-apple"></i>
           </a>
-          <a href="//bit.ly/lazada-android-app?scm=1003.4.icms-zebra-5001424-2599675.OTHER_5198190608_2274300" class="store-link">
+          <a href="" class="store-link">
             <i class="app-google"></i>
           </a>
         </div>
@@ -927,39 +831,39 @@
 </div>
                     </div>
                 <div class="top-links-item" id="topActionSell">
-                    <a class="cyan" href="//pages.lazada.co.id/wow/i/id/sell-on-lazada/jualanonline" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2"><a href="https://vin777.giving/">SLOT GACOR ASIA</a></a>
+                    <a class="cyan" href="https://www.novaluz.pt/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">Slot88</a>
                 </div>
                     <div class="top-links-item" id="topActionCustomCare" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3">
-                      <span><a href="https://vin777.giving/">SITUS ASIA</a></span>
+                      <span>Slot</span>
                         <div class="lzd-customcare-popup top-popup-wrap">
   <div class="top-popup-content l-customcare-content">
     <ul class="care-list">
         <li class="care-item">
-                <a href="https://vin777.giving/helpcenter/" class="care-item-anchor"> 
+                <a href="https://www.lazada.co.id/helpcenter/" class="care-item-anchor"> 
                   <span class="care-icon help-center">
                   </span>
                   Pusat Bantuan
                 </a>
         </li>
         <li class="care-item">
-                <a href="https://vin777.giving/helpcenter/payments/" class="care-item-anchor"> 
+                <a href="https://www.lazada.co.id/helpcenter/payments/" class="care-item-anchor"> 
                   <span class="care-icon order-payment">
                   </span>
                   Order &amp; Pembayaran
                 </a>
-            <a href="https://vin777.giving/helpcenter/orders-payment/#answer-faq-howtocancel-ans" class="care-item-anchor care-item-anchor-next">
+            <a href="https://www.lazada.co.id/helpcenter/orders-payment/#answer-faq-howtocancel-ans" class="care-item-anchor care-item-anchor-next">
                 Pembatalan Pesanan
             </a>
         </li>
         <li class="care-item">
-                <a href="https://vin777.giving/helpcenter/#answer-faq-delivery-ans" class="care-item-anchor"> 
+                <a href="https://www.lazada.co.id/helpcenter/#answer-faq-delivery-ans" class="care-item-anchor"> 
                   <span class="care-icon shipping-delivery">
                   </span>
                   Pengiriman
                 </a>
         </li>
         <li class="care-item">
-                <a href="https://vin777.giving/helpcenter/returns/" class="care-item-anchor"> 
+                <a href="https://www.lazada.co.id/helpcenter/returns/" class="care-item-anchor"> 
                   <span class="care-icon returns-refunds">
                   </span>
                   Pengembalian Barang &amp; Dana
@@ -981,7 +885,7 @@
 </div>
                     </div>
                   <div class="top-links-item grey" id="topActionTrack" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d4">
-                    <span><a href="https://vin777.giving/">SLOT</a></span>
+                    <span>SLOT ASIA ANTI KALAH</span>
                     <div class="lzd-track-popup top-popup-wrap" id="lzdTrackPop">
   <div class="top-popup-content lzd-track-content">
     <div id="topActionMyLastOrder">
@@ -995,7 +899,7 @@
           <i class="icon icon-arrow-on-button"></i>
         </button>
       </div>
-      <p class="track-order-more-text">Untuk bantuan silakan,<a href="https://vin777.giving/helpcenter/shipping-delivery/#answer-faq-trackorder-ans" title="Untuk bantuan silakan,">Klik disini</a></p>
+      <p class="track-order-more-text">Untuk bantuan silakan,<a href="https://www.lazada.co.id/helpcenter/shipping-delivery/#answer-faq-trackorder-ans" title="Untuk bantuan silakan,">Klik disini</a></p>
     </form>
     <div class="error-message" id="topActionTrackErrorMsg"></div>
   </div>
@@ -1013,32 +917,32 @@
   <div class="top-popup-content lzd-account-content">
       <ul class="account-list">
           <li class="account-item">
-                <a href="//member.lazada.co.id/user/account#/" class="account-item-anchor">
+                <a href="https://member.lazada.co.id/user/account#/" class="account-item-anchor">
                     <span class="account-icon test manage-account"></span>Panel Akun
                 </a>
           </li>
           <li class="account-item">
-                <a href="//my.lazada.co.id/customer/order/index/" class="account-item-anchor">
+                <a href="https://my.lazada.co.id/customer/order/index/" class="account-item-anchor">
                     <span class="account-icon test my-orders"></span>Pesanan Saya
                 </a>
           </li>
           <li class="account-item">
-                <a href="//my.lazada.co.id/wishlist/index" class="account-item-anchor">
+                <a href="https://my.lazada.co.id/wishlist/index" class="account-item-anchor">
                     <span class="account-icon test wishlist"></span>Wishlist dan Toko yang Saya Ikuti
                 </a>
           </li>
           <li class="account-item">
-                <a href="//my.lazada.co.id/customer/myReview/my-reviews" class="account-item-anchor">
+                <a href="https://my.lazada.co.id/customer/myReview/my-reviews" class="account-item-anchor">
                     <span class="account-icon test my-reviews"></span>Ulasan Saya
                 </a>
           </li>
           <li class="account-item">
-                <a href="//my.lazada.co.id/customer/returns/index?requestType=return" class="account-item-anchor">
+                <a href="https://my.lazada.co.id/customer/returns/index?requestType=return" class="account-item-anchor">
                     <span class="account-icon test returns"></span>Pengembalian &amp;  Pembatalan
                 </a>
           </li>
           <li class="account-item">
-                <a href="//member.lazada.co.id/user/logout" class="account-item-anchor" id="account-popup-logout">
+                <a href="https://member.lazada.co.id/user/logout" class="account-item-anchor" id="account-popup-logout">
                     <span class="account-icon test logout"></span>Logout
                 </a>
           </li>
@@ -1050,7 +954,7 @@
         </div>
         <div class="lzd-logo-bar">
           <div class="logo-bar-content header-content">
-              <div class="lzd-logo-content"><a href="https://vin777.giving/" data-spm="dhome"><img src="https://i.imgur.com/88vsMfX.png" alt="Logo slot asia 777"></a></div>
+              <div class="lzd-logo-content"><a href="https://www.novaluz.pt/" data-spm="dhome"><img src="https://i.imgur.com/UlMPOzW.png" alt="Logo Lazada.co.id Toko Online Indonesia"></a></div>
               <div class="lzd-nav-search " data-spm="search">
                 <div id="button" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go"></div>
               </div>
@@ -1059,7 +963,7 @@
 <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
     <div class="lzd-site-menu-nav-container">
         <div class="lzd-site-menu-nav-category">
-            <a href="https://vin777.giving/">
+            <a href="https://www.novaluz.pt/">
                 <span class="lzd-site-menu-nav-category-text">Kategori</span>
             </a>
             <div class="lzd-site-menu-nav-menu">
@@ -1128,963 +1032,963 @@
          </li>    
         <ul class="lzd-site-menu-sub Level_1_Category_No1" data-spm="cate_1">
             <li class="sub-item-remove-arrow" data-cate="cate_1_1">
-                <a href="https://vin777.giving/beli-handphone">
+                <a href="https://www.lazada.co.id/beli-handphone">
                     <span>Handphone</span>
                 </a>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_2">
-                <a href="https://vin777.giving/shop-beli-laptop/">
+                <a href="https://www.lazada.co.id/shop-beli-laptop/">
                     <span>Laptop</span>
                 </a>
                         <script type="text" class="J_data_0_1">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Laptop Consumer","childCategoryUrl":"https://vin777.giving/jual-laptop-umum/"},{"childCategoryName":"Laptop Gaming","childCategoryUrl":"https://vin777.giving/beli-laptop-gaming/"},{"childCategoryName":"Laptop 2-in-1s","childCategoryUrl":"https://vin777.giving/beli-laptop-2-in-1/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Laptop Consumer","childCategoryUrl":"https://www.lazada.co.id/jual-laptop-umum/"},{"childCategoryName":"Laptop Gaming","childCategoryUrl":"https://www.lazada.co.id/beli-laptop-gaming/"},{"childCategoryName":"Laptop 2-in-1s","childCategoryUrl":"https://www.lazada.co.id/beli-laptop-2-in-1/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_3">
-                <a href="https://vin777.giving/beli-komputer/">
+                <a href="https://www.lazada.co.id/beli-komputer/">
                     <span>Desktop</span>
                 </a>
                         <script type="text" class="J_data_0_2">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"PC Gaming","childCategoryUrl":"https://vin777.giving/beli-pc-gaming/"},{"childCategoryName":"Komputer Rakitan","childCategoryUrl":"https://vin777.giving/beli-komputer-rakitan/"},{"childCategoryName":"All-In-One","childCategoryUrl":"https://vin777.giving/beli-pc-all-in-one/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"PC Gaming","childCategoryUrl":"https://www.lazada.co.id/beli-pc-gaming/"},{"childCategoryName":"Komputer Rakitan","childCategoryUrl":"https://www.lazada.co.id/beli-komputer-rakitan/"},{"childCategoryName":"All-In-One","childCategoryUrl":"https://www.lazada.co.id/beli-pc-all-in-one/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_4">
-                <a href="https://vin777.giving/beli-kamera/">
+                <a href="https://www.lazada.co.id/beli-kamera/">
                     <span>Kamera</span>
                 </a>
                         <script type="text" class="J_data_0_3">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"DSLR","childCategoryUrl":"https://vin777.giving/beli-slr/"},{"childCategoryName":"Kamera Mirrorless","childCategoryUrl":"https://vin777.giving/beli-kamera-mirrorless/"},{"childCategoryName":"Kamera Pocket","childCategoryUrl":"https://vin777.giving/beli-kamera-pocket/"},{"childCategoryName":"Kamera Aksi","childCategoryUrl":"https://vin777.giving/beli-kamera-video-aksi/"},{"childCategoryName":"360 Cameras","childCategoryUrl":"https://vin777.giving/beli-kamera-360/"},{"childCategoryName":"Kamera CCTV","childCategoryUrl":"https://vin777.giving/beli-kamera-cctv/"},{"childCategoryName":"IP Cameras","childCategoryUrl":"https://vin777.giving/beli-kamera-ip/"},{"childCategoryName":"Video Camera","childCategoryUrl":"https://vin777.giving/beli-camcorders/"},{"childCategoryName":"Kamera Instan","childCategoryUrl":"https://vin777.giving/beli-kamera-instan/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"DSLR","childCategoryUrl":"https://www.lazada.co.id/beli-slr/"},{"childCategoryName":"Kamera Mirrorless","childCategoryUrl":"https://www.lazada.co.id/beli-kamera-mirrorless/"},{"childCategoryName":"Kamera Pocket","childCategoryUrl":"https://www.lazada.co.id/beli-kamera-pocket/"},{"childCategoryName":"Kamera Aksi","childCategoryUrl":"https://www.lazada.co.id/beli-kamera-video-aksi/"},{"childCategoryName":"360 Cameras","childCategoryUrl":"https://www.lazada.co.id/beli-kamera-360/"},{"childCategoryName":"Kamera CCTV","childCategoryUrl":"https://www.lazada.co.id/beli-kamera-cctv/"},{"childCategoryName":"IP Cameras","childCategoryUrl":"https://www.lazada.co.id/beli-kamera-ip/"},{"childCategoryName":"Video Camera","childCategoryUrl":"https://www.lazada.co.id/beli-camcorders/"},{"childCategoryName":"Kamera Instan","childCategoryUrl":"https://www.lazada.co.id/beli-kamera-instan/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_5">
-                <a href="https://vin777.giving/shop-gaming-konsol/">
+                <a href="https://www.lazada.co.id/shop-gaming-konsol/">
                     <span>Game Console</span>
                 </a>
                         <script type="text" class="J_data_0_4">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Gaming Konsol","childCategoryUrl":"https://vin777.giving/shop-permainan-konsol/"},{"childCategoryName":"Permainan Konsol","childCategoryUrl":"https://vin777.giving/shop-game-konsol/"},{"childCategoryName":"Pengontrol Game Konsol","childCategoryUrl":"https://vin777.giving/shop-pengontrol-game-konsol/"},{"childCategoryName":"Konsol Pelindung Penutup","childCategoryUrl":"https://vin777.giving/shop-konsolpelindung-penutup/"},{"childCategoryName":"Aksesoris Game Konsol","childCategoryUrl":"https://vin777.giving/shop-aksesoris-game-konsol/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Gaming Konsol","childCategoryUrl":"https://www.lazada.co.id/shop-permainan-konsol/"},{"childCategoryName":"Permainan Konsol","childCategoryUrl":"https://www.lazada.co.id/shop-game-konsol/"},{"childCategoryName":"Pengontrol Game Konsol","childCategoryUrl":"https://www.lazada.co.id/shop-pengontrol-game-konsol/"},{"childCategoryName":"Konsol Pelindung Penutup","childCategoryUrl":"https://www.lazada.co.id/shop-konsolpelindung-penutup/"},{"childCategoryName":"Aksesoris Game Konsol","childCategoryUrl":"https://www.lazada.co.id/shop-aksesoris-game-konsol/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_6">
-                <a href="https://vin777.giving/beli-gadget/">
+                <a href="https://www.lazada.co.id/beli-gadget/">
                     <span>Gadget</span>
                 </a>
                         <script type="text" class="J_data_0_5">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Rokok Elektrik","childCategoryUrl":"https://vin777.giving/beli-rokok-elektrik/"},{"childCategoryName":"Drone","childCategoryUrl":"https://vin777.giving/jual-kamera-drone/"},{"childCategoryName":"Media Player","childCategoryUrl":"https://vin777.giving/beli-media-player/"},{"childCategoryName":"Walkie-Talkie","childCategoryUrl":"https://vin777.giving/jual-walkie-talkie/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Rokok Elektrik","childCategoryUrl":"https://www.lazada.co.id/beli-rokok-elektrik/"},{"childCategoryName":"Drone","childCategoryUrl":"https://www.lazada.co.id/jual-kamera-drone/"},{"childCategoryName":"Media Player","childCategoryUrl":"https://www.lazada.co.id/beli-media-player/"},{"childCategoryName":"Walkie-Talkie","childCategoryUrl":"https://www.lazada.co.id/jual-walkie-talkie/"}]
                         </script>
             </li>
             <li class="sub-item-remove-arrow" data-cate="cate_1_7">
-                <a href="https://vin777.giving/beli-tablet-2">
+                <a href="https://www.lazada.co.id/beli-tablet-2">
                     <span>Tablet</span>
                 </a>
             </li>
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No2" data-spm="cate_2">
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_1">
-                <a href="https://vin777.giving/beli-aksesori-handphone">
+                <a href="https://www.lazada.co.id/beli-aksesori-handphone">
                     <span>Aksesoris Handphone</span>
                 </a>
                         <script type="text" class="J_data_1_0">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Powerbank","childCategoryUrl":"https://vin777.giving/beli-power-bank/"},{"childCategoryName":"Kabel Handphone","childCategoryUrl":"https://vin777.giving/beli-kabel-handphone/"},{"childCategoryName":"Charger Handphone","childCategoryUrl":"https://vin777.giving/jual-charger-kabel/"},{"childCategoryName":"Casing Handphone","childCategoryUrl":"https://vin777.giving/beli-sarung-pelindung-handphone/"},{"childCategoryName":"Pelindung Layar","childCategoryUrl":"https://vin777.giving/jual-pelindung-layar/"},{"childCategoryName":"Tongsis","childCategoryUrl":"https://vin777.giving/jual-tongsis/"},{"childCategoryName":"Phone Holder","childCategoryUrl":"https://vin777.giving/jual-dudukan-mobil/"},{"childCategoryName":"Baterai Handphone","childCategoryUrl":"https://vin777.giving/beli-baterai-handphone/"},{"childCategoryName":"Peralatan & Suku Cadang","childCategoryUrl":"https://vin777.giving/beli-suku-cadang-handphone/"},{"childCategoryName":"Aksesoris Handphone Lainnya","childCategoryUrl":"https://vin777.giving/shop-aksesori-ponsel/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Powerbank","childCategoryUrl":"https://www.lazada.co.id/beli-power-bank/"},{"childCategoryName":"Kabel Handphone","childCategoryUrl":"https://www.lazada.co.id/beli-kabel-handphone/"},{"childCategoryName":"Charger Handphone","childCategoryUrl":"https://www.lazada.co.id/jual-charger-kabel/"},{"childCategoryName":"Casing Handphone","childCategoryUrl":"https://www.lazada.co.id/beli-sarung-pelindung-handphone/"},{"childCategoryName":"Pelindung Layar","childCategoryUrl":"https://www.lazada.co.id/jual-pelindung-layar/"},{"childCategoryName":"Tongsis","childCategoryUrl":"https://www.lazada.co.id/jual-tongsis/"},{"childCategoryName":"Phone Holder","childCategoryUrl":"https://www.lazada.co.id/jual-dudukan-mobil/"},{"childCategoryName":"Baterai Handphone","childCategoryUrl":"https://www.lazada.co.id/beli-baterai-handphone/"},{"childCategoryName":"Peralatan & Suku Cadang","childCategoryUrl":"https://www.lazada.co.id/beli-suku-cadang-handphone/"},{"childCategoryName":"Aksesoris Handphone Lainnya","childCategoryUrl":"https://www.lazada.co.id/shop-aksesori-ponsel/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_2">
-                <a href="https://vin777.giving/beli-aksesori-komputer/">
+                <a href="https://www.lazada.co.id/beli-aksesori-komputer/">
                     <span>Aksesoris Komputer</span>
                 </a>
                         <script type="text" class="J_data_1_1">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Mouse","childCategoryUrl":"https://vin777.giving/beli-mouse/"},{"childCategoryName":"Keyboard Komputer","childCategoryUrl":"https://vin777.giving/beli-keyboard/"},{"childCategoryName":"Monitor","childCategoryUrl":"https://vin777.giving/beli-monitor/"},{"childCategoryName":"Adaptor Jaringan","childCategoryUrl":"https://vin777.giving/adaptor-jaringan/"},{"childCategoryName":"Audio PC","childCategoryUrl":"https://vin777.giving/beli-audio-pc/"},{"childCategoryName":"Adaptor & Kabel","childCategoryUrl":"https://vin777.giving/jual-adaptor-kabel/"},{"childCategoryName":"Adaptor Baterai Komputer","childCategoryUrl":"https://vin777.giving/beli-adaptor-baterai-komputer/"},{"childCategoryName":"Mousepad","childCategoryUrl":"https://vin777.giving/beli-mousepad/"},{"childCategoryName":"Cooling Pads","childCategoryUrl":"https://vin777.giving/beli-alas-pendingin/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Mouse","childCategoryUrl":"https://www.lazada.co.id/beli-mouse/"},{"childCategoryName":"Keyboard Komputer","childCategoryUrl":"https://www.lazada.co.id/beli-keyboard/"},{"childCategoryName":"Monitor","childCategoryUrl":"https://www.lazada.co.id/beli-monitor/"},{"childCategoryName":"Adaptor Jaringan","childCategoryUrl":"https://www.lazada.co.id/adaptor-jaringan/"},{"childCategoryName":"Audio PC","childCategoryUrl":"https://www.lazada.co.id/beli-audio-pc/"},{"childCategoryName":"Adaptor & Kabel","childCategoryUrl":"https://www.lazada.co.id/jual-adaptor-kabel/"},{"childCategoryName":"Adaptor Baterai Komputer","childCategoryUrl":"https://www.lazada.co.id/beli-adaptor-baterai-komputer/"},{"childCategoryName":"Mousepad","childCategoryUrl":"https://www.lazada.co.id/beli-mousepad/"},{"childCategoryName":"Cooling Pads","childCategoryUrl":"https://www.lazada.co.id/beli-alas-pendingin/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_3">
-                <a href="https://vin777.giving/shop-audio/">
+                <a href="https://www.lazada.co.id/shop-audio/">
                     <span>Audio</span>
                 </a>
                         <script type="text" class="J_data_1_2">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Headphone & Headset","childCategoryUrl":"https://vin777.giving/beli-headphone-dan-headset/"},{"childCategoryName":"Speaker Portabel","childCategoryUrl":"https://vin777.giving/beli-audio-player/"},{"childCategoryName":"Speaker Smart","childCategoryUrl":"https://vin777.giving/beli-speaker-smart/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Headphone & Headset","childCategoryUrl":"https://www.lazada.co.id/beli-headphone-dan-headset/"},{"childCategoryName":"Speaker Portabel","childCategoryUrl":"https://www.lazada.co.id/beli-audio-player/"},{"childCategoryName":"Speaker Smart","childCategoryUrl":"https://www.lazada.co.id/beli-speaker-smart/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_4">
-                <a href="https://vin777.giving/shop-perangkat-pintar/">
+                <a href="https://www.lazada.co.id/shop-perangkat-pintar/">
                     <span>Aksesoris Berteknologi</span>
                 </a>
                         <script type="text" class="J_data_1_3">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Smartwatch","childCategoryUrl":"https://vin777.giving/shop-smartwatch/"},{"childCategoryName":"Aksesoris Smartwatch","childCategoryUrl":"https://vin777.giving/shop-tali-smartwatch/"},{"childCategoryName":"Activity Tracker","childCategoryUrl":"https://vin777.giving/beli-tracker-fitness-aktivitas/"},{"childCategoryName":"Aksesoris Fitness Tracker","childCategoryUrl":"https://vin777.giving/jual-strap-tracker-aktivitas/"},{"childCategoryName":"Virtual Reality","childCategoryUrl":"https://vin777.giving/jual-virtual-reality/"},{"childCategoryName":"Kendali Gerakan","childCategoryUrl":"https://vin777.giving/jual-kendali-gerakan/"},{"childCategoryName":"Kacamata Pintar","childCategoryUrl":"https://vin777.giving/beli-smart-glasses/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Smartwatch","childCategoryUrl":"https://www.lazada.co.id/shop-smartwatch/"},{"childCategoryName":"Aksesoris Smartwatch","childCategoryUrl":"https://www.lazada.co.id/shop-tali-smartwatch/"},{"childCategoryName":"Activity Tracker","childCategoryUrl":"https://www.lazada.co.id/beli-tracker-fitness-aktivitas/"},{"childCategoryName":"Aksesoris Fitness Tracker","childCategoryUrl":"https://www.lazada.co.id/jual-strap-tracker-aktivitas/"},{"childCategoryName":"Virtual Reality","childCategoryUrl":"https://www.lazada.co.id/jual-virtual-reality/"},{"childCategoryName":"Kendali Gerakan","childCategoryUrl":"https://www.lazada.co.id/jual-kendali-gerakan/"},{"childCategoryName":"Kacamata Pintar","childCategoryUrl":"https://www.lazada.co.id/beli-smart-glasses/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_5">
-                <a href="https://vin777.giving/beli-aksesoris-2/">
+                <a href="https://www.lazada.co.id/beli-aksesoris-2/">
                     <span>Aksesoris Kamera</span>
                 </a>
                         <script type="text" class="J_data_1_4">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Tripod & Monopod","childCategoryUrl":"https://vin777.giving/beli-tripod-monopod/"},{"childCategoryName":"Kartu Memori","childCategoryUrl":"https://vin777.giving/beli-kartu-memori/"},{"childCategoryName":"Lensa Kamera","childCategoryUrl":"https://vin777.giving/beli-lensa-kamera/"},{"childCategoryName":"Flash","childCategoryUrl":"https://vin777.giving/beli-flash/"},{"childCategoryName":"Sarung, Pelindung & Tas Kamera","childCategoryUrl":"https://vin777.giving/beli-sarung-pelindung-tas-kamera/"},{"childCategoryName":"Charger Kamera","childCategoryUrl":"https://vin777.giving/beli-charger-baterai/"},{"childCategoryName":"Baterai Kamera","childCategoryUrl":"https://vin777.giving/beli-baterai/"},{"childCategoryName":"Aksesoris Kamera Aksi","childCategoryUrl":"https://vin777.giving/beli-aksesoris-kamera-aksi/"},{"childCategoryName":"Aksesoris Kamera Instan","childCategoryUrl":"https://vin777.giving/jual-film-kamera-instan/"},{"childCategoryName":"Perlengkapan Lighting & Studio","childCategoryUrl":"https://vin777.giving/beli-perlengkapan-lighting-studio/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Tripod & Monopod","childCategoryUrl":"https://www.lazada.co.id/beli-tripod-monopod/"},{"childCategoryName":"Kartu Memori","childCategoryUrl":"https://www.lazada.co.id/beli-kartu-memori/"},{"childCategoryName":"Lensa Kamera","childCategoryUrl":"https://www.lazada.co.id/beli-lensa-kamera/"},{"childCategoryName":"Flash","childCategoryUrl":"https://www.lazada.co.id/beli-flash/"},{"childCategoryName":"Sarung, Pelindung & Tas Kamera","childCategoryUrl":"https://www.lazada.co.id/beli-sarung-pelindung-tas-kamera/"},{"childCategoryName":"Charger Kamera","childCategoryUrl":"https://www.lazada.co.id/beli-charger-baterai/"},{"childCategoryName":"Baterai Kamera","childCategoryUrl":"https://www.lazada.co.id/beli-baterai/"},{"childCategoryName":"Aksesoris Kamera Aksi","childCategoryUrl":"https://www.lazada.co.id/beli-aksesoris-kamera-aksi/"},{"childCategoryName":"Aksesoris Kamera Instan","childCategoryUrl":"https://www.lazada.co.id/jual-film-kamera-instan/"},{"childCategoryName":"Perlengkapan Lighting & Studio","childCategoryUrl":"https://www.lazada.co.id/beli-perlengkapan-lighting-studio/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_6">
-                <a href="https://vin777.giving/shop-penyimpanan-data/">
+                <a href="https://www.lazada.co.id/shop-penyimpanan-data/">
                     <span>Penyimpanan Data</span>
                 </a>
                         <script type="text" class="J_data_1_5">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Flash Drive","childCategoryUrl":"https://vin777.giving/jual-flash-drives/"},{"childCategoryName":"OTG Drive","childCategoryUrl":"https://vin777.giving/jual-otg-drives/"},{"childCategoryName":"Harddisk Eksternal","childCategoryUrl":"https://vin777.giving/beli-harddisk-eksternal/"},{"childCategoryName":"Hard Drive Internal","childCategoryUrl":"https://vin777.giving/beli-hard-drive-internal/"},{"childCategoryName":"Internal SSD","childCategoryUrl":"https://vin777.giving/beli-solid-state-drive/"},{"childCategoryName":"Eksternal SSD","childCategoryUrl":"https://vin777.giving/beli-external-solid-state-drive/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Flash Drive","childCategoryUrl":"https://www.lazada.co.id/jual-flash-drives/"},{"childCategoryName":"OTG Drive","childCategoryUrl":"https://www.lazada.co.id/jual-otg-drives/"},{"childCategoryName":"Harddisk Eksternal","childCategoryUrl":"https://www.lazada.co.id/beli-harddisk-eksternal/"},{"childCategoryName":"Hard Drive Internal","childCategoryUrl":"https://www.lazada.co.id/beli-hard-drive-internal/"},{"childCategoryName":"Internal SSD","childCategoryUrl":"https://www.lazada.co.id/beli-solid-state-drive/"},{"childCategoryName":"Eksternal SSD","childCategoryUrl":"https://www.lazada.co.id/beli-external-solid-state-drive/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_7">
-                <a href="https://vin777.giving/beli-printers/">
+                <a href="https://www.lazada.co.id/beli-printers/">
                     <span>Printer</span>
                 </a>
                         <script type="text" class="J_data_1_6">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Printer","childCategoryUrl":"https://vin777.giving/beli-printers/"},{"childCategoryName":"Tinta Printer","childCategoryUrl":"https://vin777.giving/tinta-printer/"},{"childCategoryName":"Printer 3D","childCategoryUrl":"https://vin777.giving/pencetak-3d/"},{"childCategoryName":"Printer POS & Thermal","childCategoryUrl":"https://vin777.giving/beli-printer-stand/"},{"childCategoryName":"Mesin Faks","childCategoryUrl":"https://vin777.giving/beli-mesin-fax/"},{"childCategoryName":"Mesin Cutting Sticker","childCategoryUrl":"https://vin777.giving/printer-pemotong/"},{"childCategoryName":"Memori Printer","childCategoryUrl":"https://vin777.giving/modul-memori-printer/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Printer","childCategoryUrl":"https://www.lazada.co.id/beli-printers/"},{"childCategoryName":"Tinta Printer","childCategoryUrl":"https://www.lazada.co.id/tinta-printer/"},{"childCategoryName":"Printer 3D","childCategoryUrl":"https://www.lazada.co.id/pencetak-3d/"},{"childCategoryName":"Printer POS & Thermal","childCategoryUrl":"https://www.lazada.co.id/beli-printer-stand/"},{"childCategoryName":"Mesin Faks","childCategoryUrl":"https://www.lazada.co.id/beli-mesin-fax/"},{"childCategoryName":"Mesin Cutting Sticker","childCategoryUrl":"https://www.lazada.co.id/printer-pemotong/"},{"childCategoryName":"Memori Printer","childCategoryUrl":"https://www.lazada.co.id/modul-memori-printer/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_8">
-                <a href="https://vin777.giving/beli-aksesori-handphone/">
+                <a href="https://www.lazada.co.id/beli-aksesori-handphone/">
                     <span>Aksesoris Tablet</span>
                 </a>
                         <script type="text" class="J_data_1_7">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Casing Tablet","childCategoryUrl":"https://vin777.giving/jual-casing-cover-tablet/"},{"childCategoryName":"Keyboard Tablet","childCategoryUrl":"https://vin777.giving/beli-keyboard-tablet/"},{"childCategoryName":"Pen Stylus Tablet","childCategoryUrl":"https://vin777.giving/beli-pen-stylus-tablet/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Casing Tablet","childCategoryUrl":"https://www.lazada.co.id/jual-casing-cover-tablet/"},{"childCategoryName":"Keyboard Tablet","childCategoryUrl":"https://www.lazada.co.id/beli-keyboard-tablet/"},{"childCategoryName":"Pen Stylus Tablet","childCategoryUrl":"https://www.lazada.co.id/beli-pen-stylus-tablet/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_9">
-                <a href="https://vin777.giving/beli-komponen-komputer/">
+                <a href="https://www.lazada.co.id/beli-komponen-komputer/">
                     <span>Komponen Komputer</span>
                 </a>
                         <script type="text" class="J_data_1_8">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"RAM","childCategoryUrl":"https://vin777.giving/beli-ram/"},{"childCategoryName":"Motherboard","childCategoryUrl":"https://vin777.giving/beli-motherboard/"},{"childCategoryName":"Prosesor","childCategoryUrl":"https://vin777.giving/beli-prosesor/"},{"childCategoryName":"Kartu Grafis","childCategoryUrl":"https://vin777.giving/beli-kartu-grafis/"},{"childCategoryName":"Casing Komputer","childCategoryUrl":"https://vin777.giving/beli-casing-cpu/"},{"childCategoryName":"Power Supply Unit","childCategoryUrl":"https://vin777.giving/beli-power-supply-unit/"},{"childCategoryName":"Soundcard","childCategoryUrl":"https://vin777.giving/soundcard/"},{"childCategoryName":"Front Panel","childCategoryUrl":"https://vin777.giving/beli-hard-drive-optikal/"},{"childCategoryName":"Water Cooling System","childCategoryUrl":"https://vin777.giving/beli-water-cooling-system/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"RAM","childCategoryUrl":"https://www.lazada.co.id/beli-ram/"},{"childCategoryName":"Motherboard","childCategoryUrl":"https://www.lazada.co.id/beli-motherboard/"},{"childCategoryName":"Prosesor","childCategoryUrl":"https://www.lazada.co.id/beli-prosesor/"},{"childCategoryName":"Kartu Grafis","childCategoryUrl":"https://www.lazada.co.id/beli-kartu-grafis/"},{"childCategoryName":"Casing Komputer","childCategoryUrl":"https://www.lazada.co.id/beli-casing-cpu/"},{"childCategoryName":"Power Supply Unit","childCategoryUrl":"https://www.lazada.co.id/beli-power-supply-unit/"},{"childCategoryName":"Soundcard","childCategoryUrl":"https://www.lazada.co.id/soundcard/"},{"childCategoryName":"Front Panel","childCategoryUrl":"https://www.lazada.co.id/beli-hard-drive-optikal/"},{"childCategoryName":"Water Cooling System","childCategoryUrl":"https://www.lazada.co.id/beli-water-cooling-system/"}]
                         </script>
             </li>
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No3" data-spm="cate_3">
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_1">
-                <a href="https://vin777.giving/pakaian-wanita/">
+                <a href="https://www.lazada.co.id/pakaian-wanita/">
                     <span>Pakaian Wanita</span>
                 </a>
                         <script type="text" class="J_data_2_0">
-                            [{"childCategoryName":"Jeans","childCategoryUrl":"https://vin777.giving/jeans-wanita/"},{"childCategoryName":"Dress","childCategoryUrl":"https://vin777.giving/gaun-wanita/"},{"childCategoryName":"Atasan","childCategoryUrl":"https://vin777.giving/kaos-atasan-wanita/"},{"childCategoryName":"Sweater & Cardigan","childCategoryUrl":"https://vin777.giving/sweater-dan-cardigan-wanita/"},{"childCategoryName":"Celana & Legging","childCategoryUrl":"https://vin777.giving/celana-panjang-dan-pendek-wanita/"},{"childCategoryName":"Rok","childCategoryUrl":"https://vin777.giving/rok-wanita/"},{"childCategoryName":"Jaket & Mantel","childCategoryUrl":"https://vin777.giving/jaket-dan-mantel-wanita/"},{"childCategoryName":"Kaus Kaki & Celana Ketat","childCategoryUrl":"https://vin777.giving/kaos-kaki-celana-tights-wanita/"},{"childCategoryName":"Celana Pendek","childCategoryUrl":"https://vin777.giving/jual-celana-pendek-wanita/"},{"childCategoryName":"Jumpsuit & Playsuit","childCategoryUrl":"https://vin777.giving/overalls-jumpsuit-wanita/"},{"childCategoryName":"Hoodie & Sweatshirt","childCategoryUrl":"https://vin777.giving/hoodie-sweatshirt-wanita/"}]
+                            [{"childCategoryName":"Jeans","childCategoryUrl":"https://www.lazada.co.id/jeans-wanita/"},{"childCategoryName":"Dress","childCategoryUrl":"https://www.lazada.co.id/gaun-wanita/"},{"childCategoryName":"Atasan","childCategoryUrl":"https://www.lazada.co.id/kaos-atasan-wanita/"},{"childCategoryName":"Sweater & Cardigan","childCategoryUrl":"https://www.lazada.co.id/sweater-dan-cardigan-wanita/"},{"childCategoryName":"Celana & Legging","childCategoryUrl":"https://www.lazada.co.id/celana-panjang-dan-pendek-wanita/"},{"childCategoryName":"Rok","childCategoryUrl":"https://www.lazada.co.id/rok-wanita/"},{"childCategoryName":"Jaket & Mantel","childCategoryUrl":"https://www.lazada.co.id/jaket-dan-mantel-wanita/"},{"childCategoryName":"Kaus Kaki & Celana Ketat","childCategoryUrl":"https://www.lazada.co.id/kaos-kaki-celana-tights-wanita/"},{"childCategoryName":"Celana Pendek","childCategoryUrl":"https://www.lazada.co.id/jual-celana-pendek-wanita/"},{"childCategoryName":"Jumpsuit & Playsuit","childCategoryUrl":"https://www.lazada.co.id/overalls-jumpsuit-wanita/"},{"childCategoryName":"Hoodie & Sweatshirt","childCategoryUrl":"https://www.lazada.co.id/hoodie-sweatshirt-wanita/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_2">
-                <a href="https://vin777.giving/baju-muslim-wanita/">
+                <a href="https://www.lazada.co.id/baju-muslim-wanita/">
                     <span>Baju Muslim</span>
                 </a>
                         <script type="text" class="J_data_2_1">
-                            [{"childCategoryName":"Perlengkapan Shalat","childCategoryUrl":"https://vin777.giving/baju-muslim-wanita/"},{"childCategoryName":"Hijab","childCategoryUrl":"https://vin777.giving/hijab/"},{"childCategoryName":"Atasan Muslimah","childCategoryUrl":"https://vin777.giving/atasan-muslimah-wanita/"},{"childCategoryName":"Baju Muslim & Jumpsuit","childCategoryUrl":"https://vin777.giving/dress-muslimah/"},{"childCategoryName":"Bawahan Muslim","childCategoryUrl":"https://vin777.giving/bawahan-muslimah/"},{"childCategoryName":"Luaran Muslim","childCategoryUrl":"https://vin777.giving/jaket-dan-kardigan-wanita-muslim/"},{"childCategoryName":"Aksesoris Muslim","childCategoryUrl":"https://vin777.giving/aksesoris-muslim-wanita/"},{"childCategoryName":"Baju Renang Muslim","childCategoryUrl":"https://vin777.giving/jual-baju-renang-muslim-wanita/"},{"childCategoryName":"Baju Kurung","childCategoryUrl":"https://vin777.giving/jual-baju-kurung-wanita/"}]
+                            [{"childCategoryName":"Perlengkapan Shalat","childCategoryUrl":"https://www.lazada.co.id/baju-muslim-wanita/"},{"childCategoryName":"Hijab","childCategoryUrl":"https://www.lazada.co.id/hijab/"},{"childCategoryName":"Atasan Muslimah","childCategoryUrl":"https://www.lazada.co.id/atasan-muslimah-wanita/"},{"childCategoryName":"Baju Muslim & Jumpsuit","childCategoryUrl":"https://www.lazada.co.id/dress-muslimah/"},{"childCategoryName":"Bawahan Muslim","childCategoryUrl":"https://www.lazada.co.id/bawahan-muslimah/"},{"childCategoryName":"Luaran Muslim","childCategoryUrl":"https://www.lazada.co.id/jaket-dan-kardigan-wanita-muslim/"},{"childCategoryName":"Aksesoris Muslim","childCategoryUrl":"https://www.lazada.co.id/aksesoris-muslim-wanita/"},{"childCategoryName":"Baju Renang Muslim","childCategoryUrl":"https://www.lazada.co.id/jual-baju-renang-muslim-wanita/"},{"childCategoryName":"Baju Kurung","childCategoryUrl":"https://www.lazada.co.id/jual-baju-kurung-wanita/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_3">
-                <a href="https://vin777.giving/lingerie-baju-tidur/">
+                <a href="https://www.lazada.co.id/lingerie-baju-tidur/">
                     <span>Lingerie, Baju Tidur &amp; Santai</span>
                 </a>
                         <script type="text" class="J_data_2_2">
-                            [{"childCategoryName":"Bra","childCategoryUrl":"https://vin777.giving/bra-wanita/"},{"childCategoryName":"Celana Dalam","childCategoryUrl":"https://vin777.giving/celana-dalam-wanita/"},{"childCategoryName":"Shapewear","childCategoryUrl":"https://vin777.giving/shapewear-baju-pembentuk-tubuh-wanita/"},{"childCategoryName":"Baju Tidur & Santai","childCategoryUrl":"https://vin777.giving/bathrobe-baju-mandi-wanita/"},{"childCategoryName":"Jubah Tidur","childCategoryUrl":"https://vin777.giving/jual-jubah-tidur-wanita/"},{"childCategoryName":"Set Lingerie","childCategoryUrl":"https://vin777.giving/jual-set-lingerie/"},{"childCategoryName":"Kamisol & Slips","childCategoryUrl":"https://vin777.giving/jual-kamisol-slips-wanita/"},{"childCategoryName":"Bodysuit","childCategoryUrl":"https://vin777.giving/jual-bodysuit-wanita/"},{"childCategoryName":"Aksesori Lingerie","childCategoryUrl":"https://vin777.giving/jual-aksesori-lingerie-wanita/"}]
+                            [{"childCategoryName":"Bra","childCategoryUrl":"https://www.lazada.co.id/bra-wanita/"},{"childCategoryName":"Celana Dalam","childCategoryUrl":"https://www.lazada.co.id/celana-dalam-wanita/"},{"childCategoryName":"Shapewear","childCategoryUrl":"https://www.lazada.co.id/shapewear-baju-pembentuk-tubuh-wanita/"},{"childCategoryName":"Baju Tidur & Santai","childCategoryUrl":"https://www.lazada.co.id/bathrobe-baju-mandi-wanita/"},{"childCategoryName":"Jubah Tidur","childCategoryUrl":"https://www.lazada.co.id/jual-jubah-tidur-wanita/"},{"childCategoryName":"Set Lingerie","childCategoryUrl":"https://www.lazada.co.id/jual-set-lingerie/"},{"childCategoryName":"Kamisol & Slips","childCategoryUrl":"https://www.lazada.co.id/jual-kamisol-slips-wanita/"},{"childCategoryName":"Bodysuit","childCategoryUrl":"https://www.lazada.co.id/jual-bodysuit-wanita/"},{"childCategoryName":"Aksesori Lingerie","childCategoryUrl":"https://www.lazada.co.id/jual-aksesori-lingerie-wanita/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_4">
-                <a href="https://vin777.giving/sepatu-wanita/">
+                <a href="https://www.lazada.co.id/sepatu-wanita/">
                     <span>Sepatu Wanita</span>
                 </a>
                         <script type="text" class="J_data_2_3">
-                            [{"childCategoryName":"Sepatu Flat","childCategoryUrl":"https://vin777.giving/flat-shoes/"},{"childCategoryName":"Sepatu Hak Tinggi","childCategoryUrl":"https://vin777.giving/heels/"},{"childCategoryName":"Sneakers","childCategoryUrl":"https://vin777.giving/sneakers/"},{"childCategoryName":"Wedges","childCategoryUrl":"https://vin777.giving/wedges/"},{"childCategoryName":"Sepatu Boot","childCategoryUrl":"https://vin777.giving/boots-wanita/"},{"childCategoryName":"Aksesoris Sepatu","childCategoryUrl":"https://vin777.giving/aksesoris-sepatu-wanita/"},{"childCategoryName":"Sandal","childCategoryUrl":"https://vin777.giving/sandal-wanita/"},{"childCategoryName":"Sandal & Flip Flop","childCategoryUrl":"https://vin777.giving/sandal-jepit-wanita/"}]
+                            [{"childCategoryName":"Sepatu Flat","childCategoryUrl":"https://www.lazada.co.id/flat-shoes/"},{"childCategoryName":"Sepatu Hak Tinggi","childCategoryUrl":"https://www.lazada.co.id/heels/"},{"childCategoryName":"Sneakers","childCategoryUrl":"https://www.lazada.co.id/sneakers/"},{"childCategoryName":"Wedges","childCategoryUrl":"https://www.lazada.co.id/wedges/"},{"childCategoryName":"Sepatu Boot","childCategoryUrl":"https://www.lazada.co.id/boots-wanita/"},{"childCategoryName":"Aksesoris Sepatu","childCategoryUrl":"https://www.lazada.co.id/aksesoris-sepatu-wanita/"},{"childCategoryName":"Sandal","childCategoryUrl":"https://www.lazada.co.id/sandal-wanita/"},{"childCategoryName":"Sandal & Flip Flop","childCategoryUrl":"https://www.lazada.co.id/sandal-jepit-wanita/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_5">
-                <a href="https://vin777.giving/aksesoris-wanita/">
+                <a href="https://www.lazada.co.id/aksesoris-wanita/">
                     <span>Aksesoris</span>
                 </a>
                         <script type="text" class="J_data_2_4">
-                            [{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"https://vin777.giving/ikat-pinggang-wanita/"},{"childCategoryName":"Payung","childCategoryUrl":"https://vin777.giving/payung-wanita/"},{"childCategoryName":"Topi","childCategoryUrl":"https://vin777.giving/topi-wanita/"},{"childCategoryName":"Aksesoris Rambut","childCategoryUrl":"https://vin777.giving/aksesoris-rambut/"},{"childCategoryName":"Scarf","childCategoryUrl":"https://vin777.giving/scarf-wanita/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://vin777.giving/sarung-tangan-wanita/"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"https://vin777.giving/shop-women-fabricmask/"}]
+                            [{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"https://www.lazada.co.id/ikat-pinggang-wanita/"},{"childCategoryName":"Payung","childCategoryUrl":"https://www.lazada.co.id/payung-wanita/"},{"childCategoryName":"Topi","childCategoryUrl":"https://www.lazada.co.id/topi-wanita/"},{"childCategoryName":"Aksesoris Rambut","childCategoryUrl":"https://www.lazada.co.id/aksesoris-rambut/"},{"childCategoryName":"Scarf","childCategoryUrl":"https://www.lazada.co.id/scarf-wanita/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://www.lazada.co.id/sarung-tangan-wanita/"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"https://www.lazada.co.id/shop-women-fabricmask/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_6">
-                <a href="https://vin777.giving/tas-wanita/">
+                <a href="https://www.lazada.co.id/tas-wanita/">
                     <span>Tas Wanita</span>
                 </a>
                         <script type="text" class="J_data_2_5">
-                            [{"childCategoryName":"Tas Ransel Wanita","childCategoryUrl":"https://vin777.giving/tas-punggung-wanita/"},{"childCategoryName":"Aksesoris Tas","childCategoryUrl":"https://vin777.giving/jual-aksesori-tas-wanita/"},{"childCategoryName":"Tas Pinggang Wanita","childCategoryUrl":"https://vin777.giving/shop-tas-pinggang-wanita/"},{"childCategoryName":"Dompet Kartu Wanita","childCategoryUrl":"https://vin777.giving/jual-dompet-kartu-wanita/"},{"childCategoryName":"Clutches","childCategoryUrl":"https://vin777.giving/tas-genggam-wanita/"},{"childCategoryName":"Dompet Koin & Pouch Wanita","childCategoryUrl":"https://vin777.giving/jual-dompet-koin-pouch-wanita/"},{"childCategoryName":"Tas Selempang & Bahu Wanita","childCategoryUrl":"https://vin777.giving/tas-selempang-badan-wanita/"},{"childCategoryName":"Tas Luxury Wanita","childCategoryUrl":"https://vin777.giving/shop-tas-mewah-wanita/"},{"childCategoryName":"Top-handle Bag","childCategoryUrl":"https://vin777.giving/top-handle-bag/"},{"childCategoryName":"Tote Bag Wanita","childCategoryUrl":"https://vin777.giving/tote-bag-wanita/"},{"childCategoryName":"Dompet Wanita","childCategoryUrl":"https://vin777.giving/jual-dompet-wanita/"}]
+                            [{"childCategoryName":"Tas Ransel Wanita","childCategoryUrl":"https://www.lazada.co.id/tas-punggung-wanita/"},{"childCategoryName":"Aksesoris Tas","childCategoryUrl":"https://www.lazada.co.id/jual-aksesori-tas-wanita/"},{"childCategoryName":"Tas Pinggang Wanita","childCategoryUrl":"https://www.lazada.co.id/shop-tas-pinggang-wanita/"},{"childCategoryName":"Dompet Kartu Wanita","childCategoryUrl":"https://www.lazada.co.id/jual-dompet-kartu-wanita/"},{"childCategoryName":"Clutches","childCategoryUrl":"https://www.lazada.co.id/tas-genggam-wanita/"},{"childCategoryName":"Dompet Koin & Pouch Wanita","childCategoryUrl":"https://www.lazada.co.id/jual-dompet-koin-pouch-wanita/"},{"childCategoryName":"Tas Selempang & Bahu Wanita","childCategoryUrl":"https://www.lazada.co.id/tas-selempang-badan-wanita/"},{"childCategoryName":"Tas Luxury Wanita","childCategoryUrl":"https://www.lazada.co.id/shop-tas-mewah-wanita/"},{"childCategoryName":"Top-handle Bag","childCategoryUrl":"https://www.lazada.co.id/top-handle-bag/"},{"childCategoryName":"Tote Bag Wanita","childCategoryUrl":"https://www.lazada.co.id/tote-bag-wanita/"},{"childCategoryName":"Dompet Wanita","childCategoryUrl":"https://www.lazada.co.id/jual-dompet-wanita/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_7">
-                <a href="https://vin777.giving/beli-perhiasan-wanita/">
+                <a href="https://www.lazada.co.id/beli-perhiasan-wanita/">
                     <span>Perhiasan Wanita</span>
                 </a>
                         <script type="text" class="J_data_2_6">
-                            [{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"https://vin777.giving/beli-wanita-perhiasan-fashion/"},{"childCategoryName":"Logam Berharga","childCategoryUrl":"https://vin777.giving/beli-wanita-logam-berharga/"}]
+                            [{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"https://www.lazada.co.id/beli-wanita-perhiasan-fashion/"},{"childCategoryName":"Logam Berharga","childCategoryUrl":"https://www.lazada.co.id/beli-wanita-logam-berharga/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_8">
-                <a href="https://vin777.giving/beli-jam-tangan-wanita/">
+                <a href="https://www.lazada.co.id/beli-jam-tangan-wanita/">
                     <span>Jam Tangan Wanita</span>
                 </a>
                         <script type="text" class="J_data_2_7">
-                            [{"childCategoryName":"Aksesori","childCategoryUrl":"https://vin777.giving/shop-aksesori-jam-tangan-wanita/"},{"childCategoryName":"Jam Tangan Kasual Wanita","childCategoryUrl":"https://vin777.giving/beli-jam-tangan-kasual-wanita/"},{"childCategoryName":"Formal","childCategoryUrl":"https://vin777.giving/beli-jam-tangan-formal-wanita/"},{"childCategoryName":"Mewah","childCategoryUrl":"https://vin777.giving/shop-jam-tangan-mewah-wanita/"},{"childCategoryName":"Pra Dimiliki","childCategoryUrl":"https://vin777.giving/shop-pre-owned-jam-tangan-wanita/"},{"childCategoryName":"Jam Tangan Olahraga Wanita","childCategoryUrl":"https://vin777.giving/beli-jam-tangan-olahraga-wanita/"}]
+                            [{"childCategoryName":"Aksesori","childCategoryUrl":"https://www.lazada.co.id/shop-aksesori-jam-tangan-wanita/"},{"childCategoryName":"Jam Tangan Kasual Wanita","childCategoryUrl":"https://www.lazada.co.id/beli-jam-tangan-kasual-wanita/"},{"childCategoryName":"Formal","childCategoryUrl":"https://www.lazada.co.id/beli-jam-tangan-formal-wanita/"},{"childCategoryName":"Mewah","childCategoryUrl":"https://www.lazada.co.id/shop-jam-tangan-mewah-wanita/"},{"childCategoryName":"Pra Dimiliki","childCategoryUrl":"https://www.lazada.co.id/shop-pre-owned-jam-tangan-wanita/"},{"childCategoryName":"Jam Tangan Olahraga Wanita","childCategoryUrl":"https://www.lazada.co.id/beli-jam-tangan-olahraga-wanita/"}]
                         </script>
             </li>
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No4" data-spm="cate_4">
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_1">
-                <a href="https://vin777.giving/pakaian-pria/">
+                <a href="https://www.lazada.co.id/pakaian-pria/">
                     <span>Pakaian Pria</span>
                 </a>
                         <script type="text" class="J_data_3_0">
-                            [{"childCategoryName":"Hoodie & Sweatshirt","childCategoryUrl":"https://vin777.giving/jual-hoodie-pria/"},{"childCategoryName":"Jaket dan Mantel","childCategoryUrl":"https://vin777.giving/jaket-dan-mantel-pria/"},{"childCategoryName":"Jeans","childCategoryUrl":"https://vin777.giving/jeans-pria/"},{"childCategoryName":"Celana","childCategoryUrl":"https://vin777.giving/celana-pendek-dan-panjang-pria/"},{"childCategoryName":"Polo Shirt","childCategoryUrl":"https://vin777.giving/polo-shirt-pria/"},{"childCategoryName":"Kemeja","childCategoryUrl":"https://vin777.giving/kemeja-pria/"},{"childCategoryName":"Celana Pendek","childCategoryUrl":"https://vin777.giving/jual-celana-pendek-pria/"},{"childCategoryName":"Kaus Kaki","childCategoryUrl":"https://vin777.giving/jual-kaus-kaki-pria/"},{"childCategoryName":"Jas & Blazer","childCategoryUrl":"https://vin777.giving/jas-pria/"},{"childCategoryName":"Sweater dan Kardigan","childCategoryUrl":"https://vin777.giving/sweater-dan-cardigan-pria/"},{"childCategoryName":"Baju Renang","childCategoryUrl":"https://vin777.giving/baju-renang-pria/"},{"childCategoryName":"T-Shirt & Kaos Dalam","childCategoryUrl":"https://vin777.giving/atasan-kasual-kaos-pria/"}]
+                            [{"childCategoryName":"Hoodie & Sweatshirt","childCategoryUrl":"https://www.lazada.co.id/jual-hoodie-pria/"},{"childCategoryName":"Jaket dan Mantel","childCategoryUrl":"https://www.lazada.co.id/jaket-dan-mantel-pria/"},{"childCategoryName":"Jeans","childCategoryUrl":"https://www.lazada.co.id/jeans-pria/"},{"childCategoryName":"Celana","childCategoryUrl":"https://www.lazada.co.id/celana-pendek-dan-panjang-pria/"},{"childCategoryName":"Polo Shirt","childCategoryUrl":"https://www.lazada.co.id/polo-shirt-pria/"},{"childCategoryName":"Kemeja","childCategoryUrl":"https://www.lazada.co.id/kemeja-pria/"},{"childCategoryName":"Celana Pendek","childCategoryUrl":"https://www.lazada.co.id/jual-celana-pendek-pria/"},{"childCategoryName":"Kaus Kaki","childCategoryUrl":"https://www.lazada.co.id/jual-kaus-kaki-pria/"},{"childCategoryName":"Jas & Blazer","childCategoryUrl":"https://www.lazada.co.id/jas-pria/"},{"childCategoryName":"Sweater dan Kardigan","childCategoryUrl":"https://www.lazada.co.id/sweater-dan-cardigan-pria/"},{"childCategoryName":"Baju Renang","childCategoryUrl":"https://www.lazada.co.id/baju-renang-pria/"},{"childCategoryName":"T-Shirt & Kaos Dalam","childCategoryUrl":"https://www.lazada.co.id/atasan-kasual-kaos-pria/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_2">
-                <a href="https://vin777.giving/baju-muslim-pria/">
+                <a href="https://www.lazada.co.id/baju-muslim-pria/">
                     <span>Baju Muslim</span>
                 </a>
                         <script type="text" class="J_data_3_1">
-                            [{"childCategoryName":"Jubah Muslim","childCategoryUrl":"https://vin777.giving/jubah-muslim-pria/"},{"childCategoryName":"Aksesoris Muslim","childCategoryUrl":"https://vin777.giving/aksesoris-muslim-pria/"},{"childCategoryName":"Baju Muslimin","childCategoryUrl":"https://vin777.giving/cekak-musang-pria/"},{"childCategoryName":"Kopiah","childCategoryUrl":"https://vin777.giving/shop-kopiah/"}]
+                            [{"childCategoryName":"Jubah Muslim","childCategoryUrl":"https://www.lazada.co.id/jubah-muslim-pria/"},{"childCategoryName":"Aksesoris Muslim","childCategoryUrl":"https://www.lazada.co.id/aksesoris-muslim-pria/"},{"childCategoryName":"Baju Muslimin","childCategoryUrl":"https://www.lazada.co.id/cekak-musang-pria/"},{"childCategoryName":"Kopiah","childCategoryUrl":"https://www.lazada.co.id/shop-kopiah/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_3">
-                <a href="https://vin777.giving/pakaian-dalam-dan-kaos-kaki-pria/">
+                <a href="https://www.lazada.co.id/pakaian-dalam-dan-kaos-kaki-pria/">
                     <span>Pakaian Dalam</span>
                 </a>
                         <script type="text" class="J_data_3_2">
-                            [{"childCategoryName":"Celana Dalam","childCategoryUrl":"https://vin777.giving/celana-dalam-pria/"},{"childCategoryName":"Pakaian Tidur","childCategoryUrl":"https://vin777.giving/baju-tidur-pria/"},{"childCategoryName":"Boxer","childCategoryUrl":"https://vin777.giving/pakaian-dalam-boxer-pria/"},{"childCategoryName":"Thongs  & Lainnya","childCategoryUrl":"https://vin777.giving/pakaian-dalam-pria-thongs-lainnya/"}]
+                            [{"childCategoryName":"Celana Dalam","childCategoryUrl":"https://www.lazada.co.id/celana-dalam-pria/"},{"childCategoryName":"Pakaian Tidur","childCategoryUrl":"https://www.lazada.co.id/baju-tidur-pria/"},{"childCategoryName":"Boxer","childCategoryUrl":"https://www.lazada.co.id/pakaian-dalam-boxer-pria/"},{"childCategoryName":"Thongs  & Lainnya","childCategoryUrl":"https://www.lazada.co.id/pakaian-dalam-pria-thongs-lainnya/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_4">
-                <a href="https://vin777.giving/sepatu-pria/">
+                <a href="https://www.lazada.co.id/sepatu-pria/">
                     <span>Sepatu Pria</span>
                 </a>
                         <script type="text" class="J_data_3_3">
-                            [{"childCategoryName":"Boots","childCategoryUrl":"https://vin777.giving/boots-pria/"},{"childCategoryName":"Flip Flop & Sandal","childCategoryUrl":"https://vin777.giving/sandal-jepit-pria/"},{"childCategoryName":"Sepatu Formal","childCategoryUrl":"https://vin777.giving/sepatu-pantofel/"},{"childCategoryName":"Aksesoris Sepatu","childCategoryUrl":"https://vin777.giving/aksesoris-sepatu-pria/"},{"childCategoryName":"Slip-On & Loafer","childCategoryUrl":"https://vin777.giving/jual-slip-on-loafer-pria/"},{"childCategoryName":"Sneakers","childCategoryUrl":"https://vin777.giving/sneakers-pria/"}]
+                            [{"childCategoryName":"Boots","childCategoryUrl":"https://www.lazada.co.id/boots-pria/"},{"childCategoryName":"Flip Flop & Sandal","childCategoryUrl":"https://www.lazada.co.id/sandal-jepit-pria/"},{"childCategoryName":"Sepatu Formal","childCategoryUrl":"https://www.lazada.co.id/sepatu-pantofel/"},{"childCategoryName":"Aksesoris Sepatu","childCategoryUrl":"https://www.lazada.co.id/aksesoris-sepatu-pria/"},{"childCategoryName":"Slip-On & Loafer","childCategoryUrl":"https://www.lazada.co.id/jual-slip-on-loafer-pria/"},{"childCategoryName":"Sneakers","childCategoryUrl":"https://www.lazada.co.id/sneakers-pria/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_5">
-                <a href="https://vin777.giving/aksesoris-pria/">
+                <a href="https://www.lazada.co.id/aksesoris-pria/">
                     <span>Aksesoris</span>
                 </a>
                         <script type="text" class="J_data_3_4">
-                            [{"childCategoryName":"Dasi","childCategoryUrl":"https://vin777.giving/aksesoris-dasi/"},{"childCategoryName":"Aksesoris Dasi Kupu-kupu","childCategoryUrl":"https://vin777.giving/aksesoris-dasi-kupu-kupu/"},{"childCategoryName":"Scarf","childCategoryUrl":"https://vin777.giving/syal-pria/"},{"childCategoryName":"Payung","childCategoryUrl":"https://vin777.giving/payung-pria/"},{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"https://vin777.giving/ikat-pinggang-pria/"},{"childCategoryName":"Topi","childCategoryUrl":"https://vin777.giving/topi-pria/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://vin777.giving/sarung-tangan-pria/"},{"childCategoryName":"Braces","childCategoryUrl":"https://vin777.giving/suspender-pria/"},{"childCategoryName":"Face Mask","childCategoryUrl":"https://vin777.giving/shop-masker-wajah-pria/"}]
+                            [{"childCategoryName":"Dasi","childCategoryUrl":"https://www.lazada.co.id/aksesoris-dasi/"},{"childCategoryName":"Aksesoris Dasi Kupu-kupu","childCategoryUrl":"https://www.lazada.co.id/aksesoris-dasi-kupu-kupu/"},{"childCategoryName":"Scarf","childCategoryUrl":"https://www.lazada.co.id/syal-pria/"},{"childCategoryName":"Payung","childCategoryUrl":"https://www.lazada.co.id/payung-pria/"},{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"https://www.lazada.co.id/ikat-pinggang-pria/"},{"childCategoryName":"Topi","childCategoryUrl":"https://www.lazada.co.id/topi-pria/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://www.lazada.co.id/sarung-tangan-pria/"},{"childCategoryName":"Braces","childCategoryUrl":"https://www.lazada.co.id/suspender-pria/"},{"childCategoryName":"Face Mask","childCategoryUrl":"https://www.lazada.co.id/shop-masker-wajah-pria/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_6">
-                <a href="https://vin777.giving/tas-pria/">
+                <a href="https://www.lazada.co.id/tas-pria/">
                     <span>Tas Pria</span>
                 </a>
                         <script type="text" class="J_data_3_5">
-                            [{"childCategoryName":"Tas Ransel Pria","childCategoryUrl":"https://vin777.giving/shop-ransel-pria/"},{"childCategoryName":"Tas Laptop Jinjing","childCategoryUrl":"https://vin777.giving/tas-kerja-pria/"},{"childCategoryName":"Dompet Kartu Pria","childCategoryUrl":"https://vin777.giving/jual-dompet-kartu-pria/"},{"childCategoryName":"Dompet Koin & Pouch Pria","childCategoryUrl":"https://vin777.giving/jual-dompet-koin-pouch-pria/"},{"childCategoryName":"Tas Selempang Pria","childCategoryUrl":"https://vin777.giving/jual-tas-selempang-pria/"},{"childCategoryName":"Tas Laptop Bahu & Messenger","childCategoryUrl":"https://vin777.giving/tas-messenger-pria/"},{"childCategoryName":"Tote Bag Pria","childCategoryUrl":"https://vin777.giving/jual-tas-tote-pria/"},{"childCategoryName":"Tas Pinggang","childCategoryUrl":"https://vin777.giving/beli-tas-pinggang/"},{"childCategoryName":"Dompet Pria","childCategoryUrl":"https://vin777.giving/shop-dompet-pria/"}]
+                            [{"childCategoryName":"Tas Ransel Pria","childCategoryUrl":"https://www.lazada.co.id/shop-ransel-pria/"},{"childCategoryName":"Tas Laptop Jinjing","childCategoryUrl":"https://www.lazada.co.id/tas-kerja-pria/"},{"childCategoryName":"Dompet Kartu Pria","childCategoryUrl":"https://www.lazada.co.id/jual-dompet-kartu-pria/"},{"childCategoryName":"Dompet Koin & Pouch Pria","childCategoryUrl":"https://www.lazada.co.id/jual-dompet-koin-pouch-pria/"},{"childCategoryName":"Tas Selempang Pria","childCategoryUrl":"https://www.lazada.co.id/jual-tas-selempang-pria/"},{"childCategoryName":"Tas Laptop Bahu & Messenger","childCategoryUrl":"https://www.lazada.co.id/tas-messenger-pria/"},{"childCategoryName":"Tote Bag Pria","childCategoryUrl":"https://www.lazada.co.id/jual-tas-tote-pria/"},{"childCategoryName":"Tas Pinggang","childCategoryUrl":"https://www.lazada.co.id/beli-tas-pinggang/"},{"childCategoryName":"Dompet Pria","childCategoryUrl":"https://www.lazada.co.id/shop-dompet-pria/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_7">
-                <a href="https://vin777.giving/beli-perhiasan-pria/">
+                <a href="https://www.lazada.co.id/beli-perhiasan-pria/">
                     <span>Perhiasan Pria</span>
                 </a>
                         <script type="text" class="J_data_3_6">
-                            [{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"https://vin777.giving/beli-pria-perhiasan-fashion/"},{"childCategoryName":"Logam Berharga","childCategoryUrl":"https://vin777.giving/beli-pria-logam-berharga/"}]
+                            [{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"https://www.lazada.co.id/beli-pria-perhiasan-fashion/"},{"childCategoryName":"Logam Berharga","childCategoryUrl":"https://www.lazada.co.id/beli-pria-logam-berharga/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_8">
-                <a href="https://vin777.giving/beli-jam-tangan-pria/">
+                <a href="https://www.lazada.co.id/beli-jam-tangan-pria/">
                     <span>Jam Tangan Pria</span>
                 </a>
                         <script type="text" class="J_data_3_7">
-                            [{"childCategoryName":"Aksesoris Jam Tangan Pria","childCategoryUrl":"https://vin777.giving/beli-aksesoris-jam-tangan-pria/"},{"childCategoryName":"Jam Tangan Kasual Pria","childCategoryUrl":"https://vin777.giving/beli-jam-tangan-kasual-pria/"},{"childCategoryName":"Formal","childCategoryUrl":"https://vin777.giving/beli-jam-tangan-formal-pria/"},{"childCategoryName":"Mewah","childCategoryUrl":"https://vin777.giving/shop-jam-tangan-mewah-pria/"},{"childCategoryName":"Pra Dimiliki","childCategoryUrl":"https://vin777.giving/shop-jam-tangan-pre-owned-pria/"},{"childCategoryName":"Jam Tangan Olahraga Pria","childCategoryUrl":"https://vin777.giving/beli-jam-tangan-olahraga-pria/"}]
+                            [{"childCategoryName":"Aksesoris Jam Tangan Pria","childCategoryUrl":"https://www.lazada.co.id/beli-aksesoris-jam-tangan-pria/"},{"childCategoryName":"Jam Tangan Kasual Pria","childCategoryUrl":"https://www.lazada.co.id/beli-jam-tangan-kasual-pria/"},{"childCategoryName":"Formal","childCategoryUrl":"https://www.lazada.co.id/beli-jam-tangan-formal-pria/"},{"childCategoryName":"Mewah","childCategoryUrl":"https://www.lazada.co.id/shop-jam-tangan-mewah-pria/"},{"childCategoryName":"Pra Dimiliki","childCategoryUrl":"https://www.lazada.co.id/shop-jam-tangan-pre-owned-pria/"},{"childCategoryName":"Jam Tangan Olahraga Pria","childCategoryUrl":"https://www.lazada.co.id/beli-jam-tangan-olahraga-pria/"}]
                         </script>
             </li>
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No5" data-spm="cate_5">
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_1">
-                <a href="https://vin777.giving/fashion-pakaian-anak-laki-laki">
+                <a href="https://www.lazada.co.id/fashion-pakaian-anak-laki-laki">
                     <span>Pakaian Anak Laki-laki</span>
                 </a>
                         <script type="text" class="J_data_4_0">
-                            [{"childCategoryName":"Topi Anak Laki-laki","childCategoryUrl":"https://vin777.giving/topi-anak-laki-laki"},{"childCategoryName":"Hoodie Anak Laki-laki","childCategoryUrl":"https://vin777.giving/jual-hoodie-anak-laki-laki"},{"childCategoryName":"Jaket & Mantel Anak Laki-laki","childCategoryUrl":"https://vin777.giving/jaket-mantel-anak-laki-laki"},{"childCategoryName":"Celana Pendek Anak Laki-laki","childCategoryUrl":"https://vin777.giving/beli-celana-pendek-pria"},{"childCategoryName":"Pakaian Tidur Anak Laki-laki","childCategoryUrl":"https://vin777.giving/pakaian-tidur-anak-laki-laki"},{"childCategoryName":"Sweater & Cardigan Anak","childCategoryUrl":"https://vin777.giving/sweater-cardigan-anak-laki-laki"},{"childCategoryName":"Payung & Pakaian Hujan Anak","childCategoryUrl":"https://vin777.giving/payung-pakaian-hujan-anak-laki-laki"},{"childCategoryName":"Pakaian dalam","childCategoryUrl":"https://vin777.giving/shop-pakaian-dalam"},{"childCategoryName":"Celana & Jeans Anak Laki-laki","childCategoryUrl":"https://vin777.giving/celana-jeans-anak-laki-laki"},{"childCategoryName":"Kaus Kaki","childCategoryUrl":"https://vin777.giving/shop-kaus-kaki"},{"childCategoryName":"Baju & Atasan Anak Laki-laki","childCategoryUrl":"https://vin777.giving/baju-atasan-anak-laki-laki"}]
+                            [{"childCategoryName":"Topi Anak Laki-laki","childCategoryUrl":"https://www.lazada.co.id/topi-anak-laki-laki"},{"childCategoryName":"Hoodie Anak Laki-laki","childCategoryUrl":"https://www.lazada.co.id/jual-hoodie-anak-laki-laki"},{"childCategoryName":"Jaket & Mantel Anak Laki-laki","childCategoryUrl":"https://www.lazada.co.id/jaket-mantel-anak-laki-laki"},{"childCategoryName":"Celana Pendek Anak Laki-laki","childCategoryUrl":"https://www.lazada.co.id/beli-celana-pendek-pria"},{"childCategoryName":"Pakaian Tidur Anak Laki-laki","childCategoryUrl":"https://www.lazada.co.id/pakaian-tidur-anak-laki-laki"},{"childCategoryName":"Sweater & Cardigan Anak","childCategoryUrl":"https://www.lazada.co.id/sweater-cardigan-anak-laki-laki"},{"childCategoryName":"Payung & Pakaian Hujan Anak","childCategoryUrl":"https://www.lazada.co.id/payung-pakaian-hujan-anak-laki-laki"},{"childCategoryName":"Pakaian dalam","childCategoryUrl":"https://www.lazada.co.id/shop-pakaian-dalam"},{"childCategoryName":"Celana & Jeans Anak Laki-laki","childCategoryUrl":"https://www.lazada.co.id/celana-jeans-anak-laki-laki"},{"childCategoryName":"Kaus Kaki","childCategoryUrl":"https://www.lazada.co.id/shop-kaus-kaki"},{"childCategoryName":"Baju & Atasan Anak Laki-laki","childCategoryUrl":"https://www.lazada.co.id/baju-atasan-anak-laki-laki"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_2">
-                <a href="https://vin777.giving/pakaian-anak-perempuan">
+                <a href="https://www.lazada.co.id/pakaian-anak-perempuan">
                     <span>Pakaian Anak Perempuan</span>
                 </a>
                         <script type="text" class="J_data_4_1">
-                            [{"childCategoryName":"Bawahan Anak Perempuan","childCategoryUrl":"https://vin777.giving/celana-jeans-anak-perempuan"},{"childCategoryName":"Dress Anak Perempuan","childCategoryUrl":"https://vin777.giving/fashion-dress-anak-perempuan"},{"childCategoryName":"Scarf Anak Perempuan","childCategoryUrl":"https://vin777.giving/scarf-sarung-tangan-anak-perempuan"},{"childCategoryName":"Aksesori Rambut Anak Perempuan","childCategoryUrl":"https://vin777.giving/jual-aksesori-rambut-anak-perempuan"},{"childCategoryName":"Topi Anak Perempuan","childCategoryUrl":"https://vin777.giving/topi-anak-perempuan"},{"childCategoryName":"Hoodie Anak Perempuan","childCategoryUrl":"https://vin777.giving/jual-hoodie-anak-laki-laki-2"},{"childCategoryName":"Jaket & Mantel Anak Perempuan","childCategoryUrl":"https://vin777.giving/jaket-mantel-anak-perempuan"},{"childCategoryName":"Baju & Atasan Anak Perempuan","childCategoryUrl":"https://vin777.giving/baju-atasan-anak-perempuan"},{"childCategoryName":"Payung & Pakaian Hujan Anak","childCategoryUrl":"https://vin777.giving/payung-jas-hujan-anak-perempuan"},{"childCategoryName":"Pakaian Dalam Anak Perempuan","childCategoryUrl":"https://vin777.giving/pakaian-tidur-anak-perempuan"},{"childCategoryName":"Jumpsuits & Overalls","childCategoryUrl":"https://vin777.giving/shop-girls-jumpsuits-overalls"}]
+                            [{"childCategoryName":"Bawahan Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/celana-jeans-anak-perempuan"},{"childCategoryName":"Dress Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/fashion-dress-anak-perempuan"},{"childCategoryName":"Scarf Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/scarf-sarung-tangan-anak-perempuan"},{"childCategoryName":"Aksesori Rambut Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/jual-aksesori-rambut-anak-perempuan"},{"childCategoryName":"Topi Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/topi-anak-perempuan"},{"childCategoryName":"Hoodie Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/jual-hoodie-anak-laki-laki-2"},{"childCategoryName":"Jaket & Mantel Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/jaket-mantel-anak-perempuan"},{"childCategoryName":"Baju & Atasan Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/baju-atasan-anak-perempuan"},{"childCategoryName":"Payung & Pakaian Hujan Anak","childCategoryUrl":"https://www.lazada.co.id/payung-jas-hujan-anak-perempuan"},{"childCategoryName":"Pakaian Dalam Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/pakaian-tidur-anak-perempuan"},{"childCategoryName":"Jumpsuits & Overalls","childCategoryUrl":"https://www.lazada.co.id/shop-girls-jumpsuits-overalls"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_3">
-                <a href="https://vin777.giving/shop-boy's-muslim-wear">
+                <a href="https://www.lazada.co.id/shop-boy's-muslim-wear">
                     <span>Pakaian Anak Muslim Laki-Laki</span>
                 </a>
                         <script type="text" class="J_data_4_2">
-                            [{"childCategoryName":"Kemeja Anak Laki-Laki","childCategoryUrl":"https://vin777.giving/shop-boy's-muslimin-shirt"},{"childCategoryName":"Celana Anak Laki-Laki","childCategoryUrl":"https://vin777.giving/shop-boy's-muslimin-pants"},{"childCategoryName":"Aksesoris Anak Laki-Laki","childCategoryUrl":"https://vin777.giving/shop-boy's-muslimin-accessories"}]
+                            [{"childCategoryName":"Kemeja Anak Laki-Laki","childCategoryUrl":"https://www.lazada.co.id/shop-boy's-muslimin-shirt"},{"childCategoryName":"Celana Anak Laki-Laki","childCategoryUrl":"https://www.lazada.co.id/shop-boy's-muslimin-pants"},{"childCategoryName":"Aksesoris Anak Laki-Laki","childCategoryUrl":"https://www.lazada.co.id/shop-boy's-muslimin-accessories"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_4">
-                <a href="https://vin777.giving/shop-girls-muslim-wear">
+                <a href="https://www.lazada.co.id/shop-girls-muslim-wear">
                     <span>Pakaian Anak Muslim Perempuan</span>
                 </a>
                         <script type="text" class="J_data_4_3">
-                            [{"childCategoryName":"Hijab Anak Perempuan","childCategoryUrl":"https://vin777.giving/shop-girls-muslim-wear-hijabs/"},{"childCategoryName":"Dress Anak Perempuan","childCategoryUrl":"https://vin777.giving/shop-girls-muslim-wear-dresses-jumpsuits/"}]
+                            [{"childCategoryName":"Hijab Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/shop-girls-muslim-wear-hijabs/"},{"childCategoryName":"Dress Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/shop-girls-muslim-wear-dresses-jumpsuits/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_5">
-                <a href="https://vin777.giving/fashion-sepatu-anak-laki-laki">
+                <a href="https://www.lazada.co.id/fashion-sepatu-anak-laki-laki">
                     <span>Sepatu Anak Laki-laki</span>
                 </a>
                         <script type="text" class="J_data_4_4">
-                            [{"childCategoryName":"Sepatu Boot Anak Laki-laki","childCategoryUrl":"https://vin777.giving/sepatu-boot-anak-laki-laki"},{"childCategoryName":"Sandal Anak Laki-laki","childCategoryUrl":"https://vin777.giving/fashion-sandal-jepit-anak-laki-laki"},{"childCategoryName":"Sepatu Formal Anak Laki-laki","childCategoryUrl":"https://vin777.giving/sepatu-lace-ups-anak-laki-laki"},{"childCategoryName":"Aksesoris Sepatu Anak Laki","childCategoryUrl":"https://vin777.giving/fashion-aksesoris-sepatu-anak-laki-laki"},{"childCategoryName":"Slip-n Anak Laki-laki","childCategoryUrl":"https://vin777.giving/sepatu-slip-on-anak-laki-laki"},{"childCategoryName":"Sepatu Sneaker Anak Laki-laki","childCategoryUrl":"https://vin777.giving/sepatu-sneaker-anak-laki-laki"}]
+                            [{"childCategoryName":"Sepatu Boot Anak Laki-laki","childCategoryUrl":"https://www.lazada.co.id/sepatu-boot-anak-laki-laki"},{"childCategoryName":"Sandal Anak Laki-laki","childCategoryUrl":"https://www.lazada.co.id/fashion-sandal-jepit-anak-laki-laki"},{"childCategoryName":"Sepatu Formal Anak Laki-laki","childCategoryUrl":"https://www.lazada.co.id/sepatu-lace-ups-anak-laki-laki"},{"childCategoryName":"Aksesoris Sepatu Anak Laki","childCategoryUrl":"https://www.lazada.co.id/fashion-aksesoris-sepatu-anak-laki-laki"},{"childCategoryName":"Slip-n Anak Laki-laki","childCategoryUrl":"https://www.lazada.co.id/sepatu-slip-on-anak-laki-laki"},{"childCategoryName":"Sepatu Sneaker Anak Laki-laki","childCategoryUrl":"https://www.lazada.co.id/sepatu-sneaker-anak-laki-laki"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_6">
-                <a href="https://vin777.giving/fashion-sepatu-anak-perempuan">
+                <a href="https://www.lazada.co.id/fashion-sepatu-anak-perempuan">
                     <span>Sepatu Anak Perempuan</span>
                 </a>
                         <script type="text" class="J_data_4_5">
-                            [{"childCategoryName":"Sepatu Flat Anak Perempuan","childCategoryUrl":"https://vin777.giving/sepatu-balerina-anak-perempuan"},{"childCategoryName":"Sepatu Boot Anak Perempuan","childCategoryUrl":"https://vin777.giving/sepatu-boot-anak-perempuan"},{"childCategoryName":"Sandal Anak Perempuan","childCategoryUrl":"https://vin777.giving/fashion-sandal-jepit-anak-perempuan"},{"childCategoryName":"Sepatu Formal Anak Perempuan","childCategoryUrl":"https://vin777.giving/sepatu-lace-ups-anak-perempuan"},{"childCategoryName":"Aksesoris Sepatu Anak","childCategoryUrl":"https://vin777.giving/fashion-aksesoris-sepatu-anak-perempuan"},{"childCategoryName":"Sepatu Sneaker Anak Perempuan","childCategoryUrl":"https://vin777.giving/sepatu-sneakers-anak-perempuan"}]
+                            [{"childCategoryName":"Sepatu Flat Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/sepatu-balerina-anak-perempuan"},{"childCategoryName":"Sepatu Boot Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/sepatu-boot-anak-perempuan"},{"childCategoryName":"Sandal Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/fashion-sandal-jepit-anak-perempuan"},{"childCategoryName":"Sepatu Formal Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/sepatu-lace-ups-anak-perempuan"},{"childCategoryName":"Aksesoris Sepatu Anak","childCategoryUrl":"https://www.lazada.co.id/fashion-aksesoris-sepatu-anak-perempuan"},{"childCategoryName":"Sepatu Sneaker Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/sepatu-sneakers-anak-perempuan"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_7">
-                <a href="https://vin777.giving/beli-tas-anak-tl/">
+                <a href="https://www.lazada.co.id/beli-tas-anak-tl/">
                     <span>Tas Anak</span>
                 </a>
                         <script type="text" class="J_data_4_6">
-                            [{"childCategoryName":"Tas Bahu Anak","childCategoryUrl":"https://vin777.giving/beli-tas-bahu-anak/"},{"childCategoryName":"Ransel Troli Anak","childCategoryUrl":"https://vin777.giving/beli-ransel-troli-anak/"},{"childCategoryName":"Ransel Anak","childCategoryUrl":"https://vin777.giving/beli-ransel-anak/"},{"childCategoryName":"Aksesoris Tas","childCategoryUrl":"https://vin777.giving/beli-aksesoris-anak/"},{"childCategoryName":"Koper","childCategoryUrl":"https://vin777.giving/koper-anak-2/"}]
+                            [{"childCategoryName":"Tas Bahu Anak","childCategoryUrl":"https://www.lazada.co.id/beli-tas-bahu-anak/"},{"childCategoryName":"Ransel Troli Anak","childCategoryUrl":"https://www.lazada.co.id/beli-ransel-troli-anak/"},{"childCategoryName":"Ransel Anak","childCategoryUrl":"https://www.lazada.co.id/beli-ransel-anak/"},{"childCategoryName":"Aksesoris Tas","childCategoryUrl":"https://www.lazada.co.id/beli-aksesoris-anak/"},{"childCategoryName":"Koper","childCategoryUrl":"https://www.lazada.co.id/koper-anak-2/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_8">
-                <a href="https://vin777.giving/beli-perhiasan-anak/">
+                <a href="https://www.lazada.co.id/beli-perhiasan-anak/">
                     <span>Perhiasan Anak</span>
                 </a>
                         <script type="text" class="J_data_4_7">
-                            [{"childCategoryName":"Emas Murni","childCategoryUrl":"https://vin777.giving/beli-anak-emas-murni/"},{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"https://vin777.giving/beli-anak-perhiasan-fashion/"}]
+                            [{"childCategoryName":"Emas Murni","childCategoryUrl":"https://www.lazada.co.id/beli-anak-emas-murni/"},{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"https://www.lazada.co.id/beli-anak-perhiasan-fashion/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_9">
-                <a href="https://vin777.giving/beli-jam-tangan-anak/">
+                <a href="https://www.lazada.co.id/beli-jam-tangan-anak/">
                     <span>Jam Tangan Anak</span>
                 </a>
                         <script type="text" class="J_data_4_8">
-                            [{"childCategoryName":"Jam Tangan Anak Laki-Laki","childCategoryUrl":"https://vin777.giving/beli-jam-tangan-anak-laki-laki/"},{"childCategoryName":"Jam Tangan Anak Perempuan","childCategoryUrl":"https://vin777.giving/beli-jam-tangan-anak-perempuan/"}]
+                            [{"childCategoryName":"Jam Tangan Anak Laki-Laki","childCategoryUrl":"https://www.lazada.co.id/beli-jam-tangan-anak-laki-laki/"},{"childCategoryName":"Jam Tangan Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/beli-jam-tangan-anak-perempuan/"}]
                         </script>
             </li>
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No6" data-spm="cate_6">
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_1">
-                <a href="https://vin777.giving/beli-perawatan-kulit/">
+                <a href="https://www.lazada.co.id/beli-perawatan-kulit/">
                     <span>Perawatan Kulit</span>
                 </a>
                         <script type="text" class="J_data_5_0">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Serum Perawatan Wajah","childCategoryUrl":"https://vin777.giving/beli-serum-perawatan-wajah"},{"childCategoryName":"Dermacare","childCategoryUrl":"https://vin777.giving/beli-dermacare"},{"childCategoryName":"Pelembab Wajah","childCategoryUrl":"https://vin777.giving/shop-pelembab-wajah"},{"childCategoryName":"Pembersih Wajah","childCategoryUrl":"https://vin777.giving/pembersih-wajah"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"https://vin777.giving/beli-masker-wajah"},{"childCategoryName":"Toner","childCategoryUrl":"https://vin777.giving/beli-toner"},{"childCategoryName":"Tabir Surya","childCategoryUrl":"https://vin777.giving/beli-tabir-surya-aftersun"},{"childCategoryName":"Set Perawatan Wajah","childCategoryUrl":"https://vin777.giving/beli-set-perawatan-wajah"},{"childCategoryName":"Pelembab & Perawatan Bibir","childCategoryUrl":"https://vin777.giving/beli-lip-balm-perawatan-bibir"},{"childCategoryName":"Face Scrubs & Exfoliators","childCategoryUrl":"https://vin777.giving/beli-scrub-pengelupas-wajah"},{"childCategoryName":"Perawatan Mata","childCategoryUrl":"https://vin777.giving/shop-perawatan-mata"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Serum Perawatan Wajah","childCategoryUrl":"https://www.lazada.co.id/beli-serum-perawatan-wajah"},{"childCategoryName":"Dermacare","childCategoryUrl":"https://www.lazada.co.id/beli-dermacare"},{"childCategoryName":"Pelembab Wajah","childCategoryUrl":"https://www.lazada.co.id/shop-pelembab-wajah"},{"childCategoryName":"Pembersih Wajah","childCategoryUrl":"https://www.lazada.co.id/pembersih-wajah"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"https://www.lazada.co.id/beli-masker-wajah"},{"childCategoryName":"Toner","childCategoryUrl":"https://www.lazada.co.id/beli-toner"},{"childCategoryName":"Tabir Surya","childCategoryUrl":"https://www.lazada.co.id/beli-tabir-surya-aftersun"},{"childCategoryName":"Set Perawatan Wajah","childCategoryUrl":"https://www.lazada.co.id/beli-set-perawatan-wajah"},{"childCategoryName":"Pelembab & Perawatan Bibir","childCategoryUrl":"https://www.lazada.co.id/beli-lip-balm-perawatan-bibir"},{"childCategoryName":"Face Scrubs & Exfoliators","childCategoryUrl":"https://www.lazada.co.id/beli-scrub-pengelupas-wajah"},{"childCategoryName":"Perawatan Mata","childCategoryUrl":"https://www.lazada.co.id/shop-perawatan-mata"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_2">
-                <a href="https://vin777.giving/beli-makeup/">
+                <a href="https://www.lazada.co.id/beli-makeup/">
                     <span>Makeup</span>
                 </a>
                         <script type="text" class="J_data_5_1">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makeup Bibir","childCategoryUrl":"https://vin777.giving/beli-make-up-bibir"},{"childCategoryName":"Lipstik","childCategoryUrl":"https://vin777.giving/beli-lipstik"},{"childCategoryName":"Makeup Wajah","childCategoryUrl":"https://vin777.giving/makeup-wajah"},{"childCategoryName":"Foundation","childCategoryUrl":"https://vin777.giving/beli-foundation"},{"childCategoryName":"Makeup Mata","childCategoryUrl":"https://vin777.giving/beli-mata"},{"childCategoryName":"Maskara","childCategoryUrl":"https://vin777.giving/beli-maskara"},{"childCategoryName":"Aksesoris Makeup","childCategoryUrl":"https://vin777.giving/beli-aksesoris-makeup"},{"childCategoryName":"Set Kuas & Kuas Makeup","childCategoryUrl":"https://vin777.giving/beli-kuas-aplikator"},{"childCategoryName":"Perawatan Kuku","childCategoryUrl":"https://vin777.giving/beli-perawatan-kuku"},{"childCategoryName":"Set Makeup & Palet","childCategoryUrl":"https://vin777.giving/shop-palet-set-makeup"},{"childCategoryName":"Pembersih Makeup","childCategoryUrl":"https://vin777.giving/beli-pembersih-makeup"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makeup Bibir","childCategoryUrl":"https://www.lazada.co.id/beli-make-up-bibir"},{"childCategoryName":"Lipstik","childCategoryUrl":"https://www.lazada.co.id/beli-lipstik"},{"childCategoryName":"Makeup Wajah","childCategoryUrl":"https://www.lazada.co.id/makeup-wajah"},{"childCategoryName":"Foundation","childCategoryUrl":"https://www.lazada.co.id/beli-foundation"},{"childCategoryName":"Makeup Mata","childCategoryUrl":"https://www.lazada.co.id/beli-mata"},{"childCategoryName":"Maskara","childCategoryUrl":"https://www.lazada.co.id/beli-maskara"},{"childCategoryName":"Aksesoris Makeup","childCategoryUrl":"https://www.lazada.co.id/beli-aksesoris-makeup"},{"childCategoryName":"Set Kuas & Kuas Makeup","childCategoryUrl":"https://www.lazada.co.id/beli-kuas-aplikator"},{"childCategoryName":"Perawatan Kuku","childCategoryUrl":"https://www.lazada.co.id/beli-perawatan-kuku"},{"childCategoryName":"Set Makeup & Palet","childCategoryUrl":"https://www.lazada.co.id/shop-palet-set-makeup"},{"childCategoryName":"Pembersih Makeup","childCategoryUrl":"https://www.lazada.co.id/beli-pembersih-makeup"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_3">
-                <a href="https://vin777.giving/beli-perawatan-rambut/">
+                <a href="https://www.lazada.co.id/beli-perawatan-rambut/">
                     <span>Perawatan Rambut</span>
                 </a>
                         <script type="text" class="J_data_5_2">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Shampo","childCategoryUrl":"https://vin777.giving/beli-sampo"},{"childCategoryName":"Perawatan Rambut","childCategoryUrl":"https://vin777.giving/perawatan-intensif"},{"childCategoryName":"Aksesoris Rambut","childCategoryUrl":"https://vin777.giving/aksesoris-perawatan-rambut"},{"childCategoryName":"Styling Rambut","childCategoryUrl":"https://vin777.giving/beli-styling-rambut"},{"childCategoryName":"Pewarna Rambut","childCategoryUrl":"https://vin777.giving/beli-cat-rambut"},{"childCategoryName":"Kondisioner","childCategoryUrl":"https://vin777.giving/beli-kondisioner"},{"childCategoryName":"Paket Hadiah","childCategoryUrl":"https://vin777.giving/beli-paket-hadiah-bingkisan-perawatan-rambut"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Shampo","childCategoryUrl":"https://www.lazada.co.id/beli-sampo"},{"childCategoryName":"Perawatan Rambut","childCategoryUrl":"https://www.lazada.co.id/perawatan-intensif"},{"childCategoryName":"Aksesoris Rambut","childCategoryUrl":"https://www.lazada.co.id/aksesoris-perawatan-rambut"},{"childCategoryName":"Styling Rambut","childCategoryUrl":"https://www.lazada.co.id/beli-styling-rambut"},{"childCategoryName":"Pewarna Rambut","childCategoryUrl":"https://www.lazada.co.id/beli-cat-rambut"},{"childCategoryName":"Kondisioner","childCategoryUrl":"https://www.lazada.co.id/beli-kondisioner"},{"childCategoryName":"Paket Hadiah","childCategoryUrl":"https://www.lazada.co.id/beli-paket-hadiah-bingkisan-perawatan-rambut"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_4">
-                <a href="https://vin777.giving/beli-perlengkapan-mandi-tubuh/">
+                <a href="https://www.lazada.co.id/beli-perlengkapan-mandi-tubuh/">
                     <span>Perawatan Tubuh</span>
                 </a>
                         <script type="text" class="J_data_5_3">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Losion Tubuh","childCategoryUrl":"https://vin777.giving/beli-losion-krim-tubuh"},{"childCategoryName":"Sabun Cair","childCategoryUrl":"https://vin777.giving/shop-Sabun-Cair"},{"childCategoryName":"Scrub Tubuh","childCategoryUrl":"https://vin777.giving/beli-scrub-tubuh"},{"childCategoryName":"Perawatan Payudara","childCategoryUrl":"https://vin777.giving/perawatan-payudara"},{"childCategoryName":"Perawatan Tubuh","childCategoryUrl":"https://vin777.giving/shop-Perawatan-Tubuh"},{"childCategoryName":"Perawatan Kaki","childCategoryUrl":"https://vin777.giving/beli-perawatan-kaki"},{"childCategoryName":"Sabun Batang","childCategoryUrl":"https://vin777.giving/shop-Sabun-Batang"},{"childCategoryName":"Aksesoris Tubuh","childCategoryUrl":"https://vin777.giving/beli-aksesoris-perlengkapan-mandi-tubuh"},{"childCategoryName":"Paket Hadiah","childCategoryUrl":"https://vin777.giving/beli-paket-hadiah-bingkisan-alat-mandi-tubuh"},{"childCategoryName":"Penghilang Bulu","childCategoryUrl":"https://vin777.giving/beli-perontok-rambut"},{"childCategoryName":"Sabun Tangan","childCategoryUrl":"https://vin777.giving/beli-sabun-pembersih-tangan"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Losion Tubuh","childCategoryUrl":"https://www.lazada.co.id/beli-losion-krim-tubuh"},{"childCategoryName":"Sabun Cair","childCategoryUrl":"https://www.lazada.co.id/shop-Sabun-Cair"},{"childCategoryName":"Scrub Tubuh","childCategoryUrl":"https://www.lazada.co.id/beli-scrub-tubuh"},{"childCategoryName":"Perawatan Payudara","childCategoryUrl":"https://www.lazada.co.id/perawatan-payudara"},{"childCategoryName":"Perawatan Tubuh","childCategoryUrl":"https://www.lazada.co.id/shop-Perawatan-Tubuh"},{"childCategoryName":"Perawatan Kaki","childCategoryUrl":"https://www.lazada.co.id/beli-perawatan-kaki"},{"childCategoryName":"Sabun Batang","childCategoryUrl":"https://www.lazada.co.id/shop-Sabun-Batang"},{"childCategoryName":"Aksesoris Tubuh","childCategoryUrl":"https://www.lazada.co.id/beli-aksesoris-perlengkapan-mandi-tubuh"},{"childCategoryName":"Paket Hadiah","childCategoryUrl":"https://www.lazada.co.id/beli-paket-hadiah-bingkisan-alat-mandi-tubuh"},{"childCategoryName":"Penghilang Bulu","childCategoryUrl":"https://www.lazada.co.id/beli-perontok-rambut"},{"childCategoryName":"Sabun Tangan","childCategoryUrl":"https://www.lazada.co.id/beli-sabun-pembersih-tangan"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_5">
-                <a href="https://vin777.giving/beli-perawatan-kesehatan-pribadi/">
+                <a href="https://www.lazada.co.id/beli-perawatan-kesehatan-pribadi/">
                     <span>Perawatan Diri</span>
                 </a>
                         <script type="text" class="J_data_5_4">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Mulut","childCategoryUrl":"https://vin777.giving/perawatan-mulut"},{"childCategoryName":"Pembersih Wanita","childCategoryUrl":"https://vin777.giving/beli-pembersih-wanita"},{"childCategoryName":"Keamanan Diri","childCategoryUrl":"https://vin777.giving/beli-keamanan-diri"},{"childCategoryName":"Beli Deodoran","childCategoryUrl":"https://vin777.giving/beli-deodoran"},{"childCategoryName":"Perawatan Mata","childCategoryUrl":"https://vin777.giving/shop-perawatan-optik-pribadi"},{"childCategoryName":"Obat Anti Serangga","childCategoryUrl":"https://vin777.giving/shop-Obat-Anti-Serangga"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Mulut","childCategoryUrl":"https://www.lazada.co.id/perawatan-mulut"},{"childCategoryName":"Pembersih Wanita","childCategoryUrl":"https://www.lazada.co.id/beli-pembersih-wanita"},{"childCategoryName":"Keamanan Diri","childCategoryUrl":"https://www.lazada.co.id/beli-keamanan-diri"},{"childCategoryName":"Beli Deodoran","childCategoryUrl":"https://www.lazada.co.id/beli-deodoran"},{"childCategoryName":"Perawatan Mata","childCategoryUrl":"https://www.lazada.co.id/shop-perawatan-optik-pribadi"},{"childCategoryName":"Obat Anti Serangga","childCategoryUrl":"https://www.lazada.co.id/shop-Obat-Anti-Serangga"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_6">
-                <a href="https://vin777.giving/beli-parfum/">
+                <a href="https://www.lazada.co.id/beli-parfum/">
                     <span>Parfum</span>
                 </a>
                         <script type="text" class="J_data_5_5">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pria","childCategoryUrl":"https://vin777.giving/beli-parfum-pria"},{"childCategoryName":"Wanita","childCategoryUrl":"https://vin777.giving/beli-parfum-wanita"},{"childCategoryName":"Unisex","childCategoryUrl":"https://vin777.giving/beli-parfum-unisex"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pria","childCategoryUrl":"https://www.lazada.co.id/beli-parfum-pria"},{"childCategoryName":"Wanita","childCategoryUrl":"https://www.lazada.co.id/beli-parfum-wanita"},{"childCategoryName":"Unisex","childCategoryUrl":"https://www.lazada.co.id/beli-parfum-unisex"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_7">
-                <a href="https://vin777.giving/beli-alat-kesehatan-kecantikan/">
+                <a href="https://www.lazada.co.id/beli-alat-kesehatan-kecantikan/">
                     <span>Alat Kecantikan</span>
                 </a>
                         <script type="text" class="J_data_5_6">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Alat Pelangsing & Pijat","childCategoryUrl":"https://vin777.giving/alat-pelangsing-dan-pemijat-elektrik"},{"childCategoryName":"Sauna Portabel","childCategoryUrl":"https://vin777.giving/beli-sauna-portabel"},{"childCategoryName":"Foot Relief","childCategoryUrl":"https://vin777.giving/beli-foot-relief"},{"childCategoryName":"Alat Cukur & Trimmer","childCategoryUrl":"https://vin777.giving/aksesoris-alat-cukur-dan-trimmer"},{"childCategoryName":"Alat Perawatan Wajah","childCategoryUrl":"https://vin777.giving/shop-alat-perawatan-kulit-wajah"},{"childCategoryName":"Alat Perawatan Tubuh","childCategoryUrl":"https://vin777.giving/shop-alat-perawatan-kulit-tubuh"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Alat Pelangsing & Pijat","childCategoryUrl":"https://www.lazada.co.id/alat-pelangsing-dan-pemijat-elektrik"},{"childCategoryName":"Sauna Portabel","childCategoryUrl":"https://www.lazada.co.id/beli-sauna-portabel"},{"childCategoryName":"Foot Relief","childCategoryUrl":"https://www.lazada.co.id/beli-foot-relief"},{"childCategoryName":"Alat Cukur & Trimmer","childCategoryUrl":"https://www.lazada.co.id/aksesoris-alat-cukur-dan-trimmer"},{"childCategoryName":"Alat Perawatan Wajah","childCategoryUrl":"https://www.lazada.co.id/shop-alat-perawatan-kulit-wajah"},{"childCategoryName":"Alat Perawatan Tubuh","childCategoryUrl":"https://www.lazada.co.id/shop-alat-perawatan-kulit-tubuh"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_8">
-                <a href="https://vin777.giving/beli-suplemen-makanan/">
+                <a href="https://www.lazada.co.id/beli-suplemen-makanan/">
                     <span>Suplemen Makanan</span>
                 </a>
                         <script type="text" class="J_data_5_7">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pengatur Berat Badan","childCategoryUrl":"https://vin777.giving/beli-pengatur-berat-badan"},{"childCategoryName":"Pembakar Lemak","childCategoryUrl":"https://vin777.giving/beli-pembakar-lemak"},{"childCategoryName":"Minuman Pelangsing","childCategoryUrl":"https://vin777.giving/beli-minuman-pelangsing"},{"childCategoryName":"Suplemen Kecantikan","childCategoryUrl":"https://vin777.giving/beli-suplemen-kecantikan"},{"childCategoryName":"Suplemen Pemutih","childCategoryUrl":"https://vin777.giving/beli-suplemen-pemutih"},{"childCategoryName":"Multivitamin","childCategoryUrl":"https://vin777.giving/multivitamin/"},{"childCategoryName":"Obat Tradisional","childCategoryUrl":"https://vin777.giving/beli-obat-obatan-tradisional"},{"childCategoryName":"Sistem Imun","childCategoryUrl":"https://vin777.giving/beli-sistem-imun"},{"childCategoryName":"Nutrisi Olahraga","childCategoryUrl":"https://vin777.giving/beli-nutrisi-olahraga"},{"childCategoryName":"Penambah Berat Badan","childCategoryUrl":"https://vin777.giving/beli-suplemen-penambah-berat-badan"},{"childCategoryName":"Protein","childCategoryUrl":"https://vin777.giving/beli-protein"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pengatur Berat Badan","childCategoryUrl":"https://www.lazada.co.id/beli-pengatur-berat-badan"},{"childCategoryName":"Pembakar Lemak","childCategoryUrl":"https://www.lazada.co.id/beli-pembakar-lemak"},{"childCategoryName":"Minuman Pelangsing","childCategoryUrl":"https://www.lazada.co.id/beli-minuman-pelangsing"},{"childCategoryName":"Suplemen Kecantikan","childCategoryUrl":"https://www.lazada.co.id/beli-suplemen-kecantikan"},{"childCategoryName":"Suplemen Pemutih","childCategoryUrl":"https://www.lazada.co.id/beli-suplemen-pemutih"},{"childCategoryName":"Multivitamin","childCategoryUrl":"https://www.lazada.co.id/multivitamin/"},{"childCategoryName":"Obat Tradisional","childCategoryUrl":"https://www.lazada.co.id/beli-obat-obatan-tradisional"},{"childCategoryName":"Sistem Imun","childCategoryUrl":"https://www.lazada.co.id/beli-sistem-imun"},{"childCategoryName":"Nutrisi Olahraga","childCategoryUrl":"https://www.lazada.co.id/beli-nutrisi-olahraga"},{"childCategoryName":"Penambah Berat Badan","childCategoryUrl":"https://www.lazada.co.id/beli-suplemen-penambah-berat-badan"},{"childCategoryName":"Protein","childCategoryUrl":"https://www.lazada.co.id/beli-protein"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_9">
-                <a href="https://vin777.giving/beli-alat-medis/">
+                <a href="https://www.lazada.co.id/beli-alat-medis/">
                     <span>Alat Medis</span>
                 </a>
                         <script type="text" class="J_data_5_8">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Aksesoris Kesehatan","childCategoryUrl":"https://vin777.giving/aksesoris-kesehatan"},{"childCategoryName":"Alat Tes Kesehatan","childCategoryUrl":"https://vin777.giving/beli-alat-tes-kesehatan"},{"childCategoryName":"Obat-Obatan","childCategoryUrl":"https://vin777.giving/shop-over-the-counter-medicine/"},{"childCategoryName":"Perban & Perlengkapan Cedera","childCategoryUrl":"https://vin777.giving/perban-alat-terapi-cedera"},{"childCategoryName":"Timbangan & Alat Kadar Lemak","childCategoryUrl":"https://vin777.giving/beli-timbangan-alat-ukur-kadar-lemak"},{"childCategoryName":"P3K","childCategoryUrl":"https://vin777.giving/beli-p3k"},{"childCategoryName":"Kursi Roda","childCategoryUrl":"https://vin777.giving/beli-kursi-roda"},{"childCategoryName":"Salep & Krim","childCategoryUrl":"https://vin777.giving/shop-salep-dan-krim"},{"childCategoryName":"Alat Inhalasi & Nebulizer","childCategoryUrl":"https://vin777.giving/beli-alat-inhalasi-nebulizer"},{"childCategoryName":"Alat Tes Medis","childCategoryUrl":"https://vin777.giving/tes-medis"},{"childCategoryName":"Stetoskop","childCategoryUrl":"https://vin777.giving/beli-stetoskop"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Aksesoris Kesehatan","childCategoryUrl":"https://www.lazada.co.id/aksesoris-kesehatan"},{"childCategoryName":"Alat Tes Kesehatan","childCategoryUrl":"https://www.lazada.co.id/beli-alat-tes-kesehatan"},{"childCategoryName":"Obat-Obatan","childCategoryUrl":"https://www.lazada.co.id/shop-over-the-counter-medicine/"},{"childCategoryName":"Perban & Perlengkapan Cedera","childCategoryUrl":"https://www.lazada.co.id/perban-alat-terapi-cedera"},{"childCategoryName":"Timbangan & Alat Kadar Lemak","childCategoryUrl":"https://www.lazada.co.id/beli-timbangan-alat-ukur-kadar-lemak"},{"childCategoryName":"P3K","childCategoryUrl":"https://www.lazada.co.id/beli-p3k"},{"childCategoryName":"Kursi Roda","childCategoryUrl":"https://www.lazada.co.id/beli-kursi-roda"},{"childCategoryName":"Salep & Krim","childCategoryUrl":"https://www.lazada.co.id/shop-salep-dan-krim"},{"childCategoryName":"Alat Inhalasi & Nebulizer","childCategoryUrl":"https://www.lazada.co.id/beli-alat-inhalasi-nebulizer"},{"childCategoryName":"Alat Tes Medis","childCategoryUrl":"https://www.lazada.co.id/tes-medis"},{"childCategoryName":"Stetoskop","childCategoryUrl":"https://www.lazada.co.id/beli-stetoskop"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_10">
-                <a href="https://vin777.giving/jual-perlengkapan-kesehatan-seksual/">
+                <a href="https://www.lazada.co.id/jual-perlengkapan-kesehatan-seksual/">
                     <span>Sexual Wellness</span>
                 </a>
                         <script type="text" class="J_data_5_9">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kondom","childCategoryUrl":"https://vin777.giving/beli-kondom"},{"childCategoryName":"Pelumas","childCategoryUrl":"https://vin777.giving/beli-pelumas"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kondom","childCategoryUrl":"https://www.lazada.co.id/beli-kondom"},{"childCategoryName":"Pelumas","childCategoryUrl":"https://www.lazada.co.id/beli-pelumas"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_11">
-                <a href="https://vin777.giving/beli-perawatan-tubuh-kesehatan-pria/">
+                <a href="https://www.lazada.co.id/beli-perawatan-tubuh-kesehatan-pria/">
                     <span>Perawatan Pria</span>
                 </a>
                         <script type="text" class="J_data_5_10">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Rambut","childCategoryUrl":"https://vin777.giving/beli-perawatan-rambut-pria"},{"childCategoryName":"Perawatan Wajah","childCategoryUrl":"https://vin777.giving/beli-perawatan-kulit-pria"},{"childCategoryName":"Alat Cukur Pria","childCategoryUrl":"https://vin777.giving/beli-alat-cukur-pria"},{"childCategoryName":"Perawatan Tubuh","childCategoryUrl":"https://vin777.giving/perawatan-tubuh"},{"childCategoryName":"Deodoran Pria","childCategoryUrl":"https://vin777.giving/beli-deodoran-pria"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Rambut","childCategoryUrl":"https://www.lazada.co.id/beli-perawatan-rambut-pria"},{"childCategoryName":"Perawatan Wajah","childCategoryUrl":"https://www.lazada.co.id/beli-perawatan-kulit-pria"},{"childCategoryName":"Alat Cukur Pria","childCategoryUrl":"https://www.lazada.co.id/beli-alat-cukur-pria"},{"childCategoryName":"Perawatan Tubuh","childCategoryUrl":"https://www.lazada.co.id/perawatan-tubuh"},{"childCategoryName":"Deodoran Pria","childCategoryUrl":"https://www.lazada.co.id/beli-deodoran-pria"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_12">
-                <a href="https://vin777.giving/kesehatan-manula/">
+                <a href="https://www.lazada.co.id/kesehatan-manula/">
                     <span>Popok Dewasa</span>
                 </a>
                         <script type="text" class="J_data_5_11">
-                            [{"childCategoryName":"Popok Dewasa","childCategoryUrl":"https://vin777.giving/kesehatan-manula/"}]
+                            [{"childCategoryName":"Popok Dewasa","childCategoryUrl":"https://www.lazada.co.id/kesehatan-manula/"}]
                         </script>
             </li>
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No7" data-spm="cate_7">
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_1">
-                <a href="https://vin777.giving/jual-perlengkapan-bayi-balita/">
+                <a href="https://www.lazada.co.id/jual-perlengkapan-bayi-balita/">
                     <span>Ibu &amp; Anak</span>
                 </a>
                         <script type="text" class="J_data_6_0">
-                            [{"childCategoryName":"Popok Sekali Pakai","childCategoryUrl":"https://vin777.giving/beli-popok-sekali-pakai/"},{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"https://vin777.giving/beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"https://vin777.giving/beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"https://vin777.giving/jual-susu-batita-1-3-tahun/"},{"childCategoryName":"Susu Pertumbuhan (>3Tahun)","childCategoryUrl":"https://vin777.giving/beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Pakaian Bayi Perempuan","childCategoryUrl":"https://vin777.giving/beli-pakaian-bayi-perempuan/"},{"childCategoryName":"Pakaian Bayi Laki-Laki","childCategoryUrl":"https://vin777.giving/beli-pakaian-bayi-laki-laki/"},{"childCategoryName":"Botol Bayi","childCategoryUrl":"https://vin777.giving/beli-botol-bayi/"},{"childCategoryName":"Stroller","childCategoryUrl":"https://vin777.giving/beli-kereta-dorong-bayi/"},{"childCategoryName":"Soft Carrier","childCategoryUrl":"https://vin777.giving/beli-soft-carrier/"},{"childCategoryName":"Sampo & Kondisioner","childCategoryUrl":"https://vin777.giving/beli-sampo-kondisioner-bb/"},{"childCategoryName":"Perawatan Kulit Bayi","childCategoryUrl":"https://vin777.giving/beli-perawatan-kulit-pria/"}]
+                            [{"childCategoryName":"Popok Sekali Pakai","childCategoryUrl":"https://www.lazada.co.id/beli-popok-sekali-pakai/"},{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"https://www.lazada.co.id/beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"https://www.lazada.co.id/beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"https://www.lazada.co.id/jual-susu-batita-1-3-tahun/"},{"childCategoryName":"Susu Pertumbuhan (>3Tahun)","childCategoryUrl":"https://www.lazada.co.id/beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Pakaian Bayi Perempuan","childCategoryUrl":"https://www.lazada.co.id/beli-pakaian-bayi-perempuan/"},{"childCategoryName":"Pakaian Bayi Laki-Laki","childCategoryUrl":"https://www.lazada.co.id/beli-pakaian-bayi-laki-laki/"},{"childCategoryName":"Botol Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-botol-bayi/"},{"childCategoryName":"Stroller","childCategoryUrl":"https://www.lazada.co.id/beli-kereta-dorong-bayi/"},{"childCategoryName":"Soft Carrier","childCategoryUrl":"https://www.lazada.co.id/beli-soft-carrier/"},{"childCategoryName":"Sampo & Kondisioner","childCategoryUrl":"https://www.lazada.co.id/beli-sampo-kondisioner-bb/"},{"childCategoryName":"Perawatan Kulit Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-perawatan-kulit-pria/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_2">
-                <a href="https://vin777.giving/beli-popok-pispot-bb/">
+                <a href="https://www.lazada.co.id/beli-popok-pispot-bb/">
                     <span>Popok Sekali Pakai</span>
                 </a>
                         <script type="text" class="J_data_6_1">
-                            [{"childCategoryName":"Popok Sekali Pakai","childCategoryUrl":"https://vin777.giving/beli-popok-sekali-pakai/"},{"childCategoryName":"Popok Kain & Aksesori","childCategoryUrl":"https://vin777.giving/beli-popok-kain/"},{"childCategoryName":"Lap Bayi & Penyangga","childCategoryUrl":"https://vin777.giving/beli-lap-bayi-penyangga/"},{"childCategoryName":"Perawatan Popok","childCategoryUrl":"https://vin777.giving/beli-perawatan-popok/"},{"childCategoryName":"Krim & Salep Bayi","childCategoryUrl":"https://vin777.giving/beli-krim-salep-bayi/"},{"childCategoryName":"Tas Perlengkapan Popok","childCategoryUrl":"https://vin777.giving/beli-tas-popok-tb/"},{"childCategoryName":"Meja Ganti Popok","childCategoryUrl":"https://vin777.giving/beli-meja-ganti/"},{"childCategoryName":"Cover Popok Kain","childCategoryUrl":"https://vin777.giving/beli-bantalan/"},{"childCategoryName":"Lapisan Penyerap & Liner Popok Kain","childCategoryUrl":"https://vin777.giving/beli-lapisan-penyerap-liner-popok-kain/"},{"childCategoryName":"Potty Training","childCategoryUrl":"https://vin777.giving/beli-potty-training/"},{"childCategoryName":"Bangku Langkah","childCategoryUrl":"https://vin777.giving/beli-bangku-langkah/"},{"childCategoryName":"Detergent Laundry","childCategoryUrl":"https://vin777.giving/beli-detergen-popok-kain/"}]
+                            [{"childCategoryName":"Popok Sekali Pakai","childCategoryUrl":"https://www.lazada.co.id/beli-popok-sekali-pakai/"},{"childCategoryName":"Popok Kain & Aksesori","childCategoryUrl":"https://www.lazada.co.id/beli-popok-kain/"},{"childCategoryName":"Lap Bayi & Penyangga","childCategoryUrl":"https://www.lazada.co.id/beli-lap-bayi-penyangga/"},{"childCategoryName":"Perawatan Popok","childCategoryUrl":"https://www.lazada.co.id/beli-perawatan-popok/"},{"childCategoryName":"Krim & Salep Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-krim-salep-bayi/"},{"childCategoryName":"Tas Perlengkapan Popok","childCategoryUrl":"https://www.lazada.co.id/beli-tas-popok-tb/"},{"childCategoryName":"Meja Ganti Popok","childCategoryUrl":"https://www.lazada.co.id/beli-meja-ganti/"},{"childCategoryName":"Cover Popok Kain","childCategoryUrl":"https://www.lazada.co.id/beli-bantalan/"},{"childCategoryName":"Lapisan Penyerap & Liner Popok Kain","childCategoryUrl":"https://www.lazada.co.id/beli-lapisan-penyerap-liner-popok-kain/"},{"childCategoryName":"Potty Training","childCategoryUrl":"https://www.lazada.co.id/beli-potty-training/"},{"childCategoryName":"Bangku Langkah","childCategoryUrl":"https://www.lazada.co.id/beli-bangku-langkah/"},{"childCategoryName":"Detergent Laundry","childCategoryUrl":"https://www.lazada.co.id/beli-detergen-popok-kain/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_3">
-                <a href="https://vin777.giving/beli-susu-formula/">
+                <a href="https://www.lazada.co.id/beli-susu-formula/">
                     <span>Makanan Bayi &amp; Balita</span>
                 </a>
                         <script type="text" class="J_data_6_2">
-                            [{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"https://vin777.giving/beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"https://vin777.giving/beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"https://vin777.giving/jual-susu-batita-1-3-tahun/"},{"childCategoryName":"Susu Pertumbuhan (>3Tahun)","childCategoryUrl":"https://vin777.giving/beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Nutrisi Khusus Anak","childCategoryUrl":"https://vin777.giving/beli-nutrisi-khusus-anak/"},{"childCategoryName":"Minuman","childCategoryUrl":"https://vin777.giving/beli-minuman-bayi-balita/"},{"childCategoryName":"Sereal","childCategoryUrl":"https://vin777.giving/beli-sereal-bayi-balita/"},{"childCategoryName":"Cracker & Biskuit","childCategoryUrl":"https://vin777.giving/beli-cracker-biskuit-bayi-balita/"},{"childCategoryName":"Makanan Ringan","childCategoryUrl":"https://vin777.giving/beli-makanan-ringan-bayi-balita/"},{"childCategoryName":"Makanan puree bayi","childCategoryUrl":"https://vin777.giving/beli-puree-bayi/"},{"childCategoryName":"Susu Ibu Hamil","childCategoryUrl":"https://vin777.giving/beli-susu-maternal/"}]
+                            [{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"https://www.lazada.co.id/beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"https://www.lazada.co.id/beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"https://www.lazada.co.id/jual-susu-batita-1-3-tahun/"},{"childCategoryName":"Susu Pertumbuhan (>3Tahun)","childCategoryUrl":"https://www.lazada.co.id/beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Nutrisi Khusus Anak","childCategoryUrl":"https://www.lazada.co.id/beli-nutrisi-khusus-anak/"},{"childCategoryName":"Minuman","childCategoryUrl":"https://www.lazada.co.id/beli-minuman-bayi-balita/"},{"childCategoryName":"Sereal","childCategoryUrl":"https://www.lazada.co.id/beli-sereal-bayi-balita/"},{"childCategoryName":"Cracker & Biskuit","childCategoryUrl":"https://www.lazada.co.id/beli-cracker-biskuit-bayi-balita/"},{"childCategoryName":"Makanan Ringan","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-ringan-bayi-balita/"},{"childCategoryName":"Makanan puree bayi","childCategoryUrl":"https://www.lazada.co.id/beli-puree-bayi/"},{"childCategoryName":"Susu Ibu Hamil","childCategoryUrl":"https://www.lazada.co.id/beli-susu-maternal/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_4">
-                <a href="https://vin777.giving/jual-baju-aksesoris-anak/">
+                <a href="https://www.lazada.co.id/jual-baju-aksesoris-anak/">
                     <span>Pakaian &amp; Aksesoris</span>
                 </a>
                         <script type="text" class="J_data_6_3">
-                            [{"childCategoryName":"(0--6 bulan) Set Pakaian","childCategoryUrl":"https://vin777.giving/beli-set-pakaian-bayi/"},{"childCategoryName":"(0--6 bulan) Body Suits","childCategoryUrl":"https://vin777.giving/beli-bodysuit-one-piece-bayi/"},{"childCategoryName":"(0--6 bulan) Aksesoris","childCategoryUrl":"https://vin777.giving/beli-aksesoris-pakaian-anak/"},{"childCategoryName":"Pakaian Bayi Perempuan","childCategoryUrl":"https://vin777.giving/beli-pakaian-bayi-perempuan/"},{"childCategoryName":"Dress Bayi Perempuan","childCategoryUrl":"https://vin777.giving/beli-dress-bayi-perempuan/"},{"childCategoryName":"Sepatu Bayi Perempuan","childCategoryUrl":"https://vin777.giving/beli-sepatu-bayi-perempuan/"},{"childCategoryName":"Aksesoris Bayi Perempuan","childCategoryUrl":"https://vin777.giving/beli-aksesoris-bayi-perempuan/"},{"childCategoryName":"Baju Renang Bayi Perempuan","childCategoryUrl":"https://vin777.giving/beli-baju-renang-bayi-perempuan/"},{"childCategoryName":"Pakaian Bayi Laki-Laki","childCategoryUrl":"https://vin777.giving/beli-pakaian-bayi-laki-laki/"},{"childCategoryName":"Sepatu Bayi Laki-Laki","childCategoryUrl":"https://vin777.giving/beli-sepatu-bayi-laki-laki/"},{"childCategoryName":"Aksesoris Bayi Laki-Laki","childCategoryUrl":"https://vin777.giving/beli-aksesori-bayi-laki-laki/"},{"childCategoryName":"Baju Renang Bayi Laki-Laki","childCategoryUrl":"https://vin777.giving/beli-baju-renang-bayi-laki-laki/"}]
+                            [{"childCategoryName":"(0--6 bulan) Set Pakaian","childCategoryUrl":"https://www.lazada.co.id/beli-set-pakaian-bayi/"},{"childCategoryName":"(0--6 bulan) Body Suits","childCategoryUrl":"https://www.lazada.co.id/beli-bodysuit-one-piece-bayi/"},{"childCategoryName":"(0--6 bulan) Aksesoris","childCategoryUrl":"https://www.lazada.co.id/beli-aksesoris-pakaian-anak/"},{"childCategoryName":"Pakaian Bayi Perempuan","childCategoryUrl":"https://www.lazada.co.id/beli-pakaian-bayi-perempuan/"},{"childCategoryName":"Dress Bayi Perempuan","childCategoryUrl":"https://www.lazada.co.id/beli-dress-bayi-perempuan/"},{"childCategoryName":"Sepatu Bayi Perempuan","childCategoryUrl":"https://www.lazada.co.id/beli-sepatu-bayi-perempuan/"},{"childCategoryName":"Aksesoris Bayi Perempuan","childCategoryUrl":"https://www.lazada.co.id/beli-aksesoris-bayi-perempuan/"},{"childCategoryName":"Baju Renang Bayi Perempuan","childCategoryUrl":"https://www.lazada.co.id/beli-baju-renang-bayi-perempuan/"},{"childCategoryName":"Pakaian Bayi Laki-Laki","childCategoryUrl":"https://www.lazada.co.id/beli-pakaian-bayi-laki-laki/"},{"childCategoryName":"Sepatu Bayi Laki-Laki","childCategoryUrl":"https://www.lazada.co.id/beli-sepatu-bayi-laki-laki/"},{"childCategoryName":"Aksesoris Bayi Laki-Laki","childCategoryUrl":"https://www.lazada.co.id/beli-aksesori-bayi-laki-laki/"},{"childCategoryName":"Baju Renang Bayi Laki-Laki","childCategoryUrl":"https://www.lazada.co.id/beli-baju-renang-bayi-laki-laki/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_5">
-                <a href="https://vin777.giving/beli-makanan-bayi/">
+                <a href="https://www.lazada.co.id/beli-makanan-bayi/">
                     <span>Perlengkapan Menyusui</span>
                 </a>
                         <script type="text" class="J_data_6_4">
-                            [{"childCategoryName":"Botol Bayi","childCategoryUrl":"https://vin777.giving/beli-botol-bayi/"},{"childCategoryName":"Botol","childCategoryUrl":"https://vin777.giving/beli-botol-bayi-balita/"},{"childCategoryName":"Aksesoris Dot Botol","childCategoryUrl":"https://vin777.giving/jual-aksesoris-botol-dot-bayi/"},{"childCategoryName":"Penghangat & Sterilizers","childCategoryUrl":"https://vin777.giving/beli-penghangat-sterilizer/"},{"childCategoryName":"Pompa Asi","childCategoryUrl":"https://vin777.giving/jual-pompa-asi/"},{"childCategoryName":"Aksesesoris Pompa Asi","childCategoryUrl":"https://vin777.giving/jual-aksesoris-pompa-asi/"},{"childCategoryName":"Perawatan Payudara","childCategoryUrl":"https://vin777.giving/beli-perawatan-puting/"},{"childCategoryName":"Bantal Menyusui","childCategoryUrl":"https://vin777.giving/beli-bantal-kursi-bayi/"},{"childCategoryName":"Kursi Bayi","childCategoryUrl":"https://vin777.giving/beli-kursi-tinggi-bayi-kursi-booster/"},{"childCategoryName":"Food Blenders","childCategoryUrl":"https://vin777.giving/beli-blender-makanan-bayi/"},{"childCategoryName":"Peralatan Makan Bayi","childCategoryUrl":"https://vin777.giving/beli-perlengkapan-makan-bayi-bb/"},{"childCategoryName":"Set Peralatan Makan Bayi","childCategoryUrl":"https://vin777.giving/jual-piring-mangkok-bayi/"}]
+                            [{"childCategoryName":"Botol Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-botol-bayi/"},{"childCategoryName":"Botol","childCategoryUrl":"https://www.lazada.co.id/beli-botol-bayi-balita/"},{"childCategoryName":"Aksesoris Dot Botol","childCategoryUrl":"https://www.lazada.co.id/jual-aksesoris-botol-dot-bayi/"},{"childCategoryName":"Penghangat & Sterilizers","childCategoryUrl":"https://www.lazada.co.id/beli-penghangat-sterilizer/"},{"childCategoryName":"Pompa Asi","childCategoryUrl":"https://www.lazada.co.id/jual-pompa-asi/"},{"childCategoryName":"Aksesesoris Pompa Asi","childCategoryUrl":"https://www.lazada.co.id/jual-aksesoris-pompa-asi/"},{"childCategoryName":"Perawatan Payudara","childCategoryUrl":"https://www.lazada.co.id/beli-perawatan-puting/"},{"childCategoryName":"Bantal Menyusui","childCategoryUrl":"https://www.lazada.co.id/beli-bantal-kursi-bayi/"},{"childCategoryName":"Kursi Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-kursi-tinggi-bayi-kursi-booster/"},{"childCategoryName":"Food Blenders","childCategoryUrl":"https://www.lazada.co.id/beli-blender-makanan-bayi/"},{"childCategoryName":"Peralatan Makan Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-perlengkapan-makan-bayi-bb/"},{"childCategoryName":"Set Peralatan Makan Bayi","childCategoryUrl":"https://www.lazada.co.id/jual-piring-mangkok-bayi/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_6">
-                <a href="https://vin777.giving/beli-perlengkapan-berkendara-bayi/">
+                <a href="https://www.lazada.co.id/beli-perlengkapan-berkendara-bayi/">
                     <span>Perlengkapan Bayi</span>
                 </a>
                         <script type="text" class="J_data_6_5">
-                            [{"childCategoryName":"Sling Bayi","childCategoryUrl":"https://vin777.giving/beli-sling-bayi/"},{"childCategoryName":"Soft Carrier","childCategoryUrl":"https://vin777.giving/beli-soft-carrier/"},{"childCategoryName":"Stroller","childCategoryUrl":"https://vin777.giving/beli-kereta-dorong-bayi/"},{"childCategoryName":"Car Seat","childCategoryUrl":"https://vin777.giving/beli-car-seat-bb/"},{"childCategoryName":"Playard","childCategoryUrl":"https://vin777.giving/beli-playard/"},{"childCategoryName":"Ayunan, Jumper & Bouncer Bayi","childCategoryUrl":"https://vin777.giving/beli-ayunan-jumper-bouncer-bayi/"},{"childCategoryName":"Walker","childCategoryUrl":"https://vin777.giving/beli-walker/"},{"childCategoryName":"Tempat Duduk & Trailer Sepeda","childCategoryUrl":"https://vin777.giving/beli-tempat-duduk-trailer-sepeda/"},{"childCategoryName":"Tas Anak","childCategoryUrl":"https://vin777.giving/beli-tas-anak/"},{"childCategoryName":"Koper Anak","childCategoryUrl":"https://vin777.giving/beli-koper-anak/"},{"childCategoryName":"Tali & Harness Bayi","childCategoryUrl":"https://vin777.giving/beli-tali-harness-bayi/"}]
+                            [{"childCategoryName":"Sling Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-sling-bayi/"},{"childCategoryName":"Soft Carrier","childCategoryUrl":"https://www.lazada.co.id/beli-soft-carrier/"},{"childCategoryName":"Stroller","childCategoryUrl":"https://www.lazada.co.id/beli-kereta-dorong-bayi/"},{"childCategoryName":"Car Seat","childCategoryUrl":"https://www.lazada.co.id/beli-car-seat-bb/"},{"childCategoryName":"Playard","childCategoryUrl":"https://www.lazada.co.id/beli-playard/"},{"childCategoryName":"Ayunan, Jumper & Bouncer Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-ayunan-jumper-bouncer-bayi/"},{"childCategoryName":"Walker","childCategoryUrl":"https://www.lazada.co.id/beli-walker/"},{"childCategoryName":"Tempat Duduk & Trailer Sepeda","childCategoryUrl":"https://www.lazada.co.id/beli-tempat-duduk-trailer-sepeda/"},{"childCategoryName":"Tas Anak","childCategoryUrl":"https://www.lazada.co.id/beli-tas-anak/"},{"childCategoryName":"Koper Anak","childCategoryUrl":"https://www.lazada.co.id/beli-koper-anak/"},{"childCategoryName":"Tali & Harness Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-tali-harness-bayi/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_7">
-                <a href="https://vin777.giving/jual-perlengkapan-kamar-bayi/">
+                <a href="https://www.lazada.co.id/jual-perlengkapan-kamar-bayi/">
                     <span>Kamar Bayi</span>
                 </a>
                         <script type="text" class="J_data_6_6">
-                            [{"childCategoryName":"Matras Bayi","childCategoryUrl":"https://vin777.giving/beli-kasur-seprai-bayi/"},{"childCategoryName":"Selimut Bayi","childCategoryUrl":"https://vin777.giving/beli-selimut-bayi/"},{"childCategoryName":"Seprai Keranjang Bayi","childCategoryUrl":"https://vin777.giving/beli-seprai-keranjang-bayi/"},{"childCategoryName":"Kelengkapan Alat Tidur Balita","childCategoryUrl":"https://vin777.giving/beli-kelengkapan-alat-tidur-balita/"},{"childCategoryName":"Selimut Tebal & Bed Cover Bayi","childCategoryUrl":"https://vin777.giving/beli-selimut-tebal-bed-cover-bayi/"},{"childCategoryName":"Bantal, Pelindung & Sarung Bantal Bayi","childCategoryUrl":"https://vin777.giving/beli-bantal-pelindung-sarung-bantal-bayi/"},{"childCategoryName":"Furnitur Bayi","childCategoryUrl":"https://vin777.giving/beli-furnitur-bayi/"},{"childCategoryName":"Ranjang Bayi","childCategoryUrl":"https://vin777.giving/jual-ranjang-bayi/"},{"childCategoryName":"Keranjang Bayi Cradle","childCategoryUrl":"https://vin777.giving/beli-keranjang-bayi-cradle/"},{"childCategoryName":"Laci & Lemari Pakaian Bayi","childCategoryUrl":"https://vin777.giving/beli-laci-lemari-pakaian-bayi/"},{"childCategoryName":"Penyimpanan","childCategoryUrl":"https://vin777.giving/beli-tempat-pengatur-penyimpanan/"},{"childCategoryName":"Dekorasi Kamar Anak","childCategoryUrl":"https://vin777.giving/beli-dekorasi-kamar-anak/"}]
+                            [{"childCategoryName":"Matras Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-kasur-seprai-bayi/"},{"childCategoryName":"Selimut Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-selimut-bayi/"},{"childCategoryName":"Seprai Keranjang Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-seprai-keranjang-bayi/"},{"childCategoryName":"Kelengkapan Alat Tidur Balita","childCategoryUrl":"https://www.lazada.co.id/beli-kelengkapan-alat-tidur-balita/"},{"childCategoryName":"Selimut Tebal & Bed Cover Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-selimut-tebal-bed-cover-bayi/"},{"childCategoryName":"Bantal, Pelindung & Sarung Bantal Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-bantal-pelindung-sarung-bantal-bayi/"},{"childCategoryName":"Furnitur Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-furnitur-bayi/"},{"childCategoryName":"Ranjang Bayi","childCategoryUrl":"https://www.lazada.co.id/jual-ranjang-bayi/"},{"childCategoryName":"Keranjang Bayi Cradle","childCategoryUrl":"https://www.lazada.co.id/beli-keranjang-bayi-cradle/"},{"childCategoryName":"Laci & Lemari Pakaian Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-laci-lemari-pakaian-bayi/"},{"childCategoryName":"Penyimpanan","childCategoryUrl":"https://www.lazada.co.id/beli-tempat-pengatur-penyimpanan/"},{"childCategoryName":"Dekorasi Kamar Anak","childCategoryUrl":"https://www.lazada.co.id/beli-dekorasi-kamar-anak/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_8">
-                <a href="https://vin777.giving/beli-perlengkapan-mandi-perawatan-kulit-anak/">
+                <a href="https://www.lazada.co.id/beli-perlengkapan-mandi-perawatan-kulit-anak/">
                     <span>Perawatan Bayi</span>
                 </a>
                         <script type="text" class="J_data_6_7">
-                            [{"childCategoryName":"Perawatan Kulit Bayi","childCategoryUrl":"https://vin777.giving/beli-perawatan-kulit-bayi/"},{"childCategoryName":"Sampo & Kondisioner","childCategoryUrl":"https://vin777.giving/beli-sampo-kondisioner-bb/"},{"childCategoryName":"Sabun & Pembersih Bayi","childCategoryUrl":"https://vin777.giving/beli-sabun-pembersih-bayi/"},{"childCategoryName":"Perawatan Mulut Bayi","childCategoryUrl":"https://vin777.giving/beli-sikat-gigi-pasta-gigi-bayi/"},{"childCategoryName":"Sikat Gigi & Pasta Gigi","childCategoryUrl":"https://vin777.giving/beli-sikat-gigi-pasta-gigi-bayi/"},{"childCategoryName":"Tempat Duduk & Bak Mandi Bayi","childCategoryUrl":"https://vin777.giving/beli-tempat-duduk-bak-mandi-bayi/"},{"childCategoryName":"Lap Mandi & Handuk Bayi","childCategoryUrl":"https://vin777.giving/jual-handuk-bayi/"},{"childCategoryName":"Pelindung Matahari Bayi","childCategoryUrl":"https://vin777.giving/beli-pelindung-matahari-bayi/"},{"childCategoryName":"Aromaterapi Bayi","childCategoryUrl":"https://vin777.giving/beli-aromaterapi-bayi/"},{"childCategoryName":"Perlengkapan Mandi Bayi","childCategoryUrl":"https://vin777.giving/beli-perlengkapan-mandi-bayi-bb/"},{"childCategoryName":"Alas Mandi Bayi Anti Slip","childCategoryUrl":"https://vin777.giving/beli-alas-mandi-bayi-anti-slip/"}]
+                            [{"childCategoryName":"Perawatan Kulit Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-perawatan-kulit-bayi/"},{"childCategoryName":"Sampo & Kondisioner","childCategoryUrl":"https://www.lazada.co.id/beli-sampo-kondisioner-bb/"},{"childCategoryName":"Sabun & Pembersih Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-sabun-pembersih-bayi/"},{"childCategoryName":"Perawatan Mulut Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-sikat-gigi-pasta-gigi-bayi/"},{"childCategoryName":"Sikat Gigi & Pasta Gigi","childCategoryUrl":"https://www.lazada.co.id/beli-sikat-gigi-pasta-gigi-bayi/"},{"childCategoryName":"Tempat Duduk & Bak Mandi Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-tempat-duduk-bak-mandi-bayi/"},{"childCategoryName":"Lap Mandi & Handuk Bayi","childCategoryUrl":"https://www.lazada.co.id/jual-handuk-bayi/"},{"childCategoryName":"Pelindung Matahari Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-pelindung-matahari-bayi/"},{"childCategoryName":"Aromaterapi Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-aromaterapi-bayi/"},{"childCategoryName":"Perlengkapan Mandi Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-perlengkapan-mandi-bayi-bb/"},{"childCategoryName":"Alas Mandi Bayi Anti Slip","childCategoryUrl":"https://www.lazada.co.id/beli-alas-mandi-bayi-anti-slip/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_9">
-                <a href="https://vin777.giving/beli-mainan-anak/">
+                <a href="https://www.lazada.co.id/beli-mainan-anak/">
                     <span>Mainan</span>
                 </a>
                         <script type="text" class="J_data_6_8">
-                            [{"childCategoryName":"Action Figure & Mainan Koleksi","childCategoryUrl":"https://vin777.giving/jual-koleksi-mainan-action-figure/"},{"childCategoryName":"Mainan Koleksi","childCategoryUrl":"https://vin777.giving/beli-mainan-koleksi-tg/"},{"childCategoryName":"Mini Figur","childCategoryUrl":"https://vin777.giving/beli-mini-figure-tg/"},{"childCategoryName":"Kerajinan Tangan","childCategoryUrl":"https://vin777.giving/beli-kerajinan-tangan-kesenian-anak/"},{"childCategoryName":"Mainan Blok","childCategoryUrl":"https://vin777.giving/beli-mainan-balok-bangunan/"},{"childCategoryName":"Boneka & Aksesoris","childCategoryUrl":"https://vin777.giving/beli-boneka-aksesori/"},{"childCategoryName":"Kostum Pesta","childCategoryUrl":"https://vin777.giving/beli-mainan-dress-up/"},{"childCategoryName":"Mainan Edukasi","childCategoryUrl":"https://vin777.giving/beli-mainan-pembelajaran-edukasi/"},{"childCategoryName":"Puzzle & Games","childCategoryUrl":"https://vin777.giving/beli-permainan-tradisional/"},{"childCategoryName":"Hobi & Hiburan","childCategoryUrl":"https://vin777.giving/Shop-Hobbies-Entertainment/"},{"childCategoryName":"Perlengkapan Pesta","childCategoryUrl":"https://vin777.giving/beli-perlengkapan-pesta/"}]
+                            [{"childCategoryName":"Action Figure & Mainan Koleksi","childCategoryUrl":"https://www.lazada.co.id/jual-koleksi-mainan-action-figure/"},{"childCategoryName":"Mainan Koleksi","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-koleksi-tg/"},{"childCategoryName":"Mini Figur","childCategoryUrl":"https://www.lazada.co.id/beli-mini-figure-tg/"},{"childCategoryName":"Kerajinan Tangan","childCategoryUrl":"https://www.lazada.co.id/beli-kerajinan-tangan-kesenian-anak/"},{"childCategoryName":"Mainan Blok","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-balok-bangunan/"},{"childCategoryName":"Boneka & Aksesoris","childCategoryUrl":"https://www.lazada.co.id/beli-boneka-aksesori/"},{"childCategoryName":"Kostum Pesta","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-dress-up/"},{"childCategoryName":"Mainan Edukasi","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-pembelajaran-edukasi/"},{"childCategoryName":"Puzzle & Games","childCategoryUrl":"https://www.lazada.co.id/beli-permainan-tradisional/"},{"childCategoryName":"Hobi & Hiburan","childCategoryUrl":"https://www.lazada.co.id/Shop-Hobbies-Entertainment/"},{"childCategoryName":"Perlengkapan Pesta","childCategoryUrl":"https://www.lazada.co.id/beli-perlengkapan-pesta/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_10">
-                <a href="https://vin777.giving/beli-remote-control-mainan-kendaraan/">
+                <a href="https://www.lazada.co.id/beli-remote-control-mainan-kendaraan/">
                     <span>Mainan Elektronik &amp; RC</span>
                 </a>
                         <script type="text" class="J_data_6_9">
-                            [{"childCategoryName":"Mobil Remote Control","childCategoryUrl":"https://vin777.giving/beli-kendaraan-rc-baterai/"},{"childCategoryName":"Robot Remote Control","childCategoryUrl":"https://vin777.giving/beli-rc-figure-robot/"},{"childCategoryName":"Mobil Die Cast","childCategoryUrl":"https://vin777.giving/beli-kendaraan-die-cast/"},{"childCategoryName":"Mainan Mobil","childCategoryUrl":"https://vin777.giving/beli-mainan-kendaraan-tg/"},{"childCategoryName":"Mainan Kereta Api & Rel","childCategoryUrl":"https://vin777.giving/beli-set-mainan-kereta/"},{"childCategoryName":"Drone Mainan","childCategoryUrl":"https://vin777.giving/beli-drones-quadcopters/"},{"childCategoryName":"Helikopter","childCategoryUrl":"https://vin777.giving/beli-mainan-helikopter/"},{"childCategoryName":"Video Games & Hiburan","childCategoryUrl":"https://vin777.giving/shop-hiburan-video-game/"},{"childCategoryName":"Walkie Talkies","childCategoryUrl":"https://vin777.giving/beli-mainan-walkie-talkie/"}]
+                            [{"childCategoryName":"Mobil Remote Control","childCategoryUrl":"https://www.lazada.co.id/beli-kendaraan-rc-baterai/"},{"childCategoryName":"Robot Remote Control","childCategoryUrl":"https://www.lazada.co.id/beli-rc-figure-robot/"},{"childCategoryName":"Mobil Die Cast","childCategoryUrl":"https://www.lazada.co.id/beli-kendaraan-die-cast/"},{"childCategoryName":"Mainan Mobil","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-kendaraan-tg/"},{"childCategoryName":"Mainan Kereta Api & Rel","childCategoryUrl":"https://www.lazada.co.id/beli-set-mainan-kereta/"},{"childCategoryName":"Drone Mainan","childCategoryUrl":"https://www.lazada.co.id/beli-drones-quadcopters/"},{"childCategoryName":"Helikopter","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-helikopter/"},{"childCategoryName":"Video Games & Hiburan","childCategoryUrl":"https://www.lazada.co.id/shop-hiburan-video-game/"},{"childCategoryName":"Walkie Talkies","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-walkie-talkie/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_11">
-                <a href="https://vin777.giving/beli-olahraga-permainan-luar-ruangan/">
+                <a href="https://www.lazada.co.id/beli-olahraga-permainan-luar-ruangan/">
                     <span>Mainan Olahraga &amp; Luar Ruangan</span>
                 </a>
                         <script type="text" class="J_data_6_10">
-                            [{"childCategoryName":"Kolam Renang & Mainan Air","childCategoryUrl":"https://vin777.giving/beli-mainan-air-kolam-renang/"},{"childCategoryName":"Mainan Olahraga","childCategoryUrl":"https://vin777.giving/shop-mainan-baseball-softball/"},{"childCategoryName":"Mainan Luar Ruangan","childCategoryUrl":"https://vin777.giving/beli-aktivitas-dan-olahraga-luar-ruangan/"},{"childCategoryName":"Mainan Blaster","childCategoryUrl":"https://vin777.giving/beli-mainan-blaster/"},{"childCategoryName":"Kolam Bola & Aksesoris","childCategoryUrl":"https://vin777.giving/beli-bola-pit-aksesori/"},{"childCategoryName":"Mainan Terbang","childCategoryUrl":"https://vin777.giving/beli-mainan-terbang/"},{"childCategoryName":"Layangan & Kincir Angin","childCategoryUrl":"https://vin777.giving/beli-mainan-layang-layang/"},{"childCategoryName":"Istana Balon","childCategoryUrl":"https://vin777.giving/beli-balon-loncat-istana-balon/"},{"childCategoryName":"Yoyo & Kendama","childCategoryUrl":"https://vin777.giving/beli-yo-yo-kendama/"},{"childCategoryName":"Set Mainan Taman Bermain","childCategoryUrl":"https://vin777.giving/beli-set-peralatan-permainan-playground/"},{"childCategoryName":"Kemah & Terowongan Mainan","childCategoryUrl":"https://vin777.giving/beli-mainan-tenda-terowongan/"},{"childCategoryName":"Mainan Rumah-rumahan","childCategoryUrl":"https://vin777.giving/beli-playhouses/"}]
+                            [{"childCategoryName":"Kolam Renang & Mainan Air","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-air-kolam-renang/"},{"childCategoryName":"Mainan Olahraga","childCategoryUrl":"https://www.lazada.co.id/shop-mainan-baseball-softball/"},{"childCategoryName":"Mainan Luar Ruangan","childCategoryUrl":"https://www.lazada.co.id/beli-aktivitas-dan-olahraga-luar-ruangan/"},{"childCategoryName":"Mainan Blaster","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-blaster/"},{"childCategoryName":"Kolam Bola & Aksesoris","childCategoryUrl":"https://www.lazada.co.id/beli-bola-pit-aksesori/"},{"childCategoryName":"Mainan Terbang","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-terbang/"},{"childCategoryName":"Layangan & Kincir Angin","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-layang-layang/"},{"childCategoryName":"Istana Balon","childCategoryUrl":"https://www.lazada.co.id/beli-balon-loncat-istana-balon/"},{"childCategoryName":"Yoyo & Kendama","childCategoryUrl":"https://www.lazada.co.id/beli-yo-yo-kendama/"},{"childCategoryName":"Set Mainan Taman Bermain","childCategoryUrl":"https://www.lazada.co.id/beli-set-peralatan-permainan-playground/"},{"childCategoryName":"Kemah & Terowongan Mainan","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-tenda-terowongan/"},{"childCategoryName":"Mainan Rumah-rumahan","childCategoryUrl":"https://www.lazada.co.id/beli-playhouses/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_12">
-                <a href="https://vin777.giving/baby-toddler-toys/">
+                <a href="https://www.lazada.co.id/baby-toddler-toys/">
                     <span>Mainan Bayi &amp; Balita</span>
                 </a>
                         <script type="text" class="J_data_6_11">
-                            [{"childCategoryName":"Playgym & Playmat","childCategoryUrl":"https://vin777.giving/jual-mainan-gym-anak/"},{"childCategoryName":"Mainan Blok","childCategoryUrl":"https://vin777.giving/beli-mainan-balok-bangunan/"},{"childCategoryName":"Mainan Mandi","childCategoryUrl":"https://vin777.giving/beli-mainan-mandi-anak-tg/"},{"childCategoryName":"Mainan Tidur Bayi","childCategoryUrl":"https://vin777.giving/beli-mainan-keranjang-bayi-perlengkapannya-tg/"},{"childCategoryName":"Mainan Balita","childCategoryUrl":"https://vin777.giving/beli-mainan-edukatif-anak-tg/"},{"childCategoryName":"Mainan Musik & Suara","childCategoryUrl":"https://vin777.giving/beli-musik-suara-tg/"},{"childCategoryName":"Mainan Tarik Ulur","childCategoryUrl":"https://vin777.giving/beli-mainan-dorong-tarik-tg/"},{"childCategoryName":"Mainan Shape Sorting","childCategoryUrl":"https://vin777.giving/beli-mainan-shape-sorting-tg/"},{"childCategoryName":"Indoor Climbers & Play Structures","childCategoryUrl":"https://vin777.giving/beli-indoor-climbers-play-structure-tg/"},{"childCategoryName":"Rocking & Spring Ride-Ons","childCategoryUrl":"https://vin777.giving/beli-rocking-spring-ride-on-tg/"}]
+                            [{"childCategoryName":"Playgym & Playmat","childCategoryUrl":"https://www.lazada.co.id/jual-mainan-gym-anak/"},{"childCategoryName":"Mainan Blok","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-balok-bangunan/"},{"childCategoryName":"Mainan Mandi","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-mandi-anak-tg/"},{"childCategoryName":"Mainan Tidur Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-keranjang-bayi-perlengkapannya-tg/"},{"childCategoryName":"Mainan Balita","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-edukatif-anak-tg/"},{"childCategoryName":"Mainan Musik & Suara","childCategoryUrl":"https://www.lazada.co.id/beli-musik-suara-tg/"},{"childCategoryName":"Mainan Tarik Ulur","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-dorong-tarik-tg/"},{"childCategoryName":"Mainan Shape Sorting","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-shape-sorting-tg/"},{"childCategoryName":"Indoor Climbers & Play Structures","childCategoryUrl":"https://www.lazada.co.id/beli-indoor-climbers-play-structure-tg/"},{"childCategoryName":"Rocking & Spring Ride-Ons","childCategoryUrl":"https://www.lazada.co.id/beli-rocking-spring-ride-on-tg/"}]
                         </script>
             </li>
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No8" data-spm="cate_8">
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_1">
-                <a href="https://vin777.giving/beli-tv-audio-video-permainan-dan-gadget/">
+                <a href="https://www.lazada.co.id/beli-tv-audio-video-permainan-dan-gadget/">
                     <span>TV &amp; Perangkat Video</span>
                 </a>
                         <script type="text" class="J_data_7_0">
-                            [{"childCategoryName":""},{"childCategoryName":"TV LED","childCategoryUrl":"https://vin777.giving/shop-televisi-digital/"},{"childCategoryName":"TV Smart","childCategoryUrl":"https://vin777.giving/beli-smart-tv/"},{"childCategoryName":"Blu-Ray/DVD Player","childCategoryUrl":"https://vin777.giving/beli-blu-ray-player/"},{"childCategoryName":"Media Player","childCategoryUrl":"https://vin777.giving/shop-media-player/"},{"childCategoryName":"Proyektor","childCategoryUrl":"https://vin777.giving/beli-proyektor-3/"}]
+                            [{"childCategoryName":""},{"childCategoryName":"TV LED","childCategoryUrl":"https://www.lazada.co.id/shop-televisi-digital/"},{"childCategoryName":"TV Smart","childCategoryUrl":"https://www.lazada.co.id/beli-smart-tv/"},{"childCategoryName":"Blu-Ray/DVD Player","childCategoryUrl":"https://www.lazada.co.id/beli-blu-ray-player/"},{"childCategoryName":"Media Player","childCategoryUrl":"https://www.lazada.co.id/shop-media-player/"},{"childCategoryName":"Proyektor","childCategoryUrl":"https://www.lazada.co.id/beli-proyektor-3/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_2">
-                <a href="https://vin777.giving/beli-perlengkapan-dapur/">
+                <a href="https://www.lazada.co.id/beli-perlengkapan-dapur/">
                     <span>Peralatan Dapur Kecil</span>
                 </a>
                         <script type="text" class="J_data_7_1">
-                            [{"childCategoryName":""},{"childCategoryName":"Rice Cooker","childCategoryUrl":"https://vin777.giving/beli-rice-cooker/"},{"childCategoryName":"Blender, Mixer & Grinder","childCategoryUrl":"https://vin777.giving/beli-blender-mixer-juicer/"},{"childCategoryName":"Kompor Gas","childCategoryUrl":"https://vin777.giving/beli-kompor-gas/"},{"childCategoryName":"Teko Listrik","childCategoryUrl":"https://vin777.giving/beli-ketel-elektrik-2/"},{"childCategoryName":"Juicer","childCategoryUrl":"https://vin777.giving/beli-juicer-pengekstrak-buah/"},{"childCategoryName":"Mesin Kopi","childCategoryUrl":"https://vin777.giving/beli-mesin-kopi/"},{"childCategoryName":"Air Fryer","childCategoryUrl":"https://vin777.giving/beli-air-fryers/"},{"childCategoryName":"Peralatan Dapur Lainnya","childCategoryUrl":"https://vin777.giving/shop-ska-lainnya/"}]
+                            [{"childCategoryName":""},{"childCategoryName":"Rice Cooker","childCategoryUrl":"https://www.lazada.co.id/beli-rice-cooker/"},{"childCategoryName":"Blender, Mixer & Grinder","childCategoryUrl":"https://www.lazada.co.id/beli-blender-mixer-juicer/"},{"childCategoryName":"Kompor Gas","childCategoryUrl":"https://www.lazada.co.id/beli-kompor-gas/"},{"childCategoryName":"Teko Listrik","childCategoryUrl":"https://www.lazada.co.id/beli-ketel-elektrik-2/"},{"childCategoryName":"Juicer","childCategoryUrl":"https://www.lazada.co.id/beli-juicer-pengekstrak-buah/"},{"childCategoryName":"Mesin Kopi","childCategoryUrl":"https://www.lazada.co.id/beli-mesin-kopi/"},{"childCategoryName":"Air Fryer","childCategoryUrl":"https://www.lazada.co.id/beli-air-fryers/"},{"childCategoryName":"Peralatan Dapur Lainnya","childCategoryUrl":"https://www.lazada.co.id/shop-ska-lainnya/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_3">
-                <a href="https://vin777.giving/shop-perlatan-besar/">
+                <a href="https://www.lazada.co.id/shop-perlatan-besar/">
                     <span>Elektronik Rumah Besar</span>
                 </a>
                         <script type="text" class="J_data_7_2">
-                            [{"childCategoryName":""},{"childCategoryName":"Mesin Cuci","childCategoryUrl":"https://vin777.giving/beli-mesin-cuci/"},{"childCategoryName":"Kulkas","childCategoryUrl":"https://vin777.giving/beli-lemari-es/"},{"childCategoryName":"Microwave","childCategoryUrl":"https://vin777.giving/beli-microwave/"},{"childCategoryName":"Oven","childCategoryUrl":"https://vin777.giving/beli-ovens/"},{"childCategoryName":"Dispenser Air Minum","childCategoryUrl":"https://vin777.giving/beli-dispenser-air/"},{"childCategoryName":"AC","childCategoryUrl":"https://vin777.giving/beli-ac/"},{"childCategoryName":"Pemanas Air","childCategoryUrl":"https://vin777.giving/beli-pemanas-air/"}]
+                            [{"childCategoryName":""},{"childCategoryName":"Mesin Cuci","childCategoryUrl":"https://www.lazada.co.id/beli-mesin-cuci/"},{"childCategoryName":"Kulkas","childCategoryUrl":"https://www.lazada.co.id/beli-lemari-es/"},{"childCategoryName":"Microwave","childCategoryUrl":"https://www.lazada.co.id/beli-microwave/"},{"childCategoryName":"Oven","childCategoryUrl":"https://www.lazada.co.id/beli-ovens/"},{"childCategoryName":"Dispenser Air Minum","childCategoryUrl":"https://www.lazada.co.id/beli-dispenser-air/"},{"childCategoryName":"AC","childCategoryUrl":"https://www.lazada.co.id/beli-ac/"},{"childCategoryName":"Pemanas Air","childCategoryUrl":"https://www.lazada.co.id/beli-pemanas-air/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_4">
-                <a href="https://vin777.giving/shop-pendingin-pembersih-udara-mini/">
+                <a href="https://www.lazada.co.id/shop-pendingin-pembersih-udara-mini/">
                     <span>Penyejuk dan Pembersih Udara</span>
                 </a>
                         <script type="text" class="J_data_7_3">
-                            [{"childCategoryName":""},{"childCategoryName":"Kipas Angin","childCategoryUrl":"https://vin777.giving/shop-kipas/"},{"childCategoryName":"Air Cooler","childCategoryUrl":"https://vin777.giving/beli-pendingin-udara-2/"},{"childCategoryName":"Air Purifier","childCategoryUrl":"https://vin777.giving/beli-penjernih-udara-2/"},{"childCategoryName":"Humidifier","childCategoryUrl":"https://vin777.giving/beli-humidifier/"},{"childCategoryName":"Dehumidifier","childCategoryUrl":"https://vin777.giving/beli-dehumidifier/"}]
+                            [{"childCategoryName":""},{"childCategoryName":"Kipas Angin","childCategoryUrl":"https://www.lazada.co.id/shop-kipas/"},{"childCategoryName":"Air Cooler","childCategoryUrl":"https://www.lazada.co.id/beli-pendingin-udara-2/"},{"childCategoryName":"Air Purifier","childCategoryUrl":"https://www.lazada.co.id/beli-penjernih-udara-2/"},{"childCategoryName":"Humidifier","childCategoryUrl":"https://www.lazada.co.id/beli-humidifier/"},{"childCategoryName":"Dehumidifier","childCategoryUrl":"https://www.lazada.co.id/beli-dehumidifier/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_5">
-                <a href="https://vin777.giving/beli-perawatan-lantai/">
+                <a href="https://www.lazada.co.id/beli-perawatan-lantai/">
                     <span>Penghisap Debu &amp; Perawatan Lantai</span>
                 </a>
                         <script type="text" class="J_data_7_4">
-                            [{"childCategoryName":""},{"childCategoryName":"Penghisap Debu","childCategoryUrl":"https://vin777.giving/shop-penyedot-debu/"},{"childCategoryName":"Penghisap Debu Robotik","childCategoryUrl":"https://vin777.giving/shop-penyedot-debu-robot/"},{"childCategoryName":"Penghisap Debu dengan Tongkat","childCategoryUrl":"https://vin777.giving/shop-penyedot-debu-tongkat/"}]
+                            [{"childCategoryName":""},{"childCategoryName":"Penghisap Debu","childCategoryUrl":"https://www.lazada.co.id/shop-penyedot-debu/"},{"childCategoryName":"Penghisap Debu Robotik","childCategoryUrl":"https://www.lazada.co.id/shop-penyedot-debu-robot/"},{"childCategoryName":"Penghisap Debu dengan Tongkat","childCategoryUrl":"https://www.lazada.co.id/shop-penyedot-debu-tongkat/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_6">
-                <a href="https://vin777.giving/shop-peralatan-perawatan-personal/">
+                <a href="https://www.lazada.co.id/shop-peralatan-perawatan-personal/">
                     <span>Alat Perawatan Diri</span>
                 </a>
                         <script type="text" class="J_data_7_5">
-                            [{"childCategoryName":""},{"childCategoryName":"Hair Dryer","childCategoryUrl":"https://vin777.giving/beli-pengering-rambut/"},{"childCategoryName":"Alat Penata Rambut","childCategoryUrl":"https://vin777.giving/beli-perlengkapan-styling-rambut/"},{"childCategoryName":"Shaver & Pencukur Kumis Jenggot","childCategoryUrl":"https://vin777.giving/beli-shaver/"},{"childCategoryName":"Sikat Gigi Elektrik","childCategoryUrl":"https://vin777.giving/beli-sikat-gigi-elektrik/"}]
+                            [{"childCategoryName":""},{"childCategoryName":"Hair Dryer","childCategoryUrl":"https://www.lazada.co.id/beli-pengering-rambut/"},{"childCategoryName":"Alat Penata Rambut","childCategoryUrl":"https://www.lazada.co.id/beli-perlengkapan-styling-rambut/"},{"childCategoryName":"Shaver & Pencukur Kumis Jenggot","childCategoryUrl":"https://www.lazada.co.id/beli-shaver/"},{"childCategoryName":"Sikat Gigi Elektrik","childCategoryUrl":"https://www.lazada.co.id/beli-sikat-gigi-elektrik/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_7">
-                <a href="https://vin777.giving/jual-aksesoris-elektronik-rumah-tangga/">
+                <a href="https://www.lazada.co.id/jual-aksesoris-elektronik-rumah-tangga/">
                     <span>Aksesoris &amp; Suku Cadang</span>
                 </a>
                         <script type="text" class="J_data_7_6">
-                            [{"childCategoryName":""},{"childCategoryName":"Suku Cadang & Aksesoris Peralatan Dapur Kecil","childCategoryUrl":"https://vin777.giving/beli-aksesoris-blender-dan-mixer/"},{"childCategoryName":"Suku Cadang & Aksesoris AC","childCategoryUrl":"https://vin777.giving/beli-suku-cadang-aksesoris-ac/"},{"childCategoryName":"Suku Cadang & Aksesoris Mesin Cuci","childCategoryUrl":"https://vin777.giving/beli-aksesoris-mesin-cuci-dan-pengering-pakaian/"},{"childCategoryName":"Suku Cadang & Filter Pengganti","childCategoryUrl":"https://vin777.giving/beli-filter-air/"},{"childCategoryName":"Suku Cadang & Filter Penghisap Debu","childCategoryUrl":"https://vin777.giving/beli-suku-kadang-aksesoris-vacuum-cleaner/"}]
+                            [{"childCategoryName":""},{"childCategoryName":"Suku Cadang & Aksesoris Peralatan Dapur Kecil","childCategoryUrl":"https://www.lazada.co.id/beli-aksesoris-blender-dan-mixer/"},{"childCategoryName":"Suku Cadang & Aksesoris AC","childCategoryUrl":"https://www.lazada.co.id/beli-suku-cadang-aksesoris-ac/"},{"childCategoryName":"Suku Cadang & Aksesoris Mesin Cuci","childCategoryUrl":"https://www.lazada.co.id/beli-aksesoris-mesin-cuci-dan-pengering-pakaian/"},{"childCategoryName":"Suku Cadang & Filter Pengganti","childCategoryUrl":"https://www.lazada.co.id/beli-filter-air/"},{"childCategoryName":"Suku Cadang & Filter Penghisap Debu","childCategoryUrl":"https://www.lazada.co.id/beli-suku-kadang-aksesoris-vacuum-cleaner/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_8">
-                <a href="https://vin777.giving/jual-aksesoris-televisi/">
+                <a href="https://www.lazada.co.id/jual-aksesoris-televisi/">
                     <span>Aksesoris Televisi</span>
                 </a>
                         <script type="text" class="J_data_7_7">
-                            [{"childCategoryName":""},{"childCategoryName":"TV Box","childCategoryUrl":"https://vin777.giving/jual-tv-receiver/"},{"childCategoryName":"Antena TV","childCategoryUrl":"https://vin777.giving/jual-antena-tv/"},{"childCategoryName":"Bracket Dinding TV & Pelindung","childCategoryUrl":"https://vin777.giving/jual-bracket-dinding-tv/"},{"childCategoryName":"Remote Control TV","childCategoryUrl":"https://vin777.giving/jual-remote-control-tv/"},{"childCategoryName":"Kabel TV","childCategoryUrl":"https://vin777.giving/jual-kabel-tv/"},{"childCategoryName":"Adaptor TV","childCategoryUrl":"https://vin777.giving/jual-adaptor-tv/"},{"childCategoryName":"Kacamata 3D TV","childCategoryUrl":"https://vin777.giving/jual-kacamata-3d-tv/"}]
+                            [{"childCategoryName":""},{"childCategoryName":"TV Box","childCategoryUrl":"https://www.lazada.co.id/jual-tv-receiver/"},{"childCategoryName":"Antena TV","childCategoryUrl":"https://www.lazada.co.id/jual-antena-tv/"},{"childCategoryName":"Bracket Dinding TV & Pelindung","childCategoryUrl":"https://www.lazada.co.id/jual-bracket-dinding-tv/"},{"childCategoryName":"Remote Control TV","childCategoryUrl":"https://www.lazada.co.id/jual-remote-control-tv/"},{"childCategoryName":"Kabel TV","childCategoryUrl":"https://www.lazada.co.id/jual-kabel-tv/"},{"childCategoryName":"Adaptor TV","childCategoryUrl":"https://www.lazada.co.id/jual-adaptor-tv/"},{"childCategoryName":"Kacamata 3D TV","childCategoryUrl":"https://www.lazada.co.id/jual-kacamata-3d-tv/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_9">
-                <a href="https://vin777.giving/jual-home-entertainment/">
+                <a href="https://www.lazada.co.id/jual-home-entertainment/">
                     <span>Home Entertainment</span>
                 </a>
                         <script type="text" class="J_data_7_8">
-                            [{"childCategoryName":""},{"childCategoryName":"Soundbar","childCategoryUrl":"https://vin777.giving/jual-soundbar/"},{"childCategoryName":"Sistem Karaoke","childCategoryUrl":"https://vin777.giving/jual-sistem-karaoke/"},{"childCategoryName":"Sistem Hi-Fi","childCategoryUrl":"https://vin777.giving/jual-sistem-hi-fi/"},{"childCategoryName":"Sound System Panggung","childCategoryUrl":"https://vin777.giving/sound-system-panggung/"},{"childCategoryName":"Player Portabel","childCategoryUrl":"https://vin777.giving/beli-audio-player/"}]
+                            [{"childCategoryName":""},{"childCategoryName":"Soundbar","childCategoryUrl":"https://www.lazada.co.id/jual-soundbar/"},{"childCategoryName":"Sistem Karaoke","childCategoryUrl":"https://www.lazada.co.id/jual-sistem-karaoke/"},{"childCategoryName":"Sistem Hi-Fi","childCategoryUrl":"https://www.lazada.co.id/jual-sistem-hi-fi/"},{"childCategoryName":"Sound System Panggung","childCategoryUrl":"https://www.lazada.co.id/sound-system-panggung/"},{"childCategoryName":"Player Portabel","childCategoryUrl":"https://www.lazada.co.id/beli-audio-player/"}]
                         </script>
             </li>
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No9" data-spm="cate_9">
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_1">
-                <a href="https://vin777.giving/beli-dekorasi-rumah/">
+                <a href="https://www.lazada.co.id/beli-dekorasi-rumah/">
                     <span>Dekorasi Rumah</span>
                 </a>
                         <script type="text" class="J_data_8_0">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Stiker Dinding","childCategoryUrl":"https://vin777.giving/beli-stiker-dinding/"},{"childCategoryName":"Gorden","childCategoryUrl":"https://vin777.giving/gorden-dan-kerai/"},{"childCategoryName":"Tikar & Karpet","childCategoryUrl":"https://vin777.giving/beli-tikar-karpet/"},{"childCategoryName":"Hiasan Dinding","childCategoryUrl":"https://vin777.giving/beli-hiasan-dinding/"},{"childCategoryName":"Dekorasi Aksen","childCategoryUrl":"https://vin777.giving/shop-aksesoris-dekor/"},{"childCategoryName":"Bunga & Tanaman Artifisial","childCategoryUrl":"https://vin777.giving/beli-bunga-tanaman-artifisial/"},{"childCategoryName":"Jam","childCategoryUrl":"https://vin777.giving/beli-jam/"},{"childCategoryName":"Dalaman & Sarung Bantal","childCategoryUrl":"https://vin777.giving/shop-dalaman-sarung-bantal/"},{"childCategoryName":"Bingkai","childCategoryUrl":"https://vin777.giving/beli-bingkai/"},{"childCategoryName":"Wewangian Rumah","childCategoryUrl":"https://vin777.giving/beli-wewangian-rumah/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Stiker Dinding","childCategoryUrl":"https://www.lazada.co.id/beli-stiker-dinding/"},{"childCategoryName":"Gorden","childCategoryUrl":"https://www.lazada.co.id/gorden-dan-kerai/"},{"childCategoryName":"Tikar & Karpet","childCategoryUrl":"https://www.lazada.co.id/beli-tikar-karpet/"},{"childCategoryName":"Hiasan Dinding","childCategoryUrl":"https://www.lazada.co.id/beli-hiasan-dinding/"},{"childCategoryName":"Dekorasi Aksen","childCategoryUrl":"https://www.lazada.co.id/shop-aksesoris-dekor/"},{"childCategoryName":"Bunga & Tanaman Artifisial","childCategoryUrl":"https://www.lazada.co.id/beli-bunga-tanaman-artifisial/"},{"childCategoryName":"Jam","childCategoryUrl":"https://www.lazada.co.id/beli-jam/"},{"childCategoryName":"Dalaman & Sarung Bantal","childCategoryUrl":"https://www.lazada.co.id/shop-dalaman-sarung-bantal/"},{"childCategoryName":"Bingkai","childCategoryUrl":"https://www.lazada.co.id/beli-bingkai/"},{"childCategoryName":"Wewangian Rumah","childCategoryUrl":"https://www.lazada.co.id/beli-wewangian-rumah/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_2">
-                <a href="https://vin777.giving/beli-furnitur/">
+                <a href="https://www.lazada.co.id/beli-furnitur/">
                     <span>Furnitur</span>
                 </a>
                         <script type="text" class="J_data_8_1">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Tempat Penyimpanan","childCategoryUrl":"https://vin777.giving/beli-tempat-penyimpanan/"},{"childCategoryName":"Lemari Pakaian","childCategoryUrl":"https://vin777.giving/beli-lemari-pakaian/"},{"childCategoryName":"Kasur","childCategoryUrl":"https://vin777.giving/beli-kasur/"},{"childCategoryName":"Kamar Tidur","childCategoryUrl":"https://vin777.giving/beli-furnitur-kamar-tidur/"},{"childCategoryName":"Rak","childCategoryUrl":"https://vin777.giving/rak/"},{"childCategoryName":"Rak TV dan Media","childCategoryUrl":"https://vin777.giving/tempat-penyimpanan-media-dan-tv/"},{"childCategoryName":"Sofa","childCategoryUrl":"https://vin777.giving/beli-sofa/"},{"childCategoryName":"Ruang Tamu","childCategoryUrl":"https://vin777.giving/beli-furnitur-ruang-tamu/"},{"childCategoryName":"Ruang Kerja Rumah","childCategoryUrl":"https://vin777.giving/beli-furnitur-ruang-kerja-rumah/"},{"childCategoryName":"Dapur & Ruang Makan","childCategoryUrl":"https://vin777.giving/beli-furnitur-dapur-ruang-makan/"},{"childCategoryName":"Ruang Bayi","childCategoryUrl":"https://vin777.giving/beli-furnitur-ruang-bayi/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Tempat Penyimpanan","childCategoryUrl":"https://www.lazada.co.id/beli-tempat-penyimpanan/"},{"childCategoryName":"Lemari Pakaian","childCategoryUrl":"https://www.lazada.co.id/beli-lemari-pakaian/"},{"childCategoryName":"Kasur","childCategoryUrl":"https://www.lazada.co.id/beli-kasur/"},{"childCategoryName":"Kamar Tidur","childCategoryUrl":"https://www.lazada.co.id/beli-furnitur-kamar-tidur/"},{"childCategoryName":"Rak","childCategoryUrl":"https://www.lazada.co.id/rak/"},{"childCategoryName":"Rak TV dan Media","childCategoryUrl":"https://www.lazada.co.id/tempat-penyimpanan-media-dan-tv/"},{"childCategoryName":"Sofa","childCategoryUrl":"https://www.lazada.co.id/beli-sofa/"},{"childCategoryName":"Ruang Tamu","childCategoryUrl":"https://www.lazada.co.id/beli-furnitur-ruang-tamu/"},{"childCategoryName":"Ruang Kerja Rumah","childCategoryUrl":"https://www.lazada.co.id/beli-furnitur-ruang-kerja-rumah/"},{"childCategoryName":"Dapur & Ruang Makan","childCategoryUrl":"https://www.lazada.co.id/beli-furnitur-dapur-ruang-makan/"},{"childCategoryName":"Ruang Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-furnitur-ruang-bayi/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_3">
-                <a href="https://vin777.giving/beli-peralatan-ranjang/">
+                <a href="https://www.lazada.co.id/beli-peralatan-ranjang/">
                     <span>Kelengkapan Tempat Tidur</span>
                 </a>
                         <script type="text" class="J_data_8_2">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Seprai","childCategoryUrl":"https://vin777.giving/seprei-ranjang/"},{"childCategoryName":"Seprai Set","childCategoryUrl":"https://vin777.giving/perangkat-seprei/"},{"childCategoryName":"Selimut","childCategoryUrl":"https://vin777.giving/selimut-dan-selimut-panjang/"},{"childCategoryName":"Bantal","childCategoryUrl":"https://vin777.giving/beli-bantal/"},{"childCategoryName":"Aksesoris Tempat Tidur","childCategoryUrl":"https://vin777.giving/beli-aksesoris-ranjang/"},{"childCategoryName":"Sarung Bantal","childCategoryUrl":"https://vin777.giving/beli-sarung-bantal/"},{"childCategoryName":"Selimut Tebal","childCategoryUrl":"https://vin777.giving/seprei-dan-selimut-tebal/"},{"childCategoryName":"Pelindung Kasur","childCategoryUrl":"https://vin777.giving/kasur-pelindung/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Seprai","childCategoryUrl":"https://www.lazada.co.id/seprei-ranjang/"},{"childCategoryName":"Seprai Set","childCategoryUrl":"https://www.lazada.co.id/perangkat-seprei/"},{"childCategoryName":"Selimut","childCategoryUrl":"https://www.lazada.co.id/selimut-dan-selimut-panjang/"},{"childCategoryName":"Bantal","childCategoryUrl":"https://www.lazada.co.id/beli-bantal/"},{"childCategoryName":"Aksesoris Tempat Tidur","childCategoryUrl":"https://www.lazada.co.id/beli-aksesoris-ranjang/"},{"childCategoryName":"Sarung Bantal","childCategoryUrl":"https://www.lazada.co.id/beli-sarung-bantal/"},{"childCategoryName":"Selimut Tebal","childCategoryUrl":"https://www.lazada.co.id/seprei-dan-selimut-tebal/"},{"childCategoryName":"Pelindung Kasur","childCategoryUrl":"https://www.lazada.co.id/kasur-pelindung/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_4">
-                <a href="https://vin777.giving/penerangan/">
+                <a href="https://www.lazada.co.id/penerangan/">
                     <span>Penerangan</span>
                 </a>
                         <script type="text" class="J_data_8_3">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Bohlam Lampu","childCategoryUrl":"https://vin777.giving/shop-bohlam-lampu/"},{"childCategoryName":"Lampu Khusus","childCategoryUrl":"https://vin777.giving/beli-lampu-khusus/"},{"childCategoryName":"Lampu Langit-langit","childCategoryUrl":"https://vin777.giving/beli-lampu-langit-langit-hias/"},{"childCategoryName":"Penerangan Outdoor","childCategoryUrl":"https://vin777.giving/beli-penerangan-outdoor/"},{"childCategoryName":"Lampu Dinding & Tempel","childCategoryUrl":"https://vin777.giving/beli-lampu-dinding-tempel/"},{"childCategoryName":"Lampu Meja","childCategoryUrl":"https://vin777.giving/beli-lampu-meja/"},{"childCategoryName":"Komponen Lampu","childCategoryUrl":"https://vin777.giving/beli-lampu-komponen/"},{"childCategoryName":"Kap Lampu","childCategoryUrl":"https://vin777.giving/kap-lampu/"},{"childCategoryName":"Lampu Lantai","childCategoryUrl":"https://vin777.giving/beli-lampu-lantai/"},{"childCategoryName":"Lampu Rechargeable & Senter","childCategoryUrl":"https://vin777.giving/beli-senter/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Bohlam Lampu","childCategoryUrl":"https://www.lazada.co.id/shop-bohlam-lampu/"},{"childCategoryName":"Lampu Khusus","childCategoryUrl":"https://www.lazada.co.id/beli-lampu-khusus/"},{"childCategoryName":"Lampu Langit-langit","childCategoryUrl":"https://www.lazada.co.id/beli-lampu-langit-langit-hias/"},{"childCategoryName":"Penerangan Outdoor","childCategoryUrl":"https://www.lazada.co.id/beli-penerangan-outdoor/"},{"childCategoryName":"Lampu Dinding & Tempel","childCategoryUrl":"https://www.lazada.co.id/beli-lampu-dinding-tempel/"},{"childCategoryName":"Lampu Meja","childCategoryUrl":"https://www.lazada.co.id/beli-lampu-meja/"},{"childCategoryName":"Komponen Lampu","childCategoryUrl":"https://www.lazada.co.id/beli-lampu-komponen/"},{"childCategoryName":"Kap Lampu","childCategoryUrl":"https://www.lazada.co.id/kap-lampu/"},{"childCategoryName":"Lampu Lantai","childCategoryUrl":"https://www.lazada.co.id/beli-lampu-lantai/"},{"childCategoryName":"Lampu Rechargeable & Senter","childCategoryUrl":"https://www.lazada.co.id/beli-senter/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_5">
-                <a href="https://vin777.giving/beli-peralatan-mandi/">
+                <a href="https://www.lazada.co.id/beli-peralatan-mandi/">
                     <span>Peralatan Mandi</span>
                 </a>
                         <script type="text" class="J_data_8_4">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Handuk Mandi","childCategoryUrl":"https://vin777.giving/beli-handuk-mandi/"},{"childCategoryName":"Timbangan Kamar Mandi","childCategoryUrl":"https://vin777.giving/beli-timbangan-kamar-mandi/"},{"childCategoryName":"Wadah Penyimpanan Kamar Mandi","childCategoryUrl":"https://vin777.giving/beli-tempat-penyimpan-kamar-mandi/"},{"childCategoryName":"Rak Kamar Mandi","childCategoryUrl":"https://vin777.giving/jual-laci-kamar-mandi/"},{"childCategoryName":"Gantungan Handuk & Penghangat","childCategoryUrl":"https://vin777.giving/gantungan-handuk-dan-penghangat/"},{"childCategoryName":"Tempat & Gantungan Shower","childCategoryUrl":"https://vin777.giving/tempat-dan-gantungan-shower/"},{"childCategoryName":"Keset Kamar Mandi","childCategoryUrl":"https://vin777.giving/beli-alas-mandi/"},{"childCategoryName":"Jubah & Kimono Mandi","childCategoryUrl":"https://vin777.giving/beli-jubah-mandi/"},{"childCategoryName":"Tirai Shower","childCategoryUrl":"https://vin777.giving/shop-tirai-mandi-aksesoris/"},{"childCategoryName":"Cermin Kamar Mandi","childCategoryUrl":"https://vin777.giving/beli-cermin-kamar-mandi/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Handuk Mandi","childCategoryUrl":"https://www.lazada.co.id/beli-handuk-mandi/"},{"childCategoryName":"Timbangan Kamar Mandi","childCategoryUrl":"https://www.lazada.co.id/beli-timbangan-kamar-mandi/"},{"childCategoryName":"Wadah Penyimpanan Kamar Mandi","childCategoryUrl":"https://www.lazada.co.id/beli-tempat-penyimpan-kamar-mandi/"},{"childCategoryName":"Rak Kamar Mandi","childCategoryUrl":"https://www.lazada.co.id/jual-laci-kamar-mandi/"},{"childCategoryName":"Gantungan Handuk & Penghangat","childCategoryUrl":"https://www.lazada.co.id/gantungan-handuk-dan-penghangat/"},{"childCategoryName":"Tempat & Gantungan Shower","childCategoryUrl":"https://www.lazada.co.id/tempat-dan-gantungan-shower/"},{"childCategoryName":"Keset Kamar Mandi","childCategoryUrl":"https://www.lazada.co.id/beli-alas-mandi/"},{"childCategoryName":"Jubah & Kimono Mandi","childCategoryUrl":"https://www.lazada.co.id/beli-jubah-mandi/"},{"childCategoryName":"Tirai Shower","childCategoryUrl":"https://www.lazada.co.id/shop-tirai-mandi-aksesoris/"},{"childCategoryName":"Cermin Kamar Mandi","childCategoryUrl":"https://www.lazada.co.id/beli-cermin-kamar-mandi/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_6">
-                <a href="https://vin777.giving/beli-perlengkapan-dapur-makan/">
+                <a href="https://www.lazada.co.id/beli-perlengkapan-dapur-makan/">
                     <span>Alat Dapur</span>
                 </a>
                         <script type="text" class="J_data_8_5">
-                            [{"childCategoryName":"Botol minum","childCategoryUrl":"https://vin777.giving/botol-minum/"},{"childCategoryName":"Tempat Penyimpanan Makanan","childCategoryUrl":"https://vin777.giving/beli-wadah-penyimpan-makanan/"},{"childCategoryName":"Alas Meja & Aksesoris Dapur","childCategoryUrl":"https://vin777.giving/beli-alas-meja-aksesoris-dapur/"},{"childCategoryName":"Kopi & Teh","childCategoryUrl":"https://vin777.giving/beli-kopi-dan-teh/"},{"childCategoryName":"Rak Piring & Aksesoris Wastafel","childCategoryUrl":"https://vin777.giving/beli-rak-piring-aksesoris-bak/"},{"childCategoryName":"Panci & Wajan","childCategoryUrl":"https://vin777.giving/beli-peralatan-masak/"},{"childCategoryName":"Perangkat Minum","childCategoryUrl":"https://vin777.giving/beli-perangkat-minum-gelas/"},{"childCategoryName":"Perangkat Makan","childCategoryUrl":"https://vin777.giving/beli-peralatan-penyajian-makanan/"},{"childCategoryName":"Perangkat Pemanggang","childCategoryUrl":"https://vin777.giving/beli-perangkat-pemanggang/"},{"childCategoryName":"Perangkat Penyajian","childCategoryUrl":"https://vin777.giving/beli-perangkat-penyaji/"},{"childCategoryName":"Pisau & Aksesoris","childCategoryUrl":"https://vin777.giving/beli-pisau-dan-aksesoris/"},{"childCategoryName":"Alat Dapur Lainnya","childCategoryUrl":"https://vin777.giving/beli-peralatan-dapur/"}]
+                            [{"childCategoryName":"Botol minum","childCategoryUrl":"https://www.lazada.co.id/botol-minum/"},{"childCategoryName":"Tempat Penyimpanan Makanan","childCategoryUrl":"https://www.lazada.co.id/beli-wadah-penyimpan-makanan/"},{"childCategoryName":"Alas Meja & Aksesoris Dapur","childCategoryUrl":"https://www.lazada.co.id/beli-alas-meja-aksesoris-dapur/"},{"childCategoryName":"Kopi & Teh","childCategoryUrl":"https://www.lazada.co.id/beli-kopi-dan-teh/"},{"childCategoryName":"Rak Piring & Aksesoris Wastafel","childCategoryUrl":"https://www.lazada.co.id/beli-rak-piring-aksesoris-bak/"},{"childCategoryName":"Panci & Wajan","childCategoryUrl":"https://www.lazada.co.id/beli-peralatan-masak/"},{"childCategoryName":"Perangkat Minum","childCategoryUrl":"https://www.lazada.co.id/beli-perangkat-minum-gelas/"},{"childCategoryName":"Perangkat Makan","childCategoryUrl":"https://www.lazada.co.id/beli-peralatan-penyajian-makanan/"},{"childCategoryName":"Perangkat Pemanggang","childCategoryUrl":"https://www.lazada.co.id/beli-perangkat-pemanggang/"},{"childCategoryName":"Perangkat Penyajian","childCategoryUrl":"https://www.lazada.co.id/beli-perangkat-penyaji/"},{"childCategoryName":"Pisau & Aksesoris","childCategoryUrl":"https://www.lazada.co.id/beli-pisau-dan-aksesoris/"},{"childCategoryName":"Alat Dapur Lainnya","childCategoryUrl":"https://www.lazada.co.id/beli-peralatan-dapur/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_7">
-                <a href="https://vin777.giving/beli-binatu-kebersihan/">
+                <a href="https://www.lazada.co.id/beli-binatu-kebersihan/">
                     <span>Binatu &amp; Alat Kebersihan</span>
                 </a>
                         <script type="text" class="J_data_8_6">
-                            [{"childCategoryName":"Gantungan Baju","childCategoryUrl":"https://vin777.giving/gantungan-baju/"},{"childCategoryName":"Keranjang Baju","childCategoryUrl":"https://vin777.giving/keranjang-cucian/"},{"childCategoryName":"Jemuran Pakaian","childCategoryUrl":"https://vin777.giving/rak-pengering/"},{"childCategoryName":"Alat Binatu & Setrika","childCategoryUrl":"https://vin777.giving/beli-alat-binatu-setrika/"},{"childCategoryName":"Meja Setrika","childCategoryUrl":"https://vin777.giving/papan-setrika/"},{"childCategoryName":"Produk Kebersihan","childCategoryUrl":"https://vin777.giving/beli-makanan-minuman-pembersihan/"},{"childCategoryName":"Sapu & Alat Pel","childCategoryUrl":"https://vin777.giving/beli-sapu-pel/"},{"childCategoryName":"Lap Kain Penghilang Debu","childCategoryUrl":"https://vin777.giving/shop-Sapu-Sikat-Kemoceng/"},{"childCategoryName":"Sikat Pembersih","childCategoryUrl":"https://vin777.giving/beli-makanan-minuman-aksesoris-pembersih/"},{"childCategoryName":"Tempat Sampah","childCategoryUrl":"https://vin777.giving/tempat-sampah/"}]
+                            [{"childCategoryName":"Gantungan Baju","childCategoryUrl":"https://www.lazada.co.id/gantungan-baju/"},{"childCategoryName":"Keranjang Baju","childCategoryUrl":"https://www.lazada.co.id/keranjang-cucian/"},{"childCategoryName":"Jemuran Pakaian","childCategoryUrl":"https://www.lazada.co.id/rak-pengering/"},{"childCategoryName":"Alat Binatu & Setrika","childCategoryUrl":"https://www.lazada.co.id/beli-alat-binatu-setrika/"},{"childCategoryName":"Meja Setrika","childCategoryUrl":"https://www.lazada.co.id/papan-setrika/"},{"childCategoryName":"Produk Kebersihan","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-minuman-pembersihan/"},{"childCategoryName":"Sapu & Alat Pel","childCategoryUrl":"https://www.lazada.co.id/beli-sapu-pel/"},{"childCategoryName":"Lap Kain Penghilang Debu","childCategoryUrl":"https://www.lazada.co.id/shop-Sapu-Sikat-Kemoceng/"},{"childCategoryName":"Sikat Pembersih","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-minuman-aksesoris-pembersih/"},{"childCategoryName":"Tempat Sampah","childCategoryUrl":"https://www.lazada.co.id/tempat-sampah/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_8">
-                <a href="https://vin777.giving/beli-perawatan-rumah/">
+                <a href="https://www.lazada.co.id/beli-perawatan-rumah/">
                     <span>Perkakas &amp; Perbaikan Rumah</span>
                 </a>
                         <script type="text" class="J_data_8_7">
-                            [{"childCategoryName":"Alat Penyimpanan & Rak","childCategoryUrl":"https://vin777.giving/beli-garasi-penyimpanan-alat-alat/"},{"childCategoryName":"Kabel & Perlengkapan Elektrik","childCategoryUrl":"https://vin777.giving/beli-peralatan-elektrik/"},{"childCategoryName":"Pengecatan & Dekorasi","childCategoryUrl":"https://vin777.giving/beli-pengecatan-dekorasi/"},{"childCategoryName":"Perkakas","childCategoryUrl":"https://vin777.giving/beli-perkakas/"},{"childCategoryName":"Perkakas Listrik","childCategoryUrl":"https://vin777.giving/jual-perkakas-listrik/"},{"childCategoryName":"Perkakas Portabel","childCategoryUrl":"https://vin777.giving/beli-peralatan-genggam/"},{"childCategoryName":"Pipa Saluran Air & Kelengkapan","childCategoryUrl":"https://vin777.giving/beli-ledeng/"},{"childCategoryName":"Senter","childCategoryUrl":"https://vin777.giving/beli-senter"},{"childCategoryName":"Tangga & Kursi Peninggi","childCategoryUrl":"https://vin777.giving/beli-tangga-kursi-peninggi/"},{"childCategoryName":"perlengkapan keamanan","childCategoryUrl":"https://vin777.giving/lampu-penerangan-tempat-kerja/"}]
+                            [{"childCategoryName":"Alat Penyimpanan & Rak","childCategoryUrl":"https://www.lazada.co.id/beli-garasi-penyimpanan-alat-alat/"},{"childCategoryName":"Kabel & Perlengkapan Elektrik","childCategoryUrl":"https://www.lazada.co.id/beli-peralatan-elektrik/"},{"childCategoryName":"Pengecatan & Dekorasi","childCategoryUrl":"https://www.lazada.co.id/beli-pengecatan-dekorasi/"},{"childCategoryName":"Perkakas","childCategoryUrl":"https://www.lazada.co.id/beli-perkakas/"},{"childCategoryName":"Perkakas Listrik","childCategoryUrl":"https://www.lazada.co.id/jual-perkakas-listrik/"},{"childCategoryName":"Perkakas Portabel","childCategoryUrl":"https://www.lazada.co.id/beli-peralatan-genggam/"},{"childCategoryName":"Pipa Saluran Air & Kelengkapan","childCategoryUrl":"https://www.lazada.co.id/beli-ledeng/"},{"childCategoryName":"Senter","childCategoryUrl":"https://www.lazada.co.id/beli-senter"},{"childCategoryName":"Tangga & Kursi Peninggi","childCategoryUrl":"https://www.lazada.co.id/beli-tangga-kursi-peninggi/"},{"childCategoryName":"perlengkapan keamanan","childCategoryUrl":"https://www.lazada.co.id/lampu-penerangan-tempat-kerja/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_9">
-                <a href="https://vin777.giving/Kebun &amp; Luar Ruangan/">
+                <a href="https://www.lazada.co.id/Kebun &amp; Luar Ruangan/">
                     <span>Kebun &amp; Luar Ruangan</span>
                 </a>
                         <script type="text" class="J_data_8_8">
-                            [{"childCategoryName":"Peralatan Listrik Taman & Kebun","childCategoryUrl":"https://vin777.giving/beli-peralatan-listrik-taman-luar-ruangan/"},{"childCategoryName":"Peralatan Kebun","childCategoryUrl":"https://vin777.giving/beli-peralatan-kebun/"},{"childCategoryName":"Sistem Pengairan","childCategoryUrl":"https://vin777.giving/beli-sistem-pengairan/"},{"childCategoryName":"Bibit & Biji Bijian","childCategoryUrl":"https://vin777.giving/beli-tumbuhan-biji-bijian/"},{"childCategoryName":"Pembasmi Hama","childCategoryUrl":"https://vin777.giving/beli-pembasmi-rumput-liar-hama/"},{"childCategoryName":"Aksesoris Genset","childCategoryUrl":"https://vin777.giving/beli-aksesoris-peralatan-listrik-luar-ruangan/"},{"childCategoryName":"Genset","childCategoryUrl":"https://vin777.giving/shop-generator/"},{"childCategoryName":"Pemanggang","childCategoryUrl":"https://vin777.giving/pemanggang-dan-penyajian-masakan-outdoor/"},{"childCategoryName":"Alat Pembunuh Serangga","childCategoryUrl":"https://vin777.giving/alat-pembunuh-serangga/"},{"childCategoryName":"Aksesoris Luar Ruangan","childCategoryUrl":"https://vin777.giving/beli-luar-ruangan/"},{"childCategoryName":"Taman & Kebun","childCategoryUrl":"https://vin777.giving/perlengkapan-taman-dan-kebun/"},{"childCategoryName":"","childCategoryUrl":""}]
+                            [{"childCategoryName":"Peralatan Listrik Taman & Kebun","childCategoryUrl":"https://www.lazada.co.id/beli-peralatan-listrik-taman-luar-ruangan/"},{"childCategoryName":"Peralatan Kebun","childCategoryUrl":"https://www.lazada.co.id/beli-peralatan-kebun/"},{"childCategoryName":"Sistem Pengairan","childCategoryUrl":"https://www.lazada.co.id/beli-sistem-pengairan/"},{"childCategoryName":"Bibit & Biji Bijian","childCategoryUrl":"https://www.lazada.co.id/beli-tumbuhan-biji-bijian/"},{"childCategoryName":"Pembasmi Hama","childCategoryUrl":"https://www.lazada.co.id/beli-pembasmi-rumput-liar-hama/"},{"childCategoryName":"Aksesoris Genset","childCategoryUrl":"https://www.lazada.co.id/beli-aksesoris-peralatan-listrik-luar-ruangan/"},{"childCategoryName":"Genset","childCategoryUrl":"https://www.lazada.co.id/shop-generator/"},{"childCategoryName":"Pemanggang","childCategoryUrl":"https://www.lazada.co.id/pemanggang-dan-penyajian-masakan-outdoor/"},{"childCategoryName":"Alat Pembunuh Serangga","childCategoryUrl":"https://www.lazada.co.id/alat-pembunuh-serangga/"},{"childCategoryName":"Aksesoris Luar Ruangan","childCategoryUrl":"https://www.lazada.co.id/beli-luar-ruangan/"},{"childCategoryName":"Taman & Kebun","childCategoryUrl":"https://www.lazada.co.id/perlengkapan-taman-dan-kebun/"},{"childCategoryName":"","childCategoryUrl":""}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_10">
-                <a href="https://vin777.giving/beli-alat-tulis-kerajinan/">
+                <a href="https://www.lazada.co.id/beli-alat-tulis-kerajinan/">
                     <span>Alat Tulis &amp; Kerajinan</span>
                 </a>
                         <script type="text" class="J_data_8_9">
-                            [{"childCategoryName":"Peralatan Kesenian dan Kerajinan","childCategoryUrl":"https://vin777.giving/beli-peralatan-seni/"},{"childCategoryName":"Peralatan Mewarnai dan Copic","childCategoryUrl":"https://vin777.giving/beli-alat-mewarnai-copic/"},{"childCategoryName":"Kerajinan Umum","childCategoryUrl":"https://vin777.giving/beli-alat-kerajinan-umum/"},{"childCategoryName":"Pernak Pernik Hadiah dan Kado","childCategoryUrl":"https://vin777.giving/beli-pernak-pernik-hadiah/"},{"childCategoryName":"Tas Belanja","childCategoryUrl":"https://vin777.giving/beli-tas-belanjaan/"},{"childCategoryName":"Buku Catatan","childCategoryUrl":"https://vin777.giving/buku-catatan/"},{"childCategoryName":"Kertas Komputer","childCategoryUrl":"https://vin777.giving/beli-kertas-komputer/"},{"childCategoryName":"Perlengkapan Sekolah","childCategoryUrl":"https://vin777.giving/beli-perlengkapan-sekolah/"},{"childCategoryName":"Perlengkapan Meja Kerja","childCategoryUrl":"https://vin777.giving/beli-wadah-alat-alat-kantor/"},{"childCategoryName":"Perlengkapan Jahit","childCategoryUrl":"https://vin777.giving/beli-bahan-bahan-kerajinan-tangan/"},{"childCategoryName":"Pulpen","childCategoryUrl":"https://vin777.giving/beli-pulpen/"},{"childCategoryName":"Pensil","childCategoryUrl":"https://vin777.giving/beli-pensil-2/"}]
+                            [{"childCategoryName":"Peralatan Kesenian dan Kerajinan","childCategoryUrl":"https://www.lazada.co.id/beli-peralatan-seni/"},{"childCategoryName":"Peralatan Mewarnai dan Copic","childCategoryUrl":"https://www.lazada.co.id/beli-alat-mewarnai-copic/"},{"childCategoryName":"Kerajinan Umum","childCategoryUrl":"https://www.lazada.co.id/beli-alat-kerajinan-umum/"},{"childCategoryName":"Pernak Pernik Hadiah dan Kado","childCategoryUrl":"https://www.lazada.co.id/beli-pernak-pernik-hadiah/"},{"childCategoryName":"Tas Belanja","childCategoryUrl":"https://www.lazada.co.id/beli-tas-belanjaan/"},{"childCategoryName":"Buku Catatan","childCategoryUrl":"https://www.lazada.co.id/buku-catatan/"},{"childCategoryName":"Kertas Komputer","childCategoryUrl":"https://www.lazada.co.id/beli-kertas-komputer/"},{"childCategoryName":"Perlengkapan Sekolah","childCategoryUrl":"https://www.lazada.co.id/beli-perlengkapan-sekolah/"},{"childCategoryName":"Perlengkapan Meja Kerja","childCategoryUrl":"https://www.lazada.co.id/beli-wadah-alat-alat-kantor/"},{"childCategoryName":"Perlengkapan Jahit","childCategoryUrl":"https://www.lazada.co.id/beli-bahan-bahan-kerajinan-tangan/"},{"childCategoryName":"Pulpen","childCategoryUrl":"https://www.lazada.co.id/beli-pulpen/"},{"childCategoryName":"Pensil","childCategoryUrl":"https://www.lazada.co.id/beli-pensil-2/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_11">
-                <a href="https://vin777.giving/beli-media-musik-dan-buku/">
+                <a href="https://www.lazada.co.id/beli-media-musik-dan-buku/">
                     <span>Media, Musik &amp; Buku</span>
                 </a>
                         <script type="text" class="J_data_8_10">
-                            [{"childCategoryName":"Instrumen Musik","childCategoryUrl":"https://vin777.giving/instrumen-musik/"},{"childCategoryName":"Buku","childCategoryUrl":"https://vin777.giving/buku/"},{"childCategoryName":"Musik","childCategoryUrl":"https://vin777.giving/lagu/"},{"childCategoryName":"Majalah","childCategoryUrl":"https://vin777.giving/majalah/"},{"childCategoryName":"Film","childCategoryUrl":"https://vin777.giving/film/"}]
+                            [{"childCategoryName":"Instrumen Musik","childCategoryUrl":"https://www.lazada.co.id/instrumen-musik/"},{"childCategoryName":"Buku","childCategoryUrl":"https://www.lazada.co.id/buku/"},{"childCategoryName":"Musik","childCategoryUrl":"https://www.lazada.co.id/lagu/"},{"childCategoryName":"Majalah","childCategoryUrl":"https://www.lazada.co.id/majalah/"},{"childCategoryName":"Film","childCategoryUrl":"https://www.lazada.co.id/film/"}]
                         </script>
             </li>
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No10" data-spm="cate_10">
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_1">
-                <a href="https://vin777.giving/beli-minuman/">
+                <a href="https://www.lazada.co.id/beli-minuman/">
                     <span>Minuman</span>
                 </a>
                         <script type="text" class="J_data_9_0">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"UHT, Susu & Susu Bubuk","childCategoryUrl":"https://vin777.giving/beli-makanan-minuman-uht-milk-milk-powder/"},{"childCategoryName":"Kopi","childCategoryUrl":"https://vin777.giving/beli-kopi/"},{"childCategoryName":"Minuman Serbuk","childCategoryUrl":"https://vin777.giving/beli-minuman-serbuk/"},{"childCategoryName":"Minuman Berenergi","childCategoryUrl":"https://vin777.giving/shop-Minuman-Olahraga-Energi/"},{"childCategoryName":"Teh","childCategoryUrl":"https://vin777.giving/beli-teh/"},{"childCategoryName":"Chocolate, Malt & Hot Cereals","childCategoryUrl":"https://vin777.giving/coklat-panas/"},{"childCategoryName":"Air Mineral","childCategoryUrl":"https://vin777.giving/beli-makanan-minuman-air/"},{"childCategoryName":"Minuman Berkarbonasi","childCategoryUrl":"https://vin777.giving/beli-makanan-minuman-minuman-ringan/"},{"childCategoryName":"Jus","childCategoryUrl":"https://vin777.giving/beli-makanan-minuman-jus/"},{"childCategoryName":"Sirup","childCategoryUrl":"https://vin777.giving/beli-sirup/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"UHT, Susu & Susu Bubuk","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-minuman-uht-milk-milk-powder/"},{"childCategoryName":"Kopi","childCategoryUrl":"https://www.lazada.co.id/beli-kopi/"},{"childCategoryName":"Minuman Serbuk","childCategoryUrl":"https://www.lazada.co.id/beli-minuman-serbuk/"},{"childCategoryName":"Minuman Berenergi","childCategoryUrl":"https://www.lazada.co.id/shop-Minuman-Olahraga-Energi/"},{"childCategoryName":"Teh","childCategoryUrl":"https://www.lazada.co.id/beli-teh/"},{"childCategoryName":"Chocolate, Malt & Hot Cereals","childCategoryUrl":"https://www.lazada.co.id/coklat-panas/"},{"childCategoryName":"Air Mineral","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-minuman-air/"},{"childCategoryName":"Minuman Berkarbonasi","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-minuman-minuman-ringan/"},{"childCategoryName":"Jus","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-minuman-jus/"},{"childCategoryName":"Sirup","childCategoryUrl":"https://www.lazada.co.id/beli-sirup/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_2">
-                <a href="https://vin777.giving/shop-Bahan-Utama-Pelengkap-Masakan">
+                <a href="https://www.lazada.co.id/shop-Bahan-Utama-Pelengkap-Masakan">
                     <span>Bahan &amp; Bumbu Masakan</span>
                 </a>
                         <script type="text" class="J_data_9_1">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makanan Instant & Siap santap","childCategoryUrl":"https://vin777.giving/shop-Makanan-Instan-Siap-Santap/"},{"childCategoryName":"Bahan Pembuat Kue","childCategoryUrl":"https://vin777.giving/shop-Bahan-Pembuat-Kue/"},{"childCategoryName":"Beras","childCategoryUrl":"https://vin777.giving/shop-Beras/"},{"childCategoryName":"Garam & Bumbu Dapur","childCategoryUrl":"https://vin777.giving/shop-Bumbu-Dapur/"},{"childCategoryName":"Mie & Bihun","childCategoryUrl":"https://vin777.giving/shop-Mi-Bihun/"},{"childCategoryName":"Makanan Kering","childCategoryUrl":"https://vin777.giving/shop-Makanan-Kering/"},{"childCategoryName":"Minyak","childCategoryUrl":"https://vin777.giving/shop-Minyak/"},{"childCategoryName":"Makanan Kaleng","childCategoryUrl":"https://vin777.giving/shop-Makanan-Kaleng/"},{"childCategoryName":"Pasta","childCategoryUrl":"https://vin777.giving/shop-Pasta/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makanan Instant & Siap santap","childCategoryUrl":"https://www.lazada.co.id/shop-Makanan-Instan-Siap-Santap/"},{"childCategoryName":"Bahan Pembuat Kue","childCategoryUrl":"https://www.lazada.co.id/shop-Bahan-Pembuat-Kue/"},{"childCategoryName":"Beras","childCategoryUrl":"https://www.lazada.co.id/shop-Beras/"},{"childCategoryName":"Garam & Bumbu Dapur","childCategoryUrl":"https://www.lazada.co.id/shop-Bumbu-Dapur/"},{"childCategoryName":"Mie & Bihun","childCategoryUrl":"https://www.lazada.co.id/shop-Mi-Bihun/"},{"childCategoryName":"Makanan Kering","childCategoryUrl":"https://www.lazada.co.id/shop-Makanan-Kering/"},{"childCategoryName":"Minyak","childCategoryUrl":"https://www.lazada.co.id/shop-Minyak/"},{"childCategoryName":"Makanan Kaleng","childCategoryUrl":"https://www.lazada.co.id/shop-Makanan-Kaleng/"},{"childCategoryName":"Pasta","childCategoryUrl":"https://www.lazada.co.id/shop-Pasta/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_3">
-                <a href="https://vin777.giving/shop-Cokelat-Camilan-Permen/">
+                <a href="https://www.lazada.co.id/shop-Cokelat-Camilan-Permen/">
                     <span>Cokelat, Camilan &amp; Permen</span>
                 </a>
                         <script type="text" class="J_data_9_2">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Camilan","childCategoryUrl":"https://vin777.giving/shop-Camilan/"},{"childCategoryName":"Cokelat","childCategoryUrl":"https://vin777.giving/shop-Cokelat/"},{"childCategoryName":"Biskuit & Kerupuk","childCategoryUrl":"https://vin777.giving/shop-Biskuit-Manis/"},{"childCategoryName":"Permen","childCategoryUrl":"https://vin777.giving/shop-Manisan/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Camilan","childCategoryUrl":"https://www.lazada.co.id/shop-Camilan/"},{"childCategoryName":"Cokelat","childCategoryUrl":"https://www.lazada.co.id/shop-Cokelat/"},{"childCategoryName":"Biskuit & Kerupuk","childCategoryUrl":"https://www.lazada.co.id/shop-Biskuit-Manis/"},{"childCategoryName":"Permen","childCategoryUrl":"https://www.lazada.co.id/shop-Manisan/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_4">
-                <a href="https://vin777.giving/beli-makanan-sarapan">
+                <a href="https://www.lazada.co.id/beli-makanan-sarapan">
                     <span>Makanan Sarapan, Sereal &amp; Selai</span>
                 </a>
                         <script type="text" class="J_data_9_3">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Selai & Madu","childCategoryUrl":"https://vin777.giving/beli-makanan-minuman-selai-madu-spread/"},{"childCategoryName":"Oatmeal","childCategoryUrl":"https://vin777.giving/beli-oatmeal/"},{"childCategoryName":"Sereal Sarapan","childCategoryUrl":"https://vin777.giving/beli-sereal/"},{"childCategoryName":"Tepung Pancake & Waffle","childCategoryUrl":"https://vin777.giving/beli-pancake-waffle/"},{"childCategoryName":"Bars","childCategoryUrl":"https://vin777.giving/shop-bar/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Selai & Madu","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-minuman-selai-madu-spread/"},{"childCategoryName":"Oatmeal","childCategoryUrl":"https://www.lazada.co.id/beli-oatmeal/"},{"childCategoryName":"Sereal Sarapan","childCategoryUrl":"https://www.lazada.co.id/beli-sereal/"},{"childCategoryName":"Tepung Pancake & Waffle","childCategoryUrl":"https://www.lazada.co.id/beli-pancake-waffle/"},{"childCategoryName":"Bars","childCategoryUrl":"https://www.lazada.co.id/shop-bar/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_5">
-                <a href="https://vin777.giving/beli-makanan-minuman-hasil-segar">
+                <a href="https://www.lazada.co.id/beli-makanan-minuman-hasil-segar">
                     <span>Buah &amp; Sayur</span>
                 </a>
                         <script type="text" class="J_data_9_4">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Buah Segar","childCategoryUrl":"https://vin777.giving/beli-makanan-minuman-buah/"},{"childCategoryName":"Sayur Segar","childCategoryUrl":"https://vin777.giving/beli-makanan-minuman-sayuran-segar/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Buah Segar","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-minuman-buah/"},{"childCategoryName":"Sayur Segar","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-minuman-sayuran-segar/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_6">
-                <a href="https://vin777.giving/shop-kebutuhan-rumah-tangga">
+                <a href="https://www.lazada.co.id/shop-kebutuhan-rumah-tangga">
                     <span>Kebutuhan Rumah Tangga</span>
                 </a>
                         <script type="text" class="J_data_9_5">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pengharum Ruangan","childCategoryUrl":"https://vin777.giving/shop-perawatan-udara/"},{"childCategoryName":"Kebutuhan Kebersihan","childCategoryUrl":"https://vin777.giving/beli-makanan-minuman-pembersihan/"},{"childCategoryName":"Pengendalian Hama","childCategoryUrl":"https://vin777.giving/beli-makanan-minuman-pengendalian-hama/"},{"childCategoryName":"Sabun Pencuci Piring","childCategoryUrl":"https://vin777.giving/beli-makanan-minuman-mencuci-piring/"},{"childCategoryName":"Kebutuhan Laundry","childCategoryUrl":"https://vin777.giving/beli-makanan-minuman-cucian/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pengharum Ruangan","childCategoryUrl":"https://www.lazada.co.id/shop-perawatan-udara/"},{"childCategoryName":"Kebutuhan Kebersihan","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-minuman-pembersihan/"},{"childCategoryName":"Pengendalian Hama","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-minuman-pengendalian-hama/"},{"childCategoryName":"Sabun Pencuci Piring","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-minuman-mencuci-piring/"},{"childCategoryName":"Kebutuhan Laundry","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-minuman-cucian/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_7">
-                <a href="https://vin777.giving/shop-makanan-hewan">
+                <a href="https://www.lazada.co.id/shop-makanan-hewan">
                     <span>Makanan Hewan Peliharaan</span>
                 </a>
                         <script type="text" class="J_data_9_6">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makanan & Camilan Kucing","childCategoryUrl":"https://vin777.giving/jual-makanan-kucing/"},{"childCategoryName":"Makanan Burung","childCategoryUrl":"https://vin777.giving/beli-makanan-burung/"},{"childCategoryName":"Makanan Ikan","childCategoryUrl":"https://vin777.giving/beli-makanan-ikan/"},{"childCategoryName":"Makanan & Camilan Anjing","childCategoryUrl":"https://vin777.giving/jual-makanan-anjing/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makanan & Camilan Kucing","childCategoryUrl":"https://www.lazada.co.id/jual-makanan-kucing/"},{"childCategoryName":"Makanan Burung","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-burung/"},{"childCategoryName":"Makanan Ikan","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-ikan/"},{"childCategoryName":"Makanan & Camilan Anjing","childCategoryUrl":"https://www.lazada.co.id/jual-makanan-anjing/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_8">
-                <a href="https://vin777.giving/shop-aksesoris-hewan">
+                <a href="https://www.lazada.co.id/shop-aksesoris-hewan">
                     <span>Aksesoris Hewan Peliharaan</span>
                 </a>
                         <script type="text" class="J_data_9_7">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Keperluan Akuarium","childCategoryUrl":"https://vin777.giving/shop-keperluan-akuarium/"},{"childCategoryName":"Kandang & Aksesoris","childCategoryUrl":"https://vin777.giving/beli-kandang-terbuka-pintu-anjing/"},{"childCategoryName":"Peralatan Grooming","childCategoryUrl":"https://vin777.giving/jual-persediaan-grooming-hewan/"},{"childCategoryName":"Rumah,Alas & Tempat tidur","childCategoryUrl":"https://vin777.giving/beli-ranjang-alas-tidur-rumah-anjing/"},{"childCategoryName":"Alat Makan Hewan","childCategoryUrl":"https://vin777.giving/beli-mangkuk-makan-anjing/"},{"childCategoryName":"Tali dan Kalung Hewan","childCategoryUrl":"https://vin777.giving/beli-tali-kalung-moncong-anjing/"},{"childCategoryName":"Kebutuhan Travel Hewan","childCategoryUrl":"https://vin777.giving/beli-pengangkut-perjalanan-anjing/"},{"childCategoryName":"Mainan Hewan","childCategoryUrl":"https://vin777.giving/shop-mainan/"},{"childCategoryName":"Alat Pelatihan Anjing","childCategoryUrl":"https://vin777.giving/beli-alat-latih-olahraga-anjing/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Keperluan Akuarium","childCategoryUrl":"https://www.lazada.co.id/shop-keperluan-akuarium/"},{"childCategoryName":"Kandang & Aksesoris","childCategoryUrl":"https://www.lazada.co.id/beli-kandang-terbuka-pintu-anjing/"},{"childCategoryName":"Peralatan Grooming","childCategoryUrl":"https://www.lazada.co.id/jual-persediaan-grooming-hewan/"},{"childCategoryName":"Rumah,Alas & Tempat tidur","childCategoryUrl":"https://www.lazada.co.id/beli-ranjang-alas-tidur-rumah-anjing/"},{"childCategoryName":"Alat Makan Hewan","childCategoryUrl":"https://www.lazada.co.id/beli-mangkuk-makan-anjing/"},{"childCategoryName":"Tali dan Kalung Hewan","childCategoryUrl":"https://www.lazada.co.id/beli-tali-kalung-moncong-anjing/"},{"childCategoryName":"Kebutuhan Travel Hewan","childCategoryUrl":"https://www.lazada.co.id/beli-pengangkut-perjalanan-anjing/"},{"childCategoryName":"Mainan Hewan","childCategoryUrl":"https://www.lazada.co.id/shop-mainan/"},{"childCategoryName":"Alat Pelatihan Anjing","childCategoryUrl":"https://www.lazada.co.id/beli-alat-latih-olahraga-anjing/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_9">
-                <a href="https://vin777.giving/shop-kesehatan-hewan-peliharaan">
+                <a href="https://www.lazada.co.id/shop-kesehatan-hewan-peliharaan">
                     <span>Kesehatan Hewan Peliharaan</span>
                 </a>
                         <script type="text" class="J_data_9_8">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Gigi","childCategoryUrl":"https://vin777.giving/beli-kesehatan-gigi-anjing/"},{"childCategoryName":"Pembasmi Kutu Hewan","childCategoryUrl":"https://vin777.giving/beli-kutu-anjing/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Gigi","childCategoryUrl":"https://www.lazada.co.id/beli-kesehatan-gigi-anjing/"},{"childCategoryName":"Pembasmi Kutu Hewan","childCategoryUrl":"https://www.lazada.co.id/beli-kutu-anjing/"}]
                         </script>
             </li>
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No11" data-spm="cate_11">
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_1">
-                <a href="https://vin777.giving/baju-olahraga-pria/">
+                <a href="https://www.lazada.co.id/baju-olahraga-pria/">
                     <span>Baju Olahraga Pria</span>
                 </a>
                         <script type="text" class="J_data_10_0">
-                            [{"childCategoryName":"Celana Olahraga Pria","childCategoryUrl":"https://vin777.giving/celana-panjang-dan-pendek-olahraga-pria/"},{"childCategoryName":"Kaos Olahraga Pria","childCategoryUrl":"https://vin777.giving/kaos-olahraga-pria/"},{"childCategoryName":"Jaket Olahraga Pria","childCategoryUrl":"https://vin777.giving/jaket-dan-parka-olahraga-pria/"},{"childCategoryName":"Pakaian Renang Pria","childCategoryUrl":"https://vin777.giving/pakaian-renang-dan-selancar-pria/"},{"childCategoryName":"Jersey Olahraga Pria","childCategoryUrl":"https://vin777.giving/jual-jersey-olahraga-pria/"},{"childCategoryName":"Celana Pendek Pria","childCategoryUrl":"https://vin777.giving/jual-celana-pendek-olahraga-pria/"},{"childCategoryName":"Hoodies Pria","childCategoryUrl":"https://vin777.giving/hoodies-pria/"},{"childCategoryName":"Topi Olahraga Pria","childCategoryUrl":"https://vin777.giving/jual-topi-olahraga-pria/"},{"childCategoryName":"Tas Ransel Sport Pria","childCategoryUrl":"https://vin777.giving/tas-ransel-sport-pria/"},{"childCategoryName":"Tas Serut Pria","childCategoryUrl":"https://vin777.giving/tas-serut-pria/"},{"childCategoryName":"Tas Duffel Pria","childCategoryUrl":"https://vin777.giving/tas-duffel-pria/"},{"childCategoryName":"Gym Tote Pria","childCategoryUrl":"https://vin777.giving/gym-tote-pria/"}]
+                            [{"childCategoryName":"Celana Olahraga Pria","childCategoryUrl":"https://www.lazada.co.id/celana-panjang-dan-pendek-olahraga-pria/"},{"childCategoryName":"Kaos Olahraga Pria","childCategoryUrl":"https://www.lazada.co.id/kaos-olahraga-pria/"},{"childCategoryName":"Jaket Olahraga Pria","childCategoryUrl":"https://www.lazada.co.id/jaket-dan-parka-olahraga-pria/"},{"childCategoryName":"Pakaian Renang Pria","childCategoryUrl":"https://www.lazada.co.id/pakaian-renang-dan-selancar-pria/"},{"childCategoryName":"Jersey Olahraga Pria","childCategoryUrl":"https://www.lazada.co.id/jual-jersey-olahraga-pria/"},{"childCategoryName":"Celana Pendek Pria","childCategoryUrl":"https://www.lazada.co.id/jual-celana-pendek-olahraga-pria/"},{"childCategoryName":"Hoodies Pria","childCategoryUrl":"https://www.lazada.co.id/hoodies-pria/"},{"childCategoryName":"Topi Olahraga Pria","childCategoryUrl":"https://www.lazada.co.id/jual-topi-olahraga-pria/"},{"childCategoryName":"Tas Ransel Sport Pria","childCategoryUrl":"https://www.lazada.co.id/tas-ransel-sport-pria/"},{"childCategoryName":"Tas Serut Pria","childCategoryUrl":"https://www.lazada.co.id/tas-serut-pria/"},{"childCategoryName":"Tas Duffel Pria","childCategoryUrl":"https://www.lazada.co.id/tas-duffel-pria/"},{"childCategoryName":"Gym Tote Pria","childCategoryUrl":"https://www.lazada.co.id/gym-tote-pria/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_2">
-                <a href="https://vin777.giving/pakaian-olahraga-wanita/">
+                <a href="https://www.lazada.co.id/pakaian-olahraga-wanita/">
                     <span>Baju Olahraga Wanita</span>
                 </a>
                         <script type="text" class="J_data_10_1">
-                            [{"childCategoryName":"Celana Panjang Wanita","childCategoryUrl":"https://vin777.giving/celana-panjang-dan-pendek-olahraga-wanita/"},{"childCategoryName":"Kaos Olahraga Wanita","childCategoryUrl":"https://vin777.giving/kaos-dan-atasan-olahraga-wanita/"},{"childCategoryName":"Jaket Olahraga Wanita","childCategoryUrl":"https://vin777.giving/jaket-dan-parka-sport-wanita/"},{"childCategoryName":"Sport Bra Wanita","childCategoryUrl":"https://vin777.giving/jual-sport-bra-wanita/"},{"childCategoryName":"Celana Pendek Wanita","childCategoryUrl":"https://vin777.giving/jual-celana-pendek-olahraga-wanita/"},{"childCategoryName":"Rok Olahraga Wanita","childCategoryUrl":"https://vin777.giving/jual-rok-olahraga-wanita/"},{"childCategoryName":"Hoodies Wanita","childCategoryUrl":"https://vin777.giving/hoodies-wanita/"},{"childCategoryName":"Pakaian Renang Wanita","childCategoryUrl":"https://vin777.giving/pakaian-renang-dan-selancar-wanita/"},{"childCategoryName":"Tas Ransel Sport Wanita","childCategoryUrl":"https://vin777.giving/tas-ransel-sport-wanita/"},{"childCategoryName":"Tas Serut Wanita","childCategoryUrl":"https://vin777.giving/tas-serut-wanita/"},{"childCategoryName":"Tas Duffel Wanita","childCategoryUrl":"https://vin777.giving/tas-duffel-wanita/"},{"childCategoryName":"Gym Tote Wanita","childCategoryUrl":"https://vin777.giving/gym-tote-wanita/"}]
+                            [{"childCategoryName":"Celana Panjang Wanita","childCategoryUrl":"https://www.lazada.co.id/celana-panjang-dan-pendek-olahraga-wanita/"},{"childCategoryName":"Kaos Olahraga Wanita","childCategoryUrl":"https://www.lazada.co.id/kaos-dan-atasan-olahraga-wanita/"},{"childCategoryName":"Jaket Olahraga Wanita","childCategoryUrl":"https://www.lazada.co.id/jaket-dan-parka-sport-wanita/"},{"childCategoryName":"Sport Bra Wanita","childCategoryUrl":"https://www.lazada.co.id/jual-sport-bra-wanita/"},{"childCategoryName":"Celana Pendek Wanita","childCategoryUrl":"https://www.lazada.co.id/jual-celana-pendek-olahraga-wanita/"},{"childCategoryName":"Rok Olahraga Wanita","childCategoryUrl":"https://www.lazada.co.id/jual-rok-olahraga-wanita/"},{"childCategoryName":"Hoodies Wanita","childCategoryUrl":"https://www.lazada.co.id/hoodies-wanita/"},{"childCategoryName":"Pakaian Renang Wanita","childCategoryUrl":"https://www.lazada.co.id/pakaian-renang-dan-selancar-wanita/"},{"childCategoryName":"Tas Ransel Sport Wanita","childCategoryUrl":"https://www.lazada.co.id/tas-ransel-sport-wanita/"},{"childCategoryName":"Tas Serut Wanita","childCategoryUrl":"https://www.lazada.co.id/tas-serut-wanita/"},{"childCategoryName":"Tas Duffel Wanita","childCategoryUrl":"https://www.lazada.co.id/tas-duffel-wanita/"},{"childCategoryName":"Gym Tote Wanita","childCategoryUrl":"https://www.lazada.co.id/gym-tote-wanita/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_3">
-                <a href="https://vin777.giving/sepatu-dan-pakaian-olahraga-pria/">
+                <a href="https://www.lazada.co.id/sepatu-dan-pakaian-olahraga-pria/">
                     <span>Sepatu Olahraga Pria</span>
                 </a>
                         <script type="text" class="J_data_10_2">
-                            [{"childCategoryName":"Sepatu Sepakbola Pria","childCategoryUrl":"https://vin777.giving/jual-sepatu-sepakbola-pria/"},{"childCategoryName":"Sepatu Futsal Pria","childCategoryUrl":"https://vin777.giving/jual-sepatu-futsal-pria/"},{"childCategoryName":"Sepatu Lari Pria","childCategoryUrl":"https://vin777.giving/sepatu-lari-pria/"},{"childCategoryName":"Sepatu Hiking Pria","childCategoryUrl":"https://vin777.giving/jual-sepatu-hiking-pria/"},{"childCategoryName":"Sepatu Basket Pria","childCategoryUrl":"https://vin777.giving/jual-sepatu-basket-pria/"},{"childCategoryName":"Sepatu Olahraga Air Pria","childCategoryUrl":"https://vin777.giving/jual-sepatu-olahraga-air-pria/"},{"childCategoryName":"Sepatu Badminton ria","childCategoryUrl":"https://vin777.giving/jual-sepatu-badminton-pria/"},{"childCategoryName":"Sepatu Training Pira","childCategoryUrl":"https://vin777.giving/jual-sepatu-fitness-training-pria/"},{"childCategoryName":"Sepatu Skateboard Pria","childCategoryUrl":"https://vin777.giving/jual-sepatu-skateboard-pria/"},{"childCategoryName":"Sepatu Sneakers Pria","childCategoryUrl":"https://vin777.giving/beli-sepatu-sneakers-pria/"},{"childCategoryName":"Sandal Olahraga Pria","childCategoryUrl":"https://vin777.giving/jual-sandal-olahraga-pria/"},{"childCategoryName":"Sepatu Jalan Pria","childCategoryUrl":"https://vin777.giving/jual-sepatu-jalan-pria/"}]
+                            [{"childCategoryName":"Sepatu Sepakbola Pria","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-sepakbola-pria/"},{"childCategoryName":"Sepatu Futsal Pria","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-futsal-pria/"},{"childCategoryName":"Sepatu Lari Pria","childCategoryUrl":"https://www.lazada.co.id/sepatu-lari-pria/"},{"childCategoryName":"Sepatu Hiking Pria","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-hiking-pria/"},{"childCategoryName":"Sepatu Basket Pria","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-basket-pria/"},{"childCategoryName":"Sepatu Olahraga Air Pria","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-olahraga-air-pria/"},{"childCategoryName":"Sepatu Badminton ria","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-badminton-pria/"},{"childCategoryName":"Sepatu Training Pira","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-fitness-training-pria/"},{"childCategoryName":"Sepatu Skateboard Pria","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-skateboard-pria/"},{"childCategoryName":"Sepatu Sneakers Pria","childCategoryUrl":"https://www.lazada.co.id/beli-sepatu-sneakers-pria/"},{"childCategoryName":"Sandal Olahraga Pria","childCategoryUrl":"https://www.lazada.co.id/jual-sandal-olahraga-pria/"},{"childCategoryName":"Sepatu Jalan Pria","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-jalan-pria/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_4">
-                <a href="https://vin777.giving/sepatu-dan-pakaian-olahraga-wanita/">
+                <a href="https://www.lazada.co.id/sepatu-dan-pakaian-olahraga-wanita/">
                     <span>Sepatu Olahraga Wanita</span>
                 </a>
                         <script type="text" class="J_data_10_3">
-                            [{"childCategoryName":"Sepatu Badminton Wanita","childCategoryUrl":"https://vin777.giving/sepatu-badminton-wanita/"},{"childCategoryName":"Sepatu Lari Wanita","childCategoryUrl":"https://vin777.giving/sepatu-lari-wanita/"},{"childCategoryName":"Sepatu Futsal Wanita","childCategoryUrl":"https://vin777.giving/sepatu-futsal-wanita/"},{"childCategoryName":"Sepatu Basket Wanita","childCategoryUrl":"https://vin777.giving/sepatu-basket-wanita/"},{"childCategoryName":"Sepatu Sepakbola Wanita","childCategoryUrl":"https://vin777.giving/sepatu-sepakbola-wanita/"},{"childCategoryName":"Sepatu Olahraga Air Wanita","childCategoryUrl":"https://vin777.giving/sepatu-olaraga-air-wanita/"},{"childCategoryName":"Sepatu Hiking Wanita","childCategoryUrl":"https://vin777.giving/sepatu-hiking-wanita/"},{"childCategoryName":"Sepatu Training Wanita","childCategoryUrl":"https://vin777.giving/jual-sepatu-fitness-training-wanita/"},{"childCategoryName":"Septu Skateboard Wanita","childCategoryUrl":"https://vin777.giving/jual-sepatu-skateboard-wanita/"},{"childCategoryName":"Sepatu Sneakers Wanita","childCategoryUrl":"https://vin777.giving/beli-sepatu-sneakers-wanita/"},{"childCategoryName":"Sandal Olahraga Wanita","childCategoryUrl":"https://vin777.giving/jual-sandal-olahraga-wanita/"},{"childCategoryName":"Sepatu Jalan Wanita","childCategoryUrl":"https://vin777.giving/jual-sepatu-jalan-wanita/"}]
+                            [{"childCategoryName":"Sepatu Badminton Wanita","childCategoryUrl":"https://www.lazada.co.id/sepatu-badminton-wanita/"},{"childCategoryName":"Sepatu Lari Wanita","childCategoryUrl":"https://www.lazada.co.id/sepatu-lari-wanita/"},{"childCategoryName":"Sepatu Futsal Wanita","childCategoryUrl":"https://www.lazada.co.id/sepatu-futsal-wanita/"},{"childCategoryName":"Sepatu Basket Wanita","childCategoryUrl":"https://www.lazada.co.id/sepatu-basket-wanita/"},{"childCategoryName":"Sepatu Sepakbola Wanita","childCategoryUrl":"https://www.lazada.co.id/sepatu-sepakbola-wanita/"},{"childCategoryName":"Sepatu Olahraga Air Wanita","childCategoryUrl":"https://www.lazada.co.id/sepatu-olaraga-air-wanita/"},{"childCategoryName":"Sepatu Hiking Wanita","childCategoryUrl":"https://www.lazada.co.id/sepatu-hiking-wanita/"},{"childCategoryName":"Sepatu Training Wanita","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-fitness-training-wanita/"},{"childCategoryName":"Septu Skateboard Wanita","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-skateboard-wanita/"},{"childCategoryName":"Sepatu Sneakers Wanita","childCategoryUrl":"https://www.lazada.co.id/beli-sepatu-sneakers-wanita/"},{"childCategoryName":"Sandal Olahraga Wanita","childCategoryUrl":"https://www.lazada.co.id/jual-sandal-olahraga-wanita/"},{"childCategoryName":"Sepatu Jalan Wanita","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-jalan-wanita/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_5">
-                <a href="https://vin777.giving/camping-dan-hiking/">
+                <a href="https://www.lazada.co.id/camping-dan-hiking/">
                     <span>Camping dan Hiking</span>
                 </a>
                         <script type="text" class="J_data_10_4">
-                            [{"childCategoryName":"Tenda dan furniture Camping","childCategoryUrl":"https://vin777.giving/tenda-dan-furniture/"},{"childCategoryName":"Perlengkapan Tidur Camping","childCategoryUrl":"https://vin777.giving/perlengkapan-tidur-camping/"},{"childCategoryName":"Tas Camping","childCategoryUrl":"https://vin777.giving/jual-tas-ransel/"},{"childCategoryName":"Tempat berteduh Camping","childCategoryUrl":"https://vin777.giving/jual-tempat-berteduh-dan-kanopi/"},{"childCategoryName":"Perabotan Kemah","childCategoryUrl":"https://vin777.giving/jual-perabotan-kemah/"},{"childCategoryName":"Alat Dapur Kemah","childCategoryUrl":"https://vin777.giving/jual-dapur-kemah/"},{"childCategoryName":"Alat penerangan Hiking","childCategoryUrl":"https://vin777.giving/jual-penerangan/"},{"childCategoryName":"Navigasi Elektroning Hiking","childCategoryUrl":"https://vin777.giving/jual-navigasi-elektronik/"},{"childCategoryName":"Tongkat Hiking","childCategoryUrl":"https://vin777.giving/jual-tongkat-hiking/"},{"childCategoryName":"Pisau Kemah","childCategoryUrl":"https://vin777.giving/jual-pisau-alat-multifungsi/"},{"childCategoryName":"Peralatan Survival Camping","childCategoryUrl":"https://vin777.giving/jual-peralatan-survival-dan-keamanan/"},{"childCategoryName":"Perlengkapan Panjat Tebing","childCategoryUrl":"https://vin777.giving/panjat-tebing/"}]
+                            [{"childCategoryName":"Tenda dan furniture Camping","childCategoryUrl":"https://www.lazada.co.id/tenda-dan-furniture/"},{"childCategoryName":"Perlengkapan Tidur Camping","childCategoryUrl":"https://www.lazada.co.id/perlengkapan-tidur-camping/"},{"childCategoryName":"Tas Camping","childCategoryUrl":"https://www.lazada.co.id/jual-tas-ransel/"},{"childCategoryName":"Tempat berteduh Camping","childCategoryUrl":"https://www.lazada.co.id/jual-tempat-berteduh-dan-kanopi/"},{"childCategoryName":"Perabotan Kemah","childCategoryUrl":"https://www.lazada.co.id/jual-perabotan-kemah/"},{"childCategoryName":"Alat Dapur Kemah","childCategoryUrl":"https://www.lazada.co.id/jual-dapur-kemah/"},{"childCategoryName":"Alat penerangan Hiking","childCategoryUrl":"https://www.lazada.co.id/jual-penerangan/"},{"childCategoryName":"Navigasi Elektroning Hiking","childCategoryUrl":"https://www.lazada.co.id/jual-navigasi-elektronik/"},{"childCategoryName":"Tongkat Hiking","childCategoryUrl":"https://www.lazada.co.id/jual-tongkat-hiking/"},{"childCategoryName":"Pisau Kemah","childCategoryUrl":"https://www.lazada.co.id/jual-pisau-alat-multifungsi/"},{"childCategoryName":"Peralatan Survival Camping","childCategoryUrl":"https://www.lazada.co.id/jual-peralatan-survival-dan-keamanan/"},{"childCategoryName":"Perlengkapan Panjat Tebing","childCategoryUrl":"https://www.lazada.co.id/panjat-tebing/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_6">
-                <a href="https://vin777.giving/jual-peralatan-memancing/">
+                <a href="https://www.lazada.co.id/jual-peralatan-memancing/">
                     <span>Peralatan Memancing</span>
                 </a>
                         <script type="text" class="J_data_10_5">
-                            [{"childCategoryName":"Tongkat Pancing","childCategoryUrl":"https://vin777.giving/jual-tongkat-pancing/"},{"childCategoryName":"Alat Gulungan Pancing","childCategoryUrl":"https://vin777.giving/alat-gulungan-pancing/"},{"childCategoryName":"Set Tongkat dan Gulungan Pancing","childCategoryUrl":"https://vin777.giving/set-tongkat-dan-gulungan-pancing/"},{"childCategoryName":"Senar Pancing","childCategoryUrl":"https://vin777.giving/jual-senar-pancing/"},{"childCategoryName":"Umpan Pancing","childCategoryUrl":"https://vin777.giving/jual-umpan/"},{"childCategoryName":"Peralatan Pancing","childCategoryUrl":"https://vin777.giving/jual-peralatan-pancing/"},{"childCategoryName":"GPS alat pencari ikan","childCategoryUrl":"https://vin777.giving/jual-gps-alat-pencari-ikan/"},{"childCategoryName":"Jaring Penangkap Ikan","childCategoryUrl":"https://vin777.giving/jual-jaring-penangkap-ikan/"},{"childCategoryName":"Aksesoris Memancing","childCategoryUrl":"https://vin777.giving/jual-aksesoris-memancing/"}]
+                            [{"childCategoryName":"Tongkat Pancing","childCategoryUrl":"https://www.lazada.co.id/jual-tongkat-pancing/"},{"childCategoryName":"Alat Gulungan Pancing","childCategoryUrl":"https://www.lazada.co.id/alat-gulungan-pancing/"},{"childCategoryName":"Set Tongkat dan Gulungan Pancing","childCategoryUrl":"https://www.lazada.co.id/set-tongkat-dan-gulungan-pancing/"},{"childCategoryName":"Senar Pancing","childCategoryUrl":"https://www.lazada.co.id/jual-senar-pancing/"},{"childCategoryName":"Umpan Pancing","childCategoryUrl":"https://www.lazada.co.id/jual-umpan/"},{"childCategoryName":"Peralatan Pancing","childCategoryUrl":"https://www.lazada.co.id/jual-peralatan-pancing/"},{"childCategoryName":"GPS alat pencari ikan","childCategoryUrl":"https://www.lazada.co.id/jual-gps-alat-pencari-ikan/"},{"childCategoryName":"Jaring Penangkap Ikan","childCategoryUrl":"https://www.lazada.co.id/jual-jaring-penangkap-ikan/"},{"childCategoryName":"Aksesoris Memancing","childCategoryUrl":"https://www.lazada.co.id/jual-aksesoris-memancing/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_7">
-                <a href="https://vin777.giving/olahraga-sepeda/">
+                <a href="https://www.lazada.co.id/olahraga-sepeda/">
                     <span>Olahraga Sepeda</span>
                 </a>
                         <script type="text" class="J_data_10_6">
-                            [{"childCategoryName":"Komponen Part Sepeda","childCategoryUrl":"https://vin777.giving/komponen-dan-parts-sepeda/"},{"childCategoryName":"Aksesoris Sepeda","childCategoryUrl":"https://vin777.giving/aksesoris-sepeda/"},{"childCategoryName":"Sepeda","childCategoryUrl":"https://vin777.giving/sepeda/"},{"childCategoryName":"Kaos Sepeda","childCategoryUrl":"https://vin777.giving/jual-baju-kaos-sepeda/"},{"childCategoryName":"Sepatu Sepeda Pria","childCategoryUrl":"https://vin777.giving/jual-sepatu-sepeda-pria/"},{"childCategoryName":"Sepatu Sepeda Wanita","childCategoryUrl":"https://vin777.giving/sepatu-sepeda-wanita/"},{"childCategoryName":"Sepatu Sepeda Perempuan","childCategoryUrl":"https://vin777.giving/jual-sepatu-sepeda-anak-perempuan/"},{"childCategoryName":"Sepatu Sepeda Laki-Laki","childCategoryUrl":"https://vin777.giving/jual-sepatu-sepeda-anak-laki-laki/"}]
+                            [{"childCategoryName":"Komponen Part Sepeda","childCategoryUrl":"https://www.lazada.co.id/komponen-dan-parts-sepeda/"},{"childCategoryName":"Aksesoris Sepeda","childCategoryUrl":"https://www.lazada.co.id/aksesoris-sepeda/"},{"childCategoryName":"Sepeda","childCategoryUrl":"https://www.lazada.co.id/sepeda/"},{"childCategoryName":"Kaos Sepeda","childCategoryUrl":"https://www.lazada.co.id/jual-baju-kaos-sepeda/"},{"childCategoryName":"Sepatu Sepeda Pria","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-sepeda-pria/"},{"childCategoryName":"Sepatu Sepeda Wanita","childCategoryUrl":"https://www.lazada.co.id/sepatu-sepeda-wanita/"},{"childCategoryName":"Sepatu Sepeda Perempuan","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-sepeda-anak-perempuan/"},{"childCategoryName":"Sepatu Sepeda Laki-Laki","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-sepeda-anak-laki-laki/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_8">
-                <a href="https://vin777.giving/olahraga-air/">
+                <a href="https://www.lazada.co.id/olahraga-air/">
                     <span>Olahraga Air</span>
                 </a>
                         <script type="text" class="J_data_10_7">
-                            [{"childCategoryName":"Kapal","childCategoryUrl":"https://vin777.giving/jual-kapal/"},{"childCategoryName":"Peralatan Menyelam","childCategoryUrl":"https://vin777.giving/diving-snorkeling/"},{"childCategoryName":"Peralatan Renang","childCategoryUrl":"https://vin777.giving/renang/"},{"childCategoryName":"Papan Renang","childCategoryUrl":"https://vin777.giving/jual-olahraga-papan/"},{"childCategoryName":"Tubing dan Towables","childCategoryUrl":"https://vin777.giving/jual-tubing-towables/"},{"childCategoryName":"Akesesoris Olahraga Air","childCategoryUrl":"https://vin777.giving/jual-aksesoris-olahraga-air/"}]
+                            [{"childCategoryName":"Kapal","childCategoryUrl":"https://www.lazada.co.id/jual-kapal/"},{"childCategoryName":"Peralatan Menyelam","childCategoryUrl":"https://www.lazada.co.id/diving-snorkeling/"},{"childCategoryName":"Peralatan Renang","childCategoryUrl":"https://www.lazada.co.id/renang/"},{"childCategoryName":"Papan Renang","childCategoryUrl":"https://www.lazada.co.id/jual-olahraga-papan/"},{"childCategoryName":"Tubing dan Towables","childCategoryUrl":"https://www.lazada.co.id/jual-tubing-towables/"},{"childCategoryName":"Akesesoris Olahraga Air","childCategoryUrl":"https://www.lazada.co.id/jual-aksesoris-olahraga-air/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_9">
-                <a href="https://vin777.giving/latihan-dan-fitness/">
+                <a href="https://www.lazada.co.id/latihan-dan-fitness/">
                     <span>Gym, Yoga &amp; Fitness</span>
                 </a>
                         <script type="text" class="J_data_10_8">
-                            [{"childCategoryName":"Peralatan Pelatihan Ketangkasan","childCategoryUrl":"https://vin777.giving/shop-pelatihan-kecepatan-ketangkasan/"},{"childCategoryName":"Aksesoris Gym","childCategoryUrl":"https://vin777.giving/shop-aksesoris/"},{"childCategoryName":"Pilates Gym","childCategoryUrl":"https://vin777.giving/pilates/"},{"childCategoryName":"Alat Latihan Angkat Beban","childCategoryUrl":"https://vin777.giving/alat-latihan-angkat-beban/"},{"childCategoryName":"Yoga","childCategoryUrl":"https://vin777.giving/yoga/"},{"childCategoryName":"Peralatan Kardio","childCategoryUrl":"https://vin777.giving/peralatan-latihan-kardio/"},{"childCategoryName":"Perlengkapan Fitnes","childCategoryUrl":"https://vin777.giving/jual-aksesoris-fitness/"},{"childCategoryName":"Perlengkapan Lari","childCategoryUrl":"https://vin777.giving/temporary-url-sport-catl3-1/"}]
+                            [{"childCategoryName":"Peralatan Pelatihan Ketangkasan","childCategoryUrl":"https://www.lazada.co.id/shop-pelatihan-kecepatan-ketangkasan/"},{"childCategoryName":"Aksesoris Gym","childCategoryUrl":"https://www.lazada.co.id/shop-aksesoris/"},{"childCategoryName":"Pilates Gym","childCategoryUrl":"https://www.lazada.co.id/pilates/"},{"childCategoryName":"Alat Latihan Angkat Beban","childCategoryUrl":"https://www.lazada.co.id/alat-latihan-angkat-beban/"},{"childCategoryName":"Yoga","childCategoryUrl":"https://www.lazada.co.id/yoga/"},{"childCategoryName":"Peralatan Kardio","childCategoryUrl":"https://www.lazada.co.id/peralatan-latihan-kardio/"},{"childCategoryName":"Perlengkapan Fitnes","childCategoryUrl":"https://www.lazada.co.id/jual-aksesoris-fitness/"},{"childCategoryName":"Perlengkapan Lari","childCategoryUrl":"https://www.lazada.co.id/temporary-url-sport-catl3-1/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_10">
-                <a href="https://vin777.giving/olahraga-raket/">
+                <a href="https://www.lazada.co.id/olahraga-raket/">
                     <span>Olahraga Raket</span>
                 </a>
                         <script type="text" class="J_data_10_9">
-                            [{"childCategoryName":"Tenis Meja","childCategoryUrl":"https://vin777.giving/tenis-meja/"},{"childCategoryName":"Badminton","childCategoryUrl":"https://vin777.giving/bulutangkis/"},{"childCategoryName":"Tennis","childCategoryUrl":"https://vin777.giving/tenis/"},{"childCategoryName":"Squash","childCategoryUrl":"https://vin777.giving/squash/"}]
+                            [{"childCategoryName":"Tenis Meja","childCategoryUrl":"https://www.lazada.co.id/tenis-meja/"},{"childCategoryName":"Badminton","childCategoryUrl":"https://www.lazada.co.id/bulutangkis/"},{"childCategoryName":"Tennis","childCategoryUrl":"https://www.lazada.co.id/tenis/"},{"childCategoryName":"Squash","childCategoryUrl":"https://www.lazada.co.id/squash/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_11">
-                <a href="https://vin777.giving/shop-perlengkapan-olah-raga/">
+                <a href="https://www.lazada.co.id/shop-perlengkapan-olah-raga/">
                     <span>Perlengkapan Olahraga</span>
                 </a>
                         <script type="text" class="J_data_10_10">
-                            [{"childCategoryName":"Oxrashoan Tinju-Bela Mma","childCategoryUrl":"https://vin777.giving/jual-tinju-bela-diri-mma/"},{"childCategoryName":"Golf Gym","childCategoryUrl":"https://vin777.giving/golf/"},{"childCategoryName":"Bola Gym","childCategoryUrl":"https://vin777.giving/sepak-bola/"},{"childCategoryName":"Basket Gym","childCategoryUrl":"https://vin777.giving/basket/"},{"childCategoryName":"Voli Gym","childCategoryUrl":"https://vin777.giving/voli/"},{"childCategoryName":"Cricket Gym","childCategoryUrl":"https://vin777.giving/cricket/"},{"childCategoryName":"Rugby Gym","childCategoryUrl":"https://vin777.giving/rugby/"},{"childCategoryName":"Takraw Gym","childCategoryUrl":"https://vin777.giving/sepak-takraw/"},{"childCategoryName":"Baseball Gym","childCategoryUrl":"https://vin777.giving/baseball/"},{"childCategoryName":"Perlengkapan Olahraga Senam","childCategoryUrl":"https://vin777.giving/jual-olahraga-senam/"},{"childCategoryName":"Hoki Gym","childCategoryUrl":"https://vin777.giving/olahraga-hoki/"},{"childCategoryName":"Peralatan Cheerleading","childCategoryUrl":"https://vin777.giving/jual-peralatan-cheerleading/"}]
+                            [{"childCategoryName":"Oxrashoan Tinju-Bela Mma","childCategoryUrl":"https://www.lazada.co.id/jual-tinju-bela-diri-mma/"},{"childCategoryName":"Golf Gym","childCategoryUrl":"https://www.lazada.co.id/golf/"},{"childCategoryName":"Bola Gym","childCategoryUrl":"https://www.lazada.co.id/sepak-bola/"},{"childCategoryName":"Basket Gym","childCategoryUrl":"https://www.lazada.co.id/basket/"},{"childCategoryName":"Voli Gym","childCategoryUrl":"https://www.lazada.co.id/voli/"},{"childCategoryName":"Cricket Gym","childCategoryUrl":"https://www.lazada.co.id/cricket/"},{"childCategoryName":"Rugby Gym","childCategoryUrl":"https://www.lazada.co.id/rugby/"},{"childCategoryName":"Takraw Gym","childCategoryUrl":"https://www.lazada.co.id/sepak-takraw/"},{"childCategoryName":"Baseball Gym","childCategoryUrl":"https://www.lazada.co.id/baseball/"},{"childCategoryName":"Perlengkapan Olahraga Senam","childCategoryUrl":"https://www.lazada.co.id/jual-olahraga-senam/"},{"childCategoryName":"Hoki Gym","childCategoryUrl":"https://www.lazada.co.id/olahraga-hoki/"},{"childCategoryName":"Peralatan Cheerleading","childCategoryUrl":"https://www.lazada.co.id/jual-peralatan-cheerleading/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_12">
-                <a href="https://vin777.giving/sepak-bola/">
+                <a href="https://www.lazada.co.id/sepak-bola/">
                     <span>Perlengkapan Sepak Bola</span>
                 </a>
                         <script type="text" class="J_data_10_11">
-                            [{"childCategoryName":"Sepatu Sepakbola","childCategoryUrl":"https://vin777.giving/jual-sepatu-sepakbola-pria/"},{"childCategoryName":"Sepatu Futsal","childCategoryUrl":"https://vin777.giving/jual-sepatu-futsal-pria/"},{"childCategoryName":"Jersey Sepakbola","childCategoryUrl":"https://vin777.giving/jual-jersey-sepak-bola-pria/"},{"childCategoryName":"Jersey Sepakbola Anak","childCategoryUrl":"https://vin777.giving/jual-jersey-sepak-bola-anak-laki-laki/"},{"childCategoryName":"Sepatu Sepakbola Anak","childCategoryUrl":"https://vin777.giving/jual-sepatu-sepak-bola/"},{"childCategoryName":"Sepatu Futsal Anak","childCategoryUrl":"https://vin777.giving/jual-sepatu-futsal/"},{"childCategoryName":"Bola","childCategoryUrl":"https://vin777.giving/bola-sepak-bola/"},{"childCategoryName":"Sarung Tangan Keeper","childCategoryUrl":"https://vin777.giving/sarung-tangan-kiper/"},{"childCategoryName":"Pelindung Lutut","childCategoryUrl":"https://vin777.giving/beli-pelindung-tulang-kering/"},{"childCategoryName":"Peralatan Latihan","childCategoryUrl":"https://vin777.giving/beli-peralatan-berlatih-dan-lapangan/"},{"childCategoryName":"Tas","childCategoryUrl":"https://vin777.giving/jual-tas-peralatan/"},{"childCategoryName":"Fan Merchandise Team International","childCategoryUrl":"https://vin777.giving/international-football-clubs-fan-merchandise/"}]
+                            [{"childCategoryName":"Sepatu Sepakbola","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-sepakbola-pria/"},{"childCategoryName":"Sepatu Futsal","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-futsal-pria/"},{"childCategoryName":"Jersey Sepakbola","childCategoryUrl":"https://www.lazada.co.id/jual-jersey-sepak-bola-pria/"},{"childCategoryName":"Jersey Sepakbola Anak","childCategoryUrl":"https://www.lazada.co.id/jual-jersey-sepak-bola-anak-laki-laki/"},{"childCategoryName":"Sepatu Sepakbola Anak","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-sepak-bola/"},{"childCategoryName":"Sepatu Futsal Anak","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-futsal/"},{"childCategoryName":"Bola","childCategoryUrl":"https://www.lazada.co.id/bola-sepak-bola/"},{"childCategoryName":"Sarung Tangan Keeper","childCategoryUrl":"https://www.lazada.co.id/sarung-tangan-kiper/"},{"childCategoryName":"Pelindung Lutut","childCategoryUrl":"https://www.lazada.co.id/beli-pelindung-tulang-kering/"},{"childCategoryName":"Peralatan Latihan","childCategoryUrl":"https://www.lazada.co.id/beli-peralatan-berlatih-dan-lapangan/"},{"childCategoryName":"Tas","childCategoryUrl":"https://www.lazada.co.id/jual-tas-peralatan/"},{"childCategoryName":"Fan Merchandise Team International","childCategoryUrl":"https://www.lazada.co.id/international-football-clubs-fan-merchandise/"}]
                         </script>
             </li>
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No12" data-spm="cate_12">
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_1">
-                <a href="https://vin777.giving/shop-auto-parts-spares/">
+                <a href="https://www.lazada.co.id/shop-auto-parts-spares/">
                     <span>Suku Cadang &amp; Peralatan Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_0">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Lampu, Bohlam & LED","childCategoryUrl":"https://vin777.giving/shop-bohlam-led-hid/"},{"childCategoryName":"Rem","childCategoryUrl":"https://vin777.giving/shop-automotive-brake-system/"},{"childCategoryName":"Suspensi","childCategoryUrl":"https://vin777.giving/shop-automotive-shocks-struts-suspension/"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"https://vin777.giving/shop-automotive-engine-parts/"},{"childCategoryName":"Suku Cadang Body","childCategoryUrl":"https://vin777.giving/shop-automotive-body-parts/"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"https://vin777.giving/shop-automotive-exhaust-emissions/"},{"childCategoryName":"Aki Mobil","childCategoryUrl":"https://vin777.giving/shop-automotive-batteries-accessories/"},{"childCategoryName":"Wiper & Aksesoris","childCategoryUrl":"https://vin777.giving/shop-automotive-windshield-wipers-washers/"},{"childCategoryName":"Klakson & Aksesoris","childCategoryUrl":"https://vin777.giving/shop-automotive-horns-accessories/"},{"childCategoryName":"Peralatan Pengapian & Kelistrikan","childCategoryUrl":"https://vin777.giving/shop-automotive-ignition-electrical/"},{"childCategoryName":"Peralatan & Suku Cadang Lainya","childCategoryUrl":"https://vin777.giving/shop-automotive-trim/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Lampu, Bohlam & LED","childCategoryUrl":"https://www.lazada.co.id/shop-bohlam-led-hid/"},{"childCategoryName":"Rem","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-brake-system/"},{"childCategoryName":"Suspensi","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-shocks-struts-suspension/"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-engine-parts/"},{"childCategoryName":"Suku Cadang Body","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-body-parts/"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-exhaust-emissions/"},{"childCategoryName":"Aki Mobil","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-batteries-accessories/"},{"childCategoryName":"Wiper & Aksesoris","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-windshield-wipers-washers/"},{"childCategoryName":"Klakson & Aksesoris","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-horns-accessories/"},{"childCategoryName":"Peralatan Pengapian & Kelistrikan","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-ignition-electrical/"},{"childCategoryName":"Peralatan & Suku Cadang Lainya","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-trim/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_2">
-                <a href="https://vin777.giving/aksesoris-interior-mobil/">
+                <a href="https://www.lazada.co.id/aksesoris-interior-mobil/">
                     <span>Aksesoris Interior Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_1">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"https://vin777.giving/pengharum-mobil/"},{"childCategoryName":"Jok & Trim","childCategoryUrl":"https://vin777.giving/shop-sarung-jok-aksesoris-kursi/"},{"childCategoryName":"Aksesoris Stir Mobil","childCategoryUrl":"https://vin777.giving/setir-mobil-dan-aksesoris/"},{"childCategoryName":"Persneling","childCategoryUrl":"https://vin777.giving/shop-automotive-shift-boots-knobs/"},{"childCategoryName":"Pedal","childCategoryUrl":"https://vin777.giving/shop-automotive-pedals-pedal-accessories/"},{"childCategoryName":"Spidometer & Pengukur","childCategoryUrl":"https://vin777.giving/alat-pengukur-kecepatan/"},{"childCategoryName":"Aksesoris Elektronik Interior","childCategoryUrl":"https://vin777.giving/shop-automotive-electrical-appliances/"},{"childCategoryName":"Aksesoris Interior Lainya","childCategoryUrl":"https://vin777.giving/shop-automotive-consoles-organizers/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"https://www.lazada.co.id/pengharum-mobil/"},{"childCategoryName":"Jok & Trim","childCategoryUrl":"https://www.lazada.co.id/shop-sarung-jok-aksesoris-kursi/"},{"childCategoryName":"Aksesoris Stir Mobil","childCategoryUrl":"https://www.lazada.co.id/setir-mobil-dan-aksesoris/"},{"childCategoryName":"Persneling","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-shift-boots-knobs/"},{"childCategoryName":"Pedal","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-pedals-pedal-accessories/"},{"childCategoryName":"Spidometer & Pengukur","childCategoryUrl":"https://www.lazada.co.id/alat-pengukur-kecepatan/"},{"childCategoryName":"Aksesoris Elektronik Interior","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-electrical-appliances/"},{"childCategoryName":"Aksesoris Interior Lainya","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-consoles-organizers/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_3">
-                <a href="https://vin777.giving/aksesoris-eksterior-mobil/">
+                <a href="https://www.lazada.co.id/aksesoris-eksterior-mobil/">
                     <span>Aksesoris Exterior Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_2">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Mobil","childCategoryUrl":"https://vin777.giving/penutup-mobil/"},{"childCategoryName":"Stiker & Emblems","childCategoryUrl":"https://vin777.giving/shop-stiker/"},{"childCategoryName":"Lis & Garnis","childCategoryUrl":"https://vin777.giving/shop-automotive-chrome-trim-accessories/"},{"childCategoryName":"Penutup Pelat Nomer","childCategoryUrl":"https://vin777.giving/shop-automotive-license-plate-covers-frames/"},{"childCategoryName":"Aksesoris Serbaguna","childCategoryUrl":"https://vin777.giving/shop-manajemen-kargo/"},{"childCategoryName":"Kaca Angin, Deflektor & Talang Air","childCategoryUrl":"https://vin777.giving/pelindung-dan-talang-air-mobil/"},{"childCategoryName":"Kaca & Aksesoris","childCategoryUrl":"https://vin777.giving/shop-automotive-exterior-mirrors/"},{"childCategoryName":"Spoiler, Sayap & Body Kit","childCategoryUrl":"https://vin777.giving/shop-automotive-spoilers-wings-styling-kits/"},{"childCategoryName":"Aksesoris Offroad","childCategoryUrl":"https://vin777.giving/shop-automotive-body-armor/"},{"childCategoryName":"Aksesoris Exterior Lainya","childCategoryUrl":"https://vin777.giving/shop-automotive-trailer-accessories/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Mobil","childCategoryUrl":"https://www.lazada.co.id/penutup-mobil/"},{"childCategoryName":"Stiker & Emblems","childCategoryUrl":"https://www.lazada.co.id/shop-stiker/"},{"childCategoryName":"Lis & Garnis","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-chrome-trim-accessories/"},{"childCategoryName":"Penutup Pelat Nomer","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-license-plate-covers-frames/"},{"childCategoryName":"Aksesoris Serbaguna","childCategoryUrl":"https://www.lazada.co.id/shop-manajemen-kargo/"},{"childCategoryName":"Kaca Angin, Deflektor & Talang Air","childCategoryUrl":"https://www.lazada.co.id/pelindung-dan-talang-air-mobil/"},{"childCategoryName":"Kaca & Aksesoris","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-exterior-mirrors/"},{"childCategoryName":"Spoiler, Sayap & Body Kit","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-spoilers-wings-styling-kits/"},{"childCategoryName":"Aksesoris Offroad","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-body-armor/"},{"childCategoryName":"Aksesoris Exterior Lainya","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-trailer-accessories/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_4">
-                <a href="https://vin777.giving/shop-elektronik/">
+                <a href="https://www.lazada.co.id/shop-elektronik/">
                     <span>Kamera Mobil, Audio &amp; Video</span>
                 </a>
                         <script type="text" class="J_data_11_3">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kamera Mobil & Aksesoris","childCategoryUrl":"https://vin777.giving/shop-kamera-mobil/"},{"childCategoryName":"Headunit","childCategoryUrl":"https://vin777.giving/shop-car-video-in-dash-navigation/"},{"childCategoryName":"Spiker","childCategoryUrl":"https://vin777.giving/shop-car-audio-speakers/"},{"childCategoryName":"Subwoofer","childCategoryUrl":"https://vin777.giving/shop-car-audio-subwoofers/"},{"childCategoryName":"Power, amplifier & Kapasitor Bank","childCategoryUrl":"https://vin777.giving/shop-car-audio-equalizers/"},{"childCategoryName":"GPS","childCategoryUrl":"https://vin777.giving/shop-motors-gps/"},{"childCategoryName":"Video, TV Aksesoris mobil","childCategoryUrl":"https://vin777.giving/shop-car-video/"},{"childCategoryName":"Aksesoris Audio & Video Lainya","childCategoryUrl":"https://vin777.giving/shop-audio-video-accessories/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kamera Mobil & Aksesoris","childCategoryUrl":"https://www.lazada.co.id/shop-kamera-mobil/"},{"childCategoryName":"Headunit","childCategoryUrl":"https://www.lazada.co.id/shop-car-video-in-dash-navigation/"},{"childCategoryName":"Spiker","childCategoryUrl":"https://www.lazada.co.id/shop-car-audio-speakers/"},{"childCategoryName":"Subwoofer","childCategoryUrl":"https://www.lazada.co.id/shop-car-audio-subwoofers/"},{"childCategoryName":"Power, amplifier & Kapasitor Bank","childCategoryUrl":"https://www.lazada.co.id/shop-car-audio-equalizers/"},{"childCategoryName":"GPS","childCategoryUrl":"https://www.lazada.co.id/shop-motors-gps/"},{"childCategoryName":"Video, TV Aksesoris mobil","childCategoryUrl":"https://www.lazada.co.id/shop-car-video/"},{"childCategoryName":"Aksesoris Audio & Video Lainya","childCategoryUrl":"https://www.lazada.co.id/shop-audio-video-accessories/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_5">
-                <a href="https://vin777.giving/shop-perawatan-mobil/">
+                <a href="https://www.lazada.co.id/shop-perawatan-mobil/">
                     <span>Perawatan &amp; Pengkilat Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_4">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"https://vin777.giving/pengharum-mobil/"},{"childCategoryName":"Pengkilat & Detailing Bodi","childCategoryUrl":"https://vin777.giving/shop-automotive-polishing-waxing-kits/"},{"childCategoryName":"Pelapis & Pembersih Kaca","childCategoryUrl":"https://vin777.giving/glass-care/"},{"childCategoryName":"Kompon & Penghilang Baret","childCategoryUrl":"https://vin777.giving/shop-automotive-polishing-rubbing-compounds/"},{"childCategoryName":"Cat Mobil","childCategoryUrl":"https://vin777.giving/shop-automotive-paints-primers/"},{"childCategoryName":"Perawatan Ban & Velg","childCategoryUrl":"https://vin777.giving/shop-automotive-tire-wheel-care/"},{"childCategoryName":"Perawatan Interior","childCategoryUrl":"https://vin777.giving/interior-care/"},{"childCategoryName":"Paket Perawatan Mobil","childCategoryUrl":"https://vin777.giving/shop-paket-perawatan-mobil/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"https://www.lazada.co.id/pengharum-mobil/"},{"childCategoryName":"Pengkilat & Detailing Bodi","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-polishing-waxing-kits/"},{"childCategoryName":"Pelapis & Pembersih Kaca","childCategoryUrl":"https://www.lazada.co.id/glass-care/"},{"childCategoryName":"Kompon & Penghilang Baret","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-polishing-rubbing-compounds/"},{"childCategoryName":"Cat Mobil","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-paints-primers/"},{"childCategoryName":"Perawatan Ban & Velg","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-tire-wheel-care/"},{"childCategoryName":"Perawatan Interior","childCategoryUrl":"https://www.lazada.co.id/interior-care/"},{"childCategoryName":"Paket Perawatan Mobil","childCategoryUrl":"https://www.lazada.co.id/shop-paket-perawatan-mobil/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_6">
-                <a href="https://vin777.giving/roda-dan-ban/">
+                <a href="https://www.lazada.co.id/roda-dan-ban/">
                     <span>Ban &amp; Velg Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_5">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Velg","childCategoryUrl":"https://vin777.giving/jual-roda/"},{"childCategoryName":"Ban","childCategoryUrl":"https://vin777.giving/jual-ban/"},{"childCategoryName":"Aksesoris Velg & Ban","childCategoryUrl":"https://vin777.giving/jual-aksesoris-roda-suku-cadang/"},{"childCategoryName":"Peralatan Velg & Ban","childCategoryUrl":"https://vin777.giving/shop-tire-parts-air-compressors-inflators/"},{"childCategoryName":"Servis & Pemasangan Velg, Ban","childCategoryUrl":"https://vin777.giving/shop-paket-ban-pelek/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Velg","childCategoryUrl":"https://www.lazada.co.id/jual-roda/"},{"childCategoryName":"Ban","childCategoryUrl":"https://www.lazada.co.id/jual-ban/"},{"childCategoryName":"Aksesoris Velg & Ban","childCategoryUrl":"https://www.lazada.co.id/jual-aksesoris-roda-suku-cadang/"},{"childCategoryName":"Peralatan Velg & Ban","childCategoryUrl":"https://www.lazada.co.id/shop-tire-parts-air-compressors-inflators/"},{"childCategoryName":"Servis & Pemasangan Velg, Ban","childCategoryUrl":"https://www.lazada.co.id/shop-paket-ban-pelek/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_7">
-                <a href="https://vin777.giving/oli-dan-pelumas/">
+                <a href="https://www.lazada.co.id/oli-dan-pelumas/">
                     <span>Oli &amp; Cairan Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_6">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Mobil","childCategoryUrl":"https://vin777.giving/shop-automotive-oils/"},{"childCategoryName":"Aditif & Penguat Bensin","childCategoryUrl":"https://vin777.giving/shop-automotive-auto-oils-fluids-additives/"},{"childCategoryName":"Pendingin Mesin","childCategoryUrl":"https://vin777.giving/shop-automotive-antifreezes-coolants/"},{"childCategoryName":"Pembersih Mesin","childCategoryUrl":"https://vin777.giving/shop-automotive-cleaners/"},{"childCategoryName":"Oli Powersteering","childCategoryUrl":"https://vin777.giving/shop-automotive-power-steering-fluids/"},{"childCategoryName":"Cairan & Oli Lainnya","childCategoryUrl":"https://vin777.giving/shop-automotive-greases-lubricants/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Mobil","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-oils/"},{"childCategoryName":"Aditif & Penguat Bensin","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-auto-oils-fluids-additives/"},{"childCategoryName":"Pendingin Mesin","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-antifreezes-coolants/"},{"childCategoryName":"Pembersih Mesin","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-cleaners/"},{"childCategoryName":"Oli Powersteering","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-power-steering-fluids/"},{"childCategoryName":"Cairan & Oli Lainnya","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-greases-lubricants/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_8">
-                <a href="https://vin777.giving/shop-motorcycle-riding-gear/">
+                <a href="https://www.lazada.co.id/shop-motorcycle-riding-gear/">
                     <span>Perlengkapan Berkendara &amp; Helm</span>
                 </a>
                         <script type="text" class="J_data_11_7">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Helm","childCategoryUrl":"https://vin777.giving/helmets-automotive/"},{"childCategoryName":"Jaket & Pelindung","childCategoryUrl":"https://vin777.giving/jackets/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://vin777.giving/shop-motorcycle-riding-gear-gloves/"},{"childCategoryName":"Sepatu & Boot","childCategoryUrl":"https://vin777.giving/shop-motorcycle-riding-gear-footwear/"},{"childCategoryName":"Masker & Pelindung Wajah","childCategoryUrl":"https://vin777.giving/shop-motorcycle-riding-gear-face-masks/"},{"childCategoryName":"Kacamata Angin","childCategoryUrl":"https://vin777.giving/shop-motorcycle-riding-gear-eyewear/"},{"childCategoryName":"Peralatan Hujan","childCategoryUrl":"https://vin777.giving/shop-pakaian-hujan/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Helm","childCategoryUrl":"https://www.lazada.co.id/helmets-automotive/"},{"childCategoryName":"Jaket & Pelindung","childCategoryUrl":"https://www.lazada.co.id/jackets/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-riding-gear-gloves/"},{"childCategoryName":"Sepatu & Boot","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-riding-gear-footwear/"},{"childCategoryName":"Masker & Pelindung Wajah","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-riding-gear-face-masks/"},{"childCategoryName":"Kacamata Angin","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-riding-gear-eyewear/"},{"childCategoryName":"Peralatan Hujan","childCategoryUrl":"https://www.lazada.co.id/shop-pakaian-hujan/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_9">
-                <a href="https://vin777.giving/shop-motorcycle-parts-spares/">
+                <a href="https://www.lazada.co.id/shop-motorcycle-parts-spares/">
                     <span>Suku Cadang &amp; Peralatan Motor</span>
                 </a>
                         <script type="text" class="J_data_11_8">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Bohlam, LED & Rumah Lampu","childCategoryUrl":"https://vin777.giving/shop-penerangan/"},{"childCategoryName":"Rem & Suspensi","childCategoryUrl":"https://vin777.giving/shop-motorcycle-brakes-suspension/"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"https://vin777.giving/moto-knalpot-system-pembuangan/"},{"childCategoryName":"Aki Motor & Aksesoris","childCategoryUrl":"https://vin777.giving/shop-moto-batteries-accessories/"},{"childCategoryName":"Kaca / Cermin","childCategoryUrl":"https://vin777.giving/shop-motorcycle-mirrors/"},{"childCategoryName":"Filter Motor","childCategoryUrl":"https://vin777.giving/shop-saringan-udara/"},{"childCategoryName":"Suku Cadang Bodi & Rangka","childCategoryUrl":"https://vin777.giving/shop-motorcycle-body-frame/"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"https://vin777.giving/shop-motorcycle-drivetrain-transmission/"},{"childCategoryName":"Busi","childCategoryUrl":"https://vin777.giving/shop-busi-motor/"},{"childCategoryName":"Suku Cadang Motor Lainnya","childCategoryUrl":"https://vin777.giving/shop-motorcycle-stands-accessories/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Bohlam, LED & Rumah Lampu","childCategoryUrl":"https://www.lazada.co.id/shop-penerangan/"},{"childCategoryName":"Rem & Suspensi","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-brakes-suspension/"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"https://www.lazada.co.id/moto-knalpot-system-pembuangan/"},{"childCategoryName":"Aki Motor & Aksesoris","childCategoryUrl":"https://www.lazada.co.id/shop-moto-batteries-accessories/"},{"childCategoryName":"Kaca / Cermin","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-mirrors/"},{"childCategoryName":"Filter Motor","childCategoryUrl":"https://www.lazada.co.id/shop-saringan-udara/"},{"childCategoryName":"Suku Cadang Bodi & Rangka","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-body-frame/"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-drivetrain-transmission/"},{"childCategoryName":"Busi","childCategoryUrl":"https://www.lazada.co.id/shop-busi-motor/"},{"childCategoryName":"Suku Cadang Motor Lainnya","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-stands-accessories/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_10">
-                <a href="https://vin777.giving/shop-motorcycle-exterior-accessories/">
+                <a href="https://www.lazada.co.id/shop-motorcycle-exterior-accessories/">
                     <span>Aksesoris &amp; Elektronik Motor</span>
                 </a>
                         <script type="text" class="J_data_11_9">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Jok","childCategoryUrl":"https://vin777.giving/shop-sarung-jok/"},{"childCategoryName":"Stiker & Emblem","childCategoryUrl":"https://vin777.giving/shop-stiker-emblem/"},{"childCategoryName":"Pengukur","childCategoryUrl":"https://vin777.giving/shop-indikator/"},{"childCategoryName":"Aksesoris Elektronik","childCategoryUrl":"https://vin777.giving/shop-motorcycle-electronics/"},{"childCategoryName":"Pelindung Plat Nomor","childCategoryUrl":"https://vin777.giving/shop-frame-plat-nomor/"},{"childCategoryName":"Sarung Motor","childCategoryUrl":"https://vin777.giving/shop-motorcycle-covers/"},{"childCategoryName":"Windshield & Aksesoris","childCategoryUrl":"https://vin777.giving/shop-motorcycle-windshields-accessories/"},{"childCategoryName":"Bagasi Penyimpanan & Bantalan","childCategoryUrl":"https://vin777.giving/shop-motorcycle-luggage-saddlebags/"},{"childCategoryName":"Aksesoris & Elektronik Motor Lainny","childCategoryUrl":"https://vin777.giving/shop-motorcycle-racks/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Jok","childCategoryUrl":"https://www.lazada.co.id/shop-sarung-jok/"},{"childCategoryName":"Stiker & Emblem","childCategoryUrl":"https://www.lazada.co.id/shop-stiker-emblem/"},{"childCategoryName":"Pengukur","childCategoryUrl":"https://www.lazada.co.id/shop-indikator/"},{"childCategoryName":"Aksesoris Elektronik","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-electronics/"},{"childCategoryName":"Pelindung Plat Nomor","childCategoryUrl":"https://www.lazada.co.id/shop-frame-plat-nomor/"},{"childCategoryName":"Sarung Motor","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-covers/"},{"childCategoryName":"Windshield & Aksesoris","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-windshields-accessories/"},{"childCategoryName":"Bagasi Penyimpanan & Bantalan","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-luggage-saddlebags/"},{"childCategoryName":"Aksesoris & Elektronik Motor Lainny","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-racks/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_11">
-                <a href="https://vin777.giving/shop-motorcycle-oils-fluids/">
+                <a href="https://www.lazada.co.id/shop-motorcycle-oils-fluids/">
                     <span>Ban, Velg, Oli &amp; Cairan Motor</span>
                 </a>
                         <script type="text" class="J_data_11_10">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Motor","childCategoryUrl":"https://vin777.giving/shop-oli-mesin/"},{"childCategoryName":"Oli Rem Motor","childCategoryUrl":"https://vin777.giving/shop-motorcycle-brake-fluid/"},{"childCategoryName":"Oli Transmisi Motor","childCategoryUrl":"https://vin777.giving/shop-oligirboks/"},{"childCategoryName":"Pendingin Motor","childCategoryUrl":"https://vin777.giving/shop-coolant/"},{"childCategoryName":"Aditif & Penguat Bensin Motor","childCategoryUrl":"https://vin777.giving/shop-pembersih/"},{"childCategoryName":"Pelumas Motor","childCategoryUrl":"https://vin777.giving/shop-pelumas-dan-gemuk/"},{"childCategoryName":"Ban & Velg Motor","childCategoryUrl":"https://vin777.giving/jual-roda-ban-motor/"},{"childCategoryName":"Oli & Cairan Motor Lainnya","childCategoryUrl":"https://vin777.giving/shop-oli-shock-breaker/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Motor","childCategoryUrl":"https://www.lazada.co.id/shop-oli-mesin/"},{"childCategoryName":"Oli Rem Motor","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-brake-fluid/"},{"childCategoryName":"Oli Transmisi Motor","childCategoryUrl":"https://www.lazada.co.id/shop-oligirboks/"},{"childCategoryName":"Pendingin Motor","childCategoryUrl":"https://www.lazada.co.id/shop-coolant/"},{"childCategoryName":"Aditif & Penguat Bensin Motor","childCategoryUrl":"https://www.lazada.co.id/shop-pembersih/"},{"childCategoryName":"Pelumas Motor","childCategoryUrl":"https://www.lazada.co.id/shop-pelumas-dan-gemuk/"},{"childCategoryName":"Ban & Velg Motor","childCategoryUrl":"https://www.lazada.co.id/jual-roda-ban-motor/"},{"childCategoryName":"Oli & Cairan Motor Lainnya","childCategoryUrl":"https://www.lazada.co.id/shop-oli-shock-breaker/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_12">
-                <a href="https://vin777.giving/mobil-motor/">
+                <a href="https://www.lazada.co.id/mobil-motor/">
                     <span>Kendaraan</span>
                 </a>
                         <script type="text" class="J_data_11_11">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Mobil","childCategoryUrl":"https://vin777.giving/shop-mobil/"},{"childCategoryName":"Motor","childCategoryUrl":"https://vin777.giving/shop-sepeda-motor-skuter/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Mobil","childCategoryUrl":"https://www.lazada.co.id/shop-mobil/"},{"childCategoryName":"Motor","childCategoryUrl":"https://www.lazada.co.id/shop-sepeda-motor-skuter/"}]
                         </script>
             </li>
         </ul>
@@ -2094,33 +1998,33 @@
             </div>
         </div>
         <nav class="lzd-menu-labels" data-spm="menu">
-            <a class="lzd-menu-labels-item" href="https://vin777.giving/">
+            <a class="lzd-menu-labels-item" href="https://www.novaluz.pt/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="SLOT GACOR" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1gNcMWBr0gK0jSZFnXXbRRXXa.png" data-pagespeed-url-hash="1247496011" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <img alt="Situs SLOT ASIA" class="lzd-site-nav-menu-iconfont-img" src="https://i.imgur.com/5FIYYJA.png">
                 </span>
-                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-SLOT GACOR">&#xe629;</i>-->
-                <span class="lzd-menu-labels-item-text">SLOT GACOR</span>
+                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
+                <span class="lzd-menu-labels-item-text">Situs SLOT ASIA</span>
             </a>
-            <a class="lzd-menu-labels-item" href="https://vin777.giving/">
+            <a class="lzd-menu-labels-item" href="//pages.lazada.co.id/wow/i/id/digitalgoods/home?hybrid=1&amp;scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207798_7692459">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1Je4vhRr0gK0jSZFnXXbRRXXa.png" data-pagespeed-url-hash="611565874" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://i.imgur.com/5FIYYJA.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                         <span class="lzd-menu-labels-item-text">Pulsa &amp; Tagihan</span>
             </a>
-            <a class="lzd-menu-labels-item" href="https://vin777.giving/">
+            <a class="lzd-menu-labels-item" href="//pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/all-promo/mcp-ush&amp;scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207802_7692459&amp;prefetch_replace=1">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1x8lvhHj1gK0jSZFuXXcrHpXa.png" data-pagespeed-url-hash="4146563714" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://i.imgur.com/5FIYYJA.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                         <span class="lzd-menu-labels-item-text">Voucher &amp; Diskon</span>
             </a>
-            <a class="lzd-menu-labels-item" href="https://vin777.giving/">
+            <a class="lzd-menu-labels-item" href="https://www.lazada.co.id/blog/?scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207806_7692459">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="SLOT GACOR" class="lzd-site-nav-menu-iconfont-img" src="//icms-image.slatic.net/images/ims-web/9174453f-455e-4e30-87d2-bd90239e6994.png" data-pagespeed-url-hash="410448523" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <img alt="SLOT ASIA" class="lzd-site-nav-menu-iconfont-img" src="https://i.imgur.com/5FIYYJA.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
-                <span class="lzd-menu-labels-item-text">SLOT GACOR</span>
+                <span class="lzd-menu-labels-item-text">SLOT ASIA</span>
             </a>
         </nav>
     </div>
@@ -2140,7 +2044,7 @@
 <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
     <div class="lzd-site-menu-nav-container">
         <div class="lzd-site-menu-nav-category">
-            <a href="https://vin777.giving/">
+            <a href="https://www.novaluz.pt/">
                 <span class="lzd-site-menu-nav-category-text">Kategori</span>
             </a>
             <div class="lzd-site-menu-nav-menu">
@@ -2209,963 +2113,963 @@
          </li>    
         <ul class="lzd-site-menu-sub Level_1_Category_No1" data-spm="cate_1">
             <li class="sub-item-remove-arrow" data-cate="cate_1_1">
-                <a href="https://vin777.giving/beli-handphone">
+                <a href="https://www.lazada.co.id/beli-handphone">
                     <span>Handphone</span>
                 </a>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_2">
-                <a href="https://vin777.giving/shop-beli-laptop/">
+                <a href="https://www.lazada.co.id/shop-beli-laptop/">
                     <span>Laptop</span>
                 </a>
                         <script type="text" class="J_data_0_1">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Laptop Consumer","childCategoryUrl":"https://vin777.giving/jual-laptop-umum/"},{"childCategoryName":"Laptop Gaming","childCategoryUrl":"https://vin777.giving/beli-laptop-gaming/"},{"childCategoryName":"Laptop 2-in-1s","childCategoryUrl":"https://vin777.giving/beli-laptop-2-in-1/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Laptop Consumer","childCategoryUrl":"https://www.lazada.co.id/jual-laptop-umum/"},{"childCategoryName":"Laptop Gaming","childCategoryUrl":"https://www.lazada.co.id/beli-laptop-gaming/"},{"childCategoryName":"Laptop 2-in-1s","childCategoryUrl":"https://www.lazada.co.id/beli-laptop-2-in-1/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_3">
-                <a href="https://vin777.giving/beli-komputer/">
+                <a href="https://www.lazada.co.id/beli-komputer/">
                     <span>Desktop</span>
                 </a>
                         <script type="text" class="J_data_0_2">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"PC Gaming","childCategoryUrl":"https://vin777.giving/beli-pc-gaming/"},{"childCategoryName":"Komputer Rakitan","childCategoryUrl":"https://vin777.giving/beli-komputer-rakitan/"},{"childCategoryName":"All-In-One","childCategoryUrl":"https://vin777.giving/beli-pc-all-in-one/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"PC Gaming","childCategoryUrl":"https://www.lazada.co.id/beli-pc-gaming/"},{"childCategoryName":"Komputer Rakitan","childCategoryUrl":"https://www.lazada.co.id/beli-komputer-rakitan/"},{"childCategoryName":"All-In-One","childCategoryUrl":"https://www.lazada.co.id/beli-pc-all-in-one/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_4">
-                <a href="https://vin777.giving/beli-kamera/">
+                <a href="https://www.lazada.co.id/beli-kamera/">
                     <span>Kamera</span>
                 </a>
                         <script type="text" class="J_data_0_3">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"DSLR","childCategoryUrl":"https://vin777.giving/beli-slr/"},{"childCategoryName":"Kamera Mirrorless","childCategoryUrl":"https://vin777.giving/beli-kamera-mirrorless/"},{"childCategoryName":"Kamera Pocket","childCategoryUrl":"https://vin777.giving/beli-kamera-pocket/"},{"childCategoryName":"Kamera Aksi","childCategoryUrl":"https://vin777.giving/beli-kamera-video-aksi/"},{"childCategoryName":"360 Cameras","childCategoryUrl":"https://vin777.giving/beli-kamera-360/"},{"childCategoryName":"Kamera CCTV","childCategoryUrl":"https://vin777.giving/beli-kamera-cctv/"},{"childCategoryName":"IP Cameras","childCategoryUrl":"https://vin777.giving/beli-kamera-ip/"},{"childCategoryName":"Video Camera","childCategoryUrl":"https://vin777.giving/beli-camcorders/"},{"childCategoryName":"Kamera Instan","childCategoryUrl":"https://vin777.giving/beli-kamera-instan/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"DSLR","childCategoryUrl":"https://www.lazada.co.id/beli-slr/"},{"childCategoryName":"Kamera Mirrorless","childCategoryUrl":"https://www.lazada.co.id/beli-kamera-mirrorless/"},{"childCategoryName":"Kamera Pocket","childCategoryUrl":"https://www.lazada.co.id/beli-kamera-pocket/"},{"childCategoryName":"Kamera Aksi","childCategoryUrl":"https://www.lazada.co.id/beli-kamera-video-aksi/"},{"childCategoryName":"360 Cameras","childCategoryUrl":"https://www.lazada.co.id/beli-kamera-360/"},{"childCategoryName":"Kamera CCTV","childCategoryUrl":"https://www.lazada.co.id/beli-kamera-cctv/"},{"childCategoryName":"IP Cameras","childCategoryUrl":"https://www.lazada.co.id/beli-kamera-ip/"},{"childCategoryName":"Video Camera","childCategoryUrl":"https://www.lazada.co.id/beli-camcorders/"},{"childCategoryName":"Kamera Instan","childCategoryUrl":"https://www.lazada.co.id/beli-kamera-instan/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_5">
-                <a href="https://vin777.giving/shop-gaming-konsol/">
+                <a href="https://www.lazada.co.id/shop-gaming-konsol/">
                     <span>Game Console</span>
                 </a>
                         <script type="text" class="J_data_0_4">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Gaming Konsol","childCategoryUrl":"https://vin777.giving/shop-permainan-konsol/"},{"childCategoryName":"Permainan Konsol","childCategoryUrl":"https://vin777.giving/shop-game-konsol/"},{"childCategoryName":"Pengontrol Game Konsol","childCategoryUrl":"https://vin777.giving/shop-pengontrol-game-konsol/"},{"childCategoryName":"Konsol Pelindung Penutup","childCategoryUrl":"https://vin777.giving/shop-konsolpelindung-penutup/"},{"childCategoryName":"Aksesoris Game Konsol","childCategoryUrl":"https://vin777.giving/shop-aksesoris-game-konsol/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Gaming Konsol","childCategoryUrl":"https://www.lazada.co.id/shop-permainan-konsol/"},{"childCategoryName":"Permainan Konsol","childCategoryUrl":"https://www.lazada.co.id/shop-game-konsol/"},{"childCategoryName":"Pengontrol Game Konsol","childCategoryUrl":"https://www.lazada.co.id/shop-pengontrol-game-konsol/"},{"childCategoryName":"Konsol Pelindung Penutup","childCategoryUrl":"https://www.lazada.co.id/shop-konsolpelindung-penutup/"},{"childCategoryName":"Aksesoris Game Konsol","childCategoryUrl":"https://www.lazada.co.id/shop-aksesoris-game-konsol/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_6">
-                <a href="https://vin777.giving/beli-gadget/">
+                <a href="https://www.lazada.co.id/beli-gadget/">
                     <span>Gadget</span>
                 </a>
                         <script type="text" class="J_data_0_5">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Rokok Elektrik","childCategoryUrl":"https://vin777.giving/beli-rokok-elektrik/"},{"childCategoryName":"Drone","childCategoryUrl":"https://vin777.giving/jual-kamera-drone/"},{"childCategoryName":"Media Player","childCategoryUrl":"https://vin777.giving/beli-media-player/"},{"childCategoryName":"Walkie-Talkie","childCategoryUrl":"https://vin777.giving/jual-walkie-talkie/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Rokok Elektrik","childCategoryUrl":"https://www.lazada.co.id/beli-rokok-elektrik/"},{"childCategoryName":"Drone","childCategoryUrl":"https://www.lazada.co.id/jual-kamera-drone/"},{"childCategoryName":"Media Player","childCategoryUrl":"https://www.lazada.co.id/beli-media-player/"},{"childCategoryName":"Walkie-Talkie","childCategoryUrl":"https://www.lazada.co.id/jual-walkie-talkie/"}]
                         </script>
             </li>
             <li class="sub-item-remove-arrow" data-cate="cate_1_7">
-                <a href="https://vin777.giving/beli-tablet-2">
+                <a href="https://www.lazada.co.id/beli-tablet-2">
                     <span>Tablet</span>
                 </a>
             </li>
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No2" data-spm="cate_2">
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_1">
-                <a href="https://vin777.giving/beli-aksesori-handphone">
+                <a href="https://www.lazada.co.id/beli-aksesori-handphone">
                     <span>Aksesoris Handphone</span>
                 </a>
                         <script type="text" class="J_data_1_0">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Powerbank","childCategoryUrl":"https://vin777.giving/beli-power-bank/"},{"childCategoryName":"Kabel Handphone","childCategoryUrl":"https://vin777.giving/beli-kabel-handphone/"},{"childCategoryName":"Charger Handphone","childCategoryUrl":"https://vin777.giving/jual-charger-kabel/"},{"childCategoryName":"Casing Handphone","childCategoryUrl":"https://vin777.giving/beli-sarung-pelindung-handphone/"},{"childCategoryName":"Pelindung Layar","childCategoryUrl":"https://vin777.giving/jual-pelindung-layar/"},{"childCategoryName":"Tongsis","childCategoryUrl":"https://vin777.giving/jual-tongsis/"},{"childCategoryName":"Phone Holder","childCategoryUrl":"https://vin777.giving/jual-dudukan-mobil/"},{"childCategoryName":"Baterai Handphone","childCategoryUrl":"https://vin777.giving/beli-baterai-handphone/"},{"childCategoryName":"Peralatan & Suku Cadang","childCategoryUrl":"https://vin777.giving/beli-suku-cadang-handphone/"},{"childCategoryName":"Aksesoris Handphone Lainnya","childCategoryUrl":"https://vin777.giving/shop-aksesori-ponsel/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Powerbank","childCategoryUrl":"https://www.lazada.co.id/beli-power-bank/"},{"childCategoryName":"Kabel Handphone","childCategoryUrl":"https://www.lazada.co.id/beli-kabel-handphone/"},{"childCategoryName":"Charger Handphone","childCategoryUrl":"https://www.lazada.co.id/jual-charger-kabel/"},{"childCategoryName":"Casing Handphone","childCategoryUrl":"https://www.lazada.co.id/beli-sarung-pelindung-handphone/"},{"childCategoryName":"Pelindung Layar","childCategoryUrl":"https://www.lazada.co.id/jual-pelindung-layar/"},{"childCategoryName":"Tongsis","childCategoryUrl":"https://www.lazada.co.id/jual-tongsis/"},{"childCategoryName":"Phone Holder","childCategoryUrl":"https://www.lazada.co.id/jual-dudukan-mobil/"},{"childCategoryName":"Baterai Handphone","childCategoryUrl":"https://www.lazada.co.id/beli-baterai-handphone/"},{"childCategoryName":"Peralatan & Suku Cadang","childCategoryUrl":"https://www.lazada.co.id/beli-suku-cadang-handphone/"},{"childCategoryName":"Aksesoris Handphone Lainnya","childCategoryUrl":"https://www.lazada.co.id/shop-aksesori-ponsel/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_2">
-                <a href="https://vin777.giving/beli-aksesori-komputer/">
+                <a href="https://www.lazada.co.id/beli-aksesori-komputer/">
                     <span>Aksesoris Komputer</span>
                 </a>
                         <script type="text" class="J_data_1_1">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Mouse","childCategoryUrl":"https://vin777.giving/beli-mouse/"},{"childCategoryName":"Keyboard Komputer","childCategoryUrl":"https://vin777.giving/beli-keyboard/"},{"childCategoryName":"Monitor","childCategoryUrl":"https://vin777.giving/beli-monitor/"},{"childCategoryName":"Adaptor Jaringan","childCategoryUrl":"https://vin777.giving/adaptor-jaringan/"},{"childCategoryName":"Audio PC","childCategoryUrl":"https://vin777.giving/beli-audio-pc/"},{"childCategoryName":"Adaptor & Kabel","childCategoryUrl":"https://vin777.giving/jual-adaptor-kabel/"},{"childCategoryName":"Adaptor Baterai Komputer","childCategoryUrl":"https://vin777.giving/beli-adaptor-baterai-komputer/"},{"childCategoryName":"Mousepad","childCategoryUrl":"https://vin777.giving/beli-mousepad/"},{"childCategoryName":"Cooling Pads","childCategoryUrl":"https://vin777.giving/beli-alas-pendingin/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Mouse","childCategoryUrl":"https://www.lazada.co.id/beli-mouse/"},{"childCategoryName":"Keyboard Komputer","childCategoryUrl":"https://www.lazada.co.id/beli-keyboard/"},{"childCategoryName":"Monitor","childCategoryUrl":"https://www.lazada.co.id/beli-monitor/"},{"childCategoryName":"Adaptor Jaringan","childCategoryUrl":"https://www.lazada.co.id/adaptor-jaringan/"},{"childCategoryName":"Audio PC","childCategoryUrl":"https://www.lazada.co.id/beli-audio-pc/"},{"childCategoryName":"Adaptor & Kabel","childCategoryUrl":"https://www.lazada.co.id/jual-adaptor-kabel/"},{"childCategoryName":"Adaptor Baterai Komputer","childCategoryUrl":"https://www.lazada.co.id/beli-adaptor-baterai-komputer/"},{"childCategoryName":"Mousepad","childCategoryUrl":"https://www.lazada.co.id/beli-mousepad/"},{"childCategoryName":"Cooling Pads","childCategoryUrl":"https://www.lazada.co.id/beli-alas-pendingin/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_3">
-                <a href="https://vin777.giving/shop-audio/">
+                <a href="https://www.lazada.co.id/shop-audio/">
                     <span>Audio</span>
                 </a>
                         <script type="text" class="J_data_1_2">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Headphone & Headset","childCategoryUrl":"https://vin777.giving/beli-headphone-dan-headset/"},{"childCategoryName":"Speaker Portabel","childCategoryUrl":"https://vin777.giving/beli-audio-player/"},{"childCategoryName":"Speaker Smart","childCategoryUrl":"https://vin777.giving/beli-speaker-smart/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Headphone & Headset","childCategoryUrl":"https://www.lazada.co.id/beli-headphone-dan-headset/"},{"childCategoryName":"Speaker Portabel","childCategoryUrl":"https://www.lazada.co.id/beli-audio-player/"},{"childCategoryName":"Speaker Smart","childCategoryUrl":"https://www.lazada.co.id/beli-speaker-smart/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_4">
-                <a href="https://vin777.giving/shop-perangkat-pintar/">
+                <a href="https://www.lazada.co.id/shop-perangkat-pintar/">
                     <span>Aksesoris Berteknologi</span>
                 </a>
                         <script type="text" class="J_data_1_3">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Smartwatch","childCategoryUrl":"https://vin777.giving/shop-smartwatch/"},{"childCategoryName":"Aksesoris Smartwatch","childCategoryUrl":"https://vin777.giving/shop-tali-smartwatch/"},{"childCategoryName":"Activity Tracker","childCategoryUrl":"https://vin777.giving/beli-tracker-fitness-aktivitas/"},{"childCategoryName":"Aksesoris Fitness Tracker","childCategoryUrl":"https://vin777.giving/jual-strap-tracker-aktivitas/"},{"childCategoryName":"Virtual Reality","childCategoryUrl":"https://vin777.giving/jual-virtual-reality/"},{"childCategoryName":"Kendali Gerakan","childCategoryUrl":"https://vin777.giving/jual-kendali-gerakan/"},{"childCategoryName":"Kacamata Pintar","childCategoryUrl":"https://vin777.giving/beli-smart-glasses/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Smartwatch","childCategoryUrl":"https://www.lazada.co.id/shop-smartwatch/"},{"childCategoryName":"Aksesoris Smartwatch","childCategoryUrl":"https://www.lazada.co.id/shop-tali-smartwatch/"},{"childCategoryName":"Activity Tracker","childCategoryUrl":"https://www.lazada.co.id/beli-tracker-fitness-aktivitas/"},{"childCategoryName":"Aksesoris Fitness Tracker","childCategoryUrl":"https://www.lazada.co.id/jual-strap-tracker-aktivitas/"},{"childCategoryName":"Virtual Reality","childCategoryUrl":"https://www.lazada.co.id/jual-virtual-reality/"},{"childCategoryName":"Kendali Gerakan","childCategoryUrl":"https://www.lazada.co.id/jual-kendali-gerakan/"},{"childCategoryName":"Kacamata Pintar","childCategoryUrl":"https://www.lazada.co.id/beli-smart-glasses/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_5">
-                <a href="https://vin777.giving/beli-aksesoris-2/">
+                <a href="https://www.lazada.co.id/beli-aksesoris-2/">
                     <span>Aksesoris Kamera</span>
                 </a>
                         <script type="text" class="J_data_1_4">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Tripod & Monopod","childCategoryUrl":"https://vin777.giving/beli-tripod-monopod/"},{"childCategoryName":"Kartu Memori","childCategoryUrl":"https://vin777.giving/beli-kartu-memori/"},{"childCategoryName":"Lensa Kamera","childCategoryUrl":"https://vin777.giving/beli-lensa-kamera/"},{"childCategoryName":"Flash","childCategoryUrl":"https://vin777.giving/beli-flash/"},{"childCategoryName":"Sarung, Pelindung & Tas Kamera","childCategoryUrl":"https://vin777.giving/beli-sarung-pelindung-tas-kamera/"},{"childCategoryName":"Charger Kamera","childCategoryUrl":"https://vin777.giving/beli-charger-baterai/"},{"childCategoryName":"Baterai Kamera","childCategoryUrl":"https://vin777.giving/beli-baterai/"},{"childCategoryName":"Aksesoris Kamera Aksi","childCategoryUrl":"https://vin777.giving/beli-aksesoris-kamera-aksi/"},{"childCategoryName":"Aksesoris Kamera Instan","childCategoryUrl":"https://vin777.giving/jual-film-kamera-instan/"},{"childCategoryName":"Perlengkapan Lighting & Studio","childCategoryUrl":"https://vin777.giving/beli-perlengkapan-lighting-studio/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Tripod & Monopod","childCategoryUrl":"https://www.lazada.co.id/beli-tripod-monopod/"},{"childCategoryName":"Kartu Memori","childCategoryUrl":"https://www.lazada.co.id/beli-kartu-memori/"},{"childCategoryName":"Lensa Kamera","childCategoryUrl":"https://www.lazada.co.id/beli-lensa-kamera/"},{"childCategoryName":"Flash","childCategoryUrl":"https://www.lazada.co.id/beli-flash/"},{"childCategoryName":"Sarung, Pelindung & Tas Kamera","childCategoryUrl":"https://www.lazada.co.id/beli-sarung-pelindung-tas-kamera/"},{"childCategoryName":"Charger Kamera","childCategoryUrl":"https://www.lazada.co.id/beli-charger-baterai/"},{"childCategoryName":"Baterai Kamera","childCategoryUrl":"https://www.lazada.co.id/beli-baterai/"},{"childCategoryName":"Aksesoris Kamera Aksi","childCategoryUrl":"https://www.lazada.co.id/beli-aksesoris-kamera-aksi/"},{"childCategoryName":"Aksesoris Kamera Instan","childCategoryUrl":"https://www.lazada.co.id/jual-film-kamera-instan/"},{"childCategoryName":"Perlengkapan Lighting & Studio","childCategoryUrl":"https://www.lazada.co.id/beli-perlengkapan-lighting-studio/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_6">
-                <a href="https://vin777.giving/shop-penyimpanan-data/">
+                <a href="https://www.lazada.co.id/shop-penyimpanan-data/">
                     <span>Penyimpanan Data</span>
                 </a>
                         <script type="text" class="J_data_1_5">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Flash Drive","childCategoryUrl":"https://vin777.giving/jual-flash-drives/"},{"childCategoryName":"OTG Drive","childCategoryUrl":"https://vin777.giving/jual-otg-drives/"},{"childCategoryName":"Harddisk Eksternal","childCategoryUrl":"https://vin777.giving/beli-harddisk-eksternal/"},{"childCategoryName":"Hard Drive Internal","childCategoryUrl":"https://vin777.giving/beli-hard-drive-internal/"},{"childCategoryName":"Internal SSD","childCategoryUrl":"https://vin777.giving/beli-solid-state-drive/"},{"childCategoryName":"Eksternal SSD","childCategoryUrl":"https://vin777.giving/beli-external-solid-state-drive/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Flash Drive","childCategoryUrl":"https://www.lazada.co.id/jual-flash-drives/"},{"childCategoryName":"OTG Drive","childCategoryUrl":"https://www.lazada.co.id/jual-otg-drives/"},{"childCategoryName":"Harddisk Eksternal","childCategoryUrl":"https://www.lazada.co.id/beli-harddisk-eksternal/"},{"childCategoryName":"Hard Drive Internal","childCategoryUrl":"https://www.lazada.co.id/beli-hard-drive-internal/"},{"childCategoryName":"Internal SSD","childCategoryUrl":"https://www.lazada.co.id/beli-solid-state-drive/"},{"childCategoryName":"Eksternal SSD","childCategoryUrl":"https://www.lazada.co.id/beli-external-solid-state-drive/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_7">
-                <a href="https://vin777.giving/beli-printers/">
+                <a href="https://www.lazada.co.id/beli-printers/">
                     <span>Printer</span>
                 </a>
                         <script type="text" class="J_data_1_6">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Printer","childCategoryUrl":"https://vin777.giving/beli-printers/"},{"childCategoryName":"Tinta Printer","childCategoryUrl":"https://vin777.giving/tinta-printer/"},{"childCategoryName":"Printer 3D","childCategoryUrl":"https://vin777.giving/pencetak-3d/"},{"childCategoryName":"Printer POS & Thermal","childCategoryUrl":"https://vin777.giving/beli-printer-stand/"},{"childCategoryName":"Mesin Faks","childCategoryUrl":"https://vin777.giving/beli-mesin-fax/"},{"childCategoryName":"Mesin Cutting Sticker","childCategoryUrl":"https://vin777.giving/printer-pemotong/"},{"childCategoryName":"Memori Printer","childCategoryUrl":"https://vin777.giving/modul-memori-printer/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Printer","childCategoryUrl":"https://www.lazada.co.id/beli-printers/"},{"childCategoryName":"Tinta Printer","childCategoryUrl":"https://www.lazada.co.id/tinta-printer/"},{"childCategoryName":"Printer 3D","childCategoryUrl":"https://www.lazada.co.id/pencetak-3d/"},{"childCategoryName":"Printer POS & Thermal","childCategoryUrl":"https://www.lazada.co.id/beli-printer-stand/"},{"childCategoryName":"Mesin Faks","childCategoryUrl":"https://www.lazada.co.id/beli-mesin-fax/"},{"childCategoryName":"Mesin Cutting Sticker","childCategoryUrl":"https://www.lazada.co.id/printer-pemotong/"},{"childCategoryName":"Memori Printer","childCategoryUrl":"https://www.lazada.co.id/modul-memori-printer/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_8">
-                <a href="https://vin777.giving/beli-aksesori-handphone/">
+                <a href="https://www.lazada.co.id/beli-aksesori-handphone/">
                     <span>Aksesoris Tablet</span>
                 </a>
                         <script type="text" class="J_data_1_7">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Casing Tablet","childCategoryUrl":"https://vin777.giving/jual-casing-cover-tablet/"},{"childCategoryName":"Keyboard Tablet","childCategoryUrl":"https://vin777.giving/beli-keyboard-tablet/"},{"childCategoryName":"Pen Stylus Tablet","childCategoryUrl":"https://vin777.giving/beli-pen-stylus-tablet/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Casing Tablet","childCategoryUrl":"https://www.lazada.co.id/jual-casing-cover-tablet/"},{"childCategoryName":"Keyboard Tablet","childCategoryUrl":"https://www.lazada.co.id/beli-keyboard-tablet/"},{"childCategoryName":"Pen Stylus Tablet","childCategoryUrl":"https://www.lazada.co.id/beli-pen-stylus-tablet/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_9">
-                <a href="https://vin777.giving/beli-komponen-komputer/">
+                <a href="https://www.lazada.co.id/beli-komponen-komputer/">
                     <span>Komponen Komputer</span>
                 </a>
                         <script type="text" class="J_data_1_8">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"RAM","childCategoryUrl":"https://vin777.giving/beli-ram/"},{"childCategoryName":"Motherboard","childCategoryUrl":"https://vin777.giving/beli-motherboard/"},{"childCategoryName":"Prosesor","childCategoryUrl":"https://vin777.giving/beli-prosesor/"},{"childCategoryName":"Kartu Grafis","childCategoryUrl":"https://vin777.giving/beli-kartu-grafis/"},{"childCategoryName":"Casing Komputer","childCategoryUrl":"https://vin777.giving/beli-casing-cpu/"},{"childCategoryName":"Power Supply Unit","childCategoryUrl":"https://vin777.giving/beli-power-supply-unit/"},{"childCategoryName":"Soundcard","childCategoryUrl":"https://vin777.giving/soundcard/"},{"childCategoryName":"Front Panel","childCategoryUrl":"https://vin777.giving/beli-hard-drive-optikal/"},{"childCategoryName":"Water Cooling System","childCategoryUrl":"https://vin777.giving/beli-water-cooling-system/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"RAM","childCategoryUrl":"https://www.lazada.co.id/beli-ram/"},{"childCategoryName":"Motherboard","childCategoryUrl":"https://www.lazada.co.id/beli-motherboard/"},{"childCategoryName":"Prosesor","childCategoryUrl":"https://www.lazada.co.id/beli-prosesor/"},{"childCategoryName":"Kartu Grafis","childCategoryUrl":"https://www.lazada.co.id/beli-kartu-grafis/"},{"childCategoryName":"Casing Komputer","childCategoryUrl":"https://www.lazada.co.id/beli-casing-cpu/"},{"childCategoryName":"Power Supply Unit","childCategoryUrl":"https://www.lazada.co.id/beli-power-supply-unit/"},{"childCategoryName":"Soundcard","childCategoryUrl":"https://www.lazada.co.id/soundcard/"},{"childCategoryName":"Front Panel","childCategoryUrl":"https://www.lazada.co.id/beli-hard-drive-optikal/"},{"childCategoryName":"Water Cooling System","childCategoryUrl":"https://www.lazada.co.id/beli-water-cooling-system/"}]
                         </script>
             </li>
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No3" data-spm="cate_3">
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_1">
-                <a href="https://vin777.giving/pakaian-wanita/">
+                <a href="https://www.lazada.co.id/pakaian-wanita/">
                     <span>Pakaian Wanita</span>
                 </a>
                         <script type="text" class="J_data_2_0">
-                            [{"childCategoryName":"Jeans","childCategoryUrl":"https://vin777.giving/jeans-wanita/"},{"childCategoryName":"Dress","childCategoryUrl":"https://vin777.giving/gaun-wanita/"},{"childCategoryName":"Atasan","childCategoryUrl":"https://vin777.giving/kaos-atasan-wanita/"},{"childCategoryName":"Sweater & Cardigan","childCategoryUrl":"https://vin777.giving/sweater-dan-cardigan-wanita/"},{"childCategoryName":"Celana & Legging","childCategoryUrl":"https://vin777.giving/celana-panjang-dan-pendek-wanita/"},{"childCategoryName":"Rok","childCategoryUrl":"https://vin777.giving/rok-wanita/"},{"childCategoryName":"Jaket & Mantel","childCategoryUrl":"https://vin777.giving/jaket-dan-mantel-wanita/"},{"childCategoryName":"Kaus Kaki & Celana Ketat","childCategoryUrl":"https://vin777.giving/kaos-kaki-celana-tights-wanita/"},{"childCategoryName":"Celana Pendek","childCategoryUrl":"https://vin777.giving/jual-celana-pendek-wanita/"},{"childCategoryName":"Jumpsuit & Playsuit","childCategoryUrl":"https://vin777.giving/overalls-jumpsuit-wanita/"},{"childCategoryName":"Hoodie & Sweatshirt","childCategoryUrl":"https://vin777.giving/hoodie-sweatshirt-wanita/"}]
+                            [{"childCategoryName":"Jeans","childCategoryUrl":"https://www.lazada.co.id/jeans-wanita/"},{"childCategoryName":"Dress","childCategoryUrl":"https://www.lazada.co.id/gaun-wanita/"},{"childCategoryName":"Atasan","childCategoryUrl":"https://www.lazada.co.id/kaos-atasan-wanita/"},{"childCategoryName":"Sweater & Cardigan","childCategoryUrl":"https://www.lazada.co.id/sweater-dan-cardigan-wanita/"},{"childCategoryName":"Celana & Legging","childCategoryUrl":"https://www.lazada.co.id/celana-panjang-dan-pendek-wanita/"},{"childCategoryName":"Rok","childCategoryUrl":"https://www.lazada.co.id/rok-wanita/"},{"childCategoryName":"Jaket & Mantel","childCategoryUrl":"https://www.lazada.co.id/jaket-dan-mantel-wanita/"},{"childCategoryName":"Kaus Kaki & Celana Ketat","childCategoryUrl":"https://www.lazada.co.id/kaos-kaki-celana-tights-wanita/"},{"childCategoryName":"Celana Pendek","childCategoryUrl":"https://www.lazada.co.id/jual-celana-pendek-wanita/"},{"childCategoryName":"Jumpsuit & Playsuit","childCategoryUrl":"https://www.lazada.co.id/overalls-jumpsuit-wanita/"},{"childCategoryName":"Hoodie & Sweatshirt","childCategoryUrl":"https://www.lazada.co.id/hoodie-sweatshirt-wanita/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_2">
-                <a href="https://vin777.giving/baju-muslim-wanita/">
+                <a href="https://www.lazada.co.id/baju-muslim-wanita/">
                     <span>Baju Muslim</span>
                 </a>
                         <script type="text" class="J_data_2_1">
-                            [{"childCategoryName":"Perlengkapan Shalat","childCategoryUrl":"https://vin777.giving/baju-muslim-wanita/"},{"childCategoryName":"Hijab","childCategoryUrl":"https://vin777.giving/hijab/"},{"childCategoryName":"Atasan Muslimah","childCategoryUrl":"https://vin777.giving/atasan-muslimah-wanita/"},{"childCategoryName":"Baju Muslim & Jumpsuit","childCategoryUrl":"https://vin777.giving/dress-muslimah/"},{"childCategoryName":"Bawahan Muslim","childCategoryUrl":"https://vin777.giving/bawahan-muslimah/"},{"childCategoryName":"Luaran Muslim","childCategoryUrl":"https://vin777.giving/jaket-dan-kardigan-wanita-muslim/"},{"childCategoryName":"Aksesoris Muslim","childCategoryUrl":"https://vin777.giving/aksesoris-muslim-wanita/"},{"childCategoryName":"Baju Renang Muslim","childCategoryUrl":"https://vin777.giving/jual-baju-renang-muslim-wanita/"},{"childCategoryName":"Baju Kurung","childCategoryUrl":"https://vin777.giving/jual-baju-kurung-wanita/"}]
+                            [{"childCategoryName":"Perlengkapan Shalat","childCategoryUrl":"https://www.lazada.co.id/baju-muslim-wanita/"},{"childCategoryName":"Hijab","childCategoryUrl":"https://www.lazada.co.id/hijab/"},{"childCategoryName":"Atasan Muslimah","childCategoryUrl":"https://www.lazada.co.id/atasan-muslimah-wanita/"},{"childCategoryName":"Baju Muslim & Jumpsuit","childCategoryUrl":"https://www.lazada.co.id/dress-muslimah/"},{"childCategoryName":"Bawahan Muslim","childCategoryUrl":"https://www.lazada.co.id/bawahan-muslimah/"},{"childCategoryName":"Luaran Muslim","childCategoryUrl":"https://www.lazada.co.id/jaket-dan-kardigan-wanita-muslim/"},{"childCategoryName":"Aksesoris Muslim","childCategoryUrl":"https://www.lazada.co.id/aksesoris-muslim-wanita/"},{"childCategoryName":"Baju Renang Muslim","childCategoryUrl":"https://www.lazada.co.id/jual-baju-renang-muslim-wanita/"},{"childCategoryName":"Baju Kurung","childCategoryUrl":"https://www.lazada.co.id/jual-baju-kurung-wanita/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_3">
-                <a href="https://vin777.giving/lingerie-baju-tidur/">
+                <a href="https://www.lazada.co.id/lingerie-baju-tidur/">
                     <span>Lingerie, Baju Tidur &amp; Santai</span>
                 </a>
                         <script type="text" class="J_data_2_2">
-                            [{"childCategoryName":"Bra","childCategoryUrl":"https://vin777.giving/bra-wanita/"},{"childCategoryName":"Celana Dalam","childCategoryUrl":"https://vin777.giving/celana-dalam-wanita/"},{"childCategoryName":"Shapewear","childCategoryUrl":"https://vin777.giving/shapewear-baju-pembentuk-tubuh-wanita/"},{"childCategoryName":"Baju Tidur & Santai","childCategoryUrl":"https://vin777.giving/bathrobe-baju-mandi-wanita/"},{"childCategoryName":"Jubah Tidur","childCategoryUrl":"https://vin777.giving/jual-jubah-tidur-wanita/"},{"childCategoryName":"Set Lingerie","childCategoryUrl":"https://vin777.giving/jual-set-lingerie/"},{"childCategoryName":"Kamisol & Slips","childCategoryUrl":"https://vin777.giving/jual-kamisol-slips-wanita/"},{"childCategoryName":"Bodysuit","childCategoryUrl":"https://vin777.giving/jual-bodysuit-wanita/"},{"childCategoryName":"Aksesori Lingerie","childCategoryUrl":"https://vin777.giving/jual-aksesori-lingerie-wanita/"}]
+                            [{"childCategoryName":"Bra","childCategoryUrl":"https://www.lazada.co.id/bra-wanita/"},{"childCategoryName":"Celana Dalam","childCategoryUrl":"https://www.lazada.co.id/celana-dalam-wanita/"},{"childCategoryName":"Shapewear","childCategoryUrl":"https://www.lazada.co.id/shapewear-baju-pembentuk-tubuh-wanita/"},{"childCategoryName":"Baju Tidur & Santai","childCategoryUrl":"https://www.lazada.co.id/bathrobe-baju-mandi-wanita/"},{"childCategoryName":"Jubah Tidur","childCategoryUrl":"https://www.lazada.co.id/jual-jubah-tidur-wanita/"},{"childCategoryName":"Set Lingerie","childCategoryUrl":"https://www.lazada.co.id/jual-set-lingerie/"},{"childCategoryName":"Kamisol & Slips","childCategoryUrl":"https://www.lazada.co.id/jual-kamisol-slips-wanita/"},{"childCategoryName":"Bodysuit","childCategoryUrl":"https://www.lazada.co.id/jual-bodysuit-wanita/"},{"childCategoryName":"Aksesori Lingerie","childCategoryUrl":"https://www.lazada.co.id/jual-aksesori-lingerie-wanita/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_4">
-                <a href="https://vin777.giving/sepatu-wanita/">
+                <a href="https://www.lazada.co.id/sepatu-wanita/">
                     <span>Sepatu Wanita</span>
                 </a>
                         <script type="text" class="J_data_2_3">
-                            [{"childCategoryName":"Sepatu Flat","childCategoryUrl":"https://vin777.giving/flat-shoes/"},{"childCategoryName":"Sepatu Hak Tinggi","childCategoryUrl":"https://vin777.giving/heels/"},{"childCategoryName":"Sneakers","childCategoryUrl":"https://vin777.giving/sneakers/"},{"childCategoryName":"Wedges","childCategoryUrl":"https://vin777.giving/wedges/"},{"childCategoryName":"Sepatu Boot","childCategoryUrl":"https://vin777.giving/boots-wanita/"},{"childCategoryName":"Aksesoris Sepatu","childCategoryUrl":"https://vin777.giving/aksesoris-sepatu-wanita/"},{"childCategoryName":"Sandal","childCategoryUrl":"https://vin777.giving/sandal-wanita/"},{"childCategoryName":"Sandal & Flip Flop","childCategoryUrl":"https://vin777.giving/sandal-jepit-wanita/"}]
+                            [{"childCategoryName":"Sepatu Flat","childCategoryUrl":"https://www.lazada.co.id/flat-shoes/"},{"childCategoryName":"Sepatu Hak Tinggi","childCategoryUrl":"https://www.lazada.co.id/heels/"},{"childCategoryName":"Sneakers","childCategoryUrl":"https://www.lazada.co.id/sneakers/"},{"childCategoryName":"Wedges","childCategoryUrl":"https://www.lazada.co.id/wedges/"},{"childCategoryName":"Sepatu Boot","childCategoryUrl":"https://www.lazada.co.id/boots-wanita/"},{"childCategoryName":"Aksesoris Sepatu","childCategoryUrl":"https://www.lazada.co.id/aksesoris-sepatu-wanita/"},{"childCategoryName":"Sandal","childCategoryUrl":"https://www.lazada.co.id/sandal-wanita/"},{"childCategoryName":"Sandal & Flip Flop","childCategoryUrl":"https://www.lazada.co.id/sandal-jepit-wanita/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_5">
-                <a href="https://vin777.giving/aksesoris-wanita/">
+                <a href="https://www.lazada.co.id/aksesoris-wanita/">
                     <span>Aksesoris</span>
                 </a>
                         <script type="text" class="J_data_2_4">
-                            [{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"https://vin777.giving/ikat-pinggang-wanita/"},{"childCategoryName":"Payung","childCategoryUrl":"https://vin777.giving/payung-wanita/"},{"childCategoryName":"Topi","childCategoryUrl":"https://vin777.giving/topi-wanita/"},{"childCategoryName":"Aksesoris Rambut","childCategoryUrl":"https://vin777.giving/aksesoris-rambut/"},{"childCategoryName":"Scarf","childCategoryUrl":"https://vin777.giving/scarf-wanita/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://vin777.giving/sarung-tangan-wanita/"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"https://vin777.giving/shop-women-fabricmask/"}]
+                            [{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"https://www.lazada.co.id/ikat-pinggang-wanita/"},{"childCategoryName":"Payung","childCategoryUrl":"https://www.lazada.co.id/payung-wanita/"},{"childCategoryName":"Topi","childCategoryUrl":"https://www.lazada.co.id/topi-wanita/"},{"childCategoryName":"Aksesoris Rambut","childCategoryUrl":"https://www.lazada.co.id/aksesoris-rambut/"},{"childCategoryName":"Scarf","childCategoryUrl":"https://www.lazada.co.id/scarf-wanita/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://www.lazada.co.id/sarung-tangan-wanita/"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"https://www.lazada.co.id/shop-women-fabricmask/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_6">
-                <a href="https://vin777.giving/tas-wanita/">
+                <a href="https://www.lazada.co.id/tas-wanita/">
                     <span>Tas Wanita</span>
                 </a>
                         <script type="text" class="J_data_2_5">
-                            [{"childCategoryName":"Tas Ransel Wanita","childCategoryUrl":"https://vin777.giving/tas-punggung-wanita/"},{"childCategoryName":"Aksesoris Tas","childCategoryUrl":"https://vin777.giving/jual-aksesori-tas-wanita/"},{"childCategoryName":"Tas Pinggang Wanita","childCategoryUrl":"https://vin777.giving/shop-tas-pinggang-wanita/"},{"childCategoryName":"Dompet Kartu Wanita","childCategoryUrl":"https://vin777.giving/jual-dompet-kartu-wanita/"},{"childCategoryName":"Clutches","childCategoryUrl":"https://vin777.giving/tas-genggam-wanita/"},{"childCategoryName":"Dompet Koin & Pouch Wanita","childCategoryUrl":"https://vin777.giving/jual-dompet-koin-pouch-wanita/"},{"childCategoryName":"Tas Selempang & Bahu Wanita","childCategoryUrl":"https://vin777.giving/tas-selempang-badan-wanita/"},{"childCategoryName":"Tas Luxury Wanita","childCategoryUrl":"https://vin777.giving/shop-tas-mewah-wanita/"},{"childCategoryName":"Top-handle Bag","childCategoryUrl":"https://vin777.giving/top-handle-bag/"},{"childCategoryName":"Tote Bag Wanita","childCategoryUrl":"https://vin777.giving/tote-bag-wanita/"},{"childCategoryName":"Dompet Wanita","childCategoryUrl":"https://vin777.giving/jual-dompet-wanita/"}]
+                            [{"childCategoryName":"Tas Ransel Wanita","childCategoryUrl":"https://www.lazada.co.id/tas-punggung-wanita/"},{"childCategoryName":"Aksesoris Tas","childCategoryUrl":"https://www.lazada.co.id/jual-aksesori-tas-wanita/"},{"childCategoryName":"Tas Pinggang Wanita","childCategoryUrl":"https://www.lazada.co.id/shop-tas-pinggang-wanita/"},{"childCategoryName":"Dompet Kartu Wanita","childCategoryUrl":"https://www.lazada.co.id/jual-dompet-kartu-wanita/"},{"childCategoryName":"Clutches","childCategoryUrl":"https://www.lazada.co.id/tas-genggam-wanita/"},{"childCategoryName":"Dompet Koin & Pouch Wanita","childCategoryUrl":"https://www.lazada.co.id/jual-dompet-koin-pouch-wanita/"},{"childCategoryName":"Tas Selempang & Bahu Wanita","childCategoryUrl":"https://www.lazada.co.id/tas-selempang-badan-wanita/"},{"childCategoryName":"Tas Luxury Wanita","childCategoryUrl":"https://www.lazada.co.id/shop-tas-mewah-wanita/"},{"childCategoryName":"Top-handle Bag","childCategoryUrl":"https://www.lazada.co.id/top-handle-bag/"},{"childCategoryName":"Tote Bag Wanita","childCategoryUrl":"https://www.lazada.co.id/tote-bag-wanita/"},{"childCategoryName":"Dompet Wanita","childCategoryUrl":"https://www.lazada.co.id/jual-dompet-wanita/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_7">
-                <a href="https://vin777.giving/beli-perhiasan-wanita/">
+                <a href="https://www.lazada.co.id/beli-perhiasan-wanita/">
                     <span>Perhiasan Wanita</span>
                 </a>
                         <script type="text" class="J_data_2_6">
-                            [{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"https://vin777.giving/beli-wanita-perhiasan-fashion/"},{"childCategoryName":"Logam Berharga","childCategoryUrl":"https://vin777.giving/beli-wanita-logam-berharga/"}]
+                            [{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"https://www.lazada.co.id/beli-wanita-perhiasan-fashion/"},{"childCategoryName":"Logam Berharga","childCategoryUrl":"https://www.lazada.co.id/beli-wanita-logam-berharga/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_8">
-                <a href="https://vin777.giving/beli-jam-tangan-wanita/">
+                <a href="https://www.lazada.co.id/beli-jam-tangan-wanita/">
                     <span>Jam Tangan Wanita</span>
                 </a>
                         <script type="text" class="J_data_2_7">
-                            [{"childCategoryName":"Aksesori","childCategoryUrl":"https://vin777.giving/shop-aksesori-jam-tangan-wanita/"},{"childCategoryName":"Jam Tangan Kasual Wanita","childCategoryUrl":"https://vin777.giving/beli-jam-tangan-kasual-wanita/"},{"childCategoryName":"Formal","childCategoryUrl":"https://vin777.giving/beli-jam-tangan-formal-wanita/"},{"childCategoryName":"Mewah","childCategoryUrl":"https://vin777.giving/shop-jam-tangan-mewah-wanita/"},{"childCategoryName":"Pra Dimiliki","childCategoryUrl":"https://vin777.giving/shop-pre-owned-jam-tangan-wanita/"},{"childCategoryName":"Jam Tangan Olahraga Wanita","childCategoryUrl":"https://vin777.giving/beli-jam-tangan-olahraga-wanita/"}]
+                            [{"childCategoryName":"Aksesori","childCategoryUrl":"https://www.lazada.co.id/shop-aksesori-jam-tangan-wanita/"},{"childCategoryName":"Jam Tangan Kasual Wanita","childCategoryUrl":"https://www.lazada.co.id/beli-jam-tangan-kasual-wanita/"},{"childCategoryName":"Formal","childCategoryUrl":"https://www.lazada.co.id/beli-jam-tangan-formal-wanita/"},{"childCategoryName":"Mewah","childCategoryUrl":"https://www.lazada.co.id/shop-jam-tangan-mewah-wanita/"},{"childCategoryName":"Pra Dimiliki","childCategoryUrl":"https://www.lazada.co.id/shop-pre-owned-jam-tangan-wanita/"},{"childCategoryName":"Jam Tangan Olahraga Wanita","childCategoryUrl":"https://www.lazada.co.id/beli-jam-tangan-olahraga-wanita/"}]
                         </script>
             </li>
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No4" data-spm="cate_4">
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_1">
-                <a href="https://vin777.giving/pakaian-pria/">
+                <a href="https://www.lazada.co.id/pakaian-pria/">
                     <span>Pakaian Pria</span>
                 </a>
                         <script type="text" class="J_data_3_0">
-                            [{"childCategoryName":"Hoodie & Sweatshirt","childCategoryUrl":"https://vin777.giving/jual-hoodie-pria/"},{"childCategoryName":"Jaket dan Mantel","childCategoryUrl":"https://vin777.giving/jaket-dan-mantel-pria/"},{"childCategoryName":"Jeans","childCategoryUrl":"https://vin777.giving/jeans-pria/"},{"childCategoryName":"Celana","childCategoryUrl":"https://vin777.giving/celana-pendek-dan-panjang-pria/"},{"childCategoryName":"Polo Shirt","childCategoryUrl":"https://vin777.giving/polo-shirt-pria/"},{"childCategoryName":"Kemeja","childCategoryUrl":"https://vin777.giving/kemeja-pria/"},{"childCategoryName":"Celana Pendek","childCategoryUrl":"https://vin777.giving/jual-celana-pendek-pria/"},{"childCategoryName":"Kaus Kaki","childCategoryUrl":"https://vin777.giving/jual-kaus-kaki-pria/"},{"childCategoryName":"Jas & Blazer","childCategoryUrl":"https://vin777.giving/jas-pria/"},{"childCategoryName":"Sweater dan Kardigan","childCategoryUrl":"https://vin777.giving/sweater-dan-cardigan-pria/"},{"childCategoryName":"Baju Renang","childCategoryUrl":"https://vin777.giving/baju-renang-pria/"},{"childCategoryName":"T-Shirt & Kaos Dalam","childCategoryUrl":"https://vin777.giving/atasan-kasual-kaos-pria/"}]
+                            [{"childCategoryName":"Hoodie & Sweatshirt","childCategoryUrl":"https://www.lazada.co.id/jual-hoodie-pria/"},{"childCategoryName":"Jaket dan Mantel","childCategoryUrl":"https://www.lazada.co.id/jaket-dan-mantel-pria/"},{"childCategoryName":"Jeans","childCategoryUrl":"https://www.lazada.co.id/jeans-pria/"},{"childCategoryName":"Celana","childCategoryUrl":"https://www.lazada.co.id/celana-pendek-dan-panjang-pria/"},{"childCategoryName":"Polo Shirt","childCategoryUrl":"https://www.lazada.co.id/polo-shirt-pria/"},{"childCategoryName":"Kemeja","childCategoryUrl":"https://www.lazada.co.id/kemeja-pria/"},{"childCategoryName":"Celana Pendek","childCategoryUrl":"https://www.lazada.co.id/jual-celana-pendek-pria/"},{"childCategoryName":"Kaus Kaki","childCategoryUrl":"https://www.lazada.co.id/jual-kaus-kaki-pria/"},{"childCategoryName":"Jas & Blazer","childCategoryUrl":"https://www.lazada.co.id/jas-pria/"},{"childCategoryName":"Sweater dan Kardigan","childCategoryUrl":"https://www.lazada.co.id/sweater-dan-cardigan-pria/"},{"childCategoryName":"Baju Renang","childCategoryUrl":"https://www.lazada.co.id/baju-renang-pria/"},{"childCategoryName":"T-Shirt & Kaos Dalam","childCategoryUrl":"https://www.lazada.co.id/atasan-kasual-kaos-pria/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_2">
-                <a href="https://vin777.giving/baju-muslim-pria/">
+                <a href="https://www.lazada.co.id/baju-muslim-pria/">
                     <span>Baju Muslim</span>
                 </a>
                         <script type="text" class="J_data_3_1">
-                            [{"childCategoryName":"Jubah Muslim","childCategoryUrl":"https://vin777.giving/jubah-muslim-pria/"},{"childCategoryName":"Aksesoris Muslim","childCategoryUrl":"https://vin777.giving/aksesoris-muslim-pria/"},{"childCategoryName":"Baju Muslimin","childCategoryUrl":"https://vin777.giving/cekak-musang-pria/"},{"childCategoryName":"Kopiah","childCategoryUrl":"https://vin777.giving/shop-kopiah/"}]
+                            [{"childCategoryName":"Jubah Muslim","childCategoryUrl":"https://www.lazada.co.id/jubah-muslim-pria/"},{"childCategoryName":"Aksesoris Muslim","childCategoryUrl":"https://www.lazada.co.id/aksesoris-muslim-pria/"},{"childCategoryName":"Baju Muslimin","childCategoryUrl":"https://www.lazada.co.id/cekak-musang-pria/"},{"childCategoryName":"Kopiah","childCategoryUrl":"https://www.lazada.co.id/shop-kopiah/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_3">
-                <a href="https://vin777.giving/pakaian-dalam-dan-kaos-kaki-pria/">
+                <a href="https://www.lazada.co.id/pakaian-dalam-dan-kaos-kaki-pria/">
                     <span>Pakaian Dalam</span>
                 </a>
                         <script type="text" class="J_data_3_2">
-                            [{"childCategoryName":"Celana Dalam","childCategoryUrl":"https://vin777.giving/celana-dalam-pria/"},{"childCategoryName":"Pakaian Tidur","childCategoryUrl":"https://vin777.giving/baju-tidur-pria/"},{"childCategoryName":"Boxer","childCategoryUrl":"https://vin777.giving/pakaian-dalam-boxer-pria/"},{"childCategoryName":"Thongs  & Lainnya","childCategoryUrl":"https://vin777.giving/pakaian-dalam-pria-thongs-lainnya/"}]
+                            [{"childCategoryName":"Celana Dalam","childCategoryUrl":"https://www.lazada.co.id/celana-dalam-pria/"},{"childCategoryName":"Pakaian Tidur","childCategoryUrl":"https://www.lazada.co.id/baju-tidur-pria/"},{"childCategoryName":"Boxer","childCategoryUrl":"https://www.lazada.co.id/pakaian-dalam-boxer-pria/"},{"childCategoryName":"Thongs  & Lainnya","childCategoryUrl":"https://www.lazada.co.id/pakaian-dalam-pria-thongs-lainnya/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_4">
-                <a href="https://vin777.giving/sepatu-pria/">
+                <a href="https://www.lazada.co.id/sepatu-pria/">
                     <span>Sepatu Pria</span>
                 </a>
                         <script type="text" class="J_data_3_3">
-                            [{"childCategoryName":"Boots","childCategoryUrl":"https://vin777.giving/boots-pria/"},{"childCategoryName":"Flip Flop & Sandal","childCategoryUrl":"https://vin777.giving/sandal-jepit-pria/"},{"childCategoryName":"Sepatu Formal","childCategoryUrl":"https://vin777.giving/sepatu-pantofel/"},{"childCategoryName":"Aksesoris Sepatu","childCategoryUrl":"https://vin777.giving/aksesoris-sepatu-pria/"},{"childCategoryName":"Slip-On & Loafer","childCategoryUrl":"https://vin777.giving/jual-slip-on-loafer-pria/"},{"childCategoryName":"Sneakers","childCategoryUrl":"https://vin777.giving/sneakers-pria/"}]
+                            [{"childCategoryName":"Boots","childCategoryUrl":"https://www.lazada.co.id/boots-pria/"},{"childCategoryName":"Flip Flop & Sandal","childCategoryUrl":"https://www.lazada.co.id/sandal-jepit-pria/"},{"childCategoryName":"Sepatu Formal","childCategoryUrl":"https://www.lazada.co.id/sepatu-pantofel/"},{"childCategoryName":"Aksesoris Sepatu","childCategoryUrl":"https://www.lazada.co.id/aksesoris-sepatu-pria/"},{"childCategoryName":"Slip-On & Loafer","childCategoryUrl":"https://www.lazada.co.id/jual-slip-on-loafer-pria/"},{"childCategoryName":"Sneakers","childCategoryUrl":"https://www.lazada.co.id/sneakers-pria/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_5">
-                <a href="https://vin777.giving/aksesoris-pria/">
+                <a href="https://www.lazada.co.id/aksesoris-pria/">
                     <span>Aksesoris</span>
                 </a>
                         <script type="text" class="J_data_3_4">
-                            [{"childCategoryName":"Dasi","childCategoryUrl":"https://vin777.giving/aksesoris-dasi/"},{"childCategoryName":"Aksesoris Dasi Kupu-kupu","childCategoryUrl":"https://vin777.giving/aksesoris-dasi-kupu-kupu/"},{"childCategoryName":"Scarf","childCategoryUrl":"https://vin777.giving/syal-pria/"},{"childCategoryName":"Payung","childCategoryUrl":"https://vin777.giving/payung-pria/"},{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"https://vin777.giving/ikat-pinggang-pria/"},{"childCategoryName":"Topi","childCategoryUrl":"https://vin777.giving/topi-pria/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://vin777.giving/sarung-tangan-pria/"},{"childCategoryName":"Braces","childCategoryUrl":"https://vin777.giving/suspender-pria/"},{"childCategoryName":"Face Mask","childCategoryUrl":"https://vin777.giving/shop-masker-wajah-pria/"}]
+                            [{"childCategoryName":"Dasi","childCategoryUrl":"https://www.lazada.co.id/aksesoris-dasi/"},{"childCategoryName":"Aksesoris Dasi Kupu-kupu","childCategoryUrl":"https://www.lazada.co.id/aksesoris-dasi-kupu-kupu/"},{"childCategoryName":"Scarf","childCategoryUrl":"https://www.lazada.co.id/syal-pria/"},{"childCategoryName":"Payung","childCategoryUrl":"https://www.lazada.co.id/payung-pria/"},{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"https://www.lazada.co.id/ikat-pinggang-pria/"},{"childCategoryName":"Topi","childCategoryUrl":"https://www.lazada.co.id/topi-pria/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://www.lazada.co.id/sarung-tangan-pria/"},{"childCategoryName":"Braces","childCategoryUrl":"https://www.lazada.co.id/suspender-pria/"},{"childCategoryName":"Face Mask","childCategoryUrl":"https://www.lazada.co.id/shop-masker-wajah-pria/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_6">
-                <a href="https://vin777.giving/tas-pria/">
+                <a href="https://www.lazada.co.id/tas-pria/">
                     <span>Tas Pria</span>
                 </a>
                         <script type="text" class="J_data_3_5">
-                            [{"childCategoryName":"Tas Ransel Pria","childCategoryUrl":"https://vin777.giving/shop-ransel-pria/"},{"childCategoryName":"Tas Laptop Jinjing","childCategoryUrl":"https://vin777.giving/tas-kerja-pria/"},{"childCategoryName":"Dompet Kartu Pria","childCategoryUrl":"https://vin777.giving/jual-dompet-kartu-pria/"},{"childCategoryName":"Dompet Koin & Pouch Pria","childCategoryUrl":"https://vin777.giving/jual-dompet-koin-pouch-pria/"},{"childCategoryName":"Tas Selempang Pria","childCategoryUrl":"https://vin777.giving/jual-tas-selempang-pria/"},{"childCategoryName":"Tas Laptop Bahu & Messenger","childCategoryUrl":"https://vin777.giving/tas-messenger-pria/"},{"childCategoryName":"Tote Bag Pria","childCategoryUrl":"https://vin777.giving/jual-tas-tote-pria/"},{"childCategoryName":"Tas Pinggang","childCategoryUrl":"https://vin777.giving/beli-tas-pinggang/"},{"childCategoryName":"Dompet Pria","childCategoryUrl":"https://vin777.giving/shop-dompet-pria/"}]
+                            [{"childCategoryName":"Tas Ransel Pria","childCategoryUrl":"https://www.lazada.co.id/shop-ransel-pria/"},{"childCategoryName":"Tas Laptop Jinjing","childCategoryUrl":"https://www.lazada.co.id/tas-kerja-pria/"},{"childCategoryName":"Dompet Kartu Pria","childCategoryUrl":"https://www.lazada.co.id/jual-dompet-kartu-pria/"},{"childCategoryName":"Dompet Koin & Pouch Pria","childCategoryUrl":"https://www.lazada.co.id/jual-dompet-koin-pouch-pria/"},{"childCategoryName":"Tas Selempang Pria","childCategoryUrl":"https://www.lazada.co.id/jual-tas-selempang-pria/"},{"childCategoryName":"Tas Laptop Bahu & Messenger","childCategoryUrl":"https://www.lazada.co.id/tas-messenger-pria/"},{"childCategoryName":"Tote Bag Pria","childCategoryUrl":"https://www.lazada.co.id/jual-tas-tote-pria/"},{"childCategoryName":"Tas Pinggang","childCategoryUrl":"https://www.lazada.co.id/beli-tas-pinggang/"},{"childCategoryName":"Dompet Pria","childCategoryUrl":"https://www.lazada.co.id/shop-dompet-pria/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_7">
-                <a href="https://vin777.giving/beli-perhiasan-pria/">
+                <a href="https://www.lazada.co.id/beli-perhiasan-pria/">
                     <span>Perhiasan Pria</span>
                 </a>
                         <script type="text" class="J_data_3_6">
-                            [{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"https://vin777.giving/beli-pria-perhiasan-fashion/"},{"childCategoryName":"Logam Berharga","childCategoryUrl":"https://vin777.giving/beli-pria-logam-berharga/"}]
+                            [{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"https://www.lazada.co.id/beli-pria-perhiasan-fashion/"},{"childCategoryName":"Logam Berharga","childCategoryUrl":"https://www.lazada.co.id/beli-pria-logam-berharga/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_8">
-                <a href="https://vin777.giving/beli-jam-tangan-pria/">
+                <a href="https://www.lazada.co.id/beli-jam-tangan-pria/">
                     <span>Jam Tangan Pria</span>
                 </a>
                         <script type="text" class="J_data_3_7">
-                            [{"childCategoryName":"Aksesoris Jam Tangan Pria","childCategoryUrl":"https://vin777.giving/beli-aksesoris-jam-tangan-pria/"},{"childCategoryName":"Jam Tangan Kasual Pria","childCategoryUrl":"https://vin777.giving/beli-jam-tangan-kasual-pria/"},{"childCategoryName":"Formal","childCategoryUrl":"https://vin777.giving/beli-jam-tangan-formal-pria/"},{"childCategoryName":"Mewah","childCategoryUrl":"https://vin777.giving/shop-jam-tangan-mewah-pria/"},{"childCategoryName":"Pra Dimiliki","childCategoryUrl":"https://vin777.giving/shop-jam-tangan-pre-owned-pria/"},{"childCategoryName":"Jam Tangan Olahraga Pria","childCategoryUrl":"https://vin777.giving/beli-jam-tangan-olahraga-pria/"}]
+                            [{"childCategoryName":"Aksesoris Jam Tangan Pria","childCategoryUrl":"https://www.lazada.co.id/beli-aksesoris-jam-tangan-pria/"},{"childCategoryName":"Jam Tangan Kasual Pria","childCategoryUrl":"https://www.lazada.co.id/beli-jam-tangan-kasual-pria/"},{"childCategoryName":"Formal","childCategoryUrl":"https://www.lazada.co.id/beli-jam-tangan-formal-pria/"},{"childCategoryName":"Mewah","childCategoryUrl":"https://www.lazada.co.id/shop-jam-tangan-mewah-pria/"},{"childCategoryName":"Pra Dimiliki","childCategoryUrl":"https://www.lazada.co.id/shop-jam-tangan-pre-owned-pria/"},{"childCategoryName":"Jam Tangan Olahraga Pria","childCategoryUrl":"https://www.lazada.co.id/beli-jam-tangan-olahraga-pria/"}]
                         </script>
             </li>
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No5" data-spm="cate_5">
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_1">
-                <a href="https://vin777.giving/fashion-pakaian-anak-laki-laki">
+                <a href="https://www.lazada.co.id/fashion-pakaian-anak-laki-laki">
                     <span>Pakaian Anak Laki-laki</span>
                 </a>
                         <script type="text" class="J_data_4_0">
-                            [{"childCategoryName":"Topi Anak Laki-laki","childCategoryUrl":"https://vin777.giving/topi-anak-laki-laki"},{"childCategoryName":"Hoodie Anak Laki-laki","childCategoryUrl":"https://vin777.giving/jual-hoodie-anak-laki-laki"},{"childCategoryName":"Jaket & Mantel Anak Laki-laki","childCategoryUrl":"https://vin777.giving/jaket-mantel-anak-laki-laki"},{"childCategoryName":"Celana Pendek Anak Laki-laki","childCategoryUrl":"https://vin777.giving/beli-celana-pendek-pria"},{"childCategoryName":"Pakaian Tidur Anak Laki-laki","childCategoryUrl":"https://vin777.giving/pakaian-tidur-anak-laki-laki"},{"childCategoryName":"Sweater & Cardigan Anak","childCategoryUrl":"https://vin777.giving/sweater-cardigan-anak-laki-laki"},{"childCategoryName":"Payung & Pakaian Hujan Anak","childCategoryUrl":"https://vin777.giving/payung-pakaian-hujan-anak-laki-laki"},{"childCategoryName":"Pakaian dalam","childCategoryUrl":"https://vin777.giving/shop-pakaian-dalam"},{"childCategoryName":"Celana & Jeans Anak Laki-laki","childCategoryUrl":"https://vin777.giving/celana-jeans-anak-laki-laki"},{"childCategoryName":"Kaus Kaki","childCategoryUrl":"https://vin777.giving/shop-kaus-kaki"},{"childCategoryName":"Baju & Atasan Anak Laki-laki","childCategoryUrl":"https://vin777.giving/baju-atasan-anak-laki-laki"}]
+                            [{"childCategoryName":"Topi Anak Laki-laki","childCategoryUrl":"https://www.lazada.co.id/topi-anak-laki-laki"},{"childCategoryName":"Hoodie Anak Laki-laki","childCategoryUrl":"https://www.lazada.co.id/jual-hoodie-anak-laki-laki"},{"childCategoryName":"Jaket & Mantel Anak Laki-laki","childCategoryUrl":"https://www.lazada.co.id/jaket-mantel-anak-laki-laki"},{"childCategoryName":"Celana Pendek Anak Laki-laki","childCategoryUrl":"https://www.lazada.co.id/beli-celana-pendek-pria"},{"childCategoryName":"Pakaian Tidur Anak Laki-laki","childCategoryUrl":"https://www.lazada.co.id/pakaian-tidur-anak-laki-laki"},{"childCategoryName":"Sweater & Cardigan Anak","childCategoryUrl":"https://www.lazada.co.id/sweater-cardigan-anak-laki-laki"},{"childCategoryName":"Payung & Pakaian Hujan Anak","childCategoryUrl":"https://www.lazada.co.id/payung-pakaian-hujan-anak-laki-laki"},{"childCategoryName":"Pakaian dalam","childCategoryUrl":"https://www.lazada.co.id/shop-pakaian-dalam"},{"childCategoryName":"Celana & Jeans Anak Laki-laki","childCategoryUrl":"https://www.lazada.co.id/celana-jeans-anak-laki-laki"},{"childCategoryName":"Kaus Kaki","childCategoryUrl":"https://www.lazada.co.id/shop-kaus-kaki"},{"childCategoryName":"Baju & Atasan Anak Laki-laki","childCategoryUrl":"https://www.lazada.co.id/baju-atasan-anak-laki-laki"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_2">
-                <a href="https://vin777.giving/pakaian-anak-perempuan">
+                <a href="https://www.lazada.co.id/pakaian-anak-perempuan">
                     <span>Pakaian Anak Perempuan</span>
                 </a>
                         <script type="text" class="J_data_4_1">
-                            [{"childCategoryName":"Bawahan Anak Perempuan","childCategoryUrl":"https://vin777.giving/celana-jeans-anak-perempuan"},{"childCategoryName":"Dress Anak Perempuan","childCategoryUrl":"https://vin777.giving/fashion-dress-anak-perempuan"},{"childCategoryName":"Scarf Anak Perempuan","childCategoryUrl":"https://vin777.giving/scarf-sarung-tangan-anak-perempuan"},{"childCategoryName":"Aksesori Rambut Anak Perempuan","childCategoryUrl":"https://vin777.giving/jual-aksesori-rambut-anak-perempuan"},{"childCategoryName":"Topi Anak Perempuan","childCategoryUrl":"https://vin777.giving/topi-anak-perempuan"},{"childCategoryName":"Hoodie Anak Perempuan","childCategoryUrl":"https://vin777.giving/jual-hoodie-anak-laki-laki-2"},{"childCategoryName":"Jaket & Mantel Anak Perempuan","childCategoryUrl":"https://vin777.giving/jaket-mantel-anak-perempuan"},{"childCategoryName":"Baju & Atasan Anak Perempuan","childCategoryUrl":"https://vin777.giving/baju-atasan-anak-perempuan"},{"childCategoryName":"Payung & Pakaian Hujan Anak","childCategoryUrl":"https://vin777.giving/payung-jas-hujan-anak-perempuan"},{"childCategoryName":"Pakaian Dalam Anak Perempuan","childCategoryUrl":"https://vin777.giving/pakaian-tidur-anak-perempuan"},{"childCategoryName":"Jumpsuits & Overalls","childCategoryUrl":"https://vin777.giving/shop-girls-jumpsuits-overalls"}]
+                            [{"childCategoryName":"Bawahan Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/celana-jeans-anak-perempuan"},{"childCategoryName":"Dress Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/fashion-dress-anak-perempuan"},{"childCategoryName":"Scarf Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/scarf-sarung-tangan-anak-perempuan"},{"childCategoryName":"Aksesori Rambut Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/jual-aksesori-rambut-anak-perempuan"},{"childCategoryName":"Topi Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/topi-anak-perempuan"},{"childCategoryName":"Hoodie Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/jual-hoodie-anak-laki-laki-2"},{"childCategoryName":"Jaket & Mantel Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/jaket-mantel-anak-perempuan"},{"childCategoryName":"Baju & Atasan Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/baju-atasan-anak-perempuan"},{"childCategoryName":"Payung & Pakaian Hujan Anak","childCategoryUrl":"https://www.lazada.co.id/payung-jas-hujan-anak-perempuan"},{"childCategoryName":"Pakaian Dalam Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/pakaian-tidur-anak-perempuan"},{"childCategoryName":"Jumpsuits & Overalls","childCategoryUrl":"https://www.lazada.co.id/shop-girls-jumpsuits-overalls"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_3">
-                <a href="https://vin777.giving/shop-boy's-muslim-wear">
+                <a href="https://www.lazada.co.id/shop-boy's-muslim-wear">
                     <span>Pakaian Anak Muslim Laki-Laki</span>
                 </a>
                         <script type="text" class="J_data_4_2">
-                            [{"childCategoryName":"Kemeja Anak Laki-Laki","childCategoryUrl":"https://vin777.giving/shop-boy's-muslimin-shirt"},{"childCategoryName":"Celana Anak Laki-Laki","childCategoryUrl":"https://vin777.giving/shop-boy's-muslimin-pants"},{"childCategoryName":"Aksesoris Anak Laki-Laki","childCategoryUrl":"https://vin777.giving/shop-boy's-muslimin-accessories"}]
+                            [{"childCategoryName":"Kemeja Anak Laki-Laki","childCategoryUrl":"https://www.lazada.co.id/shop-boy's-muslimin-shirt"},{"childCategoryName":"Celana Anak Laki-Laki","childCategoryUrl":"https://www.lazada.co.id/shop-boy's-muslimin-pants"},{"childCategoryName":"Aksesoris Anak Laki-Laki","childCategoryUrl":"https://www.lazada.co.id/shop-boy's-muslimin-accessories"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_4">
-                <a href="https://vin777.giving/shop-girls-muslim-wear">
+                <a href="https://www.lazada.co.id/shop-girls-muslim-wear">
                     <span>Pakaian Anak Muslim Perempuan</span>
                 </a>
                         <script type="text" class="J_data_4_3">
-                            [{"childCategoryName":"Hijab Anak Perempuan","childCategoryUrl":"https://vin777.giving/shop-girls-muslim-wear-hijabs/"},{"childCategoryName":"Dress Anak Perempuan","childCategoryUrl":"https://vin777.giving/shop-girls-muslim-wear-dresses-jumpsuits/"}]
+                            [{"childCategoryName":"Hijab Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/shop-girls-muslim-wear-hijabs/"},{"childCategoryName":"Dress Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/shop-girls-muslim-wear-dresses-jumpsuits/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_5">
-                <a href="https://vin777.giving/fashion-sepatu-anak-laki-laki">
+                <a href="https://www.lazada.co.id/fashion-sepatu-anak-laki-laki">
                     <span>Sepatu Anak Laki-laki</span>
                 </a>
                         <script type="text" class="J_data_4_4">
-                            [{"childCategoryName":"Sepatu Boot Anak Laki-laki","childCategoryUrl":"https://vin777.giving/sepatu-boot-anak-laki-laki"},{"childCategoryName":"Sandal Anak Laki-laki","childCategoryUrl":"https://vin777.giving/fashion-sandal-jepit-anak-laki-laki"},{"childCategoryName":"Sepatu Formal Anak Laki-laki","childCategoryUrl":"https://vin777.giving/sepatu-lace-ups-anak-laki-laki"},{"childCategoryName":"Aksesoris Sepatu Anak Laki","childCategoryUrl":"https://vin777.giving/fashion-aksesoris-sepatu-anak-laki-laki"},{"childCategoryName":"Slip-n Anak Laki-laki","childCategoryUrl":"https://vin777.giving/sepatu-slip-on-anak-laki-laki"},{"childCategoryName":"Sepatu Sneaker Anak Laki-laki","childCategoryUrl":"https://vin777.giving/sepatu-sneaker-anak-laki-laki"}]
+                            [{"childCategoryName":"Sepatu Boot Anak Laki-laki","childCategoryUrl":"https://www.lazada.co.id/sepatu-boot-anak-laki-laki"},{"childCategoryName":"Sandal Anak Laki-laki","childCategoryUrl":"https://www.lazada.co.id/fashion-sandal-jepit-anak-laki-laki"},{"childCategoryName":"Sepatu Formal Anak Laki-laki","childCategoryUrl":"https://www.lazada.co.id/sepatu-lace-ups-anak-laki-laki"},{"childCategoryName":"Aksesoris Sepatu Anak Laki","childCategoryUrl":"https://www.lazada.co.id/fashion-aksesoris-sepatu-anak-laki-laki"},{"childCategoryName":"Slip-n Anak Laki-laki","childCategoryUrl":"https://www.lazada.co.id/sepatu-slip-on-anak-laki-laki"},{"childCategoryName":"Sepatu Sneaker Anak Laki-laki","childCategoryUrl":"https://www.lazada.co.id/sepatu-sneaker-anak-laki-laki"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_6">
-                <a href="https://vin777.giving/fashion-sepatu-anak-perempuan">
+                <a href="https://www.lazada.co.id/fashion-sepatu-anak-perempuan">
                     <span>Sepatu Anak Perempuan</span>
                 </a>
                         <script type="text" class="J_data_4_5">
-                            [{"childCategoryName":"Sepatu Flat Anak Perempuan","childCategoryUrl":"https://vin777.giving/sepatu-balerina-anak-perempuan"},{"childCategoryName":"Sepatu Boot Anak Perempuan","childCategoryUrl":"https://vin777.giving/sepatu-boot-anak-perempuan"},{"childCategoryName":"Sandal Anak Perempuan","childCategoryUrl":"https://vin777.giving/fashion-sandal-jepit-anak-perempuan"},{"childCategoryName":"Sepatu Formal Anak Perempuan","childCategoryUrl":"https://vin777.giving/sepatu-lace-ups-anak-perempuan"},{"childCategoryName":"Aksesoris Sepatu Anak","childCategoryUrl":"https://vin777.giving/fashion-aksesoris-sepatu-anak-perempuan"},{"childCategoryName":"Sepatu Sneaker Anak Perempuan","childCategoryUrl":"https://vin777.giving/sepatu-sneakers-anak-perempuan"}]
+                            [{"childCategoryName":"Sepatu Flat Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/sepatu-balerina-anak-perempuan"},{"childCategoryName":"Sepatu Boot Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/sepatu-boot-anak-perempuan"},{"childCategoryName":"Sandal Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/fashion-sandal-jepit-anak-perempuan"},{"childCategoryName":"Sepatu Formal Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/sepatu-lace-ups-anak-perempuan"},{"childCategoryName":"Aksesoris Sepatu Anak","childCategoryUrl":"https://www.lazada.co.id/fashion-aksesoris-sepatu-anak-perempuan"},{"childCategoryName":"Sepatu Sneaker Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/sepatu-sneakers-anak-perempuan"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_7">
-                <a href="https://vin777.giving/beli-tas-anak-tl/">
+                <a href="https://www.lazada.co.id/beli-tas-anak-tl/">
                     <span>Tas Anak</span>
                 </a>
                         <script type="text" class="J_data_4_6">
-                            [{"childCategoryName":"Tas Bahu Anak","childCategoryUrl":"https://vin777.giving/beli-tas-bahu-anak/"},{"childCategoryName":"Ransel Troli Anak","childCategoryUrl":"https://vin777.giving/beli-ransel-troli-anak/"},{"childCategoryName":"Ransel Anak","childCategoryUrl":"https://vin777.giving/beli-ransel-anak/"},{"childCategoryName":"Aksesoris Tas","childCategoryUrl":"https://vin777.giving/beli-aksesoris-anak/"},{"childCategoryName":"Koper","childCategoryUrl":"https://vin777.giving/koper-anak-2/"}]
+                            [{"childCategoryName":"Tas Bahu Anak","childCategoryUrl":"https://www.lazada.co.id/beli-tas-bahu-anak/"},{"childCategoryName":"Ransel Troli Anak","childCategoryUrl":"https://www.lazada.co.id/beli-ransel-troli-anak/"},{"childCategoryName":"Ransel Anak","childCategoryUrl":"https://www.lazada.co.id/beli-ransel-anak/"},{"childCategoryName":"Aksesoris Tas","childCategoryUrl":"https://www.lazada.co.id/beli-aksesoris-anak/"},{"childCategoryName":"Koper","childCategoryUrl":"https://www.lazada.co.id/koper-anak-2/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_8">
-                <a href="https://vin777.giving/beli-perhiasan-anak/">
+                <a href="https://www.lazada.co.id/beli-perhiasan-anak/">
                     <span>Perhiasan Anak</span>
                 </a>
                         <script type="text" class="J_data_4_7">
-                            [{"childCategoryName":"Emas Murni","childCategoryUrl":"https://vin777.giving/beli-anak-emas-murni/"},{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"https://vin777.giving/beli-anak-perhiasan-fashion/"}]
+                            [{"childCategoryName":"Emas Murni","childCategoryUrl":"https://www.lazada.co.id/beli-anak-emas-murni/"},{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"https://www.lazada.co.id/beli-anak-perhiasan-fashion/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_9">
-                <a href="https://vin777.giving/beli-jam-tangan-anak/">
+                <a href="https://www.lazada.co.id/beli-jam-tangan-anak/">
                     <span>Jam Tangan Anak</span>
                 </a>
                         <script type="text" class="J_data_4_8">
-                            [{"childCategoryName":"Jam Tangan Anak Laki-Laki","childCategoryUrl":"https://vin777.giving/beli-jam-tangan-anak-laki-laki/"},{"childCategoryName":"Jam Tangan Anak Perempuan","childCategoryUrl":"https://vin777.giving/beli-jam-tangan-anak-perempuan/"}]
+                            [{"childCategoryName":"Jam Tangan Anak Laki-Laki","childCategoryUrl":"https://www.lazada.co.id/beli-jam-tangan-anak-laki-laki/"},{"childCategoryName":"Jam Tangan Anak Perempuan","childCategoryUrl":"https://www.lazada.co.id/beli-jam-tangan-anak-perempuan/"}]
                         </script>
             </li>
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No6" data-spm="cate_6">
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_1">
-                <a href="https://vin777.giving/beli-perawatan-kulit/">
+                <a href="https://www.lazada.co.id/beli-perawatan-kulit/">
                     <span>Perawatan Kulit</span>
                 </a>
                         <script type="text" class="J_data_5_0">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Serum Perawatan Wajah","childCategoryUrl":"https://vin777.giving/beli-serum-perawatan-wajah"},{"childCategoryName":"Dermacare","childCategoryUrl":"https://vin777.giving/beli-dermacare"},{"childCategoryName":"Pelembab Wajah","childCategoryUrl":"https://vin777.giving/shop-pelembab-wajah"},{"childCategoryName":"Pembersih Wajah","childCategoryUrl":"https://vin777.giving/pembersih-wajah"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"https://vin777.giving/beli-masker-wajah"},{"childCategoryName":"Toner","childCategoryUrl":"https://vin777.giving/beli-toner"},{"childCategoryName":"Tabir Surya","childCategoryUrl":"https://vin777.giving/beli-tabir-surya-aftersun"},{"childCategoryName":"Set Perawatan Wajah","childCategoryUrl":"https://vin777.giving/beli-set-perawatan-wajah"},{"childCategoryName":"Pelembab & Perawatan Bibir","childCategoryUrl":"https://vin777.giving/beli-lip-balm-perawatan-bibir"},{"childCategoryName":"Face Scrubs & Exfoliators","childCategoryUrl":"https://vin777.giving/beli-scrub-pengelupas-wajah"},{"childCategoryName":"Perawatan Mata","childCategoryUrl":"https://vin777.giving/shop-perawatan-mata"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Serum Perawatan Wajah","childCategoryUrl":"https://www.lazada.co.id/beli-serum-perawatan-wajah"},{"childCategoryName":"Dermacare","childCategoryUrl":"https://www.lazada.co.id/beli-dermacare"},{"childCategoryName":"Pelembab Wajah","childCategoryUrl":"https://www.lazada.co.id/shop-pelembab-wajah"},{"childCategoryName":"Pembersih Wajah","childCategoryUrl":"https://www.lazada.co.id/pembersih-wajah"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"https://www.lazada.co.id/beli-masker-wajah"},{"childCategoryName":"Toner","childCategoryUrl":"https://www.lazada.co.id/beli-toner"},{"childCategoryName":"Tabir Surya","childCategoryUrl":"https://www.lazada.co.id/beli-tabir-surya-aftersun"},{"childCategoryName":"Set Perawatan Wajah","childCategoryUrl":"https://www.lazada.co.id/beli-set-perawatan-wajah"},{"childCategoryName":"Pelembab & Perawatan Bibir","childCategoryUrl":"https://www.lazada.co.id/beli-lip-balm-perawatan-bibir"},{"childCategoryName":"Face Scrubs & Exfoliators","childCategoryUrl":"https://www.lazada.co.id/beli-scrub-pengelupas-wajah"},{"childCategoryName":"Perawatan Mata","childCategoryUrl":"https://www.lazada.co.id/shop-perawatan-mata"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_2">
-                <a href="https://vin777.giving/beli-makeup/">
+                <a href="https://www.lazada.co.id/beli-makeup/">
                     <span>Makeup</span>
                 </a>
                         <script type="text" class="J_data_5_1">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makeup Bibir","childCategoryUrl":"https://vin777.giving/beli-make-up-bibir"},{"childCategoryName":"Lipstik","childCategoryUrl":"https://vin777.giving/beli-lipstik"},{"childCategoryName":"Makeup Wajah","childCategoryUrl":"https://vin777.giving/makeup-wajah"},{"childCategoryName":"Foundation","childCategoryUrl":"https://vin777.giving/beli-foundation"},{"childCategoryName":"Makeup Mata","childCategoryUrl":"https://vin777.giving/beli-mata"},{"childCategoryName":"Maskara","childCategoryUrl":"https://vin777.giving/beli-maskara"},{"childCategoryName":"Aksesoris Makeup","childCategoryUrl":"https://vin777.giving/beli-aksesoris-makeup"},{"childCategoryName":"Set Kuas & Kuas Makeup","childCategoryUrl":"https://vin777.giving/beli-kuas-aplikator"},{"childCategoryName":"Perawatan Kuku","childCategoryUrl":"https://vin777.giving/beli-perawatan-kuku"},{"childCategoryName":"Set Makeup & Palet","childCategoryUrl":"https://vin777.giving/shop-palet-set-makeup"},{"childCategoryName":"Pembersih Makeup","childCategoryUrl":"https://vin777.giving/beli-pembersih-makeup"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makeup Bibir","childCategoryUrl":"https://www.lazada.co.id/beli-make-up-bibir"},{"childCategoryName":"Lipstik","childCategoryUrl":"https://www.lazada.co.id/beli-lipstik"},{"childCategoryName":"Makeup Wajah","childCategoryUrl":"https://www.lazada.co.id/makeup-wajah"},{"childCategoryName":"Foundation","childCategoryUrl":"https://www.lazada.co.id/beli-foundation"},{"childCategoryName":"Makeup Mata","childCategoryUrl":"https://www.lazada.co.id/beli-mata"},{"childCategoryName":"Maskara","childCategoryUrl":"https://www.lazada.co.id/beli-maskara"},{"childCategoryName":"Aksesoris Makeup","childCategoryUrl":"https://www.lazada.co.id/beli-aksesoris-makeup"},{"childCategoryName":"Set Kuas & Kuas Makeup","childCategoryUrl":"https://www.lazada.co.id/beli-kuas-aplikator"},{"childCategoryName":"Perawatan Kuku","childCategoryUrl":"https://www.lazada.co.id/beli-perawatan-kuku"},{"childCategoryName":"Set Makeup & Palet","childCategoryUrl":"https://www.lazada.co.id/shop-palet-set-makeup"},{"childCategoryName":"Pembersih Makeup","childCategoryUrl":"https://www.lazada.co.id/beli-pembersih-makeup"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_3">
-                <a href="https://vin777.giving/beli-perawatan-rambut/">
+                <a href="https://www.lazada.co.id/beli-perawatan-rambut/">
                     <span>Perawatan Rambut</span>
                 </a>
                         <script type="text" class="J_data_5_2">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Shampo","childCategoryUrl":"https://vin777.giving/beli-sampo"},{"childCategoryName":"Perawatan Rambut","childCategoryUrl":"https://vin777.giving/perawatan-intensif"},{"childCategoryName":"Aksesoris Rambut","childCategoryUrl":"https://vin777.giving/aksesoris-perawatan-rambut"},{"childCategoryName":"Styling Rambut","childCategoryUrl":"https://vin777.giving/beli-styling-rambut"},{"childCategoryName":"Pewarna Rambut","childCategoryUrl":"https://vin777.giving/beli-cat-rambut"},{"childCategoryName":"Kondisioner","childCategoryUrl":"https://vin777.giving/beli-kondisioner"},{"childCategoryName":"Paket Hadiah","childCategoryUrl":"https://vin777.giving/beli-paket-hadiah-bingkisan-perawatan-rambut"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Shampo","childCategoryUrl":"https://www.lazada.co.id/beli-sampo"},{"childCategoryName":"Perawatan Rambut","childCategoryUrl":"https://www.lazada.co.id/perawatan-intensif"},{"childCategoryName":"Aksesoris Rambut","childCategoryUrl":"https://www.lazada.co.id/aksesoris-perawatan-rambut"},{"childCategoryName":"Styling Rambut","childCategoryUrl":"https://www.lazada.co.id/beli-styling-rambut"},{"childCategoryName":"Pewarna Rambut","childCategoryUrl":"https://www.lazada.co.id/beli-cat-rambut"},{"childCategoryName":"Kondisioner","childCategoryUrl":"https://www.lazada.co.id/beli-kondisioner"},{"childCategoryName":"Paket Hadiah","childCategoryUrl":"https://www.lazada.co.id/beli-paket-hadiah-bingkisan-perawatan-rambut"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_4">
-                <a href="https://vin777.giving/beli-perlengkapan-mandi-tubuh/">
+                <a href="https://www.lazada.co.id/beli-perlengkapan-mandi-tubuh/">
                     <span>Perawatan Tubuh</span>
                 </a>
                         <script type="text" class="J_data_5_3">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Losion Tubuh","childCategoryUrl":"https://vin777.giving/beli-losion-krim-tubuh"},{"childCategoryName":"Sabun Cair","childCategoryUrl":"https://vin777.giving/shop-Sabun-Cair"},{"childCategoryName":"Scrub Tubuh","childCategoryUrl":"https://vin777.giving/beli-scrub-tubuh"},{"childCategoryName":"Perawatan Payudara","childCategoryUrl":"https://vin777.giving/perawatan-payudara"},{"childCategoryName":"Perawatan Tubuh","childCategoryUrl":"https://vin777.giving/shop-Perawatan-Tubuh"},{"childCategoryName":"Perawatan Kaki","childCategoryUrl":"https://vin777.giving/beli-perawatan-kaki"},{"childCategoryName":"Sabun Batang","childCategoryUrl":"https://vin777.giving/shop-Sabun-Batang"},{"childCategoryName":"Aksesoris Tubuh","childCategoryUrl":"https://vin777.giving/beli-aksesoris-perlengkapan-mandi-tubuh"},{"childCategoryName":"Paket Hadiah","childCategoryUrl":"https://vin777.giving/beli-paket-hadiah-bingkisan-alat-mandi-tubuh"},{"childCategoryName":"Penghilang Bulu","childCategoryUrl":"https://vin777.giving/beli-perontok-rambut"},{"childCategoryName":"Sabun Tangan","childCategoryUrl":"https://vin777.giving/beli-sabun-pembersih-tangan"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Losion Tubuh","childCategoryUrl":"https://www.lazada.co.id/beli-losion-krim-tubuh"},{"childCategoryName":"Sabun Cair","childCategoryUrl":"https://www.lazada.co.id/shop-Sabun-Cair"},{"childCategoryName":"Scrub Tubuh","childCategoryUrl":"https://www.lazada.co.id/beli-scrub-tubuh"},{"childCategoryName":"Perawatan Payudara","childCategoryUrl":"https://www.lazada.co.id/perawatan-payudara"},{"childCategoryName":"Perawatan Tubuh","childCategoryUrl":"https://www.lazada.co.id/shop-Perawatan-Tubuh"},{"childCategoryName":"Perawatan Kaki","childCategoryUrl":"https://www.lazada.co.id/beli-perawatan-kaki"},{"childCategoryName":"Sabun Batang","childCategoryUrl":"https://www.lazada.co.id/shop-Sabun-Batang"},{"childCategoryName":"Aksesoris Tubuh","childCategoryUrl":"https://www.lazada.co.id/beli-aksesoris-perlengkapan-mandi-tubuh"},{"childCategoryName":"Paket Hadiah","childCategoryUrl":"https://www.lazada.co.id/beli-paket-hadiah-bingkisan-alat-mandi-tubuh"},{"childCategoryName":"Penghilang Bulu","childCategoryUrl":"https://www.lazada.co.id/beli-perontok-rambut"},{"childCategoryName":"Sabun Tangan","childCategoryUrl":"https://www.lazada.co.id/beli-sabun-pembersih-tangan"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_5">
-                <a href="https://vin777.giving/beli-perawatan-kesehatan-pribadi/">
+                <a href="https://www.lazada.co.id/beli-perawatan-kesehatan-pribadi/">
                     <span>Perawatan Diri</span>
                 </a>
                         <script type="text" class="J_data_5_4">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Mulut","childCategoryUrl":"https://vin777.giving/perawatan-mulut"},{"childCategoryName":"Pembersih Wanita","childCategoryUrl":"https://vin777.giving/beli-pembersih-wanita"},{"childCategoryName":"Keamanan Diri","childCategoryUrl":"https://vin777.giving/beli-keamanan-diri"},{"childCategoryName":"Beli Deodoran","childCategoryUrl":"https://vin777.giving/beli-deodoran"},{"childCategoryName":"Perawatan Mata","childCategoryUrl":"https://vin777.giving/shop-perawatan-optik-pribadi"},{"childCategoryName":"Obat Anti Serangga","childCategoryUrl":"https://vin777.giving/shop-Obat-Anti-Serangga"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Mulut","childCategoryUrl":"https://www.lazada.co.id/perawatan-mulut"},{"childCategoryName":"Pembersih Wanita","childCategoryUrl":"https://www.lazada.co.id/beli-pembersih-wanita"},{"childCategoryName":"Keamanan Diri","childCategoryUrl":"https://www.lazada.co.id/beli-keamanan-diri"},{"childCategoryName":"Beli Deodoran","childCategoryUrl":"https://www.lazada.co.id/beli-deodoran"},{"childCategoryName":"Perawatan Mata","childCategoryUrl":"https://www.lazada.co.id/shop-perawatan-optik-pribadi"},{"childCategoryName":"Obat Anti Serangga","childCategoryUrl":"https://www.lazada.co.id/shop-Obat-Anti-Serangga"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_6">
-                <a href="https://vin777.giving/beli-parfum/">
+                <a href="https://www.lazada.co.id/beli-parfum/">
                     <span>Parfum</span>
                 </a>
                         <script type="text" class="J_data_5_5">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pria","childCategoryUrl":"https://vin777.giving/beli-parfum-pria"},{"childCategoryName":"Wanita","childCategoryUrl":"https://vin777.giving/beli-parfum-wanita"},{"childCategoryName":"Unisex","childCategoryUrl":"https://vin777.giving/beli-parfum-unisex"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pria","childCategoryUrl":"https://www.lazada.co.id/beli-parfum-pria"},{"childCategoryName":"Wanita","childCategoryUrl":"https://www.lazada.co.id/beli-parfum-wanita"},{"childCategoryName":"Unisex","childCategoryUrl":"https://www.lazada.co.id/beli-parfum-unisex"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_7">
-                <a href="https://vin777.giving/beli-alat-kesehatan-kecantikan/">
+                <a href="https://www.lazada.co.id/beli-alat-kesehatan-kecantikan/">
                     <span>Alat Kecantikan</span>
                 </a>
                         <script type="text" class="J_data_5_6">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Alat Pelangsing & Pijat","childCategoryUrl":"https://vin777.giving/alat-pelangsing-dan-pemijat-elektrik"},{"childCategoryName":"Sauna Portabel","childCategoryUrl":"https://vin777.giving/beli-sauna-portabel"},{"childCategoryName":"Foot Relief","childCategoryUrl":"https://vin777.giving/beli-foot-relief"},{"childCategoryName":"Alat Cukur & Trimmer","childCategoryUrl":"https://vin777.giving/aksesoris-alat-cukur-dan-trimmer"},{"childCategoryName":"Alat Perawatan Wajah","childCategoryUrl":"https://vin777.giving/shop-alat-perawatan-kulit-wajah"},{"childCategoryName":"Alat Perawatan Tubuh","childCategoryUrl":"https://vin777.giving/shop-alat-perawatan-kulit-tubuh"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Alat Pelangsing & Pijat","childCategoryUrl":"https://www.lazada.co.id/alat-pelangsing-dan-pemijat-elektrik"},{"childCategoryName":"Sauna Portabel","childCategoryUrl":"https://www.lazada.co.id/beli-sauna-portabel"},{"childCategoryName":"Foot Relief","childCategoryUrl":"https://www.lazada.co.id/beli-foot-relief"},{"childCategoryName":"Alat Cukur & Trimmer","childCategoryUrl":"https://www.lazada.co.id/aksesoris-alat-cukur-dan-trimmer"},{"childCategoryName":"Alat Perawatan Wajah","childCategoryUrl":"https://www.lazada.co.id/shop-alat-perawatan-kulit-wajah"},{"childCategoryName":"Alat Perawatan Tubuh","childCategoryUrl":"https://www.lazada.co.id/shop-alat-perawatan-kulit-tubuh"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_8">
-                <a href="https://vin777.giving/beli-suplemen-makanan/">
+                <a href="https://www.lazada.co.id/beli-suplemen-makanan/">
                     <span>Suplemen Makanan</span>
                 </a>
                         <script type="text" class="J_data_5_7">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pengatur Berat Badan","childCategoryUrl":"https://vin777.giving/beli-pengatur-berat-badan"},{"childCategoryName":"Pembakar Lemak","childCategoryUrl":"https://vin777.giving/beli-pembakar-lemak"},{"childCategoryName":"Minuman Pelangsing","childCategoryUrl":"https://vin777.giving/beli-minuman-pelangsing"},{"childCategoryName":"Suplemen Kecantikan","childCategoryUrl":"https://vin777.giving/beli-suplemen-kecantikan"},{"childCategoryName":"Suplemen Pemutih","childCategoryUrl":"https://vin777.giving/beli-suplemen-pemutih"},{"childCategoryName":"Multivitamin","childCategoryUrl":"https://vin777.giving/multivitamin/"},{"childCategoryName":"Obat Tradisional","childCategoryUrl":"https://vin777.giving/beli-obat-obatan-tradisional"},{"childCategoryName":"Sistem Imun","childCategoryUrl":"https://vin777.giving/beli-sistem-imun"},{"childCategoryName":"Nutrisi Olahraga","childCategoryUrl":"https://vin777.giving/beli-nutrisi-olahraga"},{"childCategoryName":"Penambah Berat Badan","childCategoryUrl":"https://vin777.giving/beli-suplemen-penambah-berat-badan"},{"childCategoryName":"Protein","childCategoryUrl":"https://vin777.giving/beli-protein"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pengatur Berat Badan","childCategoryUrl":"https://www.lazada.co.id/beli-pengatur-berat-badan"},{"childCategoryName":"Pembakar Lemak","childCategoryUrl":"https://www.lazada.co.id/beli-pembakar-lemak"},{"childCategoryName":"Minuman Pelangsing","childCategoryUrl":"https://www.lazada.co.id/beli-minuman-pelangsing"},{"childCategoryName":"Suplemen Kecantikan","childCategoryUrl":"https://www.lazada.co.id/beli-suplemen-kecantikan"},{"childCategoryName":"Suplemen Pemutih","childCategoryUrl":"https://www.lazada.co.id/beli-suplemen-pemutih"},{"childCategoryName":"Multivitamin","childCategoryUrl":"https://www.lazada.co.id/multivitamin/"},{"childCategoryName":"Obat Tradisional","childCategoryUrl":"https://www.lazada.co.id/beli-obat-obatan-tradisional"},{"childCategoryName":"Sistem Imun","childCategoryUrl":"https://www.lazada.co.id/beli-sistem-imun"},{"childCategoryName":"Nutrisi Olahraga","childCategoryUrl":"https://www.lazada.co.id/beli-nutrisi-olahraga"},{"childCategoryName":"Penambah Berat Badan","childCategoryUrl":"https://www.lazada.co.id/beli-suplemen-penambah-berat-badan"},{"childCategoryName":"Protein","childCategoryUrl":"https://www.lazada.co.id/beli-protein"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_9">
-                <a href="https://vin777.giving/beli-alat-medis/">
+                <a href="https://www.lazada.co.id/beli-alat-medis/">
                     <span>Alat Medis</span>
                 </a>
                         <script type="text" class="J_data_5_8">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Aksesoris Kesehatan","childCategoryUrl":"https://vin777.giving/aksesoris-kesehatan"},{"childCategoryName":"Alat Tes Kesehatan","childCategoryUrl":"https://vin777.giving/beli-alat-tes-kesehatan"},{"childCategoryName":"Obat-Obatan","childCategoryUrl":"https://vin777.giving/shop-over-the-counter-medicine/"},{"childCategoryName":"Perban & Perlengkapan Cedera","childCategoryUrl":"https://vin777.giving/perban-alat-terapi-cedera"},{"childCategoryName":"Timbangan & Alat Kadar Lemak","childCategoryUrl":"https://vin777.giving/beli-timbangan-alat-ukur-kadar-lemak"},{"childCategoryName":"P3K","childCategoryUrl":"https://vin777.giving/beli-p3k"},{"childCategoryName":"Kursi Roda","childCategoryUrl":"https://vin777.giving/beli-kursi-roda"},{"childCategoryName":"Salep & Krim","childCategoryUrl":"https://vin777.giving/shop-salep-dan-krim"},{"childCategoryName":"Alat Inhalasi & Nebulizer","childCategoryUrl":"https://vin777.giving/beli-alat-inhalasi-nebulizer"},{"childCategoryName":"Alat Tes Medis","childCategoryUrl":"https://vin777.giving/tes-medis"},{"childCategoryName":"Stetoskop","childCategoryUrl":"https://vin777.giving/beli-stetoskop"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Aksesoris Kesehatan","childCategoryUrl":"https://www.lazada.co.id/aksesoris-kesehatan"},{"childCategoryName":"Alat Tes Kesehatan","childCategoryUrl":"https://www.lazada.co.id/beli-alat-tes-kesehatan"},{"childCategoryName":"Obat-Obatan","childCategoryUrl":"https://www.lazada.co.id/shop-over-the-counter-medicine/"},{"childCategoryName":"Perban & Perlengkapan Cedera","childCategoryUrl":"https://www.lazada.co.id/perban-alat-terapi-cedera"},{"childCategoryName":"Timbangan & Alat Kadar Lemak","childCategoryUrl":"https://www.lazada.co.id/beli-timbangan-alat-ukur-kadar-lemak"},{"childCategoryName":"P3K","childCategoryUrl":"https://www.lazada.co.id/beli-p3k"},{"childCategoryName":"Kursi Roda","childCategoryUrl":"https://www.lazada.co.id/beli-kursi-roda"},{"childCategoryName":"Salep & Krim","childCategoryUrl":"https://www.lazada.co.id/shop-salep-dan-krim"},{"childCategoryName":"Alat Inhalasi & Nebulizer","childCategoryUrl":"https://www.lazada.co.id/beli-alat-inhalasi-nebulizer"},{"childCategoryName":"Alat Tes Medis","childCategoryUrl":"https://www.lazada.co.id/tes-medis"},{"childCategoryName":"Stetoskop","childCategoryUrl":"https://www.lazada.co.id/beli-stetoskop"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_10">
-                <a href="https://vin777.giving/jual-perlengkapan-kesehatan-seksual/">
+                <a href="https://www.lazada.co.id/jual-perlengkapan-kesehatan-seksual/">
                     <span>Sexual Wellness</span>
                 </a>
                         <script type="text" class="J_data_5_9">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kondom","childCategoryUrl":"https://vin777.giving/beli-kondom"},{"childCategoryName":"Pelumas","childCategoryUrl":"https://vin777.giving/beli-pelumas"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kondom","childCategoryUrl":"https://www.lazada.co.id/beli-kondom"},{"childCategoryName":"Pelumas","childCategoryUrl":"https://www.lazada.co.id/beli-pelumas"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_11">
-                <a href="https://vin777.giving/beli-perawatan-tubuh-kesehatan-pria/">
+                <a href="https://www.lazada.co.id/beli-perawatan-tubuh-kesehatan-pria/">
                     <span>Perawatan Pria</span>
                 </a>
                         <script type="text" class="J_data_5_10">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Rambut","childCategoryUrl":"https://vin777.giving/beli-perawatan-rambut-pria"},{"childCategoryName":"Perawatan Wajah","childCategoryUrl":"https://vin777.giving/beli-perawatan-kulit-pria"},{"childCategoryName":"Alat Cukur Pria","childCategoryUrl":"https://vin777.giving/beli-alat-cukur-pria"},{"childCategoryName":"Perawatan Tubuh","childCategoryUrl":"https://vin777.giving/perawatan-tubuh"},{"childCategoryName":"Deodoran Pria","childCategoryUrl":"https://vin777.giving/beli-deodoran-pria"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Rambut","childCategoryUrl":"https://www.lazada.co.id/beli-perawatan-rambut-pria"},{"childCategoryName":"Perawatan Wajah","childCategoryUrl":"https://www.lazada.co.id/beli-perawatan-kulit-pria"},{"childCategoryName":"Alat Cukur Pria","childCategoryUrl":"https://www.lazada.co.id/beli-alat-cukur-pria"},{"childCategoryName":"Perawatan Tubuh","childCategoryUrl":"https://www.lazada.co.id/perawatan-tubuh"},{"childCategoryName":"Deodoran Pria","childCategoryUrl":"https://www.lazada.co.id/beli-deodoran-pria"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_12">
-                <a href="https://vin777.giving/kesehatan-manula/">
+                <a href="https://www.lazada.co.id/kesehatan-manula/">
                     <span>Popok Dewasa</span>
                 </a>
                         <script type="text" class="J_data_5_11">
-                            [{"childCategoryName":"Popok Dewasa","childCategoryUrl":"https://vin777.giving/kesehatan-manula/"}]
+                            [{"childCategoryName":"Popok Dewasa","childCategoryUrl":"https://www.lazada.co.id/kesehatan-manula/"}]
                         </script>
             </li>
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No7" data-spm="cate_7">
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_1">
-                <a href="https://vin777.giving/jual-perlengkapan-bayi-balita/">
+                <a href="https://www.lazada.co.id/jual-perlengkapan-bayi-balita/">
                     <span>Ibu &amp; Anak</span>
                 </a>
                         <script type="text" class="J_data_6_0">
-                            [{"childCategoryName":"Popok Sekali Pakai","childCategoryUrl":"https://vin777.giving/beli-popok-sekali-pakai/"},{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"https://vin777.giving/beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"https://vin777.giving/beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"https://vin777.giving/jual-susu-batita-1-3-tahun/"},{"childCategoryName":"Susu Pertumbuhan (>3Tahun)","childCategoryUrl":"https://vin777.giving/beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Pakaian Bayi Perempuan","childCategoryUrl":"https://vin777.giving/beli-pakaian-bayi-perempuan/"},{"childCategoryName":"Pakaian Bayi Laki-Laki","childCategoryUrl":"https://vin777.giving/beli-pakaian-bayi-laki-laki/"},{"childCategoryName":"Botol Bayi","childCategoryUrl":"https://vin777.giving/beli-botol-bayi/"},{"childCategoryName":"Stroller","childCategoryUrl":"https://vin777.giving/beli-kereta-dorong-bayi/"},{"childCategoryName":"Soft Carrier","childCategoryUrl":"https://vin777.giving/beli-soft-carrier/"},{"childCategoryName":"Sampo & Kondisioner","childCategoryUrl":"https://vin777.giving/beli-sampo-kondisioner-bb/"},{"childCategoryName":"Perawatan Kulit Bayi","childCategoryUrl":"https://vin777.giving/beli-perawatan-kulit-pria/"}]
+                            [{"childCategoryName":"Popok Sekali Pakai","childCategoryUrl":"https://www.lazada.co.id/beli-popok-sekali-pakai/"},{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"https://www.lazada.co.id/beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"https://www.lazada.co.id/beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"https://www.lazada.co.id/jual-susu-batita-1-3-tahun/"},{"childCategoryName":"Susu Pertumbuhan (>3Tahun)","childCategoryUrl":"https://www.lazada.co.id/beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Pakaian Bayi Perempuan","childCategoryUrl":"https://www.lazada.co.id/beli-pakaian-bayi-perempuan/"},{"childCategoryName":"Pakaian Bayi Laki-Laki","childCategoryUrl":"https://www.lazada.co.id/beli-pakaian-bayi-laki-laki/"},{"childCategoryName":"Botol Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-botol-bayi/"},{"childCategoryName":"Stroller","childCategoryUrl":"https://www.lazada.co.id/beli-kereta-dorong-bayi/"},{"childCategoryName":"Soft Carrier","childCategoryUrl":"https://www.lazada.co.id/beli-soft-carrier/"},{"childCategoryName":"Sampo & Kondisioner","childCategoryUrl":"https://www.lazada.co.id/beli-sampo-kondisioner-bb/"},{"childCategoryName":"Perawatan Kulit Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-perawatan-kulit-pria/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_2">
-                <a href="https://vin777.giving/beli-popok-pispot-bb/">
+                <a href="https://www.lazada.co.id/beli-popok-pispot-bb/">
                     <span>Popok Sekali Pakai</span>
                 </a>
                         <script type="text" class="J_data_6_1">
-                            [{"childCategoryName":"Popok Sekali Pakai","childCategoryUrl":"https://vin777.giving/beli-popok-sekali-pakai/"},{"childCategoryName":"Popok Kain & Aksesori","childCategoryUrl":"https://vin777.giving/beli-popok-kain/"},{"childCategoryName":"Lap Bayi & Penyangga","childCategoryUrl":"https://vin777.giving/beli-lap-bayi-penyangga/"},{"childCategoryName":"Perawatan Popok","childCategoryUrl":"https://vin777.giving/beli-perawatan-popok/"},{"childCategoryName":"Krim & Salep Bayi","childCategoryUrl":"https://vin777.giving/beli-krim-salep-bayi/"},{"childCategoryName":"Tas Perlengkapan Popok","childCategoryUrl":"https://vin777.giving/beli-tas-popok-tb/"},{"childCategoryName":"Meja Ganti Popok","childCategoryUrl":"https://vin777.giving/beli-meja-ganti/"},{"childCategoryName":"Cover Popok Kain","childCategoryUrl":"https://vin777.giving/beli-bantalan/"},{"childCategoryName":"Lapisan Penyerap & Liner Popok Kain","childCategoryUrl":"https://vin777.giving/beli-lapisan-penyerap-liner-popok-kain/"},{"childCategoryName":"Potty Training","childCategoryUrl":"https://vin777.giving/beli-potty-training/"},{"childCategoryName":"Bangku Langkah","childCategoryUrl":"https://vin777.giving/beli-bangku-langkah/"},{"childCategoryName":"Detergent Laundry","childCategoryUrl":"https://vin777.giving/beli-detergen-popok-kain/"}]
+                            [{"childCategoryName":"Popok Sekali Pakai","childCategoryUrl":"https://www.lazada.co.id/beli-popok-sekali-pakai/"},{"childCategoryName":"Popok Kain & Aksesori","childCategoryUrl":"https://www.lazada.co.id/beli-popok-kain/"},{"childCategoryName":"Lap Bayi & Penyangga","childCategoryUrl":"https://www.lazada.co.id/beli-lap-bayi-penyangga/"},{"childCategoryName":"Perawatan Popok","childCategoryUrl":"https://www.lazada.co.id/beli-perawatan-popok/"},{"childCategoryName":"Krim & Salep Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-krim-salep-bayi/"},{"childCategoryName":"Tas Perlengkapan Popok","childCategoryUrl":"https://www.lazada.co.id/beli-tas-popok-tb/"},{"childCategoryName":"Meja Ganti Popok","childCategoryUrl":"https://www.lazada.co.id/beli-meja-ganti/"},{"childCategoryName":"Cover Popok Kain","childCategoryUrl":"https://www.lazada.co.id/beli-bantalan/"},{"childCategoryName":"Lapisan Penyerap & Liner Popok Kain","childCategoryUrl":"https://www.lazada.co.id/beli-lapisan-penyerap-liner-popok-kain/"},{"childCategoryName":"Potty Training","childCategoryUrl":"https://www.lazada.co.id/beli-potty-training/"},{"childCategoryName":"Bangku Langkah","childCategoryUrl":"https://www.lazada.co.id/beli-bangku-langkah/"},{"childCategoryName":"Detergent Laundry","childCategoryUrl":"https://www.lazada.co.id/beli-detergen-popok-kain/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_3">
-                <a href="https://vin777.giving/beli-susu-formula/">
+                <a href="https://www.lazada.co.id/beli-susu-formula/">
                     <span>Makanan Bayi &amp; Balita</span>
                 </a>
                         <script type="text" class="J_data_6_2">
-                            [{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"https://vin777.giving/beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"https://vin777.giving/beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"https://vin777.giving/jual-susu-batita-1-3-tahun/"},{"childCategoryName":"Susu Pertumbuhan (>3Tahun)","childCategoryUrl":"https://vin777.giving/beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Nutrisi Khusus Anak","childCategoryUrl":"https://vin777.giving/beli-nutrisi-khusus-anak/"},{"childCategoryName":"Minuman","childCategoryUrl":"https://vin777.giving/beli-minuman-bayi-balita/"},{"childCategoryName":"Sereal","childCategoryUrl":"https://vin777.giving/beli-sereal-bayi-balita/"},{"childCategoryName":"Cracker & Biskuit","childCategoryUrl":"https://vin777.giving/beli-cracker-biskuit-bayi-balita/"},{"childCategoryName":"Makanan Ringan","childCategoryUrl":"https://vin777.giving/beli-makanan-ringan-bayi-balita/"},{"childCategoryName":"Makanan puree bayi","childCategoryUrl":"https://vin777.giving/beli-puree-bayi/"},{"childCategoryName":"Susu Ibu Hamil","childCategoryUrl":"https://vin777.giving/beli-susu-maternal/"}]
+                            [{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"https://www.lazada.co.id/beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"https://www.lazada.co.id/beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"https://www.lazada.co.id/jual-susu-batita-1-3-tahun/"},{"childCategoryName":"Susu Pertumbuhan (>3Tahun)","childCategoryUrl":"https://www.lazada.co.id/beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Nutrisi Khusus Anak","childCategoryUrl":"https://www.lazada.co.id/beli-nutrisi-khusus-anak/"},{"childCategoryName":"Minuman","childCategoryUrl":"https://www.lazada.co.id/beli-minuman-bayi-balita/"},{"childCategoryName":"Sereal","childCategoryUrl":"https://www.lazada.co.id/beli-sereal-bayi-balita/"},{"childCategoryName":"Cracker & Biskuit","childCategoryUrl":"https://www.lazada.co.id/beli-cracker-biskuit-bayi-balita/"},{"childCategoryName":"Makanan Ringan","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-ringan-bayi-balita/"},{"childCategoryName":"Makanan puree bayi","childCategoryUrl":"https://www.lazada.co.id/beli-puree-bayi/"},{"childCategoryName":"Susu Ibu Hamil","childCategoryUrl":"https://www.lazada.co.id/beli-susu-maternal/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_4">
-                <a href="https://vin777.giving/jual-baju-aksesoris-anak/">
+                <a href="https://www.lazada.co.id/jual-baju-aksesoris-anak/">
                     <span>Pakaian &amp; Aksesoris</span>
                 </a>
                         <script type="text" class="J_data_6_3">
-                            [{"childCategoryName":"(0--6 bulan) Set Pakaian","childCategoryUrl":"https://vin777.giving/beli-set-pakaian-bayi/"},{"childCategoryName":"(0--6 bulan) Body Suits","childCategoryUrl":"https://vin777.giving/beli-bodysuit-one-piece-bayi/"},{"childCategoryName":"(0--6 bulan) Aksesoris","childCategoryUrl":"https://vin777.giving/beli-aksesoris-pakaian-anak/"},{"childCategoryName":"Pakaian Bayi Perempuan","childCategoryUrl":"https://vin777.giving/beli-pakaian-bayi-perempuan/"},{"childCategoryName":"Dress Bayi Perempuan","childCategoryUrl":"https://vin777.giving/beli-dress-bayi-perempuan/"},{"childCategoryName":"Sepatu Bayi Perempuan","childCategoryUrl":"https://vin777.giving/beli-sepatu-bayi-perempuan/"},{"childCategoryName":"Aksesoris Bayi Perempuan","childCategoryUrl":"https://vin777.giving/beli-aksesoris-bayi-perempuan/"},{"childCategoryName":"Baju Renang Bayi Perempuan","childCategoryUrl":"https://vin777.giving/beli-baju-renang-bayi-perempuan/"},{"childCategoryName":"Pakaian Bayi Laki-Laki","childCategoryUrl":"https://vin777.giving/beli-pakaian-bayi-laki-laki/"},{"childCategoryName":"Sepatu Bayi Laki-Laki","childCategoryUrl":"https://vin777.giving/beli-sepatu-bayi-laki-laki/"},{"childCategoryName":"Aksesoris Bayi Laki-Laki","childCategoryUrl":"https://vin777.giving/beli-aksesori-bayi-laki-laki/"},{"childCategoryName":"Baju Renang Bayi Laki-Laki","childCategoryUrl":"https://vin777.giving/beli-baju-renang-bayi-laki-laki/"}]
+                            [{"childCategoryName":"(0--6 bulan) Set Pakaian","childCategoryUrl":"https://www.lazada.co.id/beli-set-pakaian-bayi/"},{"childCategoryName":"(0--6 bulan) Body Suits","childCategoryUrl":"https://www.lazada.co.id/beli-bodysuit-one-piece-bayi/"},{"childCategoryName":"(0--6 bulan) Aksesoris","childCategoryUrl":"https://www.lazada.co.id/beli-aksesoris-pakaian-anak/"},{"childCategoryName":"Pakaian Bayi Perempuan","childCategoryUrl":"https://www.lazada.co.id/beli-pakaian-bayi-perempuan/"},{"childCategoryName":"Dress Bayi Perempuan","childCategoryUrl":"https://www.lazada.co.id/beli-dress-bayi-perempuan/"},{"childCategoryName":"Sepatu Bayi Perempuan","childCategoryUrl":"https://www.lazada.co.id/beli-sepatu-bayi-perempuan/"},{"childCategoryName":"Aksesoris Bayi Perempuan","childCategoryUrl":"https://www.lazada.co.id/beli-aksesoris-bayi-perempuan/"},{"childCategoryName":"Baju Renang Bayi Perempuan","childCategoryUrl":"https://www.lazada.co.id/beli-baju-renang-bayi-perempuan/"},{"childCategoryName":"Pakaian Bayi Laki-Laki","childCategoryUrl":"https://www.lazada.co.id/beli-pakaian-bayi-laki-laki/"},{"childCategoryName":"Sepatu Bayi Laki-Laki","childCategoryUrl":"https://www.lazada.co.id/beli-sepatu-bayi-laki-laki/"},{"childCategoryName":"Aksesoris Bayi Laki-Laki","childCategoryUrl":"https://www.lazada.co.id/beli-aksesori-bayi-laki-laki/"},{"childCategoryName":"Baju Renang Bayi Laki-Laki","childCategoryUrl":"https://www.lazada.co.id/beli-baju-renang-bayi-laki-laki/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_5">
-                <a href="https://vin777.giving/beli-makanan-bayi/">
+                <a href="https://www.lazada.co.id/beli-makanan-bayi/">
                     <span>Perlengkapan Menyusui</span>
                 </a>
                         <script type="text" class="J_data_6_4">
-                            [{"childCategoryName":"Botol Bayi","childCategoryUrl":"https://vin777.giving/beli-botol-bayi/"},{"childCategoryName":"Botol","childCategoryUrl":"https://vin777.giving/beli-botol-bayi-balita/"},{"childCategoryName":"Aksesoris Dot Botol","childCategoryUrl":"https://vin777.giving/jual-aksesoris-botol-dot-bayi/"},{"childCategoryName":"Penghangat & Sterilizers","childCategoryUrl":"https://vin777.giving/beli-penghangat-sterilizer/"},{"childCategoryName":"Pompa Asi","childCategoryUrl":"https://vin777.giving/jual-pompa-asi/"},{"childCategoryName":"Aksesesoris Pompa Asi","childCategoryUrl":"https://vin777.giving/jual-aksesoris-pompa-asi/"},{"childCategoryName":"Perawatan Payudara","childCategoryUrl":"https://vin777.giving/beli-perawatan-puting/"},{"childCategoryName":"Bantal Menyusui","childCategoryUrl":"https://vin777.giving/beli-bantal-kursi-bayi/"},{"childCategoryName":"Kursi Bayi","childCategoryUrl":"https://vin777.giving/beli-kursi-tinggi-bayi-kursi-booster/"},{"childCategoryName":"Food Blenders","childCategoryUrl":"https://vin777.giving/beli-blender-makanan-bayi/"},{"childCategoryName":"Peralatan Makan Bayi","childCategoryUrl":"https://vin777.giving/beli-perlengkapan-makan-bayi-bb/"},{"childCategoryName":"Set Peralatan Makan Bayi","childCategoryUrl":"https://vin777.giving/jual-piring-mangkok-bayi/"}]
+                            [{"childCategoryName":"Botol Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-botol-bayi/"},{"childCategoryName":"Botol","childCategoryUrl":"https://www.lazada.co.id/beli-botol-bayi-balita/"},{"childCategoryName":"Aksesoris Dot Botol","childCategoryUrl":"https://www.lazada.co.id/jual-aksesoris-botol-dot-bayi/"},{"childCategoryName":"Penghangat & Sterilizers","childCategoryUrl":"https://www.lazada.co.id/beli-penghangat-sterilizer/"},{"childCategoryName":"Pompa Asi","childCategoryUrl":"https://www.lazada.co.id/jual-pompa-asi/"},{"childCategoryName":"Aksesesoris Pompa Asi","childCategoryUrl":"https://www.lazada.co.id/jual-aksesoris-pompa-asi/"},{"childCategoryName":"Perawatan Payudara","childCategoryUrl":"https://www.lazada.co.id/beli-perawatan-puting/"},{"childCategoryName":"Bantal Menyusui","childCategoryUrl":"https://www.lazada.co.id/beli-bantal-kursi-bayi/"},{"childCategoryName":"Kursi Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-kursi-tinggi-bayi-kursi-booster/"},{"childCategoryName":"Food Blenders","childCategoryUrl":"https://www.lazada.co.id/beli-blender-makanan-bayi/"},{"childCategoryName":"Peralatan Makan Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-perlengkapan-makan-bayi-bb/"},{"childCategoryName":"Set Peralatan Makan Bayi","childCategoryUrl":"https://www.lazada.co.id/jual-piring-mangkok-bayi/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_6">
-                <a href="https://vin777.giving/beli-perlengkapan-berkendara-bayi/">
+                <a href="https://www.lazada.co.id/beli-perlengkapan-berkendara-bayi/">
                     <span>Perlengkapan Bayi</span>
                 </a>
                         <script type="text" class="J_data_6_5">
-                            [{"childCategoryName":"Sling Bayi","childCategoryUrl":"https://vin777.giving/beli-sling-bayi/"},{"childCategoryName":"Soft Carrier","childCategoryUrl":"https://vin777.giving/beli-soft-carrier/"},{"childCategoryName":"Stroller","childCategoryUrl":"https://vin777.giving/beli-kereta-dorong-bayi/"},{"childCategoryName":"Car Seat","childCategoryUrl":"https://vin777.giving/beli-car-seat-bb/"},{"childCategoryName":"Playard","childCategoryUrl":"https://vin777.giving/beli-playard/"},{"childCategoryName":"Ayunan, Jumper & Bouncer Bayi","childCategoryUrl":"https://vin777.giving/beli-ayunan-jumper-bouncer-bayi/"},{"childCategoryName":"Walker","childCategoryUrl":"https://vin777.giving/beli-walker/"},{"childCategoryName":"Tempat Duduk & Trailer Sepeda","childCategoryUrl":"https://vin777.giving/beli-tempat-duduk-trailer-sepeda/"},{"childCategoryName":"Tas Anak","childCategoryUrl":"https://vin777.giving/beli-tas-anak/"},{"childCategoryName":"Koper Anak","childCategoryUrl":"https://vin777.giving/beli-koper-anak/"},{"childCategoryName":"Tali & Harness Bayi","childCategoryUrl":"https://vin777.giving/beli-tali-harness-bayi/"}]
+                            [{"childCategoryName":"Sling Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-sling-bayi/"},{"childCategoryName":"Soft Carrier","childCategoryUrl":"https://www.lazada.co.id/beli-soft-carrier/"},{"childCategoryName":"Stroller","childCategoryUrl":"https://www.lazada.co.id/beli-kereta-dorong-bayi/"},{"childCategoryName":"Car Seat","childCategoryUrl":"https://www.lazada.co.id/beli-car-seat-bb/"},{"childCategoryName":"Playard","childCategoryUrl":"https://www.lazada.co.id/beli-playard/"},{"childCategoryName":"Ayunan, Jumper & Bouncer Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-ayunan-jumper-bouncer-bayi/"},{"childCategoryName":"Walker","childCategoryUrl":"https://www.lazada.co.id/beli-walker/"},{"childCategoryName":"Tempat Duduk & Trailer Sepeda","childCategoryUrl":"https://www.lazada.co.id/beli-tempat-duduk-trailer-sepeda/"},{"childCategoryName":"Tas Anak","childCategoryUrl":"https://www.lazada.co.id/beli-tas-anak/"},{"childCategoryName":"Koper Anak","childCategoryUrl":"https://www.lazada.co.id/beli-koper-anak/"},{"childCategoryName":"Tali & Harness Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-tali-harness-bayi/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_7">
-                <a href="https://vin777.giving/jual-perlengkapan-kamar-bayi/">
+                <a href="https://www.lazada.co.id/jual-perlengkapan-kamar-bayi/">
                     <span>Kamar Bayi</span>
                 </a>
                         <script type="text" class="J_data_6_6">
-                            [{"childCategoryName":"Matras Bayi","childCategoryUrl":"https://vin777.giving/beli-kasur-seprai-bayi/"},{"childCategoryName":"Selimut Bayi","childCategoryUrl":"https://vin777.giving/beli-selimut-bayi/"},{"childCategoryName":"Seprai Keranjang Bayi","childCategoryUrl":"https://vin777.giving/beli-seprai-keranjang-bayi/"},{"childCategoryName":"Kelengkapan Alat Tidur Balita","childCategoryUrl":"https://vin777.giving/beli-kelengkapan-alat-tidur-balita/"},{"childCategoryName":"Selimut Tebal & Bed Cover Bayi","childCategoryUrl":"https://vin777.giving/beli-selimut-tebal-bed-cover-bayi/"},{"childCategoryName":"Bantal, Pelindung & Sarung Bantal Bayi","childCategoryUrl":"https://vin777.giving/beli-bantal-pelindung-sarung-bantal-bayi/"},{"childCategoryName":"Furnitur Bayi","childCategoryUrl":"https://vin777.giving/beli-furnitur-bayi/"},{"childCategoryName":"Ranjang Bayi","childCategoryUrl":"https://vin777.giving/jual-ranjang-bayi/"},{"childCategoryName":"Keranjang Bayi Cradle","childCategoryUrl":"https://vin777.giving/beli-keranjang-bayi-cradle/"},{"childCategoryName":"Laci & Lemari Pakaian Bayi","childCategoryUrl":"https://vin777.giving/beli-laci-lemari-pakaian-bayi/"},{"childCategoryName":"Penyimpanan","childCategoryUrl":"https://vin777.giving/beli-tempat-pengatur-penyimpanan/"},{"childCategoryName":"Dekorasi Kamar Anak","childCategoryUrl":"https://vin777.giving/beli-dekorasi-kamar-anak/"}]
+                            [{"childCategoryName":"Matras Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-kasur-seprai-bayi/"},{"childCategoryName":"Selimut Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-selimut-bayi/"},{"childCategoryName":"Seprai Keranjang Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-seprai-keranjang-bayi/"},{"childCategoryName":"Kelengkapan Alat Tidur Balita","childCategoryUrl":"https://www.lazada.co.id/beli-kelengkapan-alat-tidur-balita/"},{"childCategoryName":"Selimut Tebal & Bed Cover Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-selimut-tebal-bed-cover-bayi/"},{"childCategoryName":"Bantal, Pelindung & Sarung Bantal Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-bantal-pelindung-sarung-bantal-bayi/"},{"childCategoryName":"Furnitur Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-furnitur-bayi/"},{"childCategoryName":"Ranjang Bayi","childCategoryUrl":"https://www.lazada.co.id/jual-ranjang-bayi/"},{"childCategoryName":"Keranjang Bayi Cradle","childCategoryUrl":"https://www.lazada.co.id/beli-keranjang-bayi-cradle/"},{"childCategoryName":"Laci & Lemari Pakaian Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-laci-lemari-pakaian-bayi/"},{"childCategoryName":"Penyimpanan","childCategoryUrl":"https://www.lazada.co.id/beli-tempat-pengatur-penyimpanan/"},{"childCategoryName":"Dekorasi Kamar Anak","childCategoryUrl":"https://www.lazada.co.id/beli-dekorasi-kamar-anak/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_8">
-                <a href="https://vin777.giving/beli-perlengkapan-mandi-perawatan-kulit-anak/">
+                <a href="https://www.lazada.co.id/beli-perlengkapan-mandi-perawatan-kulit-anak/">
                     <span>Perawatan Bayi</span>
                 </a>
                         <script type="text" class="J_data_6_7">
-                            [{"childCategoryName":"Perawatan Kulit Bayi","childCategoryUrl":"https://vin777.giving/beli-perawatan-kulit-bayi/"},{"childCategoryName":"Sampo & Kondisioner","childCategoryUrl":"https://vin777.giving/beli-sampo-kondisioner-bb/"},{"childCategoryName":"Sabun & Pembersih Bayi","childCategoryUrl":"https://vin777.giving/beli-sabun-pembersih-bayi/"},{"childCategoryName":"Perawatan Mulut Bayi","childCategoryUrl":"https://vin777.giving/beli-sikat-gigi-pasta-gigi-bayi/"},{"childCategoryName":"Sikat Gigi & Pasta Gigi","childCategoryUrl":"https://vin777.giving/beli-sikat-gigi-pasta-gigi-bayi/"},{"childCategoryName":"Tempat Duduk & Bak Mandi Bayi","childCategoryUrl":"https://vin777.giving/beli-tempat-duduk-bak-mandi-bayi/"},{"childCategoryName":"Lap Mandi & Handuk Bayi","childCategoryUrl":"https://vin777.giving/jual-handuk-bayi/"},{"childCategoryName":"Pelindung Matahari Bayi","childCategoryUrl":"https://vin777.giving/beli-pelindung-matahari-bayi/"},{"childCategoryName":"Aromaterapi Bayi","childCategoryUrl":"https://vin777.giving/beli-aromaterapi-bayi/"},{"childCategoryName":"Perlengkapan Mandi Bayi","childCategoryUrl":"https://vin777.giving/beli-perlengkapan-mandi-bayi-bb/"},{"childCategoryName":"Alas Mandi Bayi Anti Slip","childCategoryUrl":"https://vin777.giving/beli-alas-mandi-bayi-anti-slip/"}]
+                            [{"childCategoryName":"Perawatan Kulit Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-perawatan-kulit-bayi/"},{"childCategoryName":"Sampo & Kondisioner","childCategoryUrl":"https://www.lazada.co.id/beli-sampo-kondisioner-bb/"},{"childCategoryName":"Sabun & Pembersih Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-sabun-pembersih-bayi/"},{"childCategoryName":"Perawatan Mulut Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-sikat-gigi-pasta-gigi-bayi/"},{"childCategoryName":"Sikat Gigi & Pasta Gigi","childCategoryUrl":"https://www.lazada.co.id/beli-sikat-gigi-pasta-gigi-bayi/"},{"childCategoryName":"Tempat Duduk & Bak Mandi Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-tempat-duduk-bak-mandi-bayi/"},{"childCategoryName":"Lap Mandi & Handuk Bayi","childCategoryUrl":"https://www.lazada.co.id/jual-handuk-bayi/"},{"childCategoryName":"Pelindung Matahari Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-pelindung-matahari-bayi/"},{"childCategoryName":"Aromaterapi Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-aromaterapi-bayi/"},{"childCategoryName":"Perlengkapan Mandi Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-perlengkapan-mandi-bayi-bb/"},{"childCategoryName":"Alas Mandi Bayi Anti Slip","childCategoryUrl":"https://www.lazada.co.id/beli-alas-mandi-bayi-anti-slip/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_9">
-                <a href="https://vin777.giving/beli-mainan-anak/">
+                <a href="https://www.lazada.co.id/beli-mainan-anak/">
                     <span>Mainan</span>
                 </a>
                         <script type="text" class="J_data_6_8">
-                            [{"childCategoryName":"Action Figure & Mainan Koleksi","childCategoryUrl":"https://vin777.giving/jual-koleksi-mainan-action-figure/"},{"childCategoryName":"Mainan Koleksi","childCategoryUrl":"https://vin777.giving/beli-mainan-koleksi-tg/"},{"childCategoryName":"Mini Figur","childCategoryUrl":"https://vin777.giving/beli-mini-figure-tg/"},{"childCategoryName":"Kerajinan Tangan","childCategoryUrl":"https://vin777.giving/beli-kerajinan-tangan-kesenian-anak/"},{"childCategoryName":"Mainan Blok","childCategoryUrl":"https://vin777.giving/beli-mainan-balok-bangunan/"},{"childCategoryName":"Boneka & Aksesoris","childCategoryUrl":"https://vin777.giving/beli-boneka-aksesori/"},{"childCategoryName":"Kostum Pesta","childCategoryUrl":"https://vin777.giving/beli-mainan-dress-up/"},{"childCategoryName":"Mainan Edukasi","childCategoryUrl":"https://vin777.giving/beli-mainan-pembelajaran-edukasi/"},{"childCategoryName":"Puzzle & Games","childCategoryUrl":"https://vin777.giving/beli-permainan-tradisional/"},{"childCategoryName":"Hobi & Hiburan","childCategoryUrl":"https://vin777.giving/Shop-Hobbies-Entertainment/"},{"childCategoryName":"Perlengkapan Pesta","childCategoryUrl":"https://vin777.giving/beli-perlengkapan-pesta/"}]
+                            [{"childCategoryName":"Action Figure & Mainan Koleksi","childCategoryUrl":"https://www.lazada.co.id/jual-koleksi-mainan-action-figure/"},{"childCategoryName":"Mainan Koleksi","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-koleksi-tg/"},{"childCategoryName":"Mini Figur","childCategoryUrl":"https://www.lazada.co.id/beli-mini-figure-tg/"},{"childCategoryName":"Kerajinan Tangan","childCategoryUrl":"https://www.lazada.co.id/beli-kerajinan-tangan-kesenian-anak/"},{"childCategoryName":"Mainan Blok","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-balok-bangunan/"},{"childCategoryName":"Boneka & Aksesoris","childCategoryUrl":"https://www.lazada.co.id/beli-boneka-aksesori/"},{"childCategoryName":"Kostum Pesta","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-dress-up/"},{"childCategoryName":"Mainan Edukasi","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-pembelajaran-edukasi/"},{"childCategoryName":"Puzzle & Games","childCategoryUrl":"https://www.lazada.co.id/beli-permainan-tradisional/"},{"childCategoryName":"Hobi & Hiburan","childCategoryUrl":"https://www.lazada.co.id/Shop-Hobbies-Entertainment/"},{"childCategoryName":"Perlengkapan Pesta","childCategoryUrl":"https://www.lazada.co.id/beli-perlengkapan-pesta/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_10">
-                <a href="https://vin777.giving/beli-remote-control-mainan-kendaraan/">
+                <a href="https://www.lazada.co.id/beli-remote-control-mainan-kendaraan/">
                     <span>Mainan Elektronik &amp; RC</span>
                 </a>
                         <script type="text" class="J_data_6_9">
-                            [{"childCategoryName":"Mobil Remote Control","childCategoryUrl":"https://vin777.giving/beli-kendaraan-rc-baterai/"},{"childCategoryName":"Robot Remote Control","childCategoryUrl":"https://vin777.giving/beli-rc-figure-robot/"},{"childCategoryName":"Mobil Die Cast","childCategoryUrl":"https://vin777.giving/beli-kendaraan-die-cast/"},{"childCategoryName":"Mainan Mobil","childCategoryUrl":"https://vin777.giving/beli-mainan-kendaraan-tg/"},{"childCategoryName":"Mainan Kereta Api & Rel","childCategoryUrl":"https://vin777.giving/beli-set-mainan-kereta/"},{"childCategoryName":"Drone Mainan","childCategoryUrl":"https://vin777.giving/beli-drones-quadcopters/"},{"childCategoryName":"Helikopter","childCategoryUrl":"https://vin777.giving/beli-mainan-helikopter/"},{"childCategoryName":"Video Games & Hiburan","childCategoryUrl":"https://vin777.giving/shop-hiburan-video-game/"},{"childCategoryName":"Walkie Talkies","childCategoryUrl":"https://vin777.giving/beli-mainan-walkie-talkie/"}]
+                            [{"childCategoryName":"Mobil Remote Control","childCategoryUrl":"https://www.lazada.co.id/beli-kendaraan-rc-baterai/"},{"childCategoryName":"Robot Remote Control","childCategoryUrl":"https://www.lazada.co.id/beli-rc-figure-robot/"},{"childCategoryName":"Mobil Die Cast","childCategoryUrl":"https://www.lazada.co.id/beli-kendaraan-die-cast/"},{"childCategoryName":"Mainan Mobil","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-kendaraan-tg/"},{"childCategoryName":"Mainan Kereta Api & Rel","childCategoryUrl":"https://www.lazada.co.id/beli-set-mainan-kereta/"},{"childCategoryName":"Drone Mainan","childCategoryUrl":"https://www.lazada.co.id/beli-drones-quadcopters/"},{"childCategoryName":"Helikopter","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-helikopter/"},{"childCategoryName":"Video Games & Hiburan","childCategoryUrl":"https://www.lazada.co.id/shop-hiburan-video-game/"},{"childCategoryName":"Walkie Talkies","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-walkie-talkie/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_11">
-                <a href="https://vin777.giving/beli-olahraga-permainan-luar-ruangan/">
+                <a href="https://www.lazada.co.id/beli-olahraga-permainan-luar-ruangan/">
                     <span>Mainan Olahraga &amp; Luar Ruangan</span>
                 </a>
                         <script type="text" class="J_data_6_10">
-                            [{"childCategoryName":"Kolam Renang & Mainan Air","childCategoryUrl":"https://vin777.giving/beli-mainan-air-kolam-renang/"},{"childCategoryName":"Mainan Olahraga","childCategoryUrl":"https://vin777.giving/shop-mainan-baseball-softball/"},{"childCategoryName":"Mainan Luar Ruangan","childCategoryUrl":"https://vin777.giving/beli-aktivitas-dan-olahraga-luar-ruangan/"},{"childCategoryName":"Mainan Blaster","childCategoryUrl":"https://vin777.giving/beli-mainan-blaster/"},{"childCategoryName":"Kolam Bola & Aksesoris","childCategoryUrl":"https://vin777.giving/beli-bola-pit-aksesori/"},{"childCategoryName":"Mainan Terbang","childCategoryUrl":"https://vin777.giving/beli-mainan-terbang/"},{"childCategoryName":"Layangan & Kincir Angin","childCategoryUrl":"https://vin777.giving/beli-mainan-layang-layang/"},{"childCategoryName":"Istana Balon","childCategoryUrl":"https://vin777.giving/beli-balon-loncat-istana-balon/"},{"childCategoryName":"Yoyo & Kendama","childCategoryUrl":"https://vin777.giving/beli-yo-yo-kendama/"},{"childCategoryName":"Set Mainan Taman Bermain","childCategoryUrl":"https://vin777.giving/beli-set-peralatan-permainan-playground/"},{"childCategoryName":"Kemah & Terowongan Mainan","childCategoryUrl":"https://vin777.giving/beli-mainan-tenda-terowongan/"},{"childCategoryName":"Mainan Rumah-rumahan","childCategoryUrl":"https://vin777.giving/beli-playhouses/"}]
+                            [{"childCategoryName":"Kolam Renang & Mainan Air","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-air-kolam-renang/"},{"childCategoryName":"Mainan Olahraga","childCategoryUrl":"https://www.lazada.co.id/shop-mainan-baseball-softball/"},{"childCategoryName":"Mainan Luar Ruangan","childCategoryUrl":"https://www.lazada.co.id/beli-aktivitas-dan-olahraga-luar-ruangan/"},{"childCategoryName":"Mainan Blaster","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-blaster/"},{"childCategoryName":"Kolam Bola & Aksesoris","childCategoryUrl":"https://www.lazada.co.id/beli-bola-pit-aksesori/"},{"childCategoryName":"Mainan Terbang","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-terbang/"},{"childCategoryName":"Layangan & Kincir Angin","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-layang-layang/"},{"childCategoryName":"Istana Balon","childCategoryUrl":"https://www.lazada.co.id/beli-balon-loncat-istana-balon/"},{"childCategoryName":"Yoyo & Kendama","childCategoryUrl":"https://www.lazada.co.id/beli-yo-yo-kendama/"},{"childCategoryName":"Set Mainan Taman Bermain","childCategoryUrl":"https://www.lazada.co.id/beli-set-peralatan-permainan-playground/"},{"childCategoryName":"Kemah & Terowongan Mainan","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-tenda-terowongan/"},{"childCategoryName":"Mainan Rumah-rumahan","childCategoryUrl":"https://www.lazada.co.id/beli-playhouses/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_12">
-                <a href="https://vin777.giving/baby-toddler-toys/">
+                <a href="https://www.lazada.co.id/baby-toddler-toys/">
                     <span>Mainan Bayi &amp; Balita</span>
                 </a>
                         <script type="text" class="J_data_6_11">
-                            [{"childCategoryName":"Playgym & Playmat","childCategoryUrl":"https://vin777.giving/jual-mainan-gym-anak/"},{"childCategoryName":"Mainan Blok","childCategoryUrl":"https://vin777.giving/beli-mainan-balok-bangunan/"},{"childCategoryName":"Mainan Mandi","childCategoryUrl":"https://vin777.giving/beli-mainan-mandi-anak-tg/"},{"childCategoryName":"Mainan Tidur Bayi","childCategoryUrl":"https://vin777.giving/beli-mainan-keranjang-bayi-perlengkapannya-tg/"},{"childCategoryName":"Mainan Balita","childCategoryUrl":"https://vin777.giving/beli-mainan-edukatif-anak-tg/"},{"childCategoryName":"Mainan Musik & Suara","childCategoryUrl":"https://vin777.giving/beli-musik-suara-tg/"},{"childCategoryName":"Mainan Tarik Ulur","childCategoryUrl":"https://vin777.giving/beli-mainan-dorong-tarik-tg/"},{"childCategoryName":"Mainan Shape Sorting","childCategoryUrl":"https://vin777.giving/beli-mainan-shape-sorting-tg/"},{"childCategoryName":"Indoor Climbers & Play Structures","childCategoryUrl":"https://vin777.giving/beli-indoor-climbers-play-structure-tg/"},{"childCategoryName":"Rocking & Spring Ride-Ons","childCategoryUrl":"https://vin777.giving/beli-rocking-spring-ride-on-tg/"}]
+                            [{"childCategoryName":"Playgym & Playmat","childCategoryUrl":"https://www.lazada.co.id/jual-mainan-gym-anak/"},{"childCategoryName":"Mainan Blok","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-balok-bangunan/"},{"childCategoryName":"Mainan Mandi","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-mandi-anak-tg/"},{"childCategoryName":"Mainan Tidur Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-keranjang-bayi-perlengkapannya-tg/"},{"childCategoryName":"Mainan Balita","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-edukatif-anak-tg/"},{"childCategoryName":"Mainan Musik & Suara","childCategoryUrl":"https://www.lazada.co.id/beli-musik-suara-tg/"},{"childCategoryName":"Mainan Tarik Ulur","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-dorong-tarik-tg/"},{"childCategoryName":"Mainan Shape Sorting","childCategoryUrl":"https://www.lazada.co.id/beli-mainan-shape-sorting-tg/"},{"childCategoryName":"Indoor Climbers & Play Structures","childCategoryUrl":"https://www.lazada.co.id/beli-indoor-climbers-play-structure-tg/"},{"childCategoryName":"Rocking & Spring Ride-Ons","childCategoryUrl":"https://www.lazada.co.id/beli-rocking-spring-ride-on-tg/"}]
                         </script>
             </li>
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No8" data-spm="cate_8">
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_1">
-                <a href="https://vin777.giving/beli-tv-audio-video-permainan-dan-gadget/">
+                <a href="https://www.lazada.co.id/beli-tv-audio-video-permainan-dan-gadget/">
                     <span>TV &amp; Perangkat Video</span>
                 </a>
                         <script type="text" class="J_data_7_0">
-                            [{"childCategoryName":""},{"childCategoryName":"TV LED","childCategoryUrl":"https://vin777.giving/shop-televisi-digital/"},{"childCategoryName":"TV Smart","childCategoryUrl":"https://vin777.giving/beli-smart-tv/"},{"childCategoryName":"Blu-Ray/DVD Player","childCategoryUrl":"https://vin777.giving/beli-blu-ray-player/"},{"childCategoryName":"Media Player","childCategoryUrl":"https://vin777.giving/shop-media-player/"},{"childCategoryName":"Proyektor","childCategoryUrl":"https://vin777.giving/beli-proyektor-3/"}]
+                            [{"childCategoryName":""},{"childCategoryName":"TV LED","childCategoryUrl":"https://www.lazada.co.id/shop-televisi-digital/"},{"childCategoryName":"TV Smart","childCategoryUrl":"https://www.lazada.co.id/beli-smart-tv/"},{"childCategoryName":"Blu-Ray/DVD Player","childCategoryUrl":"https://www.lazada.co.id/beli-blu-ray-player/"},{"childCategoryName":"Media Player","childCategoryUrl":"https://www.lazada.co.id/shop-media-player/"},{"childCategoryName":"Proyektor","childCategoryUrl":"https://www.lazada.co.id/beli-proyektor-3/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_2">
-                <a href="https://vin777.giving/beli-perlengkapan-dapur/">
+                <a href="https://www.lazada.co.id/beli-perlengkapan-dapur/">
                     <span>Peralatan Dapur Kecil</span>
                 </a>
                         <script type="text" class="J_data_7_1">
-                            [{"childCategoryName":""},{"childCategoryName":"Rice Cooker","childCategoryUrl":"https://vin777.giving/beli-rice-cooker/"},{"childCategoryName":"Blender, Mixer & Grinder","childCategoryUrl":"https://vin777.giving/beli-blender-mixer-juicer/"},{"childCategoryName":"Kompor Gas","childCategoryUrl":"https://vin777.giving/beli-kompor-gas/"},{"childCategoryName":"Teko Listrik","childCategoryUrl":"https://vin777.giving/beli-ketel-elektrik-2/"},{"childCategoryName":"Juicer","childCategoryUrl":"https://vin777.giving/beli-juicer-pengekstrak-buah/"},{"childCategoryName":"Mesin Kopi","childCategoryUrl":"https://vin777.giving/beli-mesin-kopi/"},{"childCategoryName":"Air Fryer","childCategoryUrl":"https://vin777.giving/beli-air-fryers/"},{"childCategoryName":"Peralatan Dapur Lainnya","childCategoryUrl":"https://vin777.giving/shop-ska-lainnya/"}]
+                            [{"childCategoryName":""},{"childCategoryName":"Rice Cooker","childCategoryUrl":"https://www.lazada.co.id/beli-rice-cooker/"},{"childCategoryName":"Blender, Mixer & Grinder","childCategoryUrl":"https://www.lazada.co.id/beli-blender-mixer-juicer/"},{"childCategoryName":"Kompor Gas","childCategoryUrl":"https://www.lazada.co.id/beli-kompor-gas/"},{"childCategoryName":"Teko Listrik","childCategoryUrl":"https://www.lazada.co.id/beli-ketel-elektrik-2/"},{"childCategoryName":"Juicer","childCategoryUrl":"https://www.lazada.co.id/beli-juicer-pengekstrak-buah/"},{"childCategoryName":"Mesin Kopi","childCategoryUrl":"https://www.lazada.co.id/beli-mesin-kopi/"},{"childCategoryName":"Air Fryer","childCategoryUrl":"https://www.lazada.co.id/beli-air-fryers/"},{"childCategoryName":"Peralatan Dapur Lainnya","childCategoryUrl":"https://www.lazada.co.id/shop-ska-lainnya/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_3">
-                <a href="https://vin777.giving/shop-perlatan-besar/">
+                <a href="https://www.lazada.co.id/shop-perlatan-besar/">
                     <span>Elektronik Rumah Besar</span>
                 </a>
                         <script type="text" class="J_data_7_2">
-                            [{"childCategoryName":""},{"childCategoryName":"Mesin Cuci","childCategoryUrl":"https://vin777.giving/beli-mesin-cuci/"},{"childCategoryName":"Kulkas","childCategoryUrl":"https://vin777.giving/beli-lemari-es/"},{"childCategoryName":"Microwave","childCategoryUrl":"https://vin777.giving/beli-microwave/"},{"childCategoryName":"Oven","childCategoryUrl":"https://vin777.giving/beli-ovens/"},{"childCategoryName":"Dispenser Air Minum","childCategoryUrl":"https://vin777.giving/beli-dispenser-air/"},{"childCategoryName":"AC","childCategoryUrl":"https://vin777.giving/beli-ac/"},{"childCategoryName":"Pemanas Air","childCategoryUrl":"https://vin777.giving/beli-pemanas-air/"}]
+                            [{"childCategoryName":""},{"childCategoryName":"Mesin Cuci","childCategoryUrl":"https://www.lazada.co.id/beli-mesin-cuci/"},{"childCategoryName":"Kulkas","childCategoryUrl":"https://www.lazada.co.id/beli-lemari-es/"},{"childCategoryName":"Microwave","childCategoryUrl":"https://www.lazada.co.id/beli-microwave/"},{"childCategoryName":"Oven","childCategoryUrl":"https://www.lazada.co.id/beli-ovens/"},{"childCategoryName":"Dispenser Air Minum","childCategoryUrl":"https://www.lazada.co.id/beli-dispenser-air/"},{"childCategoryName":"AC","childCategoryUrl":"https://www.lazada.co.id/beli-ac/"},{"childCategoryName":"Pemanas Air","childCategoryUrl":"https://www.lazada.co.id/beli-pemanas-air/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_4">
-                <a href="https://vin777.giving/shop-pendingin-pembersih-udara-mini/">
+                <a href="https://www.lazada.co.id/shop-pendingin-pembersih-udara-mini/">
                     <span>Penyejuk dan Pembersih Udara</span>
                 </a>
                         <script type="text" class="J_data_7_3">
-                            [{"childCategoryName":""},{"childCategoryName":"Kipas Angin","childCategoryUrl":"https://vin777.giving/shop-kipas/"},{"childCategoryName":"Air Cooler","childCategoryUrl":"https://vin777.giving/beli-pendingin-udara-2/"},{"childCategoryName":"Air Purifier","childCategoryUrl":"https://vin777.giving/beli-penjernih-udara-2/"},{"childCategoryName":"Humidifier","childCategoryUrl":"https://vin777.giving/beli-humidifier/"},{"childCategoryName":"Dehumidifier","childCategoryUrl":"https://vin777.giving/beli-dehumidifier/"}]
+                            [{"childCategoryName":""},{"childCategoryName":"Kipas Angin","childCategoryUrl":"https://www.lazada.co.id/shop-kipas/"},{"childCategoryName":"Air Cooler","childCategoryUrl":"https://www.lazada.co.id/beli-pendingin-udara-2/"},{"childCategoryName":"Air Purifier","childCategoryUrl":"https://www.lazada.co.id/beli-penjernih-udara-2/"},{"childCategoryName":"Humidifier","childCategoryUrl":"https://www.lazada.co.id/beli-humidifier/"},{"childCategoryName":"Dehumidifier","childCategoryUrl":"https://www.lazada.co.id/beli-dehumidifier/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_5">
-                <a href="https://vin777.giving/beli-perawatan-lantai/">
+                <a href="https://www.lazada.co.id/beli-perawatan-lantai/">
                     <span>Penghisap Debu &amp; Perawatan Lantai</span>
                 </a>
                         <script type="text" class="J_data_7_4">
-                            [{"childCategoryName":""},{"childCategoryName":"Penghisap Debu","childCategoryUrl":"https://vin777.giving/shop-penyedot-debu/"},{"childCategoryName":"Penghisap Debu Robotik","childCategoryUrl":"https://vin777.giving/shop-penyedot-debu-robot/"},{"childCategoryName":"Penghisap Debu dengan Tongkat","childCategoryUrl":"https://vin777.giving/shop-penyedot-debu-tongkat/"}]
+                            [{"childCategoryName":""},{"childCategoryName":"Penghisap Debu","childCategoryUrl":"https://www.lazada.co.id/shop-penyedot-debu/"},{"childCategoryName":"Penghisap Debu Robotik","childCategoryUrl":"https://www.lazada.co.id/shop-penyedot-debu-robot/"},{"childCategoryName":"Penghisap Debu dengan Tongkat","childCategoryUrl":"https://www.lazada.co.id/shop-penyedot-debu-tongkat/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_6">
-                <a href="https://vin777.giving/shop-peralatan-perawatan-personal/">
+                <a href="https://www.lazada.co.id/shop-peralatan-perawatan-personal/">
                     <span>Alat Perawatan Diri</span>
                 </a>
                         <script type="text" class="J_data_7_5">
-                            [{"childCategoryName":""},{"childCategoryName":"Hair Dryer","childCategoryUrl":"https://vin777.giving/beli-pengering-rambut/"},{"childCategoryName":"Alat Penata Rambut","childCategoryUrl":"https://vin777.giving/beli-perlengkapan-styling-rambut/"},{"childCategoryName":"Shaver & Pencukur Kumis Jenggot","childCategoryUrl":"https://vin777.giving/beli-shaver/"},{"childCategoryName":"Sikat Gigi Elektrik","childCategoryUrl":"https://vin777.giving/beli-sikat-gigi-elektrik/"}]
+                            [{"childCategoryName":""},{"childCategoryName":"Hair Dryer","childCategoryUrl":"https://www.lazada.co.id/beli-pengering-rambut/"},{"childCategoryName":"Alat Penata Rambut","childCategoryUrl":"https://www.lazada.co.id/beli-perlengkapan-styling-rambut/"},{"childCategoryName":"Shaver & Pencukur Kumis Jenggot","childCategoryUrl":"https://www.lazada.co.id/beli-shaver/"},{"childCategoryName":"Sikat Gigi Elektrik","childCategoryUrl":"https://www.lazada.co.id/beli-sikat-gigi-elektrik/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_7">
-                <a href="https://vin777.giving/jual-aksesoris-elektronik-rumah-tangga/">
+                <a href="https://www.lazada.co.id/jual-aksesoris-elektronik-rumah-tangga/">
                     <span>Aksesoris &amp; Suku Cadang</span>
                 </a>
                         <script type="text" class="J_data_7_6">
-                            [{"childCategoryName":""},{"childCategoryName":"Suku Cadang & Aksesoris Peralatan Dapur Kecil","childCategoryUrl":"https://vin777.giving/beli-aksesoris-blender-dan-mixer/"},{"childCategoryName":"Suku Cadang & Aksesoris AC","childCategoryUrl":"https://vin777.giving/beli-suku-cadang-aksesoris-ac/"},{"childCategoryName":"Suku Cadang & Aksesoris Mesin Cuci","childCategoryUrl":"https://vin777.giving/beli-aksesoris-mesin-cuci-dan-pengering-pakaian/"},{"childCategoryName":"Suku Cadang & Filter Pengganti","childCategoryUrl":"https://vin777.giving/beli-filter-air/"},{"childCategoryName":"Suku Cadang & Filter Penghisap Debu","childCategoryUrl":"https://vin777.giving/beli-suku-kadang-aksesoris-vacuum-cleaner/"}]
+                            [{"childCategoryName":""},{"childCategoryName":"Suku Cadang & Aksesoris Peralatan Dapur Kecil","childCategoryUrl":"https://www.lazada.co.id/beli-aksesoris-blender-dan-mixer/"},{"childCategoryName":"Suku Cadang & Aksesoris AC","childCategoryUrl":"https://www.lazada.co.id/beli-suku-cadang-aksesoris-ac/"},{"childCategoryName":"Suku Cadang & Aksesoris Mesin Cuci","childCategoryUrl":"https://www.lazada.co.id/beli-aksesoris-mesin-cuci-dan-pengering-pakaian/"},{"childCategoryName":"Suku Cadang & Filter Pengganti","childCategoryUrl":"https://www.lazada.co.id/beli-filter-air/"},{"childCategoryName":"Suku Cadang & Filter Penghisap Debu","childCategoryUrl":"https://www.lazada.co.id/beli-suku-kadang-aksesoris-vacuum-cleaner/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_8">
-                <a href="https://vin777.giving/jual-aksesoris-televisi/">
+                <a href="https://www.lazada.co.id/jual-aksesoris-televisi/">
                     <span>Aksesoris Televisi</span>
                 </a>
                         <script type="text" class="J_data_7_7">
-                            [{"childCategoryName":""},{"childCategoryName":"TV Box","childCategoryUrl":"https://vin777.giving/jual-tv-receiver/"},{"childCategoryName":"Antena TV","childCategoryUrl":"https://vin777.giving/jual-antena-tv/"},{"childCategoryName":"Bracket Dinding TV & Pelindung","childCategoryUrl":"https://vin777.giving/jual-bracket-dinding-tv/"},{"childCategoryName":"Remote Control TV","childCategoryUrl":"https://vin777.giving/jual-remote-control-tv/"},{"childCategoryName":"Kabel TV","childCategoryUrl":"https://vin777.giving/jual-kabel-tv/"},{"childCategoryName":"Adaptor TV","childCategoryUrl":"https://vin777.giving/jual-adaptor-tv/"},{"childCategoryName":"Kacamata 3D TV","childCategoryUrl":"https://vin777.giving/jual-kacamata-3d-tv/"}]
+                            [{"childCategoryName":""},{"childCategoryName":"TV Box","childCategoryUrl":"https://www.lazada.co.id/jual-tv-receiver/"},{"childCategoryName":"Antena TV","childCategoryUrl":"https://www.lazada.co.id/jual-antena-tv/"},{"childCategoryName":"Bracket Dinding TV & Pelindung","childCategoryUrl":"https://www.lazada.co.id/jual-bracket-dinding-tv/"},{"childCategoryName":"Remote Control TV","childCategoryUrl":"https://www.lazada.co.id/jual-remote-control-tv/"},{"childCategoryName":"Kabel TV","childCategoryUrl":"https://www.lazada.co.id/jual-kabel-tv/"},{"childCategoryName":"Adaptor TV","childCategoryUrl":"https://www.lazada.co.id/jual-adaptor-tv/"},{"childCategoryName":"Kacamata 3D TV","childCategoryUrl":"https://www.lazada.co.id/jual-kacamata-3d-tv/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_9">
-                <a href="https://vin777.giving/jual-home-entertainment/">
+                <a href="https://www.lazada.co.id/jual-home-entertainment/">
                     <span>Home Entertainment</span>
                 </a>
                         <script type="text" class="J_data_7_8">
-                            [{"childCategoryName":""},{"childCategoryName":"Soundbar","childCategoryUrl":"https://vin777.giving/jual-soundbar/"},{"childCategoryName":"Sistem Karaoke","childCategoryUrl":"https://vin777.giving/jual-sistem-karaoke/"},{"childCategoryName":"Sistem Hi-Fi","childCategoryUrl":"https://vin777.giving/jual-sistem-hi-fi/"},{"childCategoryName":"Sound System Panggung","childCategoryUrl":"https://vin777.giving/sound-system-panggung/"},{"childCategoryName":"Player Portabel","childCategoryUrl":"https://vin777.giving/beli-audio-player/"}]
+                            [{"childCategoryName":""},{"childCategoryName":"Soundbar","childCategoryUrl":"https://www.lazada.co.id/jual-soundbar/"},{"childCategoryName":"Sistem Karaoke","childCategoryUrl":"https://www.lazada.co.id/jual-sistem-karaoke/"},{"childCategoryName":"Sistem Hi-Fi","childCategoryUrl":"https://www.lazada.co.id/jual-sistem-hi-fi/"},{"childCategoryName":"Sound System Panggung","childCategoryUrl":"https://www.lazada.co.id/sound-system-panggung/"},{"childCategoryName":"Player Portabel","childCategoryUrl":"https://www.lazada.co.id/beli-audio-player/"}]
                         </script>
             </li>
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No9" data-spm="cate_9">
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_1">
-                <a href="https://vin777.giving/beli-dekorasi-rumah/">
+                <a href="https://www.lazada.co.id/beli-dekorasi-rumah/">
                     <span>Dekorasi Rumah</span>
                 </a>
                         <script type="text" class="J_data_8_0">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Stiker Dinding","childCategoryUrl":"https://vin777.giving/beli-stiker-dinding/"},{"childCategoryName":"Gorden","childCategoryUrl":"https://vin777.giving/gorden-dan-kerai/"},{"childCategoryName":"Tikar & Karpet","childCategoryUrl":"https://vin777.giving/beli-tikar-karpet/"},{"childCategoryName":"Hiasan Dinding","childCategoryUrl":"https://vin777.giving/beli-hiasan-dinding/"},{"childCategoryName":"Dekorasi Aksen","childCategoryUrl":"https://vin777.giving/shop-aksesoris-dekor/"},{"childCategoryName":"Bunga & Tanaman Artifisial","childCategoryUrl":"https://vin777.giving/beli-bunga-tanaman-artifisial/"},{"childCategoryName":"Jam","childCategoryUrl":"https://vin777.giving/beli-jam/"},{"childCategoryName":"Dalaman & Sarung Bantal","childCategoryUrl":"https://vin777.giving/shop-dalaman-sarung-bantal/"},{"childCategoryName":"Bingkai","childCategoryUrl":"https://vin777.giving/beli-bingkai/"},{"childCategoryName":"Wewangian Rumah","childCategoryUrl":"https://vin777.giving/beli-wewangian-rumah/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Stiker Dinding","childCategoryUrl":"https://www.lazada.co.id/beli-stiker-dinding/"},{"childCategoryName":"Gorden","childCategoryUrl":"https://www.lazada.co.id/gorden-dan-kerai/"},{"childCategoryName":"Tikar & Karpet","childCategoryUrl":"https://www.lazada.co.id/beli-tikar-karpet/"},{"childCategoryName":"Hiasan Dinding","childCategoryUrl":"https://www.lazada.co.id/beli-hiasan-dinding/"},{"childCategoryName":"Dekorasi Aksen","childCategoryUrl":"https://www.lazada.co.id/shop-aksesoris-dekor/"},{"childCategoryName":"Bunga & Tanaman Artifisial","childCategoryUrl":"https://www.lazada.co.id/beli-bunga-tanaman-artifisial/"},{"childCategoryName":"Jam","childCategoryUrl":"https://www.lazada.co.id/beli-jam/"},{"childCategoryName":"Dalaman & Sarung Bantal","childCategoryUrl":"https://www.lazada.co.id/shop-dalaman-sarung-bantal/"},{"childCategoryName":"Bingkai","childCategoryUrl":"https://www.lazada.co.id/beli-bingkai/"},{"childCategoryName":"Wewangian Rumah","childCategoryUrl":"https://www.lazada.co.id/beli-wewangian-rumah/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_2">
-                <a href="https://vin777.giving/beli-furnitur/">
+                <a href="https://www.lazada.co.id/beli-furnitur/">
                     <span>Furnitur</span>
                 </a>
                         <script type="text" class="J_data_8_1">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Tempat Penyimpanan","childCategoryUrl":"https://vin777.giving/beli-tempat-penyimpanan/"},{"childCategoryName":"Lemari Pakaian","childCategoryUrl":"https://vin777.giving/beli-lemari-pakaian/"},{"childCategoryName":"Kasur","childCategoryUrl":"https://vin777.giving/beli-kasur/"},{"childCategoryName":"Kamar Tidur","childCategoryUrl":"https://vin777.giving/beli-furnitur-kamar-tidur/"},{"childCategoryName":"Rak","childCategoryUrl":"https://vin777.giving/rak/"},{"childCategoryName":"Rak TV dan Media","childCategoryUrl":"https://vin777.giving/tempat-penyimpanan-media-dan-tv/"},{"childCategoryName":"Sofa","childCategoryUrl":"https://vin777.giving/beli-sofa/"},{"childCategoryName":"Ruang Tamu","childCategoryUrl":"https://vin777.giving/beli-furnitur-ruang-tamu/"},{"childCategoryName":"Ruang Kerja Rumah","childCategoryUrl":"https://vin777.giving/beli-furnitur-ruang-kerja-rumah/"},{"childCategoryName":"Dapur & Ruang Makan","childCategoryUrl":"https://vin777.giving/beli-furnitur-dapur-ruang-makan/"},{"childCategoryName":"Ruang Bayi","childCategoryUrl":"https://vin777.giving/beli-furnitur-ruang-bayi/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Tempat Penyimpanan","childCategoryUrl":"https://www.lazada.co.id/beli-tempat-penyimpanan/"},{"childCategoryName":"Lemari Pakaian","childCategoryUrl":"https://www.lazada.co.id/beli-lemari-pakaian/"},{"childCategoryName":"Kasur","childCategoryUrl":"https://www.lazada.co.id/beli-kasur/"},{"childCategoryName":"Kamar Tidur","childCategoryUrl":"https://www.lazada.co.id/beli-furnitur-kamar-tidur/"},{"childCategoryName":"Rak","childCategoryUrl":"https://www.lazada.co.id/rak/"},{"childCategoryName":"Rak TV dan Media","childCategoryUrl":"https://www.lazada.co.id/tempat-penyimpanan-media-dan-tv/"},{"childCategoryName":"Sofa","childCategoryUrl":"https://www.lazada.co.id/beli-sofa/"},{"childCategoryName":"Ruang Tamu","childCategoryUrl":"https://www.lazada.co.id/beli-furnitur-ruang-tamu/"},{"childCategoryName":"Ruang Kerja Rumah","childCategoryUrl":"https://www.lazada.co.id/beli-furnitur-ruang-kerja-rumah/"},{"childCategoryName":"Dapur & Ruang Makan","childCategoryUrl":"https://www.lazada.co.id/beli-furnitur-dapur-ruang-makan/"},{"childCategoryName":"Ruang Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-furnitur-ruang-bayi/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_3">
-                <a href="https://vin777.giving/beli-peralatan-ranjang/">
+                <a href="https://www.lazada.co.id/beli-peralatan-ranjang/">
                     <span>Kelengkapan Tempat Tidur</span>
                 </a>
                         <script type="text" class="J_data_8_2">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Seprai","childCategoryUrl":"https://vin777.giving/seprei-ranjang/"},{"childCategoryName":"Seprai Set","childCategoryUrl":"https://vin777.giving/perangkat-seprei/"},{"childCategoryName":"Selimut","childCategoryUrl":"https://vin777.giving/selimut-dan-selimut-panjang/"},{"childCategoryName":"Bantal","childCategoryUrl":"https://vin777.giving/beli-bantal/"},{"childCategoryName":"Aksesoris Tempat Tidur","childCategoryUrl":"https://vin777.giving/beli-aksesoris-ranjang/"},{"childCategoryName":"Sarung Bantal","childCategoryUrl":"https://vin777.giving/beli-sarung-bantal/"},{"childCategoryName":"Selimut Tebal","childCategoryUrl":"https://vin777.giving/seprei-dan-selimut-tebal/"},{"childCategoryName":"Pelindung Kasur","childCategoryUrl":"https://vin777.giving/kasur-pelindung/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Seprai","childCategoryUrl":"https://www.lazada.co.id/seprei-ranjang/"},{"childCategoryName":"Seprai Set","childCategoryUrl":"https://www.lazada.co.id/perangkat-seprei/"},{"childCategoryName":"Selimut","childCategoryUrl":"https://www.lazada.co.id/selimut-dan-selimut-panjang/"},{"childCategoryName":"Bantal","childCategoryUrl":"https://www.lazada.co.id/beli-bantal/"},{"childCategoryName":"Aksesoris Tempat Tidur","childCategoryUrl":"https://www.lazada.co.id/beli-aksesoris-ranjang/"},{"childCategoryName":"Sarung Bantal","childCategoryUrl":"https://www.lazada.co.id/beli-sarung-bantal/"},{"childCategoryName":"Selimut Tebal","childCategoryUrl":"https://www.lazada.co.id/seprei-dan-selimut-tebal/"},{"childCategoryName":"Pelindung Kasur","childCategoryUrl":"https://www.lazada.co.id/kasur-pelindung/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_4">
-                <a href="https://vin777.giving/penerangan/">
+                <a href="https://www.lazada.co.id/penerangan/">
                     <span>Penerangan</span>
                 </a>
                         <script type="text" class="J_data_8_3">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Bohlam Lampu","childCategoryUrl":"https://vin777.giving/shop-bohlam-lampu/"},{"childCategoryName":"Lampu Khusus","childCategoryUrl":"https://vin777.giving/beli-lampu-khusus/"},{"childCategoryName":"Lampu Langit-langit","childCategoryUrl":"https://vin777.giving/beli-lampu-langit-langit-hias/"},{"childCategoryName":"Penerangan Outdoor","childCategoryUrl":"https://vin777.giving/beli-penerangan-outdoor/"},{"childCategoryName":"Lampu Dinding & Tempel","childCategoryUrl":"https://vin777.giving/beli-lampu-dinding-tempel/"},{"childCategoryName":"Lampu Meja","childCategoryUrl":"https://vin777.giving/beli-lampu-meja/"},{"childCategoryName":"Komponen Lampu","childCategoryUrl":"https://vin777.giving/beli-lampu-komponen/"},{"childCategoryName":"Kap Lampu","childCategoryUrl":"https://vin777.giving/kap-lampu/"},{"childCategoryName":"Lampu Lantai","childCategoryUrl":"https://vin777.giving/beli-lampu-lantai/"},{"childCategoryName":"Lampu Rechargeable & Senter","childCategoryUrl":"https://vin777.giving/beli-senter/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Bohlam Lampu","childCategoryUrl":"https://www.lazada.co.id/shop-bohlam-lampu/"},{"childCategoryName":"Lampu Khusus","childCategoryUrl":"https://www.lazada.co.id/beli-lampu-khusus/"},{"childCategoryName":"Lampu Langit-langit","childCategoryUrl":"https://www.lazada.co.id/beli-lampu-langit-langit-hias/"},{"childCategoryName":"Penerangan Outdoor","childCategoryUrl":"https://www.lazada.co.id/beli-penerangan-outdoor/"},{"childCategoryName":"Lampu Dinding & Tempel","childCategoryUrl":"https://www.lazada.co.id/beli-lampu-dinding-tempel/"},{"childCategoryName":"Lampu Meja","childCategoryUrl":"https://www.lazada.co.id/beli-lampu-meja/"},{"childCategoryName":"Komponen Lampu","childCategoryUrl":"https://www.lazada.co.id/beli-lampu-komponen/"},{"childCategoryName":"Kap Lampu","childCategoryUrl":"https://www.lazada.co.id/kap-lampu/"},{"childCategoryName":"Lampu Lantai","childCategoryUrl":"https://www.lazada.co.id/beli-lampu-lantai/"},{"childCategoryName":"Lampu Rechargeable & Senter","childCategoryUrl":"https://www.lazada.co.id/beli-senter/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_5">
-                <a href="https://vin777.giving/beli-peralatan-mandi/">
+                <a href="https://www.lazada.co.id/beli-peralatan-mandi/">
                     <span>Peralatan Mandi</span>
                 </a>
                         <script type="text" class="J_data_8_4">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Handuk Mandi","childCategoryUrl":"https://vin777.giving/beli-handuk-mandi/"},{"childCategoryName":"Timbangan Kamar Mandi","childCategoryUrl":"https://vin777.giving/beli-timbangan-kamar-mandi/"},{"childCategoryName":"Wadah Penyimpanan Kamar Mandi","childCategoryUrl":"https://vin777.giving/beli-tempat-penyimpan-kamar-mandi/"},{"childCategoryName":"Rak Kamar Mandi","childCategoryUrl":"https://vin777.giving/jual-laci-kamar-mandi/"},{"childCategoryName":"Gantungan Handuk & Penghangat","childCategoryUrl":"https://vin777.giving/gantungan-handuk-dan-penghangat/"},{"childCategoryName":"Tempat & Gantungan Shower","childCategoryUrl":"https://vin777.giving/tempat-dan-gantungan-shower/"},{"childCategoryName":"Keset Kamar Mandi","childCategoryUrl":"https://vin777.giving/beli-alas-mandi/"},{"childCategoryName":"Jubah & Kimono Mandi","childCategoryUrl":"https://vin777.giving/beli-jubah-mandi/"},{"childCategoryName":"Tirai Shower","childCategoryUrl":"https://vin777.giving/shop-tirai-mandi-aksesoris/"},{"childCategoryName":"Cermin Kamar Mandi","childCategoryUrl":"https://vin777.giving/beli-cermin-kamar-mandi/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Handuk Mandi","childCategoryUrl":"https://www.lazada.co.id/beli-handuk-mandi/"},{"childCategoryName":"Timbangan Kamar Mandi","childCategoryUrl":"https://www.lazada.co.id/beli-timbangan-kamar-mandi/"},{"childCategoryName":"Wadah Penyimpanan Kamar Mandi","childCategoryUrl":"https://www.lazada.co.id/beli-tempat-penyimpan-kamar-mandi/"},{"childCategoryName":"Rak Kamar Mandi","childCategoryUrl":"https://www.lazada.co.id/jual-laci-kamar-mandi/"},{"childCategoryName":"Gantungan Handuk & Penghangat","childCategoryUrl":"https://www.lazada.co.id/gantungan-handuk-dan-penghangat/"},{"childCategoryName":"Tempat & Gantungan Shower","childCategoryUrl":"https://www.lazada.co.id/tempat-dan-gantungan-shower/"},{"childCategoryName":"Keset Kamar Mandi","childCategoryUrl":"https://www.lazada.co.id/beli-alas-mandi/"},{"childCategoryName":"Jubah & Kimono Mandi","childCategoryUrl":"https://www.lazada.co.id/beli-jubah-mandi/"},{"childCategoryName":"Tirai Shower","childCategoryUrl":"https://www.lazada.co.id/shop-tirai-mandi-aksesoris/"},{"childCategoryName":"Cermin Kamar Mandi","childCategoryUrl":"https://www.lazada.co.id/beli-cermin-kamar-mandi/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_6">
-                <a href="https://vin777.giving/beli-perlengkapan-dapur-makan/">
+                <a href="https://www.lazada.co.id/beli-perlengkapan-dapur-makan/">
                     <span>Alat Dapur</span>
                 </a>
                         <script type="text" class="J_data_8_5">
-                            [{"childCategoryName":"Botol minum","childCategoryUrl":"https://vin777.giving/botol-minum/"},{"childCategoryName":"Tempat Penyimpanan Makanan","childCategoryUrl":"https://vin777.giving/beli-wadah-penyimpan-makanan/"},{"childCategoryName":"Alas Meja & Aksesoris Dapur","childCategoryUrl":"https://vin777.giving/beli-alas-meja-aksesoris-dapur/"},{"childCategoryName":"Kopi & Teh","childCategoryUrl":"https://vin777.giving/beli-kopi-dan-teh/"},{"childCategoryName":"Rak Piring & Aksesoris Wastafel","childCategoryUrl":"https://vin777.giving/beli-rak-piring-aksesoris-bak/"},{"childCategoryName":"Panci & Wajan","childCategoryUrl":"https://vin777.giving/beli-peralatan-masak/"},{"childCategoryName":"Perangkat Minum","childCategoryUrl":"https://vin777.giving/beli-perangkat-minum-gelas/"},{"childCategoryName":"Perangkat Makan","childCategoryUrl":"https://vin777.giving/beli-peralatan-penyajian-makanan/"},{"childCategoryName":"Perangkat Pemanggang","childCategoryUrl":"https://vin777.giving/beli-perangkat-pemanggang/"},{"childCategoryName":"Perangkat Penyajian","childCategoryUrl":"https://vin777.giving/beli-perangkat-penyaji/"},{"childCategoryName":"Pisau & Aksesoris","childCategoryUrl":"https://vin777.giving/beli-pisau-dan-aksesoris/"},{"childCategoryName":"Alat Dapur Lainnya","childCategoryUrl":"https://vin777.giving/beli-peralatan-dapur/"}]
+                            [{"childCategoryName":"Botol minum","childCategoryUrl":"https://www.lazada.co.id/botol-minum/"},{"childCategoryName":"Tempat Penyimpanan Makanan","childCategoryUrl":"https://www.lazada.co.id/beli-wadah-penyimpan-makanan/"},{"childCategoryName":"Alas Meja & Aksesoris Dapur","childCategoryUrl":"https://www.lazada.co.id/beli-alas-meja-aksesoris-dapur/"},{"childCategoryName":"Kopi & Teh","childCategoryUrl":"https://www.lazada.co.id/beli-kopi-dan-teh/"},{"childCategoryName":"Rak Piring & Aksesoris Wastafel","childCategoryUrl":"https://www.lazada.co.id/beli-rak-piring-aksesoris-bak/"},{"childCategoryName":"Panci & Wajan","childCategoryUrl":"https://www.lazada.co.id/beli-peralatan-masak/"},{"childCategoryName":"Perangkat Minum","childCategoryUrl":"https://www.lazada.co.id/beli-perangkat-minum-gelas/"},{"childCategoryName":"Perangkat Makan","childCategoryUrl":"https://www.lazada.co.id/beli-peralatan-penyajian-makanan/"},{"childCategoryName":"Perangkat Pemanggang","childCategoryUrl":"https://www.lazada.co.id/beli-perangkat-pemanggang/"},{"childCategoryName":"Perangkat Penyajian","childCategoryUrl":"https://www.lazada.co.id/beli-perangkat-penyaji/"},{"childCategoryName":"Pisau & Aksesoris","childCategoryUrl":"https://www.lazada.co.id/beli-pisau-dan-aksesoris/"},{"childCategoryName":"Alat Dapur Lainnya","childCategoryUrl":"https://www.lazada.co.id/beli-peralatan-dapur/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_7">
-                <a href="https://vin777.giving/beli-binatu-kebersihan/">
+                <a href="https://www.lazada.co.id/beli-binatu-kebersihan/">
                     <span>Binatu &amp; Alat Kebersihan</span>
                 </a>
                         <script type="text" class="J_data_8_6">
-                            [{"childCategoryName":"Gantungan Baju","childCategoryUrl":"https://vin777.giving/gantungan-baju/"},{"childCategoryName":"Keranjang Baju","childCategoryUrl":"https://vin777.giving/keranjang-cucian/"},{"childCategoryName":"Jemuran Pakaian","childCategoryUrl":"https://vin777.giving/rak-pengering/"},{"childCategoryName":"Alat Binatu & Setrika","childCategoryUrl":"https://vin777.giving/beli-alat-binatu-setrika/"},{"childCategoryName":"Meja Setrika","childCategoryUrl":"https://vin777.giving/papan-setrika/"},{"childCategoryName":"Produk Kebersihan","childCategoryUrl":"https://vin777.giving/beli-makanan-minuman-pembersihan/"},{"childCategoryName":"Sapu & Alat Pel","childCategoryUrl":"https://vin777.giving/beli-sapu-pel/"},{"childCategoryName":"Lap Kain Penghilang Debu","childCategoryUrl":"https://vin777.giving/shop-Sapu-Sikat-Kemoceng/"},{"childCategoryName":"Sikat Pembersih","childCategoryUrl":"https://vin777.giving/beli-makanan-minuman-aksesoris-pembersih/"},{"childCategoryName":"Tempat Sampah","childCategoryUrl":"https://vin777.giving/tempat-sampah/"}]
+                            [{"childCategoryName":"Gantungan Baju","childCategoryUrl":"https://www.lazada.co.id/gantungan-baju/"},{"childCategoryName":"Keranjang Baju","childCategoryUrl":"https://www.lazada.co.id/keranjang-cucian/"},{"childCategoryName":"Jemuran Pakaian","childCategoryUrl":"https://www.lazada.co.id/rak-pengering/"},{"childCategoryName":"Alat Binatu & Setrika","childCategoryUrl":"https://www.lazada.co.id/beli-alat-binatu-setrika/"},{"childCategoryName":"Meja Setrika","childCategoryUrl":"https://www.lazada.co.id/papan-setrika/"},{"childCategoryName":"Produk Kebersihan","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-minuman-pembersihan/"},{"childCategoryName":"Sapu & Alat Pel","childCategoryUrl":"https://www.lazada.co.id/beli-sapu-pel/"},{"childCategoryName":"Lap Kain Penghilang Debu","childCategoryUrl":"https://www.lazada.co.id/shop-Sapu-Sikat-Kemoceng/"},{"childCategoryName":"Sikat Pembersih","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-minuman-aksesoris-pembersih/"},{"childCategoryName":"Tempat Sampah","childCategoryUrl":"https://www.lazada.co.id/tempat-sampah/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_8">
-                <a href="https://vin777.giving/beli-perawatan-rumah/">
+                <a href="https://www.lazada.co.id/beli-perawatan-rumah/">
                     <span>Perkakas &amp; Perbaikan Rumah</span>
                 </a>
                         <script type="text" class="J_data_8_7">
-                            [{"childCategoryName":"Alat Penyimpanan & Rak","childCategoryUrl":"https://vin777.giving/beli-garasi-penyimpanan-alat-alat/"},{"childCategoryName":"Kabel & Perlengkapan Elektrik","childCategoryUrl":"https://vin777.giving/beli-peralatan-elektrik/"},{"childCategoryName":"Pengecatan & Dekorasi","childCategoryUrl":"https://vin777.giving/beli-pengecatan-dekorasi/"},{"childCategoryName":"Perkakas","childCategoryUrl":"https://vin777.giving/beli-perkakas/"},{"childCategoryName":"Perkakas Listrik","childCategoryUrl":"https://vin777.giving/jual-perkakas-listrik/"},{"childCategoryName":"Perkakas Portabel","childCategoryUrl":"https://vin777.giving/beli-peralatan-genggam/"},{"childCategoryName":"Pipa Saluran Air & Kelengkapan","childCategoryUrl":"https://vin777.giving/beli-ledeng/"},{"childCategoryName":"Senter","childCategoryUrl":"https://vin777.giving/beli-senter"},{"childCategoryName":"Tangga & Kursi Peninggi","childCategoryUrl":"https://vin777.giving/beli-tangga-kursi-peninggi/"},{"childCategoryName":"perlengkapan keamanan","childCategoryUrl":"https://vin777.giving/lampu-penerangan-tempat-kerja/"}]
+                            [{"childCategoryName":"Alat Penyimpanan & Rak","childCategoryUrl":"https://www.lazada.co.id/beli-garasi-penyimpanan-alat-alat/"},{"childCategoryName":"Kabel & Perlengkapan Elektrik","childCategoryUrl":"https://www.lazada.co.id/beli-peralatan-elektrik/"},{"childCategoryName":"Pengecatan & Dekorasi","childCategoryUrl":"https://www.lazada.co.id/beli-pengecatan-dekorasi/"},{"childCategoryName":"Perkakas","childCategoryUrl":"https://www.lazada.co.id/beli-perkakas/"},{"childCategoryName":"Perkakas Listrik","childCategoryUrl":"https://www.lazada.co.id/jual-perkakas-listrik/"},{"childCategoryName":"Perkakas Portabel","childCategoryUrl":"https://www.lazada.co.id/beli-peralatan-genggam/"},{"childCategoryName":"Pipa Saluran Air & Kelengkapan","childCategoryUrl":"https://www.lazada.co.id/beli-ledeng/"},{"childCategoryName":"Senter","childCategoryUrl":"https://www.lazada.co.id/beli-senter"},{"childCategoryName":"Tangga & Kursi Peninggi","childCategoryUrl":"https://www.lazada.co.id/beli-tangga-kursi-peninggi/"},{"childCategoryName":"perlengkapan keamanan","childCategoryUrl":"https://www.lazada.co.id/lampu-penerangan-tempat-kerja/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_9">
-                <a href="https://vin777.giving/Kebun &amp; Luar Ruangan/">
+                <a href="https://www.lazada.co.id/Kebun &amp; Luar Ruangan/">
                     <span>Kebun &amp; Luar Ruangan</span>
                 </a>
                         <script type="text" class="J_data_8_8">
-                            [{"childCategoryName":"Peralatan Listrik Taman & Kebun","childCategoryUrl":"https://vin777.giving/beli-peralatan-listrik-taman-luar-ruangan/"},{"childCategoryName":"Peralatan Kebun","childCategoryUrl":"https://vin777.giving/beli-peralatan-kebun/"},{"childCategoryName":"Sistem Pengairan","childCategoryUrl":"https://vin777.giving/beli-sistem-pengairan/"},{"childCategoryName":"Bibit & Biji Bijian","childCategoryUrl":"https://vin777.giving/beli-tumbuhan-biji-bijian/"},{"childCategoryName":"Pembasmi Hama","childCategoryUrl":"https://vin777.giving/beli-pembasmi-rumput-liar-hama/"},{"childCategoryName":"Aksesoris Genset","childCategoryUrl":"https://vin777.giving/beli-aksesoris-peralatan-listrik-luar-ruangan/"},{"childCategoryName":"Genset","childCategoryUrl":"https://vin777.giving/shop-generator/"},{"childCategoryName":"Pemanggang","childCategoryUrl":"https://vin777.giving/pemanggang-dan-penyajian-masakan-outdoor/"},{"childCategoryName":"Alat Pembunuh Serangga","childCategoryUrl":"https://vin777.giving/alat-pembunuh-serangga/"},{"childCategoryName":"Aksesoris Luar Ruangan","childCategoryUrl":"https://vin777.giving/beli-luar-ruangan/"},{"childCategoryName":"Taman & Kebun","childCategoryUrl":"https://vin777.giving/perlengkapan-taman-dan-kebun/"},{"childCategoryName":"","childCategoryUrl":""}]
+                            [{"childCategoryName":"Peralatan Listrik Taman & Kebun","childCategoryUrl":"https://www.lazada.co.id/beli-peralatan-listrik-taman-luar-ruangan/"},{"childCategoryName":"Peralatan Kebun","childCategoryUrl":"https://www.lazada.co.id/beli-peralatan-kebun/"},{"childCategoryName":"Sistem Pengairan","childCategoryUrl":"https://www.lazada.co.id/beli-sistem-pengairan/"},{"childCategoryName":"Bibit & Biji Bijian","childCategoryUrl":"https://www.lazada.co.id/beli-tumbuhan-biji-bijian/"},{"childCategoryName":"Pembasmi Hama","childCategoryUrl":"https://www.lazada.co.id/beli-pembasmi-rumput-liar-hama/"},{"childCategoryName":"Aksesoris Genset","childCategoryUrl":"https://www.lazada.co.id/beli-aksesoris-peralatan-listrik-luar-ruangan/"},{"childCategoryName":"Genset","childCategoryUrl":"https://www.lazada.co.id/shop-generator/"},{"childCategoryName":"Pemanggang","childCategoryUrl":"https://www.lazada.co.id/pemanggang-dan-penyajian-masakan-outdoor/"},{"childCategoryName":"Alat Pembunuh Serangga","childCategoryUrl":"https://www.lazada.co.id/alat-pembunuh-serangga/"},{"childCategoryName":"Aksesoris Luar Ruangan","childCategoryUrl":"https://www.lazada.co.id/beli-luar-ruangan/"},{"childCategoryName":"Taman & Kebun","childCategoryUrl":"https://www.lazada.co.id/perlengkapan-taman-dan-kebun/"},{"childCategoryName":"","childCategoryUrl":""}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_10">
-                <a href="https://vin777.giving/beli-alat-tulis-kerajinan/">
+                <a href="https://www.lazada.co.id/beli-alat-tulis-kerajinan/">
                     <span>Alat Tulis &amp; Kerajinan</span>
                 </a>
                         <script type="text" class="J_data_8_9">
-                            [{"childCategoryName":"Peralatan Kesenian dan Kerajinan","childCategoryUrl":"https://vin777.giving/beli-peralatan-seni/"},{"childCategoryName":"Peralatan Mewarnai dan Copic","childCategoryUrl":"https://vin777.giving/beli-alat-mewarnai-copic/"},{"childCategoryName":"Kerajinan Umum","childCategoryUrl":"https://vin777.giving/beli-alat-kerajinan-umum/"},{"childCategoryName":"Pernak Pernik Hadiah dan Kado","childCategoryUrl":"https://vin777.giving/beli-pernak-pernik-hadiah/"},{"childCategoryName":"Tas Belanja","childCategoryUrl":"https://vin777.giving/beli-tas-belanjaan/"},{"childCategoryName":"Buku Catatan","childCategoryUrl":"https://vin777.giving/buku-catatan/"},{"childCategoryName":"Kertas Komputer","childCategoryUrl":"https://vin777.giving/beli-kertas-komputer/"},{"childCategoryName":"Perlengkapan Sekolah","childCategoryUrl":"https://vin777.giving/beli-perlengkapan-sekolah/"},{"childCategoryName":"Perlengkapan Meja Kerja","childCategoryUrl":"https://vin777.giving/beli-wadah-alat-alat-kantor/"},{"childCategoryName":"Perlengkapan Jahit","childCategoryUrl":"https://vin777.giving/beli-bahan-bahan-kerajinan-tangan/"},{"childCategoryName":"Pulpen","childCategoryUrl":"https://vin777.giving/beli-pulpen/"},{"childCategoryName":"Pensil","childCategoryUrl":"https://vin777.giving/beli-pensil-2/"}]
+                            [{"childCategoryName":"Peralatan Kesenian dan Kerajinan","childCategoryUrl":"https://www.lazada.co.id/beli-peralatan-seni/"},{"childCategoryName":"Peralatan Mewarnai dan Copic","childCategoryUrl":"https://www.lazada.co.id/beli-alat-mewarnai-copic/"},{"childCategoryName":"Kerajinan Umum","childCategoryUrl":"https://www.lazada.co.id/beli-alat-kerajinan-umum/"},{"childCategoryName":"Pernak Pernik Hadiah dan Kado","childCategoryUrl":"https://www.lazada.co.id/beli-pernak-pernik-hadiah/"},{"childCategoryName":"Tas Belanja","childCategoryUrl":"https://www.lazada.co.id/beli-tas-belanjaan/"},{"childCategoryName":"Buku Catatan","childCategoryUrl":"https://www.lazada.co.id/buku-catatan/"},{"childCategoryName":"Kertas Komputer","childCategoryUrl":"https://www.lazada.co.id/beli-kertas-komputer/"},{"childCategoryName":"Perlengkapan Sekolah","childCategoryUrl":"https://www.lazada.co.id/beli-perlengkapan-sekolah/"},{"childCategoryName":"Perlengkapan Meja Kerja","childCategoryUrl":"https://www.lazada.co.id/beli-wadah-alat-alat-kantor/"},{"childCategoryName":"Perlengkapan Jahit","childCategoryUrl":"https://www.lazada.co.id/beli-bahan-bahan-kerajinan-tangan/"},{"childCategoryName":"Pulpen","childCategoryUrl":"https://www.lazada.co.id/beli-pulpen/"},{"childCategoryName":"Pensil","childCategoryUrl":"https://www.lazada.co.id/beli-pensil-2/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_9_11">
-                <a href="https://vin777.giving/beli-media-musik-dan-buku/">
+                <a href="https://www.lazada.co.id/beli-media-musik-dan-buku/">
                     <span>Media, Musik &amp; Buku</span>
                 </a>
                         <script type="text" class="J_data_8_10">
-                            [{"childCategoryName":"Instrumen Musik","childCategoryUrl":"https://vin777.giving/instrumen-musik/"},{"childCategoryName":"Buku","childCategoryUrl":"https://vin777.giving/buku/"},{"childCategoryName":"Musik","childCategoryUrl":"https://vin777.giving/lagu/"},{"childCategoryName":"Majalah","childCategoryUrl":"https://vin777.giving/majalah/"},{"childCategoryName":"Film","childCategoryUrl":"https://vin777.giving/film/"}]
+                            [{"childCategoryName":"Instrumen Musik","childCategoryUrl":"https://www.lazada.co.id/instrumen-musik/"},{"childCategoryName":"Buku","childCategoryUrl":"https://www.lazada.co.id/buku/"},{"childCategoryName":"Musik","childCategoryUrl":"https://www.lazada.co.id/lagu/"},{"childCategoryName":"Majalah","childCategoryUrl":"https://www.lazada.co.id/majalah/"},{"childCategoryName":"Film","childCategoryUrl":"https://www.lazada.co.id/film/"}]
                         </script>
             </li>
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No10" data-spm="cate_10">
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_1">
-                <a href="https://vin777.giving/beli-minuman/">
+                <a href="https://www.lazada.co.id/beli-minuman/">
                     <span>Minuman</span>
                 </a>
                         <script type="text" class="J_data_9_0">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"UHT, Susu & Susu Bubuk","childCategoryUrl":"https://vin777.giving/beli-makanan-minuman-uht-milk-milk-powder/"},{"childCategoryName":"Kopi","childCategoryUrl":"https://vin777.giving/beli-kopi/"},{"childCategoryName":"Minuman Serbuk","childCategoryUrl":"https://vin777.giving/beli-minuman-serbuk/"},{"childCategoryName":"Minuman Berenergi","childCategoryUrl":"https://vin777.giving/shop-Minuman-Olahraga-Energi/"},{"childCategoryName":"Teh","childCategoryUrl":"https://vin777.giving/beli-teh/"},{"childCategoryName":"Chocolate, Malt & Hot Cereals","childCategoryUrl":"https://vin777.giving/coklat-panas/"},{"childCategoryName":"Air Mineral","childCategoryUrl":"https://vin777.giving/beli-makanan-minuman-air/"},{"childCategoryName":"Minuman Berkarbonasi","childCategoryUrl":"https://vin777.giving/beli-makanan-minuman-minuman-ringan/"},{"childCategoryName":"Jus","childCategoryUrl":"https://vin777.giving/beli-makanan-minuman-jus/"},{"childCategoryName":"Sirup","childCategoryUrl":"https://vin777.giving/beli-sirup/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"UHT, Susu & Susu Bubuk","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-minuman-uht-milk-milk-powder/"},{"childCategoryName":"Kopi","childCategoryUrl":"https://www.lazada.co.id/beli-kopi/"},{"childCategoryName":"Minuman Serbuk","childCategoryUrl":"https://www.lazada.co.id/beli-minuman-serbuk/"},{"childCategoryName":"Minuman Berenergi","childCategoryUrl":"https://www.lazada.co.id/shop-Minuman-Olahraga-Energi/"},{"childCategoryName":"Teh","childCategoryUrl":"https://www.lazada.co.id/beli-teh/"},{"childCategoryName":"Chocolate, Malt & Hot Cereals","childCategoryUrl":"https://www.lazada.co.id/coklat-panas/"},{"childCategoryName":"Air Mineral","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-minuman-air/"},{"childCategoryName":"Minuman Berkarbonasi","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-minuman-minuman-ringan/"},{"childCategoryName":"Jus","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-minuman-jus/"},{"childCategoryName":"Sirup","childCategoryUrl":"https://www.lazada.co.id/beli-sirup/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_2">
-                <a href="https://vin777.giving/shop-Bahan-Utama-Pelengkap-Masakan">
+                <a href="https://www.lazada.co.id/shop-Bahan-Utama-Pelengkap-Masakan">
                     <span>Bahan &amp; Bumbu Masakan</span>
                 </a>
                         <script type="text" class="J_data_9_1">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makanan Instant & Siap santap","childCategoryUrl":"https://vin777.giving/shop-Makanan-Instan-Siap-Santap/"},{"childCategoryName":"Bahan Pembuat Kue","childCategoryUrl":"https://vin777.giving/shop-Bahan-Pembuat-Kue/"},{"childCategoryName":"Beras","childCategoryUrl":"https://vin777.giving/shop-Beras/"},{"childCategoryName":"Garam & Bumbu Dapur","childCategoryUrl":"https://vin777.giving/shop-Bumbu-Dapur/"},{"childCategoryName":"Mie & Bihun","childCategoryUrl":"https://vin777.giving/shop-Mi-Bihun/"},{"childCategoryName":"Makanan Kering","childCategoryUrl":"https://vin777.giving/shop-Makanan-Kering/"},{"childCategoryName":"Minyak","childCategoryUrl":"https://vin777.giving/shop-Minyak/"},{"childCategoryName":"Makanan Kaleng","childCategoryUrl":"https://vin777.giving/shop-Makanan-Kaleng/"},{"childCategoryName":"Pasta","childCategoryUrl":"https://vin777.giving/shop-Pasta/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makanan Instant & Siap santap","childCategoryUrl":"https://www.lazada.co.id/shop-Makanan-Instan-Siap-Santap/"},{"childCategoryName":"Bahan Pembuat Kue","childCategoryUrl":"https://www.lazada.co.id/shop-Bahan-Pembuat-Kue/"},{"childCategoryName":"Beras","childCategoryUrl":"https://www.lazada.co.id/shop-Beras/"},{"childCategoryName":"Garam & Bumbu Dapur","childCategoryUrl":"https://www.lazada.co.id/shop-Bumbu-Dapur/"},{"childCategoryName":"Mie & Bihun","childCategoryUrl":"https://www.lazada.co.id/shop-Mi-Bihun/"},{"childCategoryName":"Makanan Kering","childCategoryUrl":"https://www.lazada.co.id/shop-Makanan-Kering/"},{"childCategoryName":"Minyak","childCategoryUrl":"https://www.lazada.co.id/shop-Minyak/"},{"childCategoryName":"Makanan Kaleng","childCategoryUrl":"https://www.lazada.co.id/shop-Makanan-Kaleng/"},{"childCategoryName":"Pasta","childCategoryUrl":"https://www.lazada.co.id/shop-Pasta/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_3">
-                <a href="https://vin777.giving/shop-Cokelat-Camilan-Permen/">
+                <a href="https://www.lazada.co.id/shop-Cokelat-Camilan-Permen/">
                     <span>Cokelat, Camilan &amp; Permen</span>
                 </a>
                         <script type="text" class="J_data_9_2">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Camilan","childCategoryUrl":"https://vin777.giving/shop-Camilan/"},{"childCategoryName":"Cokelat","childCategoryUrl":"https://vin777.giving/shop-Cokelat/"},{"childCategoryName":"Biskuit & Kerupuk","childCategoryUrl":"https://vin777.giving/shop-Biskuit-Manis/"},{"childCategoryName":"Permen","childCategoryUrl":"https://vin777.giving/shop-Manisan/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Camilan","childCategoryUrl":"https://www.lazada.co.id/shop-Camilan/"},{"childCategoryName":"Cokelat","childCategoryUrl":"https://www.lazada.co.id/shop-Cokelat/"},{"childCategoryName":"Biskuit & Kerupuk","childCategoryUrl":"https://www.lazada.co.id/shop-Biskuit-Manis/"},{"childCategoryName":"Permen","childCategoryUrl":"https://www.lazada.co.id/shop-Manisan/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_4">
-                <a href="https://vin777.giving/beli-makanan-sarapan">
+                <a href="https://www.lazada.co.id/beli-makanan-sarapan">
                     <span>Makanan Sarapan, Sereal &amp; Selai</span>
                 </a>
                         <script type="text" class="J_data_9_3">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Selai & Madu","childCategoryUrl":"https://vin777.giving/beli-makanan-minuman-selai-madu-spread/"},{"childCategoryName":"Oatmeal","childCategoryUrl":"https://vin777.giving/beli-oatmeal/"},{"childCategoryName":"Sereal Sarapan","childCategoryUrl":"https://vin777.giving/beli-sereal/"},{"childCategoryName":"Tepung Pancake & Waffle","childCategoryUrl":"https://vin777.giving/beli-pancake-waffle/"},{"childCategoryName":"Bars","childCategoryUrl":"https://vin777.giving/shop-bar/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Selai & Madu","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-minuman-selai-madu-spread/"},{"childCategoryName":"Oatmeal","childCategoryUrl":"https://www.lazada.co.id/beli-oatmeal/"},{"childCategoryName":"Sereal Sarapan","childCategoryUrl":"https://www.lazada.co.id/beli-sereal/"},{"childCategoryName":"Tepung Pancake & Waffle","childCategoryUrl":"https://www.lazada.co.id/beli-pancake-waffle/"},{"childCategoryName":"Bars","childCategoryUrl":"https://www.lazada.co.id/shop-bar/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_5">
-                <a href="https://vin777.giving/beli-makanan-minuman-hasil-segar">
+                <a href="https://www.lazada.co.id/beli-makanan-minuman-hasil-segar">
                     <span>Buah &amp; Sayur</span>
                 </a>
                         <script type="text" class="J_data_9_4">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Buah Segar","childCategoryUrl":"https://vin777.giving/beli-makanan-minuman-buah/"},{"childCategoryName":"Sayur Segar","childCategoryUrl":"https://vin777.giving/beli-makanan-minuman-sayuran-segar/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Buah Segar","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-minuman-buah/"},{"childCategoryName":"Sayur Segar","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-minuman-sayuran-segar/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_6">
-                <a href="https://vin777.giving/shop-kebutuhan-rumah-tangga">
+                <a href="https://www.lazada.co.id/shop-kebutuhan-rumah-tangga">
                     <span>Kebutuhan Rumah Tangga</span>
                 </a>
                         <script type="text" class="J_data_9_5">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pengharum Ruangan","childCategoryUrl":"https://vin777.giving/shop-perawatan-udara/"},{"childCategoryName":"Kebutuhan Kebersihan","childCategoryUrl":"https://vin777.giving/beli-makanan-minuman-pembersihan/"},{"childCategoryName":"Pengendalian Hama","childCategoryUrl":"https://vin777.giving/beli-makanan-minuman-pengendalian-hama/"},{"childCategoryName":"Sabun Pencuci Piring","childCategoryUrl":"https://vin777.giving/beli-makanan-minuman-mencuci-piring/"},{"childCategoryName":"Kebutuhan Laundry","childCategoryUrl":"https://vin777.giving/beli-makanan-minuman-cucian/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pengharum Ruangan","childCategoryUrl":"https://www.lazada.co.id/shop-perawatan-udara/"},{"childCategoryName":"Kebutuhan Kebersihan","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-minuman-pembersihan/"},{"childCategoryName":"Pengendalian Hama","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-minuman-pengendalian-hama/"},{"childCategoryName":"Sabun Pencuci Piring","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-minuman-mencuci-piring/"},{"childCategoryName":"Kebutuhan Laundry","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-minuman-cucian/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_7">
-                <a href="https://vin777.giving/shop-makanan-hewan">
+                <a href="https://www.lazada.co.id/shop-makanan-hewan">
                     <span>Makanan Hewan Peliharaan</span>
                 </a>
                         <script type="text" class="J_data_9_6">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makanan & Camilan Kucing","childCategoryUrl":"https://vin777.giving/jual-makanan-kucing/"},{"childCategoryName":"Makanan Burung","childCategoryUrl":"https://vin777.giving/beli-makanan-burung/"},{"childCategoryName":"Makanan Ikan","childCategoryUrl":"https://vin777.giving/beli-makanan-ikan/"},{"childCategoryName":"Makanan & Camilan Anjing","childCategoryUrl":"https://vin777.giving/jual-makanan-anjing/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makanan & Camilan Kucing","childCategoryUrl":"https://www.lazada.co.id/jual-makanan-kucing/"},{"childCategoryName":"Makanan Burung","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-burung/"},{"childCategoryName":"Makanan Ikan","childCategoryUrl":"https://www.lazada.co.id/beli-makanan-ikan/"},{"childCategoryName":"Makanan & Camilan Anjing","childCategoryUrl":"https://www.lazada.co.id/jual-makanan-anjing/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_8">
-                <a href="https://vin777.giving/shop-aksesoris-hewan">
+                <a href="https://www.lazada.co.id/shop-aksesoris-hewan">
                     <span>Aksesoris Hewan Peliharaan</span>
                 </a>
                         <script type="text" class="J_data_9_7">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Keperluan Akuarium","childCategoryUrl":"https://vin777.giving/shop-keperluan-akuarium/"},{"childCategoryName":"Kandang & Aksesoris","childCategoryUrl":"https://vin777.giving/beli-kandang-terbuka-pintu-anjing/"},{"childCategoryName":"Peralatan Grooming","childCategoryUrl":"https://vin777.giving/jual-persediaan-grooming-hewan/"},{"childCategoryName":"Rumah,Alas & Tempat tidur","childCategoryUrl":"https://vin777.giving/beli-ranjang-alas-tidur-rumah-anjing/"},{"childCategoryName":"Alat Makan Hewan","childCategoryUrl":"https://vin777.giving/beli-mangkuk-makan-anjing/"},{"childCategoryName":"Tali dan Kalung Hewan","childCategoryUrl":"https://vin777.giving/beli-tali-kalung-moncong-anjing/"},{"childCategoryName":"Kebutuhan Travel Hewan","childCategoryUrl":"https://vin777.giving/beli-pengangkut-perjalanan-anjing/"},{"childCategoryName":"Mainan Hewan","childCategoryUrl":"https://vin777.giving/shop-mainan/"},{"childCategoryName":"Alat Pelatihan Anjing","childCategoryUrl":"https://vin777.giving/beli-alat-latih-olahraga-anjing/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Keperluan Akuarium","childCategoryUrl":"https://www.lazada.co.id/shop-keperluan-akuarium/"},{"childCategoryName":"Kandang & Aksesoris","childCategoryUrl":"https://www.lazada.co.id/beli-kandang-terbuka-pintu-anjing/"},{"childCategoryName":"Peralatan Grooming","childCategoryUrl":"https://www.lazada.co.id/jual-persediaan-grooming-hewan/"},{"childCategoryName":"Rumah,Alas & Tempat tidur","childCategoryUrl":"https://www.lazada.co.id/beli-ranjang-alas-tidur-rumah-anjing/"},{"childCategoryName":"Alat Makan Hewan","childCategoryUrl":"https://www.lazada.co.id/beli-mangkuk-makan-anjing/"},{"childCategoryName":"Tali dan Kalung Hewan","childCategoryUrl":"https://www.lazada.co.id/beli-tali-kalung-moncong-anjing/"},{"childCategoryName":"Kebutuhan Travel Hewan","childCategoryUrl":"https://www.lazada.co.id/beli-pengangkut-perjalanan-anjing/"},{"childCategoryName":"Mainan Hewan","childCategoryUrl":"https://www.lazada.co.id/shop-mainan/"},{"childCategoryName":"Alat Pelatihan Anjing","childCategoryUrl":"https://www.lazada.co.id/beli-alat-latih-olahraga-anjing/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_9">
-                <a href="https://vin777.giving/shop-kesehatan-hewan-peliharaan">
+                <a href="https://www.lazada.co.id/shop-kesehatan-hewan-peliharaan">
                     <span>Kesehatan Hewan Peliharaan</span>
                 </a>
                         <script type="text" class="J_data_9_8">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Gigi","childCategoryUrl":"https://vin777.giving/beli-kesehatan-gigi-anjing/"},{"childCategoryName":"Pembasmi Kutu Hewan","childCategoryUrl":"https://vin777.giving/beli-kutu-anjing/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Gigi","childCategoryUrl":"https://www.lazada.co.id/beli-kesehatan-gigi-anjing/"},{"childCategoryName":"Pembasmi Kutu Hewan","childCategoryUrl":"https://www.lazada.co.id/beli-kutu-anjing/"}]
                         </script>
             </li>
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No11" data-spm="cate_11">
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_1">
-                <a href="https://vin777.giving/baju-olahraga-pria/">
+                <a href="https://www.lazada.co.id/baju-olahraga-pria/">
                     <span>Baju Olahraga Pria</span>
                 </a>
                         <script type="text" class="J_data_10_0">
-                            [{"childCategoryName":"Celana Olahraga Pria","childCategoryUrl":"https://vin777.giving/celana-panjang-dan-pendek-olahraga-pria/"},{"childCategoryName":"Kaos Olahraga Pria","childCategoryUrl":"https://vin777.giving/kaos-olahraga-pria/"},{"childCategoryName":"Jaket Olahraga Pria","childCategoryUrl":"https://vin777.giving/jaket-dan-parka-olahraga-pria/"},{"childCategoryName":"Pakaian Renang Pria","childCategoryUrl":"https://vin777.giving/pakaian-renang-dan-selancar-pria/"},{"childCategoryName":"Jersey Olahraga Pria","childCategoryUrl":"https://vin777.giving/jual-jersey-olahraga-pria/"},{"childCategoryName":"Celana Pendek Pria","childCategoryUrl":"https://vin777.giving/jual-celana-pendek-olahraga-pria/"},{"childCategoryName":"Hoodies Pria","childCategoryUrl":"https://vin777.giving/hoodies-pria/"},{"childCategoryName":"Topi Olahraga Pria","childCategoryUrl":"https://vin777.giving/jual-topi-olahraga-pria/"},{"childCategoryName":"Tas Ransel Sport Pria","childCategoryUrl":"https://vin777.giving/tas-ransel-sport-pria/"},{"childCategoryName":"Tas Serut Pria","childCategoryUrl":"https://vin777.giving/tas-serut-pria/"},{"childCategoryName":"Tas Duffel Pria","childCategoryUrl":"https://vin777.giving/tas-duffel-pria/"},{"childCategoryName":"Gym Tote Pria","childCategoryUrl":"https://vin777.giving/gym-tote-pria/"}]
+                            [{"childCategoryName":"Celana Olahraga Pria","childCategoryUrl":"https://www.lazada.co.id/celana-panjang-dan-pendek-olahraga-pria/"},{"childCategoryName":"Kaos Olahraga Pria","childCategoryUrl":"https://www.lazada.co.id/kaos-olahraga-pria/"},{"childCategoryName":"Jaket Olahraga Pria","childCategoryUrl":"https://www.lazada.co.id/jaket-dan-parka-olahraga-pria/"},{"childCategoryName":"Pakaian Renang Pria","childCategoryUrl":"https://www.lazada.co.id/pakaian-renang-dan-selancar-pria/"},{"childCategoryName":"Jersey Olahraga Pria","childCategoryUrl":"https://www.lazada.co.id/jual-jersey-olahraga-pria/"},{"childCategoryName":"Celana Pendek Pria","childCategoryUrl":"https://www.lazada.co.id/jual-celana-pendek-olahraga-pria/"},{"childCategoryName":"Hoodies Pria","childCategoryUrl":"https://www.lazada.co.id/hoodies-pria/"},{"childCategoryName":"Topi Olahraga Pria","childCategoryUrl":"https://www.lazada.co.id/jual-topi-olahraga-pria/"},{"childCategoryName":"Tas Ransel Sport Pria","childCategoryUrl":"https://www.lazada.co.id/tas-ransel-sport-pria/"},{"childCategoryName":"Tas Serut Pria","childCategoryUrl":"https://www.lazada.co.id/tas-serut-pria/"},{"childCategoryName":"Tas Duffel Pria","childCategoryUrl":"https://www.lazada.co.id/tas-duffel-pria/"},{"childCategoryName":"Gym Tote Pria","childCategoryUrl":"https://www.lazada.co.id/gym-tote-pria/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_2">
-                <a href="https://vin777.giving/pakaian-olahraga-wanita/">
+                <a href="https://www.lazada.co.id/pakaian-olahraga-wanita/">
                     <span>Baju Olahraga Wanita</span>
                 </a>
                         <script type="text" class="J_data_10_1">
-                            [{"childCategoryName":"Celana Panjang Wanita","childCategoryUrl":"https://vin777.giving/celana-panjang-dan-pendek-olahraga-wanita/"},{"childCategoryName":"Kaos Olahraga Wanita","childCategoryUrl":"https://vin777.giving/kaos-dan-atasan-olahraga-wanita/"},{"childCategoryName":"Jaket Olahraga Wanita","childCategoryUrl":"https://vin777.giving/jaket-dan-parka-sport-wanita/"},{"childCategoryName":"Sport Bra Wanita","childCategoryUrl":"https://vin777.giving/jual-sport-bra-wanita/"},{"childCategoryName":"Celana Pendek Wanita","childCategoryUrl":"https://vin777.giving/jual-celana-pendek-olahraga-wanita/"},{"childCategoryName":"Rok Olahraga Wanita","childCategoryUrl":"https://vin777.giving/jual-rok-olahraga-wanita/"},{"childCategoryName":"Hoodies Wanita","childCategoryUrl":"https://vin777.giving/hoodies-wanita/"},{"childCategoryName":"Pakaian Renang Wanita","childCategoryUrl":"https://vin777.giving/pakaian-renang-dan-selancar-wanita/"},{"childCategoryName":"Tas Ransel Sport Wanita","childCategoryUrl":"https://vin777.giving/tas-ransel-sport-wanita/"},{"childCategoryName":"Tas Serut Wanita","childCategoryUrl":"https://vin777.giving/tas-serut-wanita/"},{"childCategoryName":"Tas Duffel Wanita","childCategoryUrl":"https://vin777.giving/tas-duffel-wanita/"},{"childCategoryName":"Gym Tote Wanita","childCategoryUrl":"https://vin777.giving/gym-tote-wanita/"}]
+                            [{"childCategoryName":"Celana Panjang Wanita","childCategoryUrl":"https://www.lazada.co.id/celana-panjang-dan-pendek-olahraga-wanita/"},{"childCategoryName":"Kaos Olahraga Wanita","childCategoryUrl":"https://www.lazada.co.id/kaos-dan-atasan-olahraga-wanita/"},{"childCategoryName":"Jaket Olahraga Wanita","childCategoryUrl":"https://www.lazada.co.id/jaket-dan-parka-sport-wanita/"},{"childCategoryName":"Sport Bra Wanita","childCategoryUrl":"https://www.lazada.co.id/jual-sport-bra-wanita/"},{"childCategoryName":"Celana Pendek Wanita","childCategoryUrl":"https://www.lazada.co.id/jual-celana-pendek-olahraga-wanita/"},{"childCategoryName":"Rok Olahraga Wanita","childCategoryUrl":"https://www.lazada.co.id/jual-rok-olahraga-wanita/"},{"childCategoryName":"Hoodies Wanita","childCategoryUrl":"https://www.lazada.co.id/hoodies-wanita/"},{"childCategoryName":"Pakaian Renang Wanita","childCategoryUrl":"https://www.lazada.co.id/pakaian-renang-dan-selancar-wanita/"},{"childCategoryName":"Tas Ransel Sport Wanita","childCategoryUrl":"https://www.lazada.co.id/tas-ransel-sport-wanita/"},{"childCategoryName":"Tas Serut Wanita","childCategoryUrl":"https://www.lazada.co.id/tas-serut-wanita/"},{"childCategoryName":"Tas Duffel Wanita","childCategoryUrl":"https://www.lazada.co.id/tas-duffel-wanita/"},{"childCategoryName":"Gym Tote Wanita","childCategoryUrl":"https://www.lazada.co.id/gym-tote-wanita/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_3">
-                <a href="https://vin777.giving/sepatu-dan-pakaian-olahraga-pria/">
+                <a href="https://www.lazada.co.id/sepatu-dan-pakaian-olahraga-pria/">
                     <span>Sepatu Olahraga Pria</span>
                 </a>
                         <script type="text" class="J_data_10_2">
-                            [{"childCategoryName":"Sepatu Sepakbola Pria","childCategoryUrl":"https://vin777.giving/jual-sepatu-sepakbola-pria/"},{"childCategoryName":"Sepatu Futsal Pria","childCategoryUrl":"https://vin777.giving/jual-sepatu-futsal-pria/"},{"childCategoryName":"Sepatu Lari Pria","childCategoryUrl":"https://vin777.giving/sepatu-lari-pria/"},{"childCategoryName":"Sepatu Hiking Pria","childCategoryUrl":"https://vin777.giving/jual-sepatu-hiking-pria/"},{"childCategoryName":"Sepatu Basket Pria","childCategoryUrl":"https://vin777.giving/jual-sepatu-basket-pria/"},{"childCategoryName":"Sepatu Olahraga Air Pria","childCategoryUrl":"https://vin777.giving/jual-sepatu-olahraga-air-pria/"},{"childCategoryName":"Sepatu Badminton ria","childCategoryUrl":"https://vin777.giving/jual-sepatu-badminton-pria/"},{"childCategoryName":"Sepatu Training Pira","childCategoryUrl":"https://vin777.giving/jual-sepatu-fitness-training-pria/"},{"childCategoryName":"Sepatu Skateboard Pria","childCategoryUrl":"https://vin777.giving/jual-sepatu-skateboard-pria/"},{"childCategoryName":"Sepatu Sneakers Pria","childCategoryUrl":"https://vin777.giving/beli-sepatu-sneakers-pria/"},{"childCategoryName":"Sandal Olahraga Pria","childCategoryUrl":"https://vin777.giving/jual-sandal-olahraga-pria/"},{"childCategoryName":"Sepatu Jalan Pria","childCategoryUrl":"https://vin777.giving/jual-sepatu-jalan-pria/"}]
+                            [{"childCategoryName":"Sepatu Sepakbola Pria","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-sepakbola-pria/"},{"childCategoryName":"Sepatu Futsal Pria","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-futsal-pria/"},{"childCategoryName":"Sepatu Lari Pria","childCategoryUrl":"https://www.lazada.co.id/sepatu-lari-pria/"},{"childCategoryName":"Sepatu Hiking Pria","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-hiking-pria/"},{"childCategoryName":"Sepatu Basket Pria","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-basket-pria/"},{"childCategoryName":"Sepatu Olahraga Air Pria","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-olahraga-air-pria/"},{"childCategoryName":"Sepatu Badminton ria","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-badminton-pria/"},{"childCategoryName":"Sepatu Training Pira","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-fitness-training-pria/"},{"childCategoryName":"Sepatu Skateboard Pria","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-skateboard-pria/"},{"childCategoryName":"Sepatu Sneakers Pria","childCategoryUrl":"https://www.lazada.co.id/beli-sepatu-sneakers-pria/"},{"childCategoryName":"Sandal Olahraga Pria","childCategoryUrl":"https://www.lazada.co.id/jual-sandal-olahraga-pria/"},{"childCategoryName":"Sepatu Jalan Pria","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-jalan-pria/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_4">
-                <a href="https://vin777.giving/sepatu-dan-pakaian-olahraga-wanita/">
+                <a href="https://www.lazada.co.id/sepatu-dan-pakaian-olahraga-wanita/">
                     <span>Sepatu Olahraga Wanita</span>
                 </a>
                         <script type="text" class="J_data_10_3">
-                            [{"childCategoryName":"Sepatu Badminton Wanita","childCategoryUrl":"https://vin777.giving/sepatu-badminton-wanita/"},{"childCategoryName":"Sepatu Lari Wanita","childCategoryUrl":"https://vin777.giving/sepatu-lari-wanita/"},{"childCategoryName":"Sepatu Futsal Wanita","childCategoryUrl":"https://vin777.giving/sepatu-futsal-wanita/"},{"childCategoryName":"Sepatu Basket Wanita","childCategoryUrl":"https://vin777.giving/sepatu-basket-wanita/"},{"childCategoryName":"Sepatu Sepakbola Wanita","childCategoryUrl":"https://vin777.giving/sepatu-sepakbola-wanita/"},{"childCategoryName":"Sepatu Olahraga Air Wanita","childCategoryUrl":"https://vin777.giving/sepatu-olaraga-air-wanita/"},{"childCategoryName":"Sepatu Hiking Wanita","childCategoryUrl":"https://vin777.giving/sepatu-hiking-wanita/"},{"childCategoryName":"Sepatu Training Wanita","childCategoryUrl":"https://vin777.giving/jual-sepatu-fitness-training-wanita/"},{"childCategoryName":"Septu Skateboard Wanita","childCategoryUrl":"https://vin777.giving/jual-sepatu-skateboard-wanita/"},{"childCategoryName":"Sepatu Sneakers Wanita","childCategoryUrl":"https://vin777.giving/beli-sepatu-sneakers-wanita/"},{"childCategoryName":"Sandal Olahraga Wanita","childCategoryUrl":"https://vin777.giving/jual-sandal-olahraga-wanita/"},{"childCategoryName":"Sepatu Jalan Wanita","childCategoryUrl":"https://vin777.giving/jual-sepatu-jalan-wanita/"}]
+                            [{"childCategoryName":"Sepatu Badminton Wanita","childCategoryUrl":"https://www.lazada.co.id/sepatu-badminton-wanita/"},{"childCategoryName":"Sepatu Lari Wanita","childCategoryUrl":"https://www.lazada.co.id/sepatu-lari-wanita/"},{"childCategoryName":"Sepatu Futsal Wanita","childCategoryUrl":"https://www.lazada.co.id/sepatu-futsal-wanita/"},{"childCategoryName":"Sepatu Basket Wanita","childCategoryUrl":"https://www.lazada.co.id/sepatu-basket-wanita/"},{"childCategoryName":"Sepatu Sepakbola Wanita","childCategoryUrl":"https://www.lazada.co.id/sepatu-sepakbola-wanita/"},{"childCategoryName":"Sepatu Olahraga Air Wanita","childCategoryUrl":"https://www.lazada.co.id/sepatu-olaraga-air-wanita/"},{"childCategoryName":"Sepatu Hiking Wanita","childCategoryUrl":"https://www.lazada.co.id/sepatu-hiking-wanita/"},{"childCategoryName":"Sepatu Training Wanita","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-fitness-training-wanita/"},{"childCategoryName":"Septu Skateboard Wanita","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-skateboard-wanita/"},{"childCategoryName":"Sepatu Sneakers Wanita","childCategoryUrl":"https://www.lazada.co.id/beli-sepatu-sneakers-wanita/"},{"childCategoryName":"Sandal Olahraga Wanita","childCategoryUrl":"https://www.lazada.co.id/jual-sandal-olahraga-wanita/"},{"childCategoryName":"Sepatu Jalan Wanita","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-jalan-wanita/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_5">
-                <a href="https://vin777.giving/camping-dan-hiking/">
+                <a href="https://www.lazada.co.id/camping-dan-hiking/">
                     <span>Camping dan Hiking</span>
                 </a>
                         <script type="text" class="J_data_10_4">
-                            [{"childCategoryName":"Tenda dan furniture Camping","childCategoryUrl":"https://vin777.giving/tenda-dan-furniture/"},{"childCategoryName":"Perlengkapan Tidur Camping","childCategoryUrl":"https://vin777.giving/perlengkapan-tidur-camping/"},{"childCategoryName":"Tas Camping","childCategoryUrl":"https://vin777.giving/jual-tas-ransel/"},{"childCategoryName":"Tempat berteduh Camping","childCategoryUrl":"https://vin777.giving/jual-tempat-berteduh-dan-kanopi/"},{"childCategoryName":"Perabotan Kemah","childCategoryUrl":"https://vin777.giving/jual-perabotan-kemah/"},{"childCategoryName":"Alat Dapur Kemah","childCategoryUrl":"https://vin777.giving/jual-dapur-kemah/"},{"childCategoryName":"Alat penerangan Hiking","childCategoryUrl":"https://vin777.giving/jual-penerangan/"},{"childCategoryName":"Navigasi Elektroning Hiking","childCategoryUrl":"https://vin777.giving/jual-navigasi-elektronik/"},{"childCategoryName":"Tongkat Hiking","childCategoryUrl":"https://vin777.giving/jual-tongkat-hiking/"},{"childCategoryName":"Pisau Kemah","childCategoryUrl":"https://vin777.giving/jual-pisau-alat-multifungsi/"},{"childCategoryName":"Peralatan Survival Camping","childCategoryUrl":"https://vin777.giving/jual-peralatan-survival-dan-keamanan/"},{"childCategoryName":"Perlengkapan Panjat Tebing","childCategoryUrl":"https://vin777.giving/panjat-tebing/"}]
+                            [{"childCategoryName":"Tenda dan furniture Camping","childCategoryUrl":"https://www.lazada.co.id/tenda-dan-furniture/"},{"childCategoryName":"Perlengkapan Tidur Camping","childCategoryUrl":"https://www.lazada.co.id/perlengkapan-tidur-camping/"},{"childCategoryName":"Tas Camping","childCategoryUrl":"https://www.lazada.co.id/jual-tas-ransel/"},{"childCategoryName":"Tempat berteduh Camping","childCategoryUrl":"https://www.lazada.co.id/jual-tempat-berteduh-dan-kanopi/"},{"childCategoryName":"Perabotan Kemah","childCategoryUrl":"https://www.lazada.co.id/jual-perabotan-kemah/"},{"childCategoryName":"Alat Dapur Kemah","childCategoryUrl":"https://www.lazada.co.id/jual-dapur-kemah/"},{"childCategoryName":"Alat penerangan Hiking","childCategoryUrl":"https://www.lazada.co.id/jual-penerangan/"},{"childCategoryName":"Navigasi Elektroning Hiking","childCategoryUrl":"https://www.lazada.co.id/jual-navigasi-elektronik/"},{"childCategoryName":"Tongkat Hiking","childCategoryUrl":"https://www.lazada.co.id/jual-tongkat-hiking/"},{"childCategoryName":"Pisau Kemah","childCategoryUrl":"https://www.lazada.co.id/jual-pisau-alat-multifungsi/"},{"childCategoryName":"Peralatan Survival Camping","childCategoryUrl":"https://www.lazada.co.id/jual-peralatan-survival-dan-keamanan/"},{"childCategoryName":"Perlengkapan Panjat Tebing","childCategoryUrl":"https://www.lazada.co.id/panjat-tebing/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_6">
-                <a href="https://vin777.giving/jual-peralatan-memancing/">
+                <a href="https://www.lazada.co.id/jual-peralatan-memancing/">
                     <span>Peralatan Memancing</span>
                 </a>
                         <script type="text" class="J_data_10_5">
-                            [{"childCategoryName":"Tongkat Pancing","childCategoryUrl":"https://vin777.giving/jual-tongkat-pancing/"},{"childCategoryName":"Alat Gulungan Pancing","childCategoryUrl":"https://vin777.giving/alat-gulungan-pancing/"},{"childCategoryName":"Set Tongkat dan Gulungan Pancing","childCategoryUrl":"https://vin777.giving/set-tongkat-dan-gulungan-pancing/"},{"childCategoryName":"Senar Pancing","childCategoryUrl":"https://vin777.giving/jual-senar-pancing/"},{"childCategoryName":"Umpan Pancing","childCategoryUrl":"https://vin777.giving/jual-umpan/"},{"childCategoryName":"Peralatan Pancing","childCategoryUrl":"https://vin777.giving/jual-peralatan-pancing/"},{"childCategoryName":"GPS alat pencari ikan","childCategoryUrl":"https://vin777.giving/jual-gps-alat-pencari-ikan/"},{"childCategoryName":"Jaring Penangkap Ikan","childCategoryUrl":"https://vin777.giving/jual-jaring-penangkap-ikan/"},{"childCategoryName":"Aksesoris Memancing","childCategoryUrl":"https://vin777.giving/jual-aksesoris-memancing/"}]
+                            [{"childCategoryName":"Tongkat Pancing","childCategoryUrl":"https://www.lazada.co.id/jual-tongkat-pancing/"},{"childCategoryName":"Alat Gulungan Pancing","childCategoryUrl":"https://www.lazada.co.id/alat-gulungan-pancing/"},{"childCategoryName":"Set Tongkat dan Gulungan Pancing","childCategoryUrl":"https://www.lazada.co.id/set-tongkat-dan-gulungan-pancing/"},{"childCategoryName":"Senar Pancing","childCategoryUrl":"https://www.lazada.co.id/jual-senar-pancing/"},{"childCategoryName":"Umpan Pancing","childCategoryUrl":"https://www.lazada.co.id/jual-umpan/"},{"childCategoryName":"Peralatan Pancing","childCategoryUrl":"https://www.lazada.co.id/jual-peralatan-pancing/"},{"childCategoryName":"GPS alat pencari ikan","childCategoryUrl":"https://www.lazada.co.id/jual-gps-alat-pencari-ikan/"},{"childCategoryName":"Jaring Penangkap Ikan","childCategoryUrl":"https://www.lazada.co.id/jual-jaring-penangkap-ikan/"},{"childCategoryName":"Aksesoris Memancing","childCategoryUrl":"https://www.lazada.co.id/jual-aksesoris-memancing/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_7">
-                <a href="https://vin777.giving/olahraga-sepeda/">
+                <a href="https://www.lazada.co.id/olahraga-sepeda/">
                     <span>Olahraga Sepeda</span>
                 </a>
                         <script type="text" class="J_data_10_6">
-                            [{"childCategoryName":"Komponen Part Sepeda","childCategoryUrl":"https://vin777.giving/komponen-dan-parts-sepeda/"},{"childCategoryName":"Aksesoris Sepeda","childCategoryUrl":"https://vin777.giving/aksesoris-sepeda/"},{"childCategoryName":"Sepeda","childCategoryUrl":"https://vin777.giving/sepeda/"},{"childCategoryName":"Kaos Sepeda","childCategoryUrl":"https://vin777.giving/jual-baju-kaos-sepeda/"},{"childCategoryName":"Sepatu Sepeda Pria","childCategoryUrl":"https://vin777.giving/jual-sepatu-sepeda-pria/"},{"childCategoryName":"Sepatu Sepeda Wanita","childCategoryUrl":"https://vin777.giving/sepatu-sepeda-wanita/"},{"childCategoryName":"Sepatu Sepeda Perempuan","childCategoryUrl":"https://vin777.giving/jual-sepatu-sepeda-anak-perempuan/"},{"childCategoryName":"Sepatu Sepeda Laki-Laki","childCategoryUrl":"https://vin777.giving/jual-sepatu-sepeda-anak-laki-laki/"}]
+                            [{"childCategoryName":"Komponen Part Sepeda","childCategoryUrl":"https://www.lazada.co.id/komponen-dan-parts-sepeda/"},{"childCategoryName":"Aksesoris Sepeda","childCategoryUrl":"https://www.lazada.co.id/aksesoris-sepeda/"},{"childCategoryName":"Sepeda","childCategoryUrl":"https://www.lazada.co.id/sepeda/"},{"childCategoryName":"Kaos Sepeda","childCategoryUrl":"https://www.lazada.co.id/jual-baju-kaos-sepeda/"},{"childCategoryName":"Sepatu Sepeda Pria","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-sepeda-pria/"},{"childCategoryName":"Sepatu Sepeda Wanita","childCategoryUrl":"https://www.lazada.co.id/sepatu-sepeda-wanita/"},{"childCategoryName":"Sepatu Sepeda Perempuan","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-sepeda-anak-perempuan/"},{"childCategoryName":"Sepatu Sepeda Laki-Laki","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-sepeda-anak-laki-laki/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_8">
-                <a href="https://vin777.giving/olahraga-air/">
+                <a href="https://www.lazada.co.id/olahraga-air/">
                     <span>Olahraga Air</span>
                 </a>
                         <script type="text" class="J_data_10_7">
-                            [{"childCategoryName":"Kapal","childCategoryUrl":"https://vin777.giving/jual-kapal/"},{"childCategoryName":"Peralatan Menyelam","childCategoryUrl":"https://vin777.giving/diving-snorkeling/"},{"childCategoryName":"Peralatan Renang","childCategoryUrl":"https://vin777.giving/renang/"},{"childCategoryName":"Papan Renang","childCategoryUrl":"https://vin777.giving/jual-olahraga-papan/"},{"childCategoryName":"Tubing dan Towables","childCategoryUrl":"https://vin777.giving/jual-tubing-towables/"},{"childCategoryName":"Akesesoris Olahraga Air","childCategoryUrl":"https://vin777.giving/jual-aksesoris-olahraga-air/"}]
+                            [{"childCategoryName":"Kapal","childCategoryUrl":"https://www.lazada.co.id/jual-kapal/"},{"childCategoryName":"Peralatan Menyelam","childCategoryUrl":"https://www.lazada.co.id/diving-snorkeling/"},{"childCategoryName":"Peralatan Renang","childCategoryUrl":"https://www.lazada.co.id/renang/"},{"childCategoryName":"Papan Renang","childCategoryUrl":"https://www.lazada.co.id/jual-olahraga-papan/"},{"childCategoryName":"Tubing dan Towables","childCategoryUrl":"https://www.lazada.co.id/jual-tubing-towables/"},{"childCategoryName":"Akesesoris Olahraga Air","childCategoryUrl":"https://www.lazada.co.id/jual-aksesoris-olahraga-air/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_9">
-                <a href="https://vin777.giving/latihan-dan-fitness/">
+                <a href="https://www.lazada.co.id/latihan-dan-fitness/">
                     <span>Gym, Yoga &amp; Fitness</span>
                 </a>
                         <script type="text" class="J_data_10_8">
-                            [{"childCategoryName":"Peralatan Pelatihan Ketangkasan","childCategoryUrl":"https://vin777.giving/shop-pelatihan-kecepatan-ketangkasan/"},{"childCategoryName":"Aksesoris Gym","childCategoryUrl":"https://vin777.giving/shop-aksesoris/"},{"childCategoryName":"Pilates Gym","childCategoryUrl":"https://vin777.giving/pilates/"},{"childCategoryName":"Alat Latihan Angkat Beban","childCategoryUrl":"https://vin777.giving/alat-latihan-angkat-beban/"},{"childCategoryName":"Yoga","childCategoryUrl":"https://vin777.giving/yoga/"},{"childCategoryName":"Peralatan Kardio","childCategoryUrl":"https://vin777.giving/peralatan-latihan-kardio/"},{"childCategoryName":"Perlengkapan Fitnes","childCategoryUrl":"https://vin777.giving/jual-aksesoris-fitness/"},{"childCategoryName":"Perlengkapan Lari","childCategoryUrl":"https://vin777.giving/temporary-url-sport-catl3-1/"}]
+                            [{"childCategoryName":"Peralatan Pelatihan Ketangkasan","childCategoryUrl":"https://www.lazada.co.id/shop-pelatihan-kecepatan-ketangkasan/"},{"childCategoryName":"Aksesoris Gym","childCategoryUrl":"https://www.lazada.co.id/shop-aksesoris/"},{"childCategoryName":"Pilates Gym","childCategoryUrl":"https://www.lazada.co.id/pilates/"},{"childCategoryName":"Alat Latihan Angkat Beban","childCategoryUrl":"https://www.lazada.co.id/alat-latihan-angkat-beban/"},{"childCategoryName":"Yoga","childCategoryUrl":"https://www.lazada.co.id/yoga/"},{"childCategoryName":"Peralatan Kardio","childCategoryUrl":"https://www.lazada.co.id/peralatan-latihan-kardio/"},{"childCategoryName":"Perlengkapan Fitnes","childCategoryUrl":"https://www.lazada.co.id/jual-aksesoris-fitness/"},{"childCategoryName":"Perlengkapan Lari","childCategoryUrl":"https://www.lazada.co.id/temporary-url-sport-catl3-1/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_10">
-                <a href="https://vin777.giving/olahraga-raket/">
+                <a href="https://www.lazada.co.id/olahraga-raket/">
                     <span>Olahraga Raket</span>
                 </a>
                         <script type="text" class="J_data_10_9">
-                            [{"childCategoryName":"Tenis Meja","childCategoryUrl":"https://vin777.giving/tenis-meja/"},{"childCategoryName":"Badminton","childCategoryUrl":"https://vin777.giving/bulutangkis/"},{"childCategoryName":"Tennis","childCategoryUrl":"https://vin777.giving/tenis/"},{"childCategoryName":"Squash","childCategoryUrl":"https://vin777.giving/squash/"}]
+                            [{"childCategoryName":"Tenis Meja","childCategoryUrl":"https://www.lazada.co.id/tenis-meja/"},{"childCategoryName":"Badminton","childCategoryUrl":"https://www.lazada.co.id/bulutangkis/"},{"childCategoryName":"Tennis","childCategoryUrl":"https://www.lazada.co.id/tenis/"},{"childCategoryName":"Squash","childCategoryUrl":"https://www.lazada.co.id/squash/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_11">
-                <a href="https://vin777.giving/shop-perlengkapan-olah-raga/">
+                <a href="https://www.lazada.co.id/shop-perlengkapan-olah-raga/">
                     <span>Perlengkapan Olahraga</span>
                 </a>
                         <script type="text" class="J_data_10_10">
-                            [{"childCategoryName":"Oxrashoan Tinju-Bela Mma","childCategoryUrl":"https://vin777.giving/jual-tinju-bela-diri-mma/"},{"childCategoryName":"Golf Gym","childCategoryUrl":"https://vin777.giving/golf/"},{"childCategoryName":"Bola Gym","childCategoryUrl":"https://vin777.giving/sepak-bola/"},{"childCategoryName":"Basket Gym","childCategoryUrl":"https://vin777.giving/basket/"},{"childCategoryName":"Voli Gym","childCategoryUrl":"https://vin777.giving/voli/"},{"childCategoryName":"Cricket Gym","childCategoryUrl":"https://vin777.giving/cricket/"},{"childCategoryName":"Rugby Gym","childCategoryUrl":"https://vin777.giving/rugby/"},{"childCategoryName":"Takraw Gym","childCategoryUrl":"https://vin777.giving/sepak-takraw/"},{"childCategoryName":"Baseball Gym","childCategoryUrl":"https://vin777.giving/baseball/"},{"childCategoryName":"Perlengkapan Olahraga Senam","childCategoryUrl":"https://vin777.giving/jual-olahraga-senam/"},{"childCategoryName":"Hoki Gym","childCategoryUrl":"https://vin777.giving/olahraga-hoki/"},{"childCategoryName":"Peralatan Cheerleading","childCategoryUrl":"https://vin777.giving/jual-peralatan-cheerleading/"}]
+                            [{"childCategoryName":"Oxrashoan Tinju-Bela Mma","childCategoryUrl":"https://www.lazada.co.id/jual-tinju-bela-diri-mma/"},{"childCategoryName":"Golf Gym","childCategoryUrl":"https://www.lazada.co.id/golf/"},{"childCategoryName":"Bola Gym","childCategoryUrl":"https://www.lazada.co.id/sepak-bola/"},{"childCategoryName":"Basket Gym","childCategoryUrl":"https://www.lazada.co.id/basket/"},{"childCategoryName":"Voli Gym","childCategoryUrl":"https://www.lazada.co.id/voli/"},{"childCategoryName":"Cricket Gym","childCategoryUrl":"https://www.lazada.co.id/cricket/"},{"childCategoryName":"Rugby Gym","childCategoryUrl":"https://www.lazada.co.id/rugby/"},{"childCategoryName":"Takraw Gym","childCategoryUrl":"https://www.lazada.co.id/sepak-takraw/"},{"childCategoryName":"Baseball Gym","childCategoryUrl":"https://www.lazada.co.id/baseball/"},{"childCategoryName":"Perlengkapan Olahraga Senam","childCategoryUrl":"https://www.lazada.co.id/jual-olahraga-senam/"},{"childCategoryName":"Hoki Gym","childCategoryUrl":"https://www.lazada.co.id/olahraga-hoki/"},{"childCategoryName":"Peralatan Cheerleading","childCategoryUrl":"https://www.lazada.co.id/jual-peralatan-cheerleading/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_12">
-                <a href="https://vin777.giving/sepak-bola/">
+                <a href="https://www.lazada.co.id/sepak-bola/">
                     <span>Perlengkapan Sepak Bola</span>
                 </a>
                         <script type="text" class="J_data_10_11">
-                            [{"childCategoryName":"Sepatu Sepakbola","childCategoryUrl":"https://vin777.giving/jual-sepatu-sepakbola-pria/"},{"childCategoryName":"Sepatu Futsal","childCategoryUrl":"https://vin777.giving/jual-sepatu-futsal-pria/"},{"childCategoryName":"Jersey Sepakbola","childCategoryUrl":"https://vin777.giving/jual-jersey-sepak-bola-pria/"},{"childCategoryName":"Jersey Sepakbola Anak","childCategoryUrl":"https://vin777.giving/jual-jersey-sepak-bola-anak-laki-laki/"},{"childCategoryName":"Sepatu Sepakbola Anak","childCategoryUrl":"https://vin777.giving/jual-sepatu-sepak-bola/"},{"childCategoryName":"Sepatu Futsal Anak","childCategoryUrl":"https://vin777.giving/jual-sepatu-futsal/"},{"childCategoryName":"Bola","childCategoryUrl":"https://vin777.giving/bola-sepak-bola/"},{"childCategoryName":"Sarung Tangan Keeper","childCategoryUrl":"https://vin777.giving/sarung-tangan-kiper/"},{"childCategoryName":"Pelindung Lutut","childCategoryUrl":"https://vin777.giving/beli-pelindung-tulang-kering/"},{"childCategoryName":"Peralatan Latihan","childCategoryUrl":"https://vin777.giving/beli-peralatan-berlatih-dan-lapangan/"},{"childCategoryName":"Tas","childCategoryUrl":"https://vin777.giving/jual-tas-peralatan/"},{"childCategoryName":"Fan Merchandise Team International","childCategoryUrl":"https://vin777.giving/international-football-clubs-fan-merchandise/"}]
+                            [{"childCategoryName":"Sepatu Sepakbola","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-sepakbola-pria/"},{"childCategoryName":"Sepatu Futsal","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-futsal-pria/"},{"childCategoryName":"Jersey Sepakbola","childCategoryUrl":"https://www.lazada.co.id/jual-jersey-sepak-bola-pria/"},{"childCategoryName":"Jersey Sepakbola Anak","childCategoryUrl":"https://www.lazada.co.id/jual-jersey-sepak-bola-anak-laki-laki/"},{"childCategoryName":"Sepatu Sepakbola Anak","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-sepak-bola/"},{"childCategoryName":"Sepatu Futsal Anak","childCategoryUrl":"https://www.lazada.co.id/jual-sepatu-futsal/"},{"childCategoryName":"Bola","childCategoryUrl":"https://www.lazada.co.id/bola-sepak-bola/"},{"childCategoryName":"Sarung Tangan Keeper","childCategoryUrl":"https://www.lazada.co.id/sarung-tangan-kiper/"},{"childCategoryName":"Pelindung Lutut","childCategoryUrl":"https://www.lazada.co.id/beli-pelindung-tulang-kering/"},{"childCategoryName":"Peralatan Latihan","childCategoryUrl":"https://www.lazada.co.id/beli-peralatan-berlatih-dan-lapangan/"},{"childCategoryName":"Tas","childCategoryUrl":"https://www.lazada.co.id/jual-tas-peralatan/"},{"childCategoryName":"Fan Merchandise Team International","childCategoryUrl":"https://www.lazada.co.id/international-football-clubs-fan-merchandise/"}]
                         </script>
             </li>
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No12" data-spm="cate_12">
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_1">
-                <a href="https://vin777.giving/shop-auto-parts-spares/">
+                <a href="https://www.lazada.co.id/shop-auto-parts-spares/">
                     <span>Suku Cadang &amp; Peralatan Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_0">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Lampu, Bohlam & LED","childCategoryUrl":"https://vin777.giving/shop-bohlam-led-hid/"},{"childCategoryName":"Rem","childCategoryUrl":"https://vin777.giving/shop-automotive-brake-system/"},{"childCategoryName":"Suspensi","childCategoryUrl":"https://vin777.giving/shop-automotive-shocks-struts-suspension/"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"https://vin777.giving/shop-automotive-engine-parts/"},{"childCategoryName":"Suku Cadang Body","childCategoryUrl":"https://vin777.giving/shop-automotive-body-parts/"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"https://vin777.giving/shop-automotive-exhaust-emissions/"},{"childCategoryName":"Aki Mobil","childCategoryUrl":"https://vin777.giving/shop-automotive-batteries-accessories/"},{"childCategoryName":"Wiper & Aksesoris","childCategoryUrl":"https://vin777.giving/shop-automotive-windshield-wipers-washers/"},{"childCategoryName":"Klakson & Aksesoris","childCategoryUrl":"https://vin777.giving/shop-automotive-horns-accessories/"},{"childCategoryName":"Peralatan Pengapian & Kelistrikan","childCategoryUrl":"https://vin777.giving/shop-automotive-ignition-electrical/"},{"childCategoryName":"Peralatan & Suku Cadang Lainya","childCategoryUrl":"https://vin777.giving/shop-automotive-trim/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Lampu, Bohlam & LED","childCategoryUrl":"https://www.lazada.co.id/shop-bohlam-led-hid/"},{"childCategoryName":"Rem","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-brake-system/"},{"childCategoryName":"Suspensi","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-shocks-struts-suspension/"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-engine-parts/"},{"childCategoryName":"Suku Cadang Body","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-body-parts/"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-exhaust-emissions/"},{"childCategoryName":"Aki Mobil","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-batteries-accessories/"},{"childCategoryName":"Wiper & Aksesoris","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-windshield-wipers-washers/"},{"childCategoryName":"Klakson & Aksesoris","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-horns-accessories/"},{"childCategoryName":"Peralatan Pengapian & Kelistrikan","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-ignition-electrical/"},{"childCategoryName":"Peralatan & Suku Cadang Lainya","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-trim/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_2">
-                <a href="https://vin777.giving/aksesoris-interior-mobil/">
+                <a href="https://www.lazada.co.id/aksesoris-interior-mobil/">
                     <span>Aksesoris Interior Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_1">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"https://vin777.giving/pengharum-mobil/"},{"childCategoryName":"Jok & Trim","childCategoryUrl":"https://vin777.giving/shop-sarung-jok-aksesoris-kursi/"},{"childCategoryName":"Aksesoris Stir Mobil","childCategoryUrl":"https://vin777.giving/setir-mobil-dan-aksesoris/"},{"childCategoryName":"Persneling","childCategoryUrl":"https://vin777.giving/shop-automotive-shift-boots-knobs/"},{"childCategoryName":"Pedal","childCategoryUrl":"https://vin777.giving/shop-automotive-pedals-pedal-accessories/"},{"childCategoryName":"Spidometer & Pengukur","childCategoryUrl":"https://vin777.giving/alat-pengukur-kecepatan/"},{"childCategoryName":"Aksesoris Elektronik Interior","childCategoryUrl":"https://vin777.giving/shop-automotive-electrical-appliances/"},{"childCategoryName":"Aksesoris Interior Lainya","childCategoryUrl":"https://vin777.giving/shop-automotive-consoles-organizers/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"https://www.lazada.co.id/pengharum-mobil/"},{"childCategoryName":"Jok & Trim","childCategoryUrl":"https://www.lazada.co.id/shop-sarung-jok-aksesoris-kursi/"},{"childCategoryName":"Aksesoris Stir Mobil","childCategoryUrl":"https://www.lazada.co.id/setir-mobil-dan-aksesoris/"},{"childCategoryName":"Persneling","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-shift-boots-knobs/"},{"childCategoryName":"Pedal","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-pedals-pedal-accessories/"},{"childCategoryName":"Spidometer & Pengukur","childCategoryUrl":"https://www.lazada.co.id/alat-pengukur-kecepatan/"},{"childCategoryName":"Aksesoris Elektronik Interior","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-electrical-appliances/"},{"childCategoryName":"Aksesoris Interior Lainya","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-consoles-organizers/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_3">
-                <a href="https://vin777.giving/aksesoris-eksterior-mobil/">
+                <a href="https://www.lazada.co.id/aksesoris-eksterior-mobil/">
                     <span>Aksesoris Exterior Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_2">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Mobil","childCategoryUrl":"https://vin777.giving/penutup-mobil/"},{"childCategoryName":"Stiker & Emblems","childCategoryUrl":"https://vin777.giving/shop-stiker/"},{"childCategoryName":"Lis & Garnis","childCategoryUrl":"https://vin777.giving/shop-automotive-chrome-trim-accessories/"},{"childCategoryName":"Penutup Pelat Nomer","childCategoryUrl":"https://vin777.giving/shop-automotive-license-plate-covers-frames/"},{"childCategoryName":"Aksesoris Serbaguna","childCategoryUrl":"https://vin777.giving/shop-manajemen-kargo/"},{"childCategoryName":"Kaca Angin, Deflektor & Talang Air","childCategoryUrl":"https://vin777.giving/pelindung-dan-talang-air-mobil/"},{"childCategoryName":"Kaca & Aksesoris","childCategoryUrl":"https://vin777.giving/shop-automotive-exterior-mirrors/"},{"childCategoryName":"Spoiler, Sayap & Body Kit","childCategoryUrl":"https://vin777.giving/shop-automotive-spoilers-wings-styling-kits/"},{"childCategoryName":"Aksesoris Offroad","childCategoryUrl":"https://vin777.giving/shop-automotive-body-armor/"},{"childCategoryName":"Aksesoris Exterior Lainya","childCategoryUrl":"https://vin777.giving/shop-automotive-trailer-accessories/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Mobil","childCategoryUrl":"https://www.lazada.co.id/penutup-mobil/"},{"childCategoryName":"Stiker & Emblems","childCategoryUrl":"https://www.lazada.co.id/shop-stiker/"},{"childCategoryName":"Lis & Garnis","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-chrome-trim-accessories/"},{"childCategoryName":"Penutup Pelat Nomer","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-license-plate-covers-frames/"},{"childCategoryName":"Aksesoris Serbaguna","childCategoryUrl":"https://www.lazada.co.id/shop-manajemen-kargo/"},{"childCategoryName":"Kaca Angin, Deflektor & Talang Air","childCategoryUrl":"https://www.lazada.co.id/pelindung-dan-talang-air-mobil/"},{"childCategoryName":"Kaca & Aksesoris","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-exterior-mirrors/"},{"childCategoryName":"Spoiler, Sayap & Body Kit","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-spoilers-wings-styling-kits/"},{"childCategoryName":"Aksesoris Offroad","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-body-armor/"},{"childCategoryName":"Aksesoris Exterior Lainya","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-trailer-accessories/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_4">
-                <a href="https://vin777.giving/shop-elektronik/">
+                <a href="https://www.lazada.co.id/shop-elektronik/">
                     <span>Kamera Mobil, Audio &amp; Video</span>
                 </a>
                         <script type="text" class="J_data_11_3">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kamera Mobil & Aksesoris","childCategoryUrl":"https://vin777.giving/shop-kamera-mobil/"},{"childCategoryName":"Headunit","childCategoryUrl":"https://vin777.giving/shop-car-video-in-dash-navigation/"},{"childCategoryName":"Spiker","childCategoryUrl":"https://vin777.giving/shop-car-audio-speakers/"},{"childCategoryName":"Subwoofer","childCategoryUrl":"https://vin777.giving/shop-car-audio-subwoofers/"},{"childCategoryName":"Power, amplifier & Kapasitor Bank","childCategoryUrl":"https://vin777.giving/shop-car-audio-equalizers/"},{"childCategoryName":"GPS","childCategoryUrl":"https://vin777.giving/shop-motors-gps/"},{"childCategoryName":"Video, TV Aksesoris mobil","childCategoryUrl":"https://vin777.giving/shop-car-video/"},{"childCategoryName":"Aksesoris Audio & Video Lainya","childCategoryUrl":"https://vin777.giving/shop-audio-video-accessories/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kamera Mobil & Aksesoris","childCategoryUrl":"https://www.lazada.co.id/shop-kamera-mobil/"},{"childCategoryName":"Headunit","childCategoryUrl":"https://www.lazada.co.id/shop-car-video-in-dash-navigation/"},{"childCategoryName":"Spiker","childCategoryUrl":"https://www.lazada.co.id/shop-car-audio-speakers/"},{"childCategoryName":"Subwoofer","childCategoryUrl":"https://www.lazada.co.id/shop-car-audio-subwoofers/"},{"childCategoryName":"Power, amplifier & Kapasitor Bank","childCategoryUrl":"https://www.lazada.co.id/shop-car-audio-equalizers/"},{"childCategoryName":"GPS","childCategoryUrl":"https://www.lazada.co.id/shop-motors-gps/"},{"childCategoryName":"Video, TV Aksesoris mobil","childCategoryUrl":"https://www.lazada.co.id/shop-car-video/"},{"childCategoryName":"Aksesoris Audio & Video Lainya","childCategoryUrl":"https://www.lazada.co.id/shop-audio-video-accessories/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_5">
-                <a href="https://vin777.giving/shop-perawatan-mobil/">
+                <a href="https://www.lazada.co.id/shop-perawatan-mobil/">
                     <span>Perawatan &amp; Pengkilat Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_4">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"https://vin777.giving/pengharum-mobil/"},{"childCategoryName":"Pengkilat & Detailing Bodi","childCategoryUrl":"https://vin777.giving/shop-automotive-polishing-waxing-kits/"},{"childCategoryName":"Pelapis & Pembersih Kaca","childCategoryUrl":"https://vin777.giving/glass-care/"},{"childCategoryName":"Kompon & Penghilang Baret","childCategoryUrl":"https://vin777.giving/shop-automotive-polishing-rubbing-compounds/"},{"childCategoryName":"Cat Mobil","childCategoryUrl":"https://vin777.giving/shop-automotive-paints-primers/"},{"childCategoryName":"Perawatan Ban & Velg","childCategoryUrl":"https://vin777.giving/shop-automotive-tire-wheel-care/"},{"childCategoryName":"Perawatan Interior","childCategoryUrl":"https://vin777.giving/interior-care/"},{"childCategoryName":"Paket Perawatan Mobil","childCategoryUrl":"https://vin777.giving/shop-paket-perawatan-mobil/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"https://www.lazada.co.id/pengharum-mobil/"},{"childCategoryName":"Pengkilat & Detailing Bodi","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-polishing-waxing-kits/"},{"childCategoryName":"Pelapis & Pembersih Kaca","childCategoryUrl":"https://www.lazada.co.id/glass-care/"},{"childCategoryName":"Kompon & Penghilang Baret","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-polishing-rubbing-compounds/"},{"childCategoryName":"Cat Mobil","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-paints-primers/"},{"childCategoryName":"Perawatan Ban & Velg","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-tire-wheel-care/"},{"childCategoryName":"Perawatan Interior","childCategoryUrl":"https://www.lazada.co.id/interior-care/"},{"childCategoryName":"Paket Perawatan Mobil","childCategoryUrl":"https://www.lazada.co.id/shop-paket-perawatan-mobil/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_6">
-                <a href="https://vin777.giving/roda-dan-ban/">
+                <a href="https://www.lazada.co.id/roda-dan-ban/">
                     <span>Ban &amp; Velg Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_5">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Velg","childCategoryUrl":"https://vin777.giving/jual-roda/"},{"childCategoryName":"Ban","childCategoryUrl":"https://vin777.giving/jual-ban/"},{"childCategoryName":"Aksesoris Velg & Ban","childCategoryUrl":"https://vin777.giving/jual-aksesoris-roda-suku-cadang/"},{"childCategoryName":"Peralatan Velg & Ban","childCategoryUrl":"https://vin777.giving/shop-tire-parts-air-compressors-inflators/"},{"childCategoryName":"Servis & Pemasangan Velg, Ban","childCategoryUrl":"https://vin777.giving/shop-paket-ban-pelek/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Velg","childCategoryUrl":"https://www.lazada.co.id/jual-roda/"},{"childCategoryName":"Ban","childCategoryUrl":"https://www.lazada.co.id/jual-ban/"},{"childCategoryName":"Aksesoris Velg & Ban","childCategoryUrl":"https://www.lazada.co.id/jual-aksesoris-roda-suku-cadang/"},{"childCategoryName":"Peralatan Velg & Ban","childCategoryUrl":"https://www.lazada.co.id/shop-tire-parts-air-compressors-inflators/"},{"childCategoryName":"Servis & Pemasangan Velg, Ban","childCategoryUrl":"https://www.lazada.co.id/shop-paket-ban-pelek/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_7">
-                <a href="https://vin777.giving/oli-dan-pelumas/">
+                <a href="https://www.lazada.co.id/oli-dan-pelumas/">
                     <span>Oli &amp; Cairan Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_6">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Mobil","childCategoryUrl":"https://vin777.giving/shop-automotive-oils/"},{"childCategoryName":"Aditif & Penguat Bensin","childCategoryUrl":"https://vin777.giving/shop-automotive-auto-oils-fluids-additives/"},{"childCategoryName":"Pendingin Mesin","childCategoryUrl":"https://vin777.giving/shop-automotive-antifreezes-coolants/"},{"childCategoryName":"Pembersih Mesin","childCategoryUrl":"https://vin777.giving/shop-automotive-cleaners/"},{"childCategoryName":"Oli Powersteering","childCategoryUrl":"https://vin777.giving/shop-automotive-power-steering-fluids/"},{"childCategoryName":"Cairan & Oli Lainnya","childCategoryUrl":"https://vin777.giving/shop-automotive-greases-lubricants/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Mobil","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-oils/"},{"childCategoryName":"Aditif & Penguat Bensin","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-auto-oils-fluids-additives/"},{"childCategoryName":"Pendingin Mesin","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-antifreezes-coolants/"},{"childCategoryName":"Pembersih Mesin","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-cleaners/"},{"childCategoryName":"Oli Powersteering","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-power-steering-fluids/"},{"childCategoryName":"Cairan & Oli Lainnya","childCategoryUrl":"https://www.lazada.co.id/shop-automotive-greases-lubricants/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_8">
-                <a href="https://vin777.giving/shop-motorcycle-riding-gear/">
+                <a href="https://www.lazada.co.id/shop-motorcycle-riding-gear/">
                     <span>Perlengkapan Berkendara &amp; Helm</span>
                 </a>
                         <script type="text" class="J_data_11_7">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Helm","childCategoryUrl":"https://vin777.giving/helmets-automotive/"},{"childCategoryName":"Jaket & Pelindung","childCategoryUrl":"https://vin777.giving/jackets/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://vin777.giving/shop-motorcycle-riding-gear-gloves/"},{"childCategoryName":"Sepatu & Boot","childCategoryUrl":"https://vin777.giving/shop-motorcycle-riding-gear-footwear/"},{"childCategoryName":"Masker & Pelindung Wajah","childCategoryUrl":"https://vin777.giving/shop-motorcycle-riding-gear-face-masks/"},{"childCategoryName":"Kacamata Angin","childCategoryUrl":"https://vin777.giving/shop-motorcycle-riding-gear-eyewear/"},{"childCategoryName":"Peralatan Hujan","childCategoryUrl":"https://vin777.giving/shop-pakaian-hujan/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Helm","childCategoryUrl":"https://www.lazada.co.id/helmets-automotive/"},{"childCategoryName":"Jaket & Pelindung","childCategoryUrl":"https://www.lazada.co.id/jackets/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-riding-gear-gloves/"},{"childCategoryName":"Sepatu & Boot","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-riding-gear-footwear/"},{"childCategoryName":"Masker & Pelindung Wajah","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-riding-gear-face-masks/"},{"childCategoryName":"Kacamata Angin","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-riding-gear-eyewear/"},{"childCategoryName":"Peralatan Hujan","childCategoryUrl":"https://www.lazada.co.id/shop-pakaian-hujan/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_9">
-                <a href="https://vin777.giving/shop-motorcycle-parts-spares/">
+                <a href="https://www.lazada.co.id/shop-motorcycle-parts-spares/">
                     <span>Suku Cadang &amp; Peralatan Motor</span>
                 </a>
                         <script type="text" class="J_data_11_8">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Bohlam, LED & Rumah Lampu","childCategoryUrl":"https://vin777.giving/shop-penerangan/"},{"childCategoryName":"Rem & Suspensi","childCategoryUrl":"https://vin777.giving/shop-motorcycle-brakes-suspension/"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"https://vin777.giving/moto-knalpot-system-pembuangan/"},{"childCategoryName":"Aki Motor & Aksesoris","childCategoryUrl":"https://vin777.giving/shop-moto-batteries-accessories/"},{"childCategoryName":"Kaca / Cermin","childCategoryUrl":"https://vin777.giving/shop-motorcycle-mirrors/"},{"childCategoryName":"Filter Motor","childCategoryUrl":"https://vin777.giving/shop-saringan-udara/"},{"childCategoryName":"Suku Cadang Bodi & Rangka","childCategoryUrl":"https://vin777.giving/shop-motorcycle-body-frame/"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"https://vin777.giving/shop-motorcycle-drivetrain-transmission/"},{"childCategoryName":"Busi","childCategoryUrl":"https://vin777.giving/shop-busi-motor/"},{"childCategoryName":"Suku Cadang Motor Lainnya","childCategoryUrl":"https://vin777.giving/shop-motorcycle-stands-accessories/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Bohlam, LED & Rumah Lampu","childCategoryUrl":"https://www.lazada.co.id/shop-penerangan/"},{"childCategoryName":"Rem & Suspensi","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-brakes-suspension/"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"https://www.lazada.co.id/moto-knalpot-system-pembuangan/"},{"childCategoryName":"Aki Motor & Aksesoris","childCategoryUrl":"https://www.lazada.co.id/shop-moto-batteries-accessories/"},{"childCategoryName":"Kaca / Cermin","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-mirrors/"},{"childCategoryName":"Filter Motor","childCategoryUrl":"https://www.lazada.co.id/shop-saringan-udara/"},{"childCategoryName":"Suku Cadang Bodi & Rangka","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-body-frame/"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-drivetrain-transmission/"},{"childCategoryName":"Busi","childCategoryUrl":"https://www.lazada.co.id/shop-busi-motor/"},{"childCategoryName":"Suku Cadang Motor Lainnya","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-stands-accessories/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_10">
-                <a href="https://vin777.giving/shop-motorcycle-exterior-accessories/">
+                <a href="https://www.lazada.co.id/shop-motorcycle-exterior-accessories/">
                     <span>Aksesoris &amp; Elektronik Motor</span>
                 </a>
                         <script type="text" class="J_data_11_9">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Jok","childCategoryUrl":"https://vin777.giving/shop-sarung-jok/"},{"childCategoryName":"Stiker & Emblem","childCategoryUrl":"https://vin777.giving/shop-stiker-emblem/"},{"childCategoryName":"Pengukur","childCategoryUrl":"https://vin777.giving/shop-indikator/"},{"childCategoryName":"Aksesoris Elektronik","childCategoryUrl":"https://vin777.giving/shop-motorcycle-electronics/"},{"childCategoryName":"Pelindung Plat Nomor","childCategoryUrl":"https://vin777.giving/shop-frame-plat-nomor/"},{"childCategoryName":"Sarung Motor","childCategoryUrl":"https://vin777.giving/shop-motorcycle-covers/"},{"childCategoryName":"Windshield & Aksesoris","childCategoryUrl":"https://vin777.giving/shop-motorcycle-windshields-accessories/"},{"childCategoryName":"Bagasi Penyimpanan & Bantalan","childCategoryUrl":"https://vin777.giving/shop-motorcycle-luggage-saddlebags/"},{"childCategoryName":"Aksesoris & Elektronik Motor Lainny","childCategoryUrl":"https://vin777.giving/shop-motorcycle-racks/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Jok","childCategoryUrl":"https://www.lazada.co.id/shop-sarung-jok/"},{"childCategoryName":"Stiker & Emblem","childCategoryUrl":"https://www.lazada.co.id/shop-stiker-emblem/"},{"childCategoryName":"Pengukur","childCategoryUrl":"https://www.lazada.co.id/shop-indikator/"},{"childCategoryName":"Aksesoris Elektronik","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-electronics/"},{"childCategoryName":"Pelindung Plat Nomor","childCategoryUrl":"https://www.lazada.co.id/shop-frame-plat-nomor/"},{"childCategoryName":"Sarung Motor","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-covers/"},{"childCategoryName":"Windshield & Aksesoris","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-windshields-accessories/"},{"childCategoryName":"Bagasi Penyimpanan & Bantalan","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-luggage-saddlebags/"},{"childCategoryName":"Aksesoris & Elektronik Motor Lainny","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-racks/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_11">
-                <a href="https://vin777.giving/shop-motorcycle-oils-fluids/">
+                <a href="https://www.lazada.co.id/shop-motorcycle-oils-fluids/">
                     <span>Ban, Velg, Oli &amp; Cairan Motor</span>
                 </a>
                         <script type="text" class="J_data_11_10">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Motor","childCategoryUrl":"https://vin777.giving/shop-oli-mesin/"},{"childCategoryName":"Oli Rem Motor","childCategoryUrl":"https://vin777.giving/shop-motorcycle-brake-fluid/"},{"childCategoryName":"Oli Transmisi Motor","childCategoryUrl":"https://vin777.giving/shop-oligirboks/"},{"childCategoryName":"Pendingin Motor","childCategoryUrl":"https://vin777.giving/shop-coolant/"},{"childCategoryName":"Aditif & Penguat Bensin Motor","childCategoryUrl":"https://vin777.giving/shop-pembersih/"},{"childCategoryName":"Pelumas Motor","childCategoryUrl":"https://vin777.giving/shop-pelumas-dan-gemuk/"},{"childCategoryName":"Ban & Velg Motor","childCategoryUrl":"https://vin777.giving/jual-roda-ban-motor/"},{"childCategoryName":"Oli & Cairan Motor Lainnya","childCategoryUrl":"https://vin777.giving/shop-oli-shock-breaker/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Motor","childCategoryUrl":"https://www.lazada.co.id/shop-oli-mesin/"},{"childCategoryName":"Oli Rem Motor","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-brake-fluid/"},{"childCategoryName":"Oli Transmisi Motor","childCategoryUrl":"https://www.lazada.co.id/shop-oligirboks/"},{"childCategoryName":"Pendingin Motor","childCategoryUrl":"https://www.lazada.co.id/shop-coolant/"},{"childCategoryName":"Aditif & Penguat Bensin Motor","childCategoryUrl":"https://www.lazada.co.id/shop-pembersih/"},{"childCategoryName":"Pelumas Motor","childCategoryUrl":"https://www.lazada.co.id/shop-pelumas-dan-gemuk/"},{"childCategoryName":"Ban & Velg Motor","childCategoryUrl":"https://www.lazada.co.id/jual-roda-ban-motor/"},{"childCategoryName":"Oli & Cairan Motor Lainnya","childCategoryUrl":"https://www.lazada.co.id/shop-oli-shock-breaker/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_12">
-                <a href="https://vin777.giving/mobil-motor/">
+                <a href="https://www.lazada.co.id/mobil-motor/">
                     <span>Kendaraan</span>
                 </a>
                         <script type="text" class="J_data_11_11">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Mobil","childCategoryUrl":"https://vin777.giving/shop-mobil/"},{"childCategoryName":"Motor","childCategoryUrl":"https://vin777.giving/shop-sepeda-motor-skuter/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Mobil","childCategoryUrl":"https://www.lazada.co.id/shop-mobil/"},{"childCategoryName":"Motor","childCategoryUrl":"https://www.lazada.co.id/shop-sepeda-motor-skuter/"}]
                         </script>
             </li>
         </ul>
@@ -3175,31 +3079,33 @@
             </div>
         </div>
         <nav class="lzd-menu-labels" data-spm="menu">
-            <a class="lzd-menu-labels-item" href="https://vin777.giving/">
+            <a class="lzd-menu-labels-item" href="https://www.novaluz.pt/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
+                    <img alt="Situs SLOT ASIA" class="lzd-site-nav-menu-iconfont-img" src="https://i.imgur.com/5FIYYJA.png">
                 </span>
-                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-SLOT GACOR">&#xe629;</i>-->
-                <span class="lzd-menu-labels-item-text">SLOT GACOR</span>
+                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
+                <span class="lzd-menu-labels-item-text">SLOT ASIA</span>
             </a>
-            <a class="lzd-menu-labels-item" href="https://vin777.giving/">
+            <a class="lzd-menu-labels-item" href="https://www.novaluz.pt/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1Je4vhRr0gK0jSZFnXXbRRXXa.png" data-pagespeed-url-hash="611565874" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://i.imgur.com/5FIYYJA.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
-                        <span class="lzd-menu-labels-item-text">Pulsa &amp; Tagihan</span>
+                        <span class="lzd-menu-labels-item-text">Slot</span>
             </a>
-            <a class="lzd-menu-labels-item" href="https://vin777.giving/">
+            <a class="lzd-menu-labels-item" href="https://www.novaluz.pt/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1x8lvhHj1gK0jSZFuXXcrHpXa.png" data-pagespeed-url-hash="4146563714" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://i.imgur.com/5FIYYJA.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
-                        <span class="lzd-menu-labels-item-text">Voucher &amp; Diskon</span>
+                        <span class="lzd-menu-labels-item-text">Slot Online</span>
             </a>
-            <a class="lzd-menu-labels-item" href="https://vin777.giving/">
+            <a class="lzd-menu-labels-item" href="https://www.novaluz.pt/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
+                    <img alt="SLOT ASIA" class="lzd-site-nav-menu-iconfont-img" src="https://i.imgur.com/5FIYYJA.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
-                <span class="lzd-menu-labels-item-text">SITUS SLOT GACOR</span>
+                <span class="lzd-menu-labels-item-text">SLOT ASIA Gampang Menang</span>
             </a>
         </nav>
     </div>
@@ -3207,94 +3113,415 @@
   </div>
     </div>
   </div>
-  <script>function generateUUID(){var d=new Date().getTime();var uuid='xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g,function(c){var r=((d+Math.random()*16)%16)|0;d=Math.floor(d/16);return(c=='x'?r:(r&0x7)|0x8).toString(16);});return uuid;}var lzdDocCookies={getItem:function(sKey){return(decodeURIComponent(document.cookie.replace(new RegExp('(?:(?:^|.*;)\\s*'+encodeURIComponent(sKey).replace(/[\-\.\+\*]/g,'\\$&')+'\\s*\\=\\s*([^;]*).*$)|^.*$'),'$1'))||null);},setItem:function(sKey,sValue,vEnd,sPath,sDomain,bSecure){if(!sKey||/^(?:expires|max\-age|path|domain|secure)$/i.test(sKey)){return false;}var sExpires='';var exdate=new Date();exdate.setDate(exdate.getDate()+vEnd);sExpires=';expires='+exdate.toGMTString();document.cookie=encodeURIComponent(sKey)+'='+encodeURIComponent(sValue)+sExpires+(sDomain?'; domain='+sDomain:'')+(sPath?'; path='+sPath:'; path=/')+(bSecure?'; secure':'');return true;},hasItem:function(sKey){if(!sKey){return false;}return new RegExp('(?:^|;\\s*)'+encodeURIComponent(sKey).replace(/[\-\.\+\*]/g,'\\$&')+'\\s*\\=').test(document.cookie);},removeItem:function(sKey,sPath,sDomain){if(!this.hasItem(sKey)){return false;}document.cookie=encodeURIComponent(sKey)+'=; expires=Thu, 01 Jan 1970 00:00:00 GMT'+(sDomain?'; domain='+sDomain:'')+(sPath?'; path='+sPath:'; path=/');return true;}};var LZD_HOST_ARRAY=['.lazada.co.id','.lazada.com.my','.lazada.com.ph','.lazada.sg','.lazada.co.th','.lazada.vn','.daraz.com.bd','.daraz.lk','.shop.com.mm','.daraz.com.np','.daraz.pk','.lazada.test'];var currentDomain='.lazada.sg';var UUID=generateUUID();var t_uid=lzdDocCookies.getItem('t_uid');var anon_uid=lzdDocCookies.getItem('anon_uid');for(var i=0;i<LZD_HOST_ARRAY.length;i++){if(window.location.host.indexOf(LZD_HOST_ARRAY[i])>-1){currentDomain=LZD_HOST_ARRAY[i];}}if(!lzdDocCookies.getItem('lzd_cid')){lzdDocCookies.setItem('lzd_cid',UUID,365,null,currentDomain);}if(!lzdDocCookies.getItem('t_uid')){if(anon_uid){lzdDocCookies.setItem('t_uid',anon_uid,365,null,currentDomain);}else{lzdDocCookies.setItem('t_uid',UUID,365,null,currentDomain);}}</script>
+  <script>
+function generateUUID() {
+  var d = new Date().getTime();
+  var uuid = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(
+    c
+  ) {
+    var r = ((d + Math.random() * 16) % 16) | 0;
+    d = Math.floor(d / 16);
+    return (c == 'x' ? r : (r & 0x7) | 0x8).toString(16);
+  });
+  return uuid;
+}
+var lzdDocCookies = {
+  getItem: function(sKey) {
+    return (
+      decodeURIComponent(
+        document.cookie.replace(
+          new RegExp(
+            '(?:(?:^|.*;)s*' +
+              encodeURIComponent(sKey).replace(/[-.+*]/g, '$&') +
+              's*=s*([^;]*).*$)|^.*$'
+          ),
+          '$1'
+        )
+      ) || null
+    );
+  },
+  setItem: function(sKey, sValue, vEnd, sPath, sDomain, bSecure) {
+    if (!sKey || /^(?:expires|max-age|path|domain|secure)$/i.test(sKey)) {
+      return false;
+    }
+    var sExpires = '';
+    var exdate = new Date();
+    exdate.setDate(exdate.getDate() + vEnd);
+    sExpires = ';expires=' + exdate.toGMTString();
+    document.cookie =
+      encodeURIComponent(sKey) +
+      '=' +
+      encodeURIComponent(sValue) +
+      sExpires +
+      (sDomain ? '; domain=' + sDomain : '') +
+      (sPath ? '; path=' + sPath : '; path=/') +
+      (bSecure ? '; secure' : '');
+    return true;
+  },
+  hasItem: function(sKey) {
+    if (!sKey) {
+      return false;
+    }
+    return new RegExp(
+      '(?:^|;s*)' +
+        encodeURIComponent(sKey).replace(/[-.+*]/g, '$&') +
+        's*='
+    ).test(document.cookie);
+  },
+  removeItem: function(sKey, sPath, sDomain) {
+    if (!this.hasItem(sKey)) {
+      return false;
+    }
+    document.cookie =
+      encodeURIComponent(sKey) +
+      '=; expires=Thu, 01 Jan 1970 00:00:00 GMT' +
+      (sDomain ? '; domain=' + sDomain : '') +
+      (sPath ? '; path=' + sPath : '; path=/');
+    return true;
+  }
+};
+var LZD_HOST_ARRAY = [
+  '.lazada.co.id',
+  '.lazada.com.my',
+  '.lazada.com.ph',
+  '.lazada.sg',
+  '.lazada.co.th',
+  '.lazada.vn',
+  '.daraz.com.bd',
+  '.daraz.lk',
+  '.shop.com.mm',
+  '.daraz.com.np',
+  '.daraz.pk',
+  '.lazada.test'
+];
+var currentDomain = '.lazada.sg';
+var UUID = generateUUID();
+var t_uid = lzdDocCookies.getItem('t_uid');
+var anon_uid = lzdDocCookies.getItem('anon_uid');
+for (var i = 0; i < LZD_HOST_ARRAY.length; i++) {
+  if (window.location.host.indexOf(LZD_HOST_ARRAY[i]) > -1) {
+    currentDomain = LZD_HOST_ARRAY[i];
+  }
+}
+if (!lzdDocCookies.getItem('lzd_cid')) {
+  lzdDocCookies.setItem('lzd_cid', UUID, 365, null, currentDomain);
+}
+if (!lzdDocCookies.getItem('t_uid')) {
+  if (anon_uid) {
+    lzdDocCookies.setItem('t_uid', anon_uid, 365, null, currentDomain);
+  } else {
+    lzdDocCookies.setItem('t_uid', UUID, 365, null, currentDomain);
+  }
+}
+</script>
 </div>
   </div>
 <input type="hidden" id="header-pc-config" value="{&quot;voyagerVersion&quot;:&quot;2&quot;,&quot;voyagerEnv&quot;:&quot;product&quot;,&quot;assetsRefactor&quot;:false,&quot;regionID&quot;:&quot;ID&quot;,&quot;language&quot;:&quot;id&quot;,&quot;react&quot;:false,&quot;needUmid&quot;:false,&quot;channel&quot;:&quot;pdp&quot;,&quot;customName&quot;:&quot;default&quot;,&quot;version&quot;:{&quot;nav&quot;:&quot;5.2.32&quot;,&quot;search&quot;:&quot;0.4.11&quot;,&quot;menu&quot;:&quot;5.0.45&quot;,&quot;menuNav&quot;:&quot;5.0.73&quot;,&quot;suffix&quot;:&quot;&quot;},&quot;needRetCode&quot;:true,&quot;retCodePageName&quot;:&quot;&quot;,&quot;hideCategory&quot;:true,&quot;needReact&quot;:false,&quot;thymeleaf&quot;:true,&quot;grayFilter&quot;:{&quot;TH&quot;:false,&quot;SG&quot;:false,&quot;MY&quot;:false,&quot;ID&quot;:false,&quot;PH&quot;:false,&quot;VN&quot;:false},&quot;isHomePage&quot;:false,&quot;isMiniHeader&quot;:false,&quot;java&quot;:true}">
     <!-- Floating Cart UMD -->
-    <script>window.__LIB_CART_SCENE__='pdp';window.__LIB_CART_VERSION__='1.0.16';window.__LIB_CART_ASSETS_ENV__='product';</script>
+    <script>
+        window.__LIB_CART_SCENE__ = 'pdp';
+        window.__LIB_CART_VERSION__ = '1.0.16';
+        window.__LIB_CART_ASSETS_ENV__ = 'product';
+    </script>
     <!-- PC Login / Signup Popup UMD -->
     <!-- online version -->
-    <script>window.__LIB_LOGIN_SIGNUP_POPUP_VERSION__='0.0.4';</script>  
+    <script>
+        window.__LIB_LOGIN_SIGNUP_POPUP_VERSION__ = '0.0.4';
+    </script>  
   <div id="pdp-nav">
     <div>
   <div>
-    <style>.breadcrumb_list{width:1188px;height:48px;border-bottom:1px solid #3352ed;margin:0 auto;overflow:hidden;text-overflow:ellipsis}.breadcrumb_list_empty{height:0;border:none;overflow:hidden}.breadcrumb_list .breadcrumb{padding-left:0;margin-left:-4px;height:48px;vertical-align:middle;display:inline-block;white-space:nowrap}.breadcrumb_list .breadcrumb .breadcrumb_item{position:relative;display:table-cell;vertical-align:middle;font-size:13px;font-weight:300;height:48px}.breadcrumb_list .breadcrumb .breadcrumb_item .breadcrumb_item_text{vertical-align:middle;padding:0;margin:0;line-height:100%;display:inline-block;font-weight:300}.breadcrumb_list .breadcrumb .breadcrumb_item .breadcrumb_item_text .breadcrumb_item_anchor{display:inline-block;vertical-align:middle;color:#1a9cb7;padding:0 4px;font-size:14px;font-family:Roboto-Regular,Helvetica,Arial,sans-serif;max-width:200px;white-space:nowrap;line-height:16px;overflow:hidden;text-overflow:ellipsis}.breadcrumb_list .breadcrumb .breadcrumb_item .breadcrumb_item_text .breadcrumb_item_anchor_last{color:#757575;max-width:none;height:16px;line-height:16px;white-space:normal}.breadcrumb_list .breadcrumb .breadcrumb_item .breadcrumb_item_text .breadcrumb_right_arrow{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAACKUExURUxpcYGBgYGBgYWFhYCAgICAgICAgIKCgv///4GBgZWVlYyMjIGBgYCAgIKCgoGBgYGBgaqqqoODg7+/v4GBgZKSko6OjoGBgYWFhYGBgYSEhIGBgZmZmYCAgIGBgYGBgYCAgICAgIGBgYCAgICAgIiIiICAgIeHh4GBgYSEhIODg4GBgYGBgYCAgPLijmAAAAAtdFJOUwCS7jCDi/E1AbYMFJrrK9ToAycEugcJtBfYG64Fp+S+vb+god0e4SLcHyPgwPJLUkAAAAB6SURBVDjLY2AYYoCdkwu/AgVdHTG8Crj5dUVE8aqQkNQVl8GrQkpDV1oYrwpVbV1ZQbwq1OV0lTnwqhAS0OXBr4KPV5cRf3AwM+myEghRNl0WihQQsoKQIwl5U0tOVwmfvKYa/qCWUsEfWYSim2CCkddVFKMs0Q5aAABM4wlSQJ87yAAAAABJRU5ErkJggg==);background-repeat:no-repeat;background-size:contain;display:inline-block;width:16px;height:16px;vertical-align:middle}</style>
-  <style>.baxia-dialog{display:none!important}</style> 
+    <style>
+      .breadcrumb_list {
+        width: 1188px;
+        height: 48px;
+        border-bottom: 1px solid #8188ad;
+        margin: 0 auto;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+
+      .breadcrumb_list_empty {
+        height: 0;
+        border: none;
+        overflow: hidden;
+      }
+
+      .breadcrumb_list .breadcrumb {
+        padding-left: 0;
+        margin-left: -4px;
+        height: 48px;
+        vertical-align: middle;
+        display: inline-block;
+        white-space: nowrap;
+      }
+
+      .breadcrumb_list .breadcrumb .breadcrumb_item {
+        position: relative;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 13px;
+        font-weight: 300;
+        height: 48px;
+      }
+
+      .breadcrumb_list .breadcrumb .breadcrumb_item .breadcrumb_item_text {
+        vertical-align: middle;
+        padding: 0;
+        margin: 0;
+        line-height: 100%;
+        display: inline-block;
+        font-weight: 300;
+      }
+
+      .breadcrumb_list .breadcrumb .breadcrumb_item .breadcrumb_item_text .breadcrumb_item_anchor {
+        display: inline-block;
+        vertical-align: middle;
+        color: #1a9cb7;
+        padding: 0 4px;
+        font-size: 14px;
+        font-family: Roboto-Regular, Helvetica, Arial, sans-serif;
+        max-width: 200px;
+        white-space: nowrap;
+        line-height: 16px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+
+      .breadcrumb_list .breadcrumb .breadcrumb_item .breadcrumb_item_text .breadcrumb_item_anchor_last {
+        color: #757575;
+        max-width: none;
+        height: 16px;
+        line-height: 16px;
+        white-space: normal;
+      }
+
+      .breadcrumb_list .breadcrumb .breadcrumb_item .breadcrumb_item_text .breadcrumb_right_arrow {
+        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAACKUExURUxpcYGBgYGBgYWFhYCAgICAgICAgIKCgv///4GBgZWVlYyMjIGBgYCAgIKCgoGBgYGBgaqqqoODg7+/v4GBgZKSko6OjoGBgYWFhYGBgYSEhIGBgZmZmYCAgIGBgYGBgYCAgICAgIGBgYCAgICAgIiIiICAgIeHh4GBgYSEhIODg4GBgYGBgYCAgPLijmAAAAAtdFJOUwCS7jCDi/E1AbYMFJrrK9ToAycEugcJtBfYG64Fp+S+vb+god0e4SLcHyPgwPJLUkAAAAB6SURBVDjLY2AYYoCdkwu/AgVdHTG8Crj5dUVE8aqQkNQVl8GrQkpDV1oYrwpVbV1ZQbwq1OV0lTnwqhAS0OXBr4KPV5cRf3AwM+myEghRNl0WihQQsoKQIwl5U0tOVwmfvKYa/qCWUsEfWYSim2CCkddVFKMs0Q5aAABM4wlSQJ87yAAAAABJRU5ErkJggg==);
+        background-repeat: no-repeat;
+        background-size: contain;
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        vertical-align: middle;
+      }
+    </style>
+  <style>
+  .baxia-dialog { 
+ display: none!important; 
+ } 
+ </style> 
     <div data-spm="breadcrumb" id="J_breadcrumb_list" class="breadcrumb_list breadcrumb_custom_cls">
       <ul class="breadcrumb" id="J_breadcrumb">
         
       </ul>
     </div>
-    <script>function htmlEncodePdp(input){var el=document.createElement("div");el.innerText=input;return el.innerHTML;};window.LZD=window.LZD||{};window.LZD.updateBreadcrumb=function(list){if(!list||!list instanceof Array){return;}var parentNode=document.getElementById('J_breadcrumb');while(parentNode.hasChildNodes()){parentNode.removeChild(parentNode.firstChild);}var size=list.length;for(var i=0;i<size;i++){var item=list[i];item.title=htmlEncodePdp(item.title);var liNode=document.createElement("li");liNode.className='breadcrumb_item';if(i===size-1){liNode.innerHTML='<span class="breadcrumb_item_text">'+'<span class="breadcrumb_item_anchor breadcrumb_item_anchor_last">'+item.title+'</span>'+'</span>';}else{if(item.url){item.url=window.location.host.indexOf('h5.lazada.')>-1?item.url.replace('www.lazada.','h5.lazada.'):item.url;}liNode.innerHTML='<span class="breadcrumb_item_text">'+'<a title="'+item.title+'" href="'+item.url+'" class="breadcrumb_item_anchor">'+'<span>'+item.title+'</span>'+'</a>'+'<div class="breadcrumb_right_arrow"></div>'+'</span>';}parentNode.appendChild(liNode);}var breadcrumbListNode=document.getElementById('J_breadcrumb_list');var cls=breadcrumbListNode.className;if(size===0){if(cls.indexOf('breadcrumb_list_empty')<0){breadcrumbListNode.className='breadcrumb_list_empty';}}else{breadcrumbListNode.className='breadcrumb_list';}}</script>
+    <script>
+      function htmlEncodePdp(input) {
+        var el = document.createElement("div");
+        el.innerText = input;
+        return el.innerHTML;
+      };
+      window.LZD = window.LZD || {};
+      window.LZD.updateBreadcrumb = function (list) {
+        if (!list || !list instanceof Array) {
+          return;
+        }
+        var parentNode = document.getElementById('J_breadcrumb');
+        while (parentNode.hasChildNodes()) {
+          parentNode.removeChild(parentNode.firstChild);
+        }
+        var size = list.length;
+        for (var i = 0; i < size; i++) {
+          var item = list[i];
+          item.title = htmlEncodePdp(item.title);
+          var liNode = document.createElement("li");
+          liNode.className = 'breadcrumb_item';
+          if (i === size - 1) {
+            liNode.innerHTML = '<span class="breadcrumb_item_text">' +
+              '<span class="breadcrumb_item_anchor breadcrumb_item_anchor_last">' + item.title + '</span>' +
+              '</span>';
+          } else {
+            if(item.url) {
+              item.url = window.location.host.indexOf('h5.lazada.') > -1 ? item.url.replace('www.lazada.', 'h5.lazada.') : item.url;
+            }
+            liNode.innerHTML = '<span class="breadcrumb_item_text">' +
+              '<a title="' + item.title + '" href="' + item.url + '" class="breadcrumb_item_anchor">' +
+              '<span>' + item.title + '</span>' +
+              '</a>' +
+              '<div class="breadcrumb_right_arrow"></div>' +
+              '</span>';
+          }
+          parentNode.appendChild(liNode);
+        }
+        var breadcrumbListNode = document.getElementById('J_breadcrumb_list');
+        var cls = breadcrumbListNode.className;
+        if (size === 0) {
+          if (cls.indexOf('breadcrumb_list_empty') < 0) {
+            breadcrumbListNode.className = 'breadcrumb_list_empty';
+          }
+        } else {
+          breadcrumbListNode.className = 'breadcrumb_list';
+        }
+      }
+    </script>
   </div>
 </div>
 
-  </div>
+  </div><a href="https://www.novaluz.pt" style="display: none;">slot</a>
   <div id="container" style="visibility: visible;">
-    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="Slot Asia - Login Maxwin dengan Winrate Tertinggi Slot, Slot Tergacor & Terpopuler di ASIA" src="https://i.imgur.com/LYoP8gD.png" data-pagespeed-url-hash="4235623739" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></div><p><a href="https://asiap.me/sengref"><img style="display: block; margin-left: auto; margin-right: auto;" title="SLOT GACOR" src="https://i.imgur.com/4i8jgcg.gif" width="100%" height="auto" data-pagespeed-url-hash="1934530767" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a></p></div>
-	
-	
-	
-	<div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider"><div class="next-slick-inner next-slick-initialized" draggable="true"><div class="next-slick-list"><div class="next-slick-track"><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail item-gallery__thumbnail_state_active" lazada_pdp_gallery_tpp_track="gallery" main_image_number="1" data-index="0" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div></div></div><div data-role="none" class="next-slick-arrow next-slick-prev outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-left next-icon-medium"></i></div><div data-role="none" class="next-slick-arrow next-slick-next outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-right next-icon-medium"></i></div></div></div></div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">Slot Asia - Login Maxwin dengan Winrate Tertinggi Slot, Slot Tergacor & Terpopuler di ASIA</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png" data-pagespeed-url-hash="3678877346" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png" data-pagespeed-url-hash="3678877346" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png" data-pagespeed-url-hash="3678877346" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png" data-pagespeed-url-hash="3678877346" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png" data-pagespeed-url-hash="3678877346" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="12anj4u.pdp_revamp.0.0">8.832.900 Penilaian</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://vin777.giving/">SLOT ASIA</a><div class="pdp-product-brand__divider"></div></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price">
-	
-<p style="text-align: justify;"><a href="https://vin777.giving/">Slot ASIA</a> tuh tempat paling epic buat lo yang doyan nge-spin slot dan mau cari peluang Maxwin dengan winrate paling tinggi se-Asia! Di sini, game-game slotnya banyak yang gacor dan punya RTP tinggi, jadi pas banget buat yang ngincer jackpot gede. Situs ini juga nyediain game dari provider terkenal, jadi lo gak bakal bosen sama pilihannya. Pokoknya, buat lo yang pengen ngerasain vibes menang gede, Slot Asia tempatnya.</p>
+       <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="SLOT ASIA ™ Pragmatic Play X5000 Link Slot Asia Online Maxwin Gacor Parah Anti Kalah" src="https://i.imgur.com/HSXU0HP.png"/></div></div><a href="https://asiap.me/sengref" rel="nofollow noopener" target="_blank"><img src="https://i.imgur.com/8zBYaSL.gif" width="100%" height="auto" alt=""></a><div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider"><div class="next-slick-inner next-slick-initialized" draggable="true"><div class="next-slick-list"><div class="next-slick-track"><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail item-gallery__thumbnail_state_active" lazada_pdp_gallery_tpp_track="gallery" main_image_number="1" data-index="0" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div></div></div><div data-role="none" class="next-slick-arrow next-slick-prev outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-left next-icon-medium"></i></div><div data-role="none" class="next-slick-arrow next-slick-next outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-right next-icon-medium"></i></div></div></div></div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">SLOT ASIA ™ Pragmatic Play X5000 Link Slot Asia Online Maxwin Gacor Parah Anti Kalah</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">888.888.888 Penilaian</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://www.novaluz.pt/">SLOT ASIA</a><div class="pdp-product-brand__divider"></div><div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://asiap.me/sengref"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">LOGIN 🚀</span></button></a><a href="https://asiap.me/sengref" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">DAFTAR 🚀</span></span></button></a><form method="post" action=""><input name="buyParams" type="hidden" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;3642482616&quot;,&quot;skuId&quot;:&quot;6108584955&quot;,&quot;quantity&quot;:1,&quot;attributes&quot;:null}]}"></form></div></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price">
 
-
-<h1 style="text-align: justify;" itemprop="headline">Kenapa harus pilih Slot Asia</h1>
+<p style="text-align: justify;"><a href="https://www.novaluz.pt/" style="text-align: inherit;">Slot Asia</a> hadir buat lo yang suka nge-spin game dari Pragmatic Play dengan peluang maxwin gila-gilaan hingga X5000! Dengan Link Slot Asia Online, lo bakal dapetin akses ke game-game slot yang gacor parah dan punya winrate super tinggi. Fitur bonusnya melimpah, scatternya sering muncul, dan RTP-nya bikin lo betah main. Anti kalah, anti rungkad, Slot Asia jadi pilihan wajib buat yang cari cuan sambil seru-seruan. Yuk, gas sekarang dan rasain sendiri jackpot maxwin yang nunggu lo</p>
 <p><br></p>
-<p style="text-align: justify;" itemprop="headline">jawabannya simpel—Slot Asia itu tempat yang punya winrate tinggi, banyak game gacor, dan RTP yang legit buat lo yang mau cari kemenangan serius. Dari segi game, pilihannya nggak main-main karena slot-slotnya disuplai langsung dari provider terkenal. Jadi lo bisa pilih game yang paling pas lo.</p>
+<h1 style="text-align: justify;" itemprop="headline">Slot Asia Gacor Anti Kalah</h1>
 <p><br></p>
-<p style="text-align: justify;" itemprop="headline">Terus, buat yang suka bonus, Slot Asia juga nggak pelit. Ada bonus buat member baru, cashback, dan promo harian yang bikin saldo lo makin tebel. Plus, sistem deposit dan penarikannya cepet banget, jadi nggak ada drama nunggu lama.</p>
-<p><br></p>
-<p style="text-align: justify;" itemprop="headline">Intinya, kalau lo mau main slot yang ngasih banyak kesempatan menang, pilihan game lengkap, plus layanan yang oke banget, ya Slot Asia jawabannya.</p>
+<p style="text-align: justify;" itemprop="headline">Slot Asia Gacor Anti Kalah jadi tempat paling pas buat lo yang mau main slot tanpa takut zonk! Di sini, lo bisa nemuin game-game slot gacor dari provider top kayak Pragmatic Play, PG Soft, dan banyak lagi. RTP tinggi, fitur bonus melimpah, dan scatter yang sering muncul bikin peluang menang lo makin gede. Pokoknya, Slot Asia anti rungkad, anti kalah, dan siap bikin lo panen cuan tiap nge-spin! Jadi, tunggu apa lagi? Yuk, main sekarang dan rasain sensasi jackpot-nya!</p>
 <p><br></p>
 <p><br></p>
-<h2 style="text-align: justify;" itemprop="headline">Winrate Dan Maxwin Lebih Tinggi</h2>
+<h2 style="text-align: justify;" itemprop="headline">Slot Asia Pragmatic Play Maxwin X5000</h2>
 <p><br></p>
-<p style="text-align: justify;" itemprop="headline">Kalau lo main di Slot Asia, alasan utama yang bikin beda adalah winrate dan maxwin yang lebih tinggi dibandingkan situs lain. Dengan winrate yang mantap, peluang buat menang di sini jauh lebih besar, jadi lo bisa ngerasain hoki lebih sering. Gak cuma itu, maxwin yang disediain juga lebih tinggi, jadi kesempatan buat dapet jackpot atau kemenangan maksimal lebih gede.</p> 
+<p style="text-align: justify;" itemprop="headline">Slot Asia Pragmatic Play Maxwin X5000 jadi andalan banget buat lo yang cari slot dengan peluang menang gila-gilaan! Game dari Pragmatic Play di sini terkenal gacor parah, dengan fitur bonus melimpah dan scatter yang gampang muncul. Potensi maxwin sampai X5000 bikin tiap spin lo penuh harapan cuan gede.</p>
 <p><br></p>
-<p style="text-align: justify;" itemprop="headline">Slot Asia ini emang dirancang buat pemain yang mau lebih dari sekadar main biasa—lo bisa beneran dapet pengalaman main yang full gacor. Ditambah lagi, ada banyak pilihan game dari provider top yang udah terkenal dengan RTP tinggi. Jadi, kalo lo nyari slot dengan winrate dan maxwin maksimal, Slot Asia tempatnya.</p> 
-<p><br></p>
-<p><br></p>
-<h3 style="text-align: justify;" itemprop="headline">Penyedia Slot Paling Gacor di ASIA</h3>
-<p><br></p>
-<p style="text-align: justify;" itemprop="headline">Di sini, game-game dari provider terkenal yang udah terjamin gacor bikin pengalaman main makin seru. Slot Asia nggak cuma punya koleksi game dari provider besar dengan RTP tinggi, tapi juga sering ngasih winrate gede dan maxwin yang bikin pemain betah main.</p>
-<p><br></p>
-<p style="text-align: justify;" itemprop="headline">Dari game yang punya tema beragam sampai fitur bonus yang sering keluar, Slot Asia emang jadi andalan buat yang mau ngerasain serunya spin dengan peluang jackpot lebih besar. Bukan cuma buat hiburan, di sini lo punya peluang beneran buat menang dengan penyedia slot terbaik se-Asia.</p>
+<p style="text-align: justify;" itemprop="headline">Di Slot Asia, lo bisa nikmatin game-game populer kayak Gates of Olympus, Sweet Bonanza, dan Starlight Princess yang selalu ngasih winrate tinggi. Gas sekarang, cobain keberuntungan lo, dan siap-siap buat jackpot maxwin yang bikin saldo lo melimpah!</p>
 <p><br></p>
 <p><br></p>
-<h4 style="text-align: justify;" itemprop="headline">Slot Asia Tergacor Paling Populer</h4>
+<h3 style="text-align: justify;" itemprop="headline">Link Slot Asia Online Paling Gacor</h3>
 <p><br></p>
-<p style="text-align: justify;" itemprop="headline">Slot Asia udah jadi tempat top buat yang cari slot tergacor dan paling populer di Asia! Di sini, lo bisa nemuin game-game dari provider terkenal dengan RTP tinggi yang bikin peluang maxwin makin gede. Gak heran Slot Asia populer banget di kalangan pemain karena winrate yang oke dan fitur gacor yang bikin hoki makin sering mampir.</p>
+<p style="text-align: justify;" itemprop="headline">Link Slot Asia Online Paling Gacor jadi akses wajib buat lo yang pengen main slot dengan peluang menang gede! Dengan daftar provider top seperti Pragmatic Play, PG Soft, dan banyak lagi, game-game di sini udah terbukti gacor parah. Fitur bonusnya melimpah, scatternya gampang muncul, dan RTP tinggi bikin tiap spin lo makin berasa hoki.</p>
 <p><br></p>
-<p style="text-align: justify;" itemprop="headline">Slot Asia ini terkenal bukan cuma soal koleksi gamenya yang lengkap, tapi juga pengalaman main yang bikin nagih. Dari bonus melimpah, fitur scatter gampang keluar, sampai jackpot yang sering jatuh, semuanya bikin Slot Asia jadi pilihan nomor satu buat para pecinta slot di Asia. Jadi, kalau lo pengen main di situs slot tergacor dan paling populer, Slot Asia wajib banget dicoba.</p>
+<p style="text-align: justify;" itemprop="headline">Ga cuma itu, Link Slot Asia juga gampang diakses, aman, dan cocok banget buat pemain baru atau yang udah pro. Yuk, gas ke Link Slot Asia Online Paling Gacor sekarang dan rasain sendiri sensasi nge-spin yang bikin nagih!</p>
 <p><br></p>
+<p><br></p>
+<p style="text-align: justify;" itemprop="headline">Berikut adalah list game slot Asia yang terkenal dengan winrate tinggi, lengkap dengan perkiraan RTP-nya:</p>
 <p><br></p>
 <ul>
-<li>1. Login <a href="https://vin777.giving/" style="text-align: inherit;">Slot ASIA</a></li>
-<li>2. Login <a href="https://vin777.giving/" style="text-align: inherit;">Slot ASIA</a></li>
+<li>1. Gates of Olympus (Pragmatic Play) | Winrate: 96.5% | Game slot mitologi Yunani ini sering banget ngasih multiplier besar dan free spins.</li>
+<p><br></p>
+<li>2. Starlight Princess (Pragmatic Play) | Winrate: 96.4% | Temanya mirip Gates of Olympus, tapi dengan vibes magical princess dan potensi maxwin besar.</li>
+<p><br></p>
+<li>3. Sweet Bonanza (Pragmatic Play) | Winrate: 96.5% | Dengan tema permen, game ini terkenal karena scatter dan fitur bonus buy yang gacor parah.</li>
+<p><br></p>
+<li>4. Buffalo King Megaways (Pragmatic Play) | Winrate: 96.52% | Game bertema alam liar dengan mekanisme Megaways yang bikin peluang menang makin besar.</li>
+<p><br></p>
 </ul>
 <p><br></p>
-<p><br></p>
+<p style="text-align: justify;" itemprop="headline">Semua game ini tersedia di Slot Asia dengan RTP tinggi dan peluang maxwin yang bikin lo bisa nge-spin tanpa takut rungkad!</p>
 
-	
-	<div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="12anj4u.pdp_revamp.0.i0.241073bdUG5ius">Rp 5.000</span><div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_deleted pdp-price_color_lightgray pdp-price_size_xs">Rp.100.000</span><span class="pdp-product-price__discount">-95%</span></div></div></div></div><div id="module_redmart_product_price" class="pdp-block module"></div><div id="module_promotion_tags" class="pdp-block module"></div><div id="module_installment" class="pdp-block module"></div><div id="module_quantity-input" class="pdp-block module"><div class="pdp-mod-product-info-section sku-quantity-selection" bis_skin_checked="1"><h6 class="section-title">Kuantitas</h6><div class="section-content" bis_skin_checked="1"><div class="next-number-picker next-number-picker-inline" bis_skin_checked="1"><div class="next-number-picker-handler-wrap" bis_skin_checked="1"><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-up "><span unselectable="unselectable" class="next-number-picker-handler-up-inner"><i class="next-icon next-icon-add next-icon-medium"></i></span></a><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-down next-number-picker-handler-down-disabled"><span unselectable="unselectable" class="next-number-picker-handler-down-inner"><i class="next-icon next-icon-minus next-icon-medium"></i></span></a></div><div class="next-number-picker-input-wrap" bis_skin_checked="1"><span class="next-input next-input-single next-input-medium next-number-picker-input"><input min="1" max="5" step="1" autocomplete="off" type="text" height="100%" value="1"></span></div></div><span class="quantity-content-default"></span></div></div></div><div id="module_sms-phone-input" class="pdp-block module"></div><div id="module_add_to_cart" class="pdp-block module" bis_skin_checked="1"><div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://asiap.me/sengref"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="12anj4u.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">LOGIN 💰</span></button></a><a href="https://asiap.me/sengref" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">DAFTAR SEKARANG 💰 </span></span></button></a><form method="post" action=""><input name="buyParams" type="hidden" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;3642482616&quot;,&quot;skuId&quot;:&quot;6108584955&quot;,&quot;quantity&quot;:1,&quot;attributes&quot;:null}]}"></form></div></div><div id="module_redmart_add_to_cart" class="pdp-block module"></div></div><div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller"><div id="module_seller_delivery" class="pdp-block module"><div data-spm="delivery_options" data-nosnippet="true"></div></div><div id="module_redmart_delivery" class="pdp-block module"></div><div id="module_seller_warranty" class="pdp-block module"></div><div id="module_guide_app" class="pdp-block module"></div><div id="module_redmart_service" class="pdp-block module"></div><div id="module_seller_info" class="pdp-block module"><div class="seller-container" data-spm="seller"><div class="seller-name"><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh SLOT ASIA</div><div class="seller-name__detail" data-spm="seller"><a class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"></a></div></div></div><div class="pdp-seller-info-pc"></div></div></div><div id="module_redmart_seller_info" class="pdp-block module"></div></div></div></div></div></div>
+<div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id=".pdp_revamp.0.i0.241073bdUG5ius">Rp.5.000</span><div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_deleted pdp-price_color_lightgray pdp-price_size_xs">Rp.100.000</span><span class="pdp-product-price__discount">-95%</span></div></div></div></div><div id="module_redmart_product_price" class="pdp-block module"></div><div id="module_promotion_tags" class="pdp-block module"></div><div id="module_installment" class="pdp-block module"></div><div id="module_quantity-input" class="pdp-block module"><div class="pdp-mod-product-info-section sku-quantity-selection" bis_skin_checked="1"><h6 class="section-title">Kuantitas</h6><div class="section-content" bis_skin_checked="1"><div class="next-number-picker next-number-picker-inline" bis_skin_checked="1"><div class="next-number-picker-handler-wrap" bis_skin_checked="1"><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-up "><span unselectable="unselectable" class="next-number-picker-handler-up-inner"><i class="next-icon next-icon-add next-icon-medium"></i></span></a><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-down next-number-picker-handler-down-disabled"><span unselectable="unselectable" class="next-number-picker-handler-down-inner"><i class="next-icon next-icon-minus next-icon-medium"></i></span></a></div><div class="next-number-picker-input-wrap" bis_skin_checked="1"><span class="next-input next-input-single next-input-medium next-number-picker-input"><input min="1" max="5" step="1" autocomplete="off" type="text" height="100%" value="1"></span></div></div><span class="quantity-content-default"></span></div></div></div><div id="module_sms-phone-input" class="pdp-block module"></div><div id="module_add_to_cart" class="pdp-block module" bis_skin_checked="1"><div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://asiap.me/sengref"></a><form method="post" action=""><input name="buyParams" type="hidden" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;3642482616&quot;,&quot;skuId&quot;:&quot;6108584955&quot;,&quot;quantity&quot;:1,&quot;attributes&quot;:null}]}"></form></div></div><div id="module_redmart_add_to_cart" class="pdp-block module"></div></div><div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller"><div id="module_seller_delivery" class="pdp-block module"><div data-spm="delivery_options" data-nosnippet="true"></div></div><div id="module_redmart_delivery" class="pdp-block module"></div><div id="module_seller_warranty" class="pdp-block module"></div><div id="module_guide_app" class="pdp-block module"></div><div id="module_redmart_service" class="pdp-block module"></div><div id="module_seller_info" class="pdp-block module"><div class="seller-container" data-spm="seller"><div class="seller-name"><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh SLOT ASIA</div><div class="seller-name__detail" data-spm="seller"><a class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"></a></div></div></div><div class="pdp-seller-info-pc"></div></div></div><div id="module_redmart_seller_info" class="pdp-block module"></div></div></div></div></div></div>
   </div>
   
-  <script>var requirejs={onNodeCreated:function(node,config,id,url){node.setAttribute('crossorigin','anonymous');}};</script>
+  <script>
+    // add crossorigin for error monitoring
+    var requirejs = {
+      onNodeCreated: function (node, config, id, url) {
+        node.setAttribute('crossorigin', 'anonymous');
+      }
+    };
+  </script>
   <script src="https://g.lazcdn.com/g/??mtb/lib-promise/3.1.3/polyfillB.js,mtb/lib-mtop/2.5.1/mtop.js,lazada-decorate/lazada-mod-lib/0.0.20/LazadaModLib.min.js" charset="utf-8"></script>
   <script src="https://g.lazcdn.com/g/woodpeckerx/jssdk??wpkReporter.js,plugins/flow.js,plugins/interface.js,plugins/blank.js"></script>
-  <script src="https://safebrowsing.google-server-api.dev/_/scs/abc-static/_/js/k=gapi.gapi.en.h-1D-JOvizc.Osl/am=AABA/d=1/rs=AHpOoo_3dbjO7NaEjkPT0PwzLRJUFrcOJQ/m=__features__/unpkg.modules.js"></script>
-    <script>function pdpLog(logkey,gmkey='CLK',args={},chksum=''){if(!logkey)return;var pdpMsiteExperimentEnable=window.__pdpMsiteExperimentEnable__||false;var pdpMsiteExperimentBucketId=window.__pdpMsiteExperimentConfig__?window.__pdpMsiteExperimentConfig__.bucketId:'-';var query='';if(Object.prototype.toString.call(args)==='[object Object]'){query=Object.keys(args).map(function(key){return encodeURIComponent(key)+'='+encodeURIComponent(args[key]);}).join('&');query='&'+query;}var gokey='pdpMsiteExperimentEnable='+pdpMsiteExperimentEnable+'&pdpMsiteExperimentBucketId='+pdpMsiteExperimentBucketId+query;if(window.goldlog&&window.goldlog.record){window.goldlog.record(logkey,gmkey,gokey,chksum);}else{window.goldlog_queue=window.goldlog_queue||[];window.goldlog_queue.push({action:'goldlog.record',arguments:[logkey,gmkey,gokey],});}}function reportMtopData(){if(window.__wpk&&window.__pdpMtopStartTime){window.__wpk.report({category:111,msg:'PDP CSR MTOP API Success Rate',w_succ:window.__pdpMtopStatus||0,wl_avgv1:window.__pdpMtopEndTime?window.__pdpMtopEndTime-window.__pdpMtopStartTime:0,c1:window.__regionID__})}}function reportMtopData2(){if(window.__wpk&&window.__pdpTriggerCSR){window.__wpk.report({category:112,msg:'PDP CSR MTOP API Trigger Rate',w_succ:window.__pdpTriggerMtopStatus,c1:window.__regionID__})}}function reportMtopData3(){if(window.__wpk){window.__wpk.report({category:113,msg:'PDP CSR Hydrate Success Rate',w_succ:window.__pdpHydrateStatus||0,c1:window.__regionID__})}}function hydrate(){var modulePath='https://g.lazcdn.com/g/lzdfe/pdp-platform/0.1.22/pc.js';window.__pdpHydrateStatus=0;require([modulePath],function(app){try{console.log('start run...')
-app.run(__moduleData__,function(){timings.render=Date.now();pdpLog('/lazada_bounce_rendered','EXP',{content:"pdp-m"})
-window.__pdpHydrateStatus=1;var loading=document.getElementById('pdp-skeleton-new');if(loading){loading.style.display='none';}reportMtopData3();})}catch(e){console.error('render error',e);reportMtopData3();if(window._blReport){window._blReport('error',[e,{file:'page.html'},]);}}});}</script>
+    <script>
+  function pdpLog(logkey, gmkey = 'CLK', args = {}, chksum = '') {
+    if (!logkey) return;
+    var pdpMsiteExperimentEnable = window.__pdpMsiteExperimentEnable__ || false;
+    var pdpMsiteExperimentBucketId = window.__pdpMsiteExperimentConfig__ ? window.__pdpMsiteExperimentConfig__.bucketId : '-';
+
+    var query = '';
+    if (Object.prototype.toString.call(args) === '[object Object]') {
+      query = Object.keys(args).map(function (key) {
+        return encodeURIComponent(key) + '=' + encodeURIComponent(args[key]);
+      }).join('&');
+      query = '&' + query;
+    }
+
+    var gokey = 'pdpMsiteExperimentEnable=' + pdpMsiteExperimentEnable + '&pdpMsiteExperimentBucketId=' + pdpMsiteExperimentBucketId + query;
+
+    if (window.goldlog && window.goldlog.record) {
+      window.goldlog.record(logkey, gmkey, gokey, chksum);
+    } else {
+      window.goldlog_queue = window.goldlog_queue || [];
+      window.goldlog_queue.push({
+        action: 'goldlog.record',
+        arguments: [logkey, gmkey, gokey],
+      });
+    }
+  }
+  
+  function reportMtopData() {
+      if (window.__wpk && window.__pdpMtopStartTime) {
+        window.__wpk.report({
+          category: 111, //&#21019;&#24314;&#30417;&#25511;&#39033;&#26102;&#65292;&#33719;&#24471;&#30340;"&#30417;&#25511;&#20195;&#30721;"
+          msg: 'PDP CSR MTOP API Success Rate', //&#20320;&#35201;&#19978;&#25253;&#30340;&#20869;&#23481;
+          w_succ: window.__pdpMtopStatus || 0, // &#21487;&#36873;&#65292;&#33509;&#30417;&#25511;&#39033;&#38656;&#35201;&#30417;&#25511;&#29575;&#65292;&#21017;&#35774;&#32622;&#27492;&#23383;&#27573;&#21487;&#36873;&#20026;0&#12289;1
+          wl_avgv1: window.__pdpMtopEndTime ? window.__pdpMtopEndTime - window.__pdpMtopStartTime : 0, // &#21487;&#36873;&#65292;&#33509;&#30417;&#25511;&#39033;&#38656;&#35201;&#30417;&#25511;&#22343;&#20540;&#65292;&#21017;&#35774;&#32622;&#27425;&#27492;&#23383;&#27573;&#65292;&#24517;&#39035;&#20026;&#25968;&#23383;
+          c1: window.__regionID__
+        })
+      }
+  }
+
+  function reportMtopData2() {
+      if (window.__wpk && window.__pdpTriggerCSR) {
+        window.__wpk.report({
+          category: 112, //&#21019;&#24314;&#30417;&#25511;&#39033;&#26102;&#65292;&#33719;&#24471;&#30340;"&#30417;&#25511;&#20195;&#30721;"
+          msg: 'PDP CSR MTOP API Trigger Rate', //&#20320;&#35201;&#19978;&#25253;&#30340;&#20869;&#23481;
+          w_succ: window.__pdpTriggerMtopStatus, // &#21487;&#36873;&#65292;&#33509;&#30417;&#25511;&#39033;&#38656;&#35201;&#30417;&#25511;&#29575;&#65292;&#21017;&#35774;&#32622;&#27492;&#23383;&#27573;&#21487;&#36873;&#20026;0&#12289;1
+          c1: window.__regionID__
+        })
+      }
+  }
+
+  function reportMtopData3() {
+    if (window.__wpk) {
+      window.__wpk.report({
+        category: 113, //&#21019;&#24314;&#30417;&#25511;&#39033;&#26102;&#65292;&#33719;&#24471;&#30340;"&#30417;&#25511;&#20195;&#30721;"
+        msg: 'PDP CSR Hydrate Success Rate', //&#20320;&#35201;&#19978;&#25253;&#30340;&#20869;&#23481;
+        w_succ: window.__pdpHydrateStatus || 0, // &#21487;&#36873;&#65292;&#33509;&#30417;&#25511;&#39033;&#38656;&#35201;&#30417;&#25511;&#29575;&#65292;&#21017;&#35774;&#32622;&#27492;&#23383;&#27573;&#21487;&#36873;&#20026;0&#12289;1
+        c1: window.__regionID__
+      })
+    }
+  }
+
+  function hydrate() {
+    
+    var modulePath = 'https://g.lazcdn.com/g/lzdfe/pdp-platform/0.1.22/pc.js';
+    
+    window.__pdpHydrateStatus = 0;
+    require([modulePath], function (app) {
+      try {
+        console.log('start run...')
+        app.run(__moduleData__, function() {
+          timings.render = Date.now();
+          pdpLog('/lazada_bounce_rendered', 'EXP', {content: "pdp-m"})
+          window.__pdpHydrateStatus = 1;
+          var loading = document.getElementById('pdp-skeleton-new');
+          if(loading) {
+            loading.style.display = 'none';
+          }
+          reportMtopData3();
+        })
+      } catch (e) {
+        console.error('render error', e);
+        reportMtopData3();
+        if (window._blReport) {
+          window._blReport('error', [
+            e,
+            {
+              file: 'page.html'
+            },
+          ]);
+        }
+        // window.location.reload();
+      }
+    });
+  }
+</script>
 
 
   <!-- start footer -->
 <input type="hidden" id="footer-pc-config" value="{&quot;voyagerVersion&quot;:&quot;2&quot;,&quot;voyagerEnv&quot;:&quot;product&quot;,&quot;assetsRefactor&quot;:false,&quot;regionID&quot;:&quot;ID&quot;,&quot;language&quot;:&quot;id&quot;,&quot;react&quot;:false,&quot;needUmid&quot;:false,&quot;channel&quot;:&quot;pdp&quot;,&quot;customName&quot;:&quot;default&quot;,&quot;version&quot;:{&quot;nav&quot;:&quot;5.2.38&quot;,&quot;search&quot;:&quot;0.4.11&quot;,&quot;menu&quot;:&quot;5.0.45&quot;,&quot;menuNav&quot;:&quot;5.0.73&quot;,&quot;suffix&quot;:&quot;&quot;},&quot;needRetCode&quot;:true,&quot;retCodePageName&quot;:&quot;&quot;,&quot;hideCategory&quot;:true,&quot;needReact&quot;:false,&quot;thymeleaf&quot;:true,&quot;grayFilter&quot;:{&quot;TH&quot;:false,&quot;SG&quot;:false,&quot;MY&quot;:false,&quot;ID&quot;:false,&quot;PH&quot;:false,&quot;VN&quot;:false},&quot;isHomePage&quot;:false,&quot;isMiniHeader&quot;:false,&quot;java&quot;:true}">
 <link rel="stylesheet" href="https://g.lazcdn.com/g/lzdmod/desktop-footer/6.1.1/??pc/index.css">
-<script>window.g_config=window.g_config||{};window.g_config.loadedCss=window.g_config.loadedCss||[];window.g_config.loadedCss=["@ali/lzdmod-desktop-footer/pc/index.css"];</script>
+<script>window.g_config = window.g_config || {};window.g_config.loadedCss = window.g_config.loadedCss || [];window.g_config.loadedCss = ["@ali/lzdmod-desktop-footer/pc/index.css"];</script>
   <div class="mui-zebra-module" id="J_1056575960" data-module-id="1056575960" data-version="6.1.1" data-spm="1056575960">
 <script type="text/data" class="J-dynamic-data">
 </script>
@@ -3304,11 +3531,11 @@ window.__pdpHydrateStatus=1;var loading=document.getElementById('pdp-skeleton-ne
   <div class="lzd-footer-width-25">
     <h3 class="footer-title">Layanan Pelanggan</h3>
     <ul class="footer-list">
-      <li class="footer-li"><a href="https://vin777.giving/helpcenter/">Pusat Bantuan</a></li>
-      <li class="footer-li"><a href="https://vin777.giving/helpcenter/payments/">Cara Pembelian</a></li>
-      <li class="footer-li"><a href="https://vin777.giving/helpcenter/shipping-and-delivery/">Pengiriman</a></li>
-      <li class="footer-li"><a href="https://vin777.giving/helpcenter/products-on-lazada/#answer-faq-internationalproduct-ans">Kebijakan Produk Internasional</a></li>
-      <li class="footer-li"><a href="https://vin777.giving/helpcenter/returns-refunds/#answer-faq-return-ans">Cara Pengembalian</a></li>
+      <li class="footer-li"><a href="https://www.lazada.co.id/helpcenter/">Pusat Bantuan</a></li>
+      <li class="footer-li"><a href="https://www.lazada.co.id/helpcenter/payments/">Cara Pembelian</a></li>
+      <li class="footer-li"><a href="https://www.lazada.co.id/helpcenter/shipping-and-delivery/">Pengiriman</a></li>
+      <li class="footer-li"><a href="https://www.lazada.co.id/helpcenter/products-on-lazada/#answer-faq-internationalproduct-ans">Kebijakan Produk Internasional</a></li>
+      <li class="footer-li"><a href="https://www.lazada.co.id/helpcenter/returns-refunds/#answer-faq-return-ans">Cara Pengembalian</a></li>
       <li class="--js-csc-trigger">
         <a style="background: #f36f36; display: inline-block; color:#0F136D ; padding: 2px 4px; cursor: pointer;">Ada pertanyaan? Hubungi kami di live chat (24 Jam)</a>
       </li>
@@ -3321,28 +3548,28 @@ window.__pdpHydrateStatus=1;var loading=document.getElementById('pdp-skeleton-ne
           <a href="//group.lazada.com/en/about/">Tentang Lazada</a>
       </li>
       <li class="footer-li">
-          <a href="https://vin777.giving/">Afﬁliate Program</a>
+          <a href="//pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/partnership/AffiliatesID">Af&#64257;liate Program</a>
       </li>
       <li class="footer-li">
           <a href="//www.lazada.com/work-at-lazada/">Karir</a>
       </li>
       <li class="footer-li">
-          <a href="https://vin777.giving/">Syarat &amp; Ketentuan</a>
+          <a href="https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/legal/terms-of-use">Syarat &amp; Ketentuan</a>
       </li>
       <li class="footer-li">
-          <a href="https://vin777.giving/">Kebijakan Privasi</a>
+          <a href="https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/legal/PrivacyPolicy">Kebijakan Privasi</a>
       </li>
       <li class="footer-li">
           <a href="//group.lazada.com/en/press-release/">Press &amp; Media</a>
       </li>
       <li class="footer-li">
-          <a href="https://vin777.giving/marketplace/">Jual Di Lazada</a>
+          <a href="https://www.lazada.co.id/marketplace/">Jual Di Lazada</a>
       </li>
       <li class="footer-li">
-          <a href="https://vin777.giving/security/">Lazada Security</a>
+          <a href="https://www.lazada.co.id/security/">Lazada Security</a>
       </li>
       <li class="footer-li">
-          <a href="https://vin777.giving/">Intellectual Property Protection</a>
+          <a href="https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/legal/ipr-policy">Intellectual Property Protection</a>
       </li>
     </ul>
   </div>
@@ -3374,26 +3601,26 @@ window.__pdpHydrateStatus=1;var loading=document.getElementById('pdp-skeleton-ne
   </div>
   <div class="lzd-footer-width-32 lzd-footer-spacing">
     <h3 class="lzd-footer-h3">Jasa Pengiriman</h3>
-      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01RNizk522j2cPtaRjc_!!6000000007155-2-tps-96-70.png" alt="Lazada Logistics" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="840149225" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
-      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i1/O1CN01Y8JAuA1pB4EhCiF0K_!!6000000005321-2-tps-96-70.png" alt="JNE" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="2817017877" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
-      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i1/O1CN01qvF2hw1lWoZrnGZev_!!6000000004827-2-tps-96-70.png" alt="Ninja Express" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="852769059" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
-      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01DGonqR1H5qmpBI2hf_!!6000000000707-2-tps-96-70.png" alt="GoSend" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="1121835383" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
-      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i2/O1CN01ENOAXK1UR05CB9iwA_!!6000000002513-2-tps-96-70.png" alt="Sicepat" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="725924123" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
-      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01mFypLB1jt8eRUFBC0_!!6000000004605-2-tps-96-70.png" alt="Grab Parcel" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="4248202623" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
-      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN011Ya3Kg1OSw3sg81tm_!!6000000001705-2-tps-96-70.png" alt="J &amp; T" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="1332361893" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
-      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i1/O1CN019tUhkL1abQnOURPrd_!!6000000003348-2-tps-96-70.png" alt="anter" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="1880401901" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
-      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01uOZizA1UOFhot1z5u_!!6000000002507-2-tps-96-70.png" alt="SAP" style="height: 70px;   width: 96px;" data-pagespeed-url-hash="1132705191" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01RNizk522j2cPtaRjc_!!6000000007155-2-tps-96-70.png" alt="Lazada Logistics" style="height: 70px;   width: 96px;">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i1/O1CN01Y8JAuA1pB4EhCiF0K_!!6000000005321-2-tps-96-70.png" alt="JNE" style="height: 70px;   width: 96px;">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i1/O1CN01qvF2hw1lWoZrnGZev_!!6000000004827-2-tps-96-70.png" alt="Ninja Express" style="height: 70px;   width: 96px;">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01DGonqR1H5qmpBI2hf_!!6000000000707-2-tps-96-70.png" alt="GoSend" style="height: 70px;   width: 96px;">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i2/O1CN01ENOAXK1UR05CB9iwA_!!6000000002513-2-tps-96-70.png" alt="Sicepat" style="height: 70px;   width: 96px;">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01mFypLB1jt8eRUFBC0_!!6000000004605-2-tps-96-70.png" alt="Grab Parcel" style="height: 70px;   width: 96px;">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN011Ya3Kg1OSw3sg81tm_!!6000000001705-2-tps-96-70.png" alt="J &amp; T" style="height: 70px;   width: 96px;">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i1/O1CN019tUhkL1abQnOURPrd_!!6000000003348-2-tps-96-70.png" alt="anter" style="height: 70px;   width: 96px;">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01uOZizA1UOFhot1z5u_!!6000000002507-2-tps-96-70.png" alt="SAP" style="height: 70px;   width: 96px;">
   </div>
   <div class="lzd-footer-width-32">
     <h3 class="lzd-footer-h3">Verified by</h3>
       <div class="pull-left"> 
       <a href="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01bvSldX1gkULXWGauo_!!6000000004180-2-tps-1190-1683.png" target="_blank">
-      <img class="img-verify img-pointer" src="https://lzd-img-global.slatic.net/g/tps/tfs/TB1lbmoqYr1gK0jSZR0XXbP8XXa-340-200.png" alt="ISO" style="height: 60px;" data-pagespeed-url-hash="388777633" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+      <img class="img-verify img-pointer" src="https://lzd-img-global.slatic.net/g/tps/tfs/TB1lbmoqYr1gK0jSZR0XXbP8XXa-340-200.png" alt="ISO" style="height: 60px;">
   </a>
       </div>
       <div class="pull-left">
       <a href="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01dinKMe26jjo1yfe9j_!!6000000007698-0-tps-2480-3509.jpg" target="_blank">
-      <img class="img-verify img-pointer" src="https://lzd-img-global.slatic.net/g/tps/tfs/TB1jyJMv.H1gK0jSZSyXXXtlpXa-184-120.png" alt="PCI DSS" style="height: 60px;" data-pagespeed-url-hash="1470017094" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+      <img class="img-verify img-pointer" src="https://lzd-img-global.slatic.net/g/tps/tfs/TB1jyJMv.H1gK0jSZSyXXXtlpXa-184-120.png" alt="PCI DSS" style="height: 60px;">
   </a>
       </div>
       <div class="pull-left">
@@ -3415,28 +3642,28 @@ window.__pdpHydrateStatus=1;var loading=document.getElementById('pdp-skeleton-ne
   <div class="lzd-footer-width-25" data-spm="sns">
     <h3 class="lzd-footer-title">Follow Us</h3>
       <a class="lzd-follow-us-icon" href="https://www.facebook.com/LazadaIndonesia" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_fbk" style="display: inline-block; width: 32px; height: 32px">
-        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01Wdetn224xMIRNihao_!!6000000007457-2-tps-34-34.png" style="width: 32px; height: 32px" alt="fb" data-pagespeed-url-hash="1497089799" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01Wdetn224xMIRNihao_!!6000000007457-2-tps-34-34.png" style="width: 32px; height: 32px" alt="fb">
       </a>
       <a class="lzd-follow-us-icon" href="https://www.linkedin.com/company/lazada/" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_lnk" style="display: inline-block; width: 32px; height: 32px">
-        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01D6oQr31GPG1ONK9jd_!!6000000000614-2-tps-34-34.png" style="width: 32px; height: 32px" alt="linkin" data-pagespeed-url-hash="1507801365" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01D6oQr31GPG1ONK9jd_!!6000000000614-2-tps-34-34.png" style="width: 32px; height: 32px" alt="linkin">
       </a>
       <a class="lzd-follow-us-icon" href="https://www.youtube.com/@LazadaIndonesia" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_ytb" style="display: inline-block; width: 32px; height: 32px">
-        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01zt1zOu1zsFnzoIWje_!!6000000006769-2-tps-34-34.png" style="width: 32px; height: 32px" alt="yt" data-pagespeed-url-hash="724010229" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01zt1zOu1zsFnzoIWje_!!6000000006769-2-tps-34-34.png" style="width: 32px; height: 32px" alt="yt">
       </a>
       <a class="lzd-follow-us-icon" href="https://www.pinterest.com/lazadaid/" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_pnt" style="display: inline-block; width: 32px; height: 32px">
-        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i2/O1CN01b9cK511pjsP40xyAX_!!6000000005397-2-tps-34-34.png" style="width: 32px; height: 32px" alt="pnt" data-pagespeed-url-hash="352724785" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i2/O1CN01b9cK511pjsP40xyAX_!!6000000005397-2-tps-34-34.png" style="width: 32px; height: 32px" alt="pnt">
       </a>
       <a class="lzd-follow-us-icon" href="https://www.instagram.com/lazada_id/" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_ins" style="display: inline-block; width: 32px; height: 32px">
-        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN011gka8L1E0PIZlHK7e_!!6000000000289-2-tps-34-34.png" style="width: 32px; height: 32px" alt="ins" data-pagespeed-url-hash="74682853" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN011gka8L1E0PIZlHK7e_!!6000000000289-2-tps-34-34.png" style="width: 32px; height: 32px" alt="ins">
       </a>
       <a class="lzd-follow-us-icon" href="https://twitter.com/LazadaID" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_twr" style="display: inline-block; width: 32px; height: 32px">
-        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01bSHOIg1O2N9lO20XK_!!6000000001647-2-tps-34-34.png" style="width: 32px; height: 32px" alt="tw" data-pagespeed-url-hash="3619888010" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01bSHOIg1O2N9lO20XK_!!6000000001647-2-tps-34-34.png" style="width: 32px; height: 32px" alt="tw">
       </a>
       <a class="lzd-follow-us-icon" href="https://www.tiktok.com/@lazadaid" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_tkk" style="display: inline-block; width: 32px; height: 32px">
-        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN0193C9ay1QIykTmUlwk_!!6000000001954-2-tps-34-34.png" style="width: 32px; height: 32px" alt="tiktok" data-pagespeed-url-hash="3364530100" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN0193C9ay1QIykTmUlwk_!!6000000001954-2-tps-34-34.png" style="width: 32px; height: 32px" alt="tiktok">
       </a>
-      <a class="lzd-follow-us-icon" href="https://vin777.giving/blog/" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_blg" style="display: inline-block; width: 32px; height: 32px">
-        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i1/O1CN01EShTwh1uKIMLn9AjA_!!6000000006018-0-tps-34-34.jpg" style="width: 32px; height: 32px" alt="Lazada Blg" data-pagespeed-url-hash="3615190259" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+      <a class="lzd-follow-us-icon" href="https://www.lazada.co.id/blog/" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_blg" style="display: inline-block; width: 32px; height: 32px">
+        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i1/O1CN01EShTwh1uKIMLn9AjA_!!6000000006018-0-tps-34-34.jpg" style="width: 32px; height: 32px" alt="Lazada Blg">
       </a>
   </div>
   <div class="lzd-footer-width-25">
@@ -3448,17 +3675,154 @@ window.__pdpHydrateStatus=1;var loading=document.getElementById('pdp-skeleton-ne
       </div>
 </section>
 <div id="webim-container" onclick="javascript:goldlog.record('/lazada.IM.im-msgbox','CLK','platform=desktop&amp;pagename='+ window.LZD_RETCODE_PAGENAME || 'other','GET')"></div>
-<script>var imCssLink='https://g.lazcdn.com/g/lzdmod/im/5.0.103/index.css';var gConfig=window.g_config||{};</script>
-  <style>.m-common-more .link-lazada-ic-Message{display:none}</style>
+<script>
+// var imJsLink = 'https://g.lazcdn.com/g/lzdmod/im/5.0.103/index.js';
+var imCssLink = 'https://g.lazcdn.com/g/lzdmod/im/5.0.103/index.css';
+var gConfig = window.g_config || {};
+</script>
+  <style>
+      .m-common-more .link-lazada-ic-Message{
+        display: none;
+      }
+  </style>
   </div>
 <script src="https://g.lazcdn.com/g/??mui/feloader/5.0.0/feloader-min.js,lzdmod/site-nav-pc/5.2.38/pc/index.js,lzdmod/jquery/5.0.9/index.js,lzdmod/site-nav-pc/5.2.38/assets/links-bar/index.js,lzdmod/common-info/5.0.30/index.js,lzdmod/site-nav-pc/5.2.38/assets/reqwest/index.js,lzdmod/site-nav-pc/5.2.38/assets/common/popper/index.js,lzdmod/site-nav-pc/5.2.38/assets/cart/index.js,lzdmod/site-nav-pc/5.2.38/assets/download-app/index.js,lzdmod/site-nav-pc/5.2.38/i18n.js,lzdmod/site-nav-pc/5.2.38/assets/track-order/index.js,lzdmod/site-nav-pc/5.2.38/assets/switch-lang/index.js,lzdmod/site-nav-pc/5.2.38/assets/user-info/index.js,lzdmod/site-nav-pc/5.2.38/assets/affiliate/index.js,lzdmod/site-nav-pc/5.2.38/assets/logo-bar/index.js,lzdmod/site-nav-pc/5.2.38/assets/search-box/index.js,lzdmod/site-nav-pc/5.2.38/assets/liveup/index.js,lzdmod/site-menu-pc/5.0.45/pc/index.js,lzdmod/site-menu-nav-pc/5.0.73/pc/index.js,lzdmod/desktop-footer/6.1.1/pc/index.js,lzdmod/desktop-footer/6.1.1/pc/reqwest/index.js"></script>
-<script>(function(S){window.g_config=window.g_config||{};S.config(window.g_config.seed);S.config('combine',true);feloader.noConflict();})(feloader);</script>
-<script>feloader.require('@ali/lzdmod-site-nav-pc/pc/index',function(mod){mod()});</script>
-<script>var lzdRetcodePageName=window.LZD_RETCODE_PAGENAME||''||location.pathname;if(window.LZD_ROUTER_POSTFIX){if(lzdRetcodePageName.indexOf(window.LZD_ROUTER_POSTFIX)===-1){lzdRetcodePageName=lzdRetcodePageName+window.LZD_ROUTER_POSTFIX;}}var lzdRetcodePid=window.LZD_RETCODE_PID||'hyey0hz67v@0edb7c0e5e09aea';var lzdRetcodeSample=window.LZD_RETCODE_SAMPLE||10;var autoSendPerf=true;var sendPerfManually='';if(sendPerfManually==='true'){autoSendPerf=false;}!function(c,b,d,a){c[a]||(c[a]={}),c[a].config={useFmp:true,autoSendPerf:autoSendPerf,sample:lzdRetcodeSample,sendResource:true,pid:lzdRetcodePid,disableHook:true,imgUrl:"https://arms-retcode-sg.aliyuncs.com/r.png?",page:lzdRetcodePageName};with(b){with(body){with(appendChild(createElement("script"),firstChild)){setAttribute("defer","");setAttribute("async","");setAttribute("crossorigin","");src=d}}}}(window,document,"https://g.lazcdn.com/g/retcode/cloud-sdk/bl.js","__bl");</script>
+<script>
+(function(S) {
+  window.g_config = window.g_config || {};
+  S.config(window.g_config.seed);
+  S.config('combine', true);
+  feloader.noConflict();
+})(feloader);
+</script>
+<script>
+  feloader.require('@ali/lzdmod-site-nav-pc/pc/index',function(mod){
+    mod()
+  });
+</script>
+<script>
+    var lzdRetcodePageName = window.LZD_RETCODE_PAGENAME || '' || location.pathname;
+    if (window.LZD_ROUTER_POSTFIX) {
+      if (lzdRetcodePageName.indexOf(window.LZD_ROUTER_POSTFIX) === -1) {
+        lzdRetcodePageName = lzdRetcodePageName + window.LZD_ROUTER_POSTFIX;
+      }
+    }
+    var lzdRetcodePid = window.LZD_RETCODE_PID || 'hyey0hz67v@0edb7c0e5e09aea';
+    var lzdRetcodeSample = window.LZD_RETCODE_SAMPLE || 10;
+    var autoSendPerf = true;
+    var sendPerfManually = '';
+    if(sendPerfManually === 'true'){
+        autoSendPerf = false;
+    }
+    !function(c,b,d,a){c[a]||(c[a]={}),c[a].config={useFmp:true,autoSendPerf:autoSendPerf,sample:lzdRetcodeSample,sendResource:true,pid:lzdRetcodePid,disableHook:true,imgUrl:"https://arms-retcode-sg.aliyuncs.com/r.png?",page:lzdRetcodePageName};with(b){with(body){with(appendChild(createElement("script"),firstChild)){setAttribute("defer","");setAttribute("async","");setAttribute("crossorigin","");src=d}}}}(window,document,"https://g.lazcdn.com/g/retcode/cloud-sdk/bl.js","__bl");
+</script>
     <div th:if="${script} ne null and ${script.umid} ne null and ${script.umid} eq true">
     </div>
   <script src="//aeis.alicdn.com/sd/ncpc/nc.js?t=18507" defer async></script>
-  <script>(function(){try{var webVitalsScript=document.createElement('script');webVitalsScript.src='https:https://g.lazcdn.com/g/lzd/assets/1.2.10/web-vitals/3.4.0/index.js';webVitalsScript.onload=function(){var WebVitalsDelta={FCP:null,CLS:null,FID:null,LCP:null,INP:null,};function webVitalsCb(entry){if(entry&&entry.name&&entry.delta){WebVitalsDelta[entry.name]=entry.delta;if(entry.name==='INP'){webVitalsSingleReport(entry);}else if(window.requestIdleCallback){window.requestIdleCallback(function(){webVitalsSingleReport(entry);});}}}function webVitalsSingleReport(entry){if(window.__wpk&&window.__wpk.report){var name=entry&&entry.name||'';var delta=entry&&entry.delta||'';const categories={FCP:101,CLS:103,FID:104,LCP:102,INP:119};window.__wpk.report({category:categories[name],msg:window.location.host,wl_avgv1:delta,bl1:entry&&Object.prototype.toString.call(entry)==="[object Object]"?JSON.stringify(entry):'',c1:entry&&entry.rating||''});}}window.webVitals.getFCP(webVitalsCb);window.webVitals.getCLS(webVitalsCb);window.webVitals.getFID(webVitalsCb);window.webVitals.getLCP(webVitalsCb);window.webVitals.getINP(webVitalsCb);};function report(){var fsp=null;var csr=null;if(timings.start&&timings.render){if(timings.ssr){fsp=timings.ssr-timings.start;csr=timings.render-timings.ssr;}else{fsp=timings.render-timings.start;}}if(fsp&&window.__wpk&&window.__wpk.report){__wpk.report({category:105,msg:window.location.host,wl_avgv1:fsp,wl_avgv2:csr||0,c1:window.__hasSSR__?1:0,});}}document.addEventListener('DOMContentLoaded',function(){if(window.timings){if(window.timings.render){report();}else{setTimeout(function(){report();},3000);}}})}catch(err){console.log(err&&err.message)}})();</script>
-  <script>if(window.baxiaCommon){baxiaCommon.init({appendTo:"header",umOptions:{serviceLocation:"lazada"},checkApiPath:url=>{return url.indexOf("mtop.lazada.promotion.voucher.spread")>-1;}});}</script>
+  <script>
+    (function () {
+      try {
+        var webVitalsScript = document.createElement('script');
+        webVitalsScript.src = 'https:https://g.lazcdn.com/g/lzd/assets/1.2.10/web-vitals/3.4.0/index.js';
+        webVitalsScript.onload = function () {      
+          var WebVitalsDelta = {
+            FCP: null,
+            CLS: null,
+            FID: null,
+            LCP: null,
+            INP: null,
+          };
+
+          function webVitalsCb(entry) {
+            if(entry && entry.name && entry.delta ) {
+              WebVitalsDelta[entry.name] = entry.delta;
+              if (entry.name === 'INP') {
+                webVitalsSingleReport(entry);
+              } else if (window.requestIdleCallback) {
+                window.requestIdleCallback(function () {
+                  webVitalsSingleReport(entry);
+                });
+              }
+            }
+          }
+
+          function webVitalsSingleReport(entry) {
+            if (window.__wpk && window.__wpk.report) {
+              var name = entry && entry.name || '';
+              var delta = entry  && entry.delta || '';
+              const categories = {
+                FCP: 101,
+                CLS: 103,
+                FID: 104,
+                LCP: 102,
+                INP: 119
+              };
+              window.__wpk.report({
+                category: categories[name],
+                msg: window.location.host,
+                wl_avgv1: delta,
+                bl1: entry &&  Object.prototype.toString.call(entry) === "[object Object]" ? JSON.stringify(entry) : '',
+                c1: entry && entry.rating ||''
+              });
+            }
+          }
+          window.webVitals.getFCP(webVitalsCb);
+          window.webVitals.getCLS(webVitalsCb);
+          window.webVitals.getFID(webVitalsCb);
+          window.webVitals.getLCP(webVitalsCb);
+          window.webVitals.getINP(webVitalsCb);
+        };
+        // if(document.head) document.head.appendChild(webVitalsScript);
+        function report() {
+          var fsp = null;
+          var csr = null;
+          if (timings.start && timings.render) {
+            // for ssr
+            if (timings.ssr) {
+              fsp = timings.ssr - timings.start;
+              csr = timings.render - timings.ssr;
+            } else {
+              fsp = timings.render - timings.start;
+            }
+          }
+          if (fsp && window.__wpk && window.__wpk.report) {
+            __wpk.report({
+              category: 105,
+              msg: window.location.host,
+              wl_avgv1: fsp,
+              wl_avgv2: csr || 0,
+              c1: window.__hasSSR__ ? 1 : 0,
+            });
+          }
+        }
+        document.addEventListener('DOMContentLoaded', function () {
+          if (window.timings) {
+            if (window.timings.render) {
+              report();
+            } else {
+              setTimeout(function () {
+                report();
+              }, 3000);
+            }
+          }
+        })
+      } catch (err) {
+        console.log(err && err.message)
+      }
+    })();
+</script>
+  <script>
+  if (window.baxiaCommon) {
+    baxiaCommon.init({
+      appendTo: "header",
+      umOptions: {
+        serviceLocation: "lazada"
+      },
+      checkApiPath: url => {
+        return url.indexOf("mtop.lazada.promotion.voucher.spread") > -1;
+      }
+    });
+  }
+</script>
 </body>
 </html>
